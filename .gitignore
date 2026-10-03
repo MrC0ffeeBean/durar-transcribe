@@ -8,3 +8,5 @@ __pycache__/
 *.tmp.docx
 # build outputs (final deliverables are force-added when assembled)
 out/
+scratch_cc_tmp*.txt
+scripts/render.log
