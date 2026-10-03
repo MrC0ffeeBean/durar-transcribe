@@ -1,0 +1,8 @@
+{
+ "uncertain": [],
+ "print_errors": [
+  {"page": 30, "text": "وأى فخر", "note": "Printed with dotless final ى (the body font draws its automatic small alif over it), where the word is the interrogative أي; kept as printed."},
+  {"page": 32, "text": "رحمه الله:", "note": "The parenthetical opened by the dash at the end of p.031 («فقال لي الشيخ الحسيني –») has no closing dash on p.032; nothing added."}
+ ],
+ "notes": "All four pages continue the previous page (029+ because p.028 ends «صعب علي العلم،»; 030+, 031+ and 032+ continue mid-sentence). No footnotes, headings or glosses in this batch. Prose dashes on p.030 («أقول – تقريرًا») and at the end of p.031 are written as the printed en dash U+2013 with spaces. In p.030 the reference «(الضحى: ١١)» is printed touching the closing ornament with no space, so it is written glued: «فَحَدِّثْ﴾(الضحى: ١١)». quran.py reports one quran_extra_word flag for this token only because of that gluing; the verse text matches Tanzil. The second reference «(يوسف: ٥٥)» is printed with a space after ﴾. Both references use round parentheses, as printed. Waqf sign ۖ on ٱلْأَرْضِ is written as a separate token after a space, as in Tanzil. Dotless final ى in the Quran is kept as printed (ٱجْعَلْنِى، إِنِّى). Honorifics printed as words (رضي الله عنه، رضي الله عنهم، عليه السلام، عليهما السلام، رحمه الله) are kept as ordinary text; the two printed ﷺ glyphs (pp.031, 032) are kept as U+FDFA. «شريف منسب» on p.032 is clearly printed منسب and is transcribed as is. «حديثيا» on p.031 has no tanween in the print."
+}

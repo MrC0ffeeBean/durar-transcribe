@@ -1,0 +1,211 @@
+{
+ "batch": "b09",
+ "agreement": 0.9839,
+ "counts": {
+  "letters": 1,
+  "punct": 5
+ },
+ "n_items": 6,
+ "n_quran_flags": 0,
+ "n_uncertain_flags": 0,
+ "mode": "spots",
+ "choices": {
+  "A": 4,
+  "B": 2,
+  "T": 0,
+  "custom": 0
+ },
+ "decisions": [
+  {
+   "id": "d001",
+   "page": 33,
+   "type": "letters",
+   "a": "يسرى رشدى",
+   "b": "يسري رشدي",
+   "tanzil": null,
+   "choice": "B",
+   "note": "p033 heading at 500 dpi: both final letters of «يسري» and «رشدي» clearly carry the two dots of ي (the body line below also has dotted ي). The image is the authority, so the heading is «أ.د/ يسري رشدي السيد جبر». The «يسرى رشدى» mentioned in CONVENTIONS/STRUCTURE is not what this page prints.",
+   "result": "يسري رشدي"
+  },
+  {
+   "id": "d002",
+   "page": 33,
+   "type": "punct",
+   "a": "١٩٩٧م.",
+   "b": "١٩٩٧م .",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p033 last line: «١٩٩٧م .» shows a stray space before the full stop. Elsewhere on the page the stops are tight («مهنة.»), so this is a one-off typing slip, not deliberate spacing. CONVENTIONS §2 says no space before «.», so it is written «١٩٩٧م.».",
+   "result": "١٩٩٧م."
+  },
+  {
+   "id": "d003",
+   "page": 34,
+   "type": "punct",
+   "a": "الكريم:",
+   "b": "الكريم :",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p034 heading «حفظ القرآن الكريم :» is printed with a space before the colon. The other sub-titles of this biography are tight («المولد والنشأة:», «…ورحمهم الله:»), so the space is a slip. Per §2 there is no space before «:».",
+   "result": "الكريم:"
+  },
+  {
+   "id": "d004",
+   "page": 35,
+   "type": "punct",
+   "a": "الله.كما",
+   "b": "الله .كما",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p035: the print has «رحمه الله .كما», with the space misplaced before the stop and none after it. Per §2 there is no space before «.». No space is added after the stop either, because none is printed (same as «أسماؤه.وكذلك» on p.034).",
+   "result": "الله.كما"
+  },
+  {
+   "id": "d005",
+   "page": 36,
+   "type": "punct",
+   "a": "(وكان",
+   "b": "( وكان",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p036: «جمعة ( وكان» has a stray space after the opening parenthesis. Every other parenthesis on these pages is tight («(عضو», «(قالون», «(قنبل»), so per §2 it is written «(وكان».",
+   "result": "(وكان"
+  },
+  {
+   "id": "d006",
+   "page": 36,
+   "type": "punct",
+   "a": "٢/ ١٩٩٣",
+   "b": "٢/١٩٩٣",
+   "tanzil": null,
+   "choice": "B",
+   "note": "p036 at 800 and 1500 dpi: the slash between ٢ and ١٩٩٣ is set tight. The bounding-box gaps are about 35 and 70 px, against about 130 to 170 px around the spaced slash in «١٢ / ٢». So no word space follows that slash: «١٢ / ٢/١٩٩٣».",
+   "result": "٢/١٩٩٣"
+  }
+ ],
+ "extra_edits": [],
+ "rules": {
+  "plain_final_ya": {}
+ },
+ "unresolved_uncertain": [],
+ "quran_residual": [],
+ "keyer_notes": {
+  "keyA": {
+   "uncertain": [],
+   "print_errors": [
+    {
+     "page": 33,
+     "text": "أ.د/ يسرى رشدى السيد جبر",
+     "note": "In the bold title the name is printed with dotless final ى in يسرى and رشدى. The body text and the running head print يسري رشدي with dots. Kept as printed, as CONVENTIONS §2 also notes."
+    },
+    {
+     "page": 33,
+     "text": "١٩٩٧م.",
+     "note": "Printed «١٩٩٧م .» with a visible space before the final period. Normalized to no space per CONVENTIONS §2 spacing, as in earlier batches."
+    },
+    {
+     "page": 34,
+     "text": "### حفظ القرآن الكريم:",
+     "note": "Printed «حفظ القرآن الكريم :» with a space before the colon. Normalized to no space, matching the STRUCTURE list and the b02 precedent «قائلا:»."
+    },
+    {
+     "page": 34,
+     "text": "أسماؤه.وكذلك",
+     "note": "Printed with no space after the period. Kept glued as printed."
+    },
+    {
+     "page": 34,
+     "text": "بالمدينه المنوره",
+     "note": "The second occurrence is printed with final ه instead of ة in both words; the first occurrence on the same page has «بالمدينة المنورة». Kept as printed. Checked at 450 dpi."
+    },
+    {
+     "page": 35,
+     "text": "محمد بدوى،",
+     "note": "Printed with dotless final ى (the body font draws its automatic small alif over it). p.034 prints the same name «بدوي» with dots. Kept as printed."
+    },
+    {
+     "page": 35,
+     "text": "رحمه الله.كما",
+     "note": "Printed «رحمه الله .كما»: the space sits before the period and the period touches «كما». The space before the period was dropped per §2 spacing. No space was added after it, as none is printed. An arbiter may prefer «رحمه الله. كما»."
+    },
+    {
+     "page": 35,
+     "text": "والأشباه و النظائر",
+     "note": "The و ends one printed line and النظائر begins the next. A line can only break at a space, so the space is kept: «و النظائر»."
+    },
+    {
+     "page": 35,
+     "text": "جزء من موطأ الإمام",
+     "note": "Printed «جزء» (no accusative alif). Kept."
+    },
+    {
+     "page": 36,
+     "text": "منصب مفتى",
+     "note": "Printed with dotless final ى. Kept."
+    },
+    {
+     "page": 36,
+     "text": "جمعة (وكان",
+     "note": "Printed «جمعة ( وكان» with a space after the opening parenthesis. Normalized to no space per §2."
+    }
+   ],
+   "notes": "Markers: p.032 ends a complete section («…ونعم الوكيل.») and has no footnotes, so p.033 starts a new section with no '+' and no (تابع). p.034 begins with the ### title «حفظ القرآن الكريم» (no '+'). p.034 ends mid-sentence «…عن عاصم، وكان», so it is followed by <<<ص:035+>>>. p.035 ends mid-name «…سيدي عبد الله», so it is followed by <<<ص:036+>>>. p.036 ends mid-sentence «…إجازة عامة». No footnotes, glosses, Quran, bold runs or honorific glyphs in this batch. «رضي الله عنهم/عنهما», «صلى الله عليه وسلم», «عليه السلام» and «رحمه الله» are printed as ordinary words. p.033: the calligraphic line «الفقير إلى الله» is a plain paragraph before the # heading, per STRUCTURE. Its small alif over ى and the drawn shadda on الله are font-automatic, so it is written plain. The abbreviation dot in «أ.د/» is drawn at mid-height in the bold title font. It is written ASCII '.', as in STRUCTURE and b01. The date «٢٣ / ٩ / ١٩٥٤م» is printed with spaces around both slashes. «٢٥محرم» is printed glued: the ink gap is 25 px at 900 dpi, against 45 px between the digits ٥ and ٢ and 72 px or more for word spaces. «١٣٧٤ هـ» has a space before هـ, and هـ keeps its tatweel. «المولد والنشأة:» is ###. p.034: the two prose dashes («وزر بن حبيش – الأول», «رضي الله عنهما – وهم») are en dashes with spaces, written U+2013 as in earlier batches. «حفظا» has no tanween. «عبد الله», «عبد الرحمن», «عبد الحكيم» and «عبد السلام» are printed with a space. p.035: «العلماء والمشايخ حفظهم ورحمهم الله:» is ###. The paragraphs «…ثم انتقل إلى رحمة الله» and (p.036) «…فجزاه الله خيرا ورحمه الله» have no final period in print. p.036: the date dash «١٤٠٠هـ – ١٩٨٠ م» is between numbers, so it is written as an ASCII hyphen with the printed spaces: «١٤٠٠هـ - ١٩٨٠ م». The second date is read right to left as ١٢ / ٢ / ١٩٩٣. Closest ink gaps at 900 dpi: ١٢|/ = 91 px, /|٢ = 129 px, ٢|/ = 31 px and /|١٩٩٣ = 81 px, against 35-63 px between digits. So it is written «١٤١٣ هـ ١٢ / ٢/ ١٩٩٣». «د: علي جمعة» has the colon as printed. The body font's automatic small alif over final ى (على، إلى، حتى، تولى، وتعالى، صلى) is written as plain ى. Zooms are saved as scratch\\kA09_*."
+  },
+  "keyB": {
+   "uncertain": [],
+   "print_errors": [
+    {
+     "page": 33,
+     "text": "١٩٩٧م .",
+     "note": "A space is printed before the final period (short last line, not justified). Kept as printed."
+    },
+    {
+     "page": 34,
+     "text": "### حفظ القرآن الكريم :",
+     "note": "The heading has a clear space before the colon. Kept as printed."
+    },
+    {
+     "page": 34,
+     "text": "أسماؤه.وكذلك",
+     "note": "No space after the period. Kept as printed."
+    },
+    {
+     "page": 34,
+     "text": "بالمدينه المنوره",
+     "note": "Printed with final ه instead of ة (the same page also has «بالمدينة المنورة» with ة). Kept as printed."
+    },
+    {
+     "page": 35,
+     "text": "محمد بدوى،",
+     "note": "Here بدوى is printed with dotless final ى. On p.034 it is «بدوي» with dots. Each kept as printed."
+    },
+    {
+     "page": 35,
+     "text": "رحمه الله .كما",
+     "note": "The space is printed before the period instead of after it. Kept as printed."
+    },
+    {
+     "page": 35,
+     "text": "والأشباه و النظائر",
+     "note": "The conjunction و stands alone at the end of a line and «النظائر» starts the next line. Written with a space as printed."
+    },
+    {
+     "page": 35,
+     "text": "حزب من سورة البقرة / جزء من موطأ الإمام",
+     "note": "Grammatically these would be accusatives (حزبا / جزءا), but they are printed without alif. Kept as printed."
+    },
+    {
+     "page": 36,
+     "text": "جمعة ( وكان",
+     "note": "A space is printed after the opening parenthesis. Kept as printed."
+    },
+    {
+     "page": 36,
+     "text": "مفتى جمهورية",
+     "note": "Printed with dotless ى. Kept as printed."
+    }
+   ],
+   "notes": "There are no footnotes, Quran text or honorific glyphs on pp.033-036. Honorifics such as «رحمه الله», «رضي الله عنهم» and «صلى الله عليه وسلم» are printed as words. p.033: p.032 ends its section with a complete sentence, so the marker has no '+'. The first line «الفقير إلى الله» is a calligraphic paragraph. The # heading is printed «أ.د/ يسري رشدي السيد جبر» with dotted ي in both names, in the heading and in the first body line, although CONVENTIONS §2 and STRUCTURE say p.033 prints «يسرى رشدى». I checked this at 500 dpi and both final ي clearly carry two dots, so I wrote يسري رشدي as printed. p.035 and p.036 continue mid-sentence, so their markers have '+'. Dashes: on p.034 the long dash between words is written as an en dash '–' (U+2013), the printed glyph. On p.036 the dash between the dates «١٤٠٠هـ - ١٩٨٠ م» is written as an ASCII hyphen, following CONVENTIONS §2 for dashes between numbers. Spacing in the p.036 dates was measured from 700 dpi zooms: «١٤٠٠هـ» has no space before هـ, and the second date reads «١٤١٣ هـ ١٢ / ٢/١٩٩٣», with spaces around the first slash and none around the second. On p.033 «٢٥محرم» is printed without a space and is written that way. On p.036 the slash is printed with spaces and «١٤١٣ هـ» has a space."
+  }
+ }
+}

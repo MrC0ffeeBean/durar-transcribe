@@ -1,0 +1,42 @@
+{
+  "uncertain": [
+    {
+      "page": 87,
+      "reading": "أَمْوَالِهِمْ",
+      "why": "Occurrence on line 3 of the dua («وَعَلَى أَمْوَالِهِمْ أَلْفَ بِسْمِ اللهِ.»). This word appears 3 times on the page (lines 3, 5 and 8 of the dua) and is marked [؟:] each time. Under the initial lam-ha-mim ligature «لهم» only one kasra is printed. In this initial form the lam stem stands right over the ha loop, and the single kasra sits under both. Its bounding box at 2400 dpi is 120x81 px, the same as a single kasra. So either one kasra was typed (on the lam or on the ha), or two kasras were typed and printed exactly on top of each other. Where lam and ha sit side by side the font prints two separate kasras: «آلِهِ» (p.086), «شَمَائِلِهِمْ» (p.088), and «أَدْيَانِهِمْ» (n-h-m) on p.087. The dua is fully vowelled, so the best reading has both kasras, as in the b21 stacked-ligature cases."
+    },
+    {
+      "page": 87,
+      "reading": "أَمْوَالِهِمْ",
+      "why": "Occurrence on line 5 («وَعَلَى أَمْوَالِهِمْ أَلْفَ أَلْفِ بِسْمِ اللهِ.»). This word appears 3 times on the page (lines 3, 5 and 8 of the dua) and is marked [؟:] each time. Under the initial lam-ha-mim ligature «لهم» only one kasra is printed. In this initial form the lam stem stands right over the ha loop, and the single kasra sits under both. Its bounding box at 2400 dpi is 120x81 px, the same as a single kasra. So either one kasra was typed (on the lam or on the ha), or two kasras were typed and printed exactly on top of each other. Where lam and ha sit side by side the font prints two separate kasras: «آلِهِ» (p.086), «شَمَائِلِهِمْ» (p.088), and «أَدْيَانِهِمْ» (n-h-m) on p.087. The dua is fully vowelled, so the best reading has both kasras, as in the b21 stacked-ligature cases."
+    },
+    {
+      "page": 87,
+      "reading": "أَمْوَالِهِمْ",
+      "why": "Occurrence on line 8 («أَمْوَالِهِمْ أَلْفَ أَلْفِ لا حَوْلَ…»). This word appears 3 times on the page (lines 3, 5 and 8 of the dua) and is marked [؟:] each time. Under the initial lam-ha-mim ligature «لهم» only one kasra is printed. In this initial form the lam stem stands right over the ha loop, and the single kasra sits under both. Its bounding box at 2400 dpi is 120x81 px, the same as a single kasra. So either one kasra was typed (on the lam or on the ha), or two kasras were typed and printed exactly on top of each other. Where lam and ha sit side by side the font prints two separate kasras: «آلِهِ» (p.086), «شَمَائِلِهِمْ» (p.088), and «أَدْيَانِهِمْ» (n-h-m) on p.087. The dua is fully vowelled, so the best reading has both kasras, as in the b21 stacked-ligature cases."
+    }
+  ],
+  "print_errors": [
+    {
+      "page": 85,
+      "text": "تَبَارَكَ حَيْطَانُنَا",
+      "note": "Fatha over ha, sukun over ya, and nothing under the ha (checked at 1500 dpi and with connected components). The expected form is «حِيطَانُنَا». Kept as printed."
+    },
+    {
+      "page": 86,
+      "text": "ومن قرأه دُبَرَ كلِّ صَلَاةٍ",
+      "note": "Damma over dal and a fatha (not a damma) over ba (checked at 2400 dpi; the mark is the fatha shape, 29x19 px at 600 dpi). The expected form is «دُبُرَ». Kept as printed."
+    },
+    {
+      "page": 87,
+      "text": "أَقُولُ عَلَى نَفْسِي وَعَلى دِينِي",
+      "note": "Line 4 of the dua. This «وَعَلى» has a fatha on waw and ain but none on the lam; only the font's automatic small alif is over the ya (checked at 1500 dpi). All 31 other «عَلَى/وَعَلَى» on pp.086-087 carry the lam fatha (checked one by one with connected components). Kept as printed."
+    },
+    {
+      "page": 87,
+      "text": "إِلا بِالله العَلِيّ العَظِيمِ.",
+      "note": "End of the first paragraph (line 8). The ya has a shadda only, with no kasra (checked at 2000 dpi). Compare «العَلِيِّ» on p.086 line 1 and p.087 line 10. Kept as printed."
+    }
+  ],
+  "notes": "Markers: p.084 ends inside Quran 55:19-20 («…بَيْنَهُمَا بَرْزَخٌ») and p.085 begins «لَّا يَبْغِيَانِ (٢٠)», so p.085 is <<<ص:085+>>>. Following b21, the span is reopened with ﴿ at the start of p.085. p.084 has no footnotes, so there is no (تابع). p.085's footnote ends on its own page. p.086 starts a new dhikr line («وَلا حَوْلَ…»), so it has no +. p.087 opens the new section «# حزب الإمام النووي (رضي الله عنه)»; the honorific is a glyph. The dua continues from p.087 «…بِسْمِ اللهِ عَلَى» to p.088 «كُلِّ شَيءٍ…», so p.088 is <<<ص:088+>>>. p.088 ends mid-sentence («…وَمِثْلُ»).\n\nKasra under Allah: in the body font, the kasra of «اللهِ/للهِ» is printed much lower than other kasras, 65-83 px below the baseline at 600 dpi (the bismi kasra is about 40 px below). It can look like a fatha belonging to the next line. Every Lotus Allah ligature on pp.085-088 was found by connected-component analysis, and the marks around it were listed. A kasra was written only where that low mark sits under the ha end of the ligature. The same pattern was confirmed on p.053 «بِسْمِ اللهِ الكَبِيرِ». So the printing really varies:\n- p.085: «بِسْمِ اللهِ بَابُنَا», «وَعَيْنُ اللهِ(١)», «بِحَوْلِ اللهِ», but «بِسْمِ الله الَّذِي».\n- p.086: «وَالحَمْدُ للهِ», «اسمَ اللهِ الأعظم», «ابنُ عَطَاءِ اللهِ:», but «بِالله العَلِيِّ».\n- p.087: «بِسْمِ اللهِ،/.» (×3), all six on the line «بِسْمِ اللهِ، وَبِاللهِ، … وَفِي اللهِ،», «بِسْمِ الله عَلَى دِينِي/مَالِي», and the last «بِسْمِ اللهِ عَلَى».\n- p.088: «بِسْمِ اللهِ خَيْرِ الأَسْمَاءِ», «بِسْمِ اللهِ أَفْتَتِحُ», but «بِسْمِ الله رَبِّ», «(بِسْمِ الله الَّذِي», «الله رَبِّي».\nThe damma of «اللهُ» is placed normally above the ligature. p.087 line 3 reads «اللهُ أَكْبَرُ الله أَكْبَرُ الله أَكْبَرُ»: only the first Allah has a damma. That line was checked at 600 dpi and with components. The mark seen above «ابن» (p.086 line 7) and above «رضي» (p.086 line 18) is the low Allah-kasra of the line above, so those words are unvowelled.\n\nReferences: the space after the colon was judged visually and by measured gaps (600 dpi). It is written in «[البقرة: ١٣٧]», «[البروج: ٢٠-٢٢]», «[يوسف: ٦٤]», «[الأعراف: ١٩٦]», «[التوبة: ١٢٩]» and «[الإخلاص: ١-٤]». «[الرحمن:١٩-٢٠]» and «[غافر:١-٣]» are visibly tighter, so they have no space (colon-to-digit gap 26 px vs 37-52 px elsewhere). No space is written before «]»: the gaps there match the wide sidebearings of the digits. A space is written between ﴾ and [ as in earlier batches. The 7× «حمٓ» run on p.085 line 1 was counted from column profiles.\n\nQuran (55:20, 40:1-3, 2:137, 85:20-22, 12:64, 7:196, 9:129, 112:1-4): every word was read from the image. scripts/quran.py reports no flags. The iqlab tanween is printed as one haraka plus a small mim and written Tanzil-style: «مُّحِيطٌۢ», «مَّحْفُوظٍۭ», «أَحَدٌۢ», «ٱلذَّنۢبِ». «لَوْحٍ» has two separate kasras. «وَلِـِّۧىَ» keeps the tatweel that carries shadda, kasra and the small high ya, as printed and as in Tanzil. Kashida in «فَسَيَكْفِيكَهُمُ», «ٱلْعَلِيمُ» and «عَلَيْهِ» is dropped. The muqatta'at in the body font outside ﴿﴾ are plain text with each printed madda: «حمٓ» (×8), «يسٓ», «كٓهيعٓصٓ», «عٓسٓقٓ». On p.088 the small calligraphic basmala before Surat al-Ikhlas is written as the standard line, outside the brackets, in the same paragraph. On p.087 the centred calligraphic basmala is its own paragraph.\n\nOther vowelling, checked at 900-2400 dpi:\n- «وَلا» and «لا يَضُرُّ» on p.085/087 have no fatha on the lam-alif. «لَا يَضُرُّ» and «وَلَا فِي» on p.088 do have one.\n- «شَيءٌ/شَيءٍ» has no sukun on the ya (pp.085, 088).\n- «إِلا» on p.087 has a kasra under the hamza and no shadda.\n- «العَلِيِّ» (p.086 line 1, p.087 line 10) has shadda plus kasra.\n- «عن خلقهِ» (p.086) has only one kasra, located under the ha (left of the qaf dots).\n- «وَأَيْدِيهِمْ» and «وَأَيْمَانِهِمْ» (p.088) have a sukun on the ya that touches the hamza.\n- «إِلَهَ» on p.088 (body font) has fathas on lam and ha.\n- «يوميًّا» carries shadda and fathatan; «فائدةٌ» carries dammatan.\nFinal ى with the automatic small alif is written plain (عَلَى، وَصَلَّى، وتعالى، إِلَى).\n\nHeadings and bold: «### فائدةٌ:» per STRUCTURE (tatweel dropped). On p.087 the two lines under the title are plain paragraphs per STRUCTURE §2, even though the second is set in a heavier face. Tatweel in «قــرأه», «دُبُــرَ», «أَدْيــانِهِمْ» and «شَــيءٍ» is dropped.\n\nParagraphs follow the print's indents and short lines. On p.087 the whole first block (8 lines, with «بِسْمِ اللهِ.» mid-line) is one paragraph, because its lines are not indented. On p.086 «(وَسَخِّرْ لَنَا هَذَا البَحْرَ).» continues the paragraph of «عند قوله:»."
+}

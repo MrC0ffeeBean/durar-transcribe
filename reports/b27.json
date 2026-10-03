@@ -1,0 +1,486 @@
+{
+ "batch": "b27",
+ "agreement": 0.938,
+ "counts": {
+  "haraka": 30,
+  "punct": 2
+ },
+ "n_items": 32,
+ "n_quran_flags": 1,
+ "n_uncertain_flags": 0,
+ "mode": "full_reread",
+ "choices": {
+  "A": 32,
+  "B": 1,
+  "T": 0,
+  "custom": 0
+ },
+ "decisions": [
+  {
+   "id": "d001",
+   "page": 105,
+   "type": "haraka",
+   "a": "الْمُؤْمِنِ،",
+   "b": "المُؤْمِنِ،",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p105 l2 at 3000 dpi: over the lam-mim of «المؤمن» the damma carries an extra sukun head (sukun on lam + damma on mim), and the sukun on ؤ is separate. Plain «المُ» without sukun would show a clean damma. A's الْمُؤْمِنِ is right.",
+   "result": "الْمُؤْمِنِ،"
+  },
+  {
+   "id": "d002",
+   "page": 105,
+   "type": "haraka",
+   "a": "أَمِنْتَهُ",
+   "b": "أَمِنتَهُ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p105 l2 at 2400 dpi: above the nun/ta of «أمنته» a sukun head sits over the nun (above its dot), with a separate fatha on the ta. So it is أَمِنْتَهُ.",
+   "result": "أَمِنْتَهُ"
+  },
+  {
+   "id": "d003",
+   "page": 105,
+   "type": "haraka",
+   "a": "الْمُلْكِ وَالْمَلَكُوتِ،",
+   "b": "المُلْكِ وَالمَلَكُوتِ،",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p105 l2 at 1600 and 2400 dpi: «الملك» has the sukun head over the damma at the lam-mim and a sukun on the second lam. «والملكوت» has a sukun head stacked on a fatha at the lam-mim. A's الْمُلْكِ وَالْمَلَكُوتِ is right.",
+   "result": "الْمُلْكِ وَالْمَلَكُوتِ،"
+  },
+  {
+   "id": "d004",
+   "page": 105,
+   "type": "haraka",
+   "a": "بِهَا",
+   "b": "بِهاَ",
+   "tanzil": null,
+   "choice": "B",
+   "note": "p105 l3 at 1800 dpi: in «بها» the fatha sits directly over the alif, not over the ha. Compare «مَا» on the next line, where the fatha is right of the alif. A kasra is under the ba. The print is بِهاَ, a misplaced fatha kept as printed.",
+   "result": "بِهاَ"
+  },
+  {
+   "id": "d005",
+   "page": 105,
+   "type": "haraka",
+   "a": "اللَّهُ",
+   "b": "اللهُ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p105 l4: «صَلَّىٰ الله» with a printed damma on the ha. Per CONVENTIONS §2, a Name printed with a case vowel is written with all its marks, so اللَّهُ.",
+   "result": "اللَّهُ"
+  },
+  {
+   "id": "d006",
+   "page": 105,
+   "type": "haraka",
+   "a": "إِليَّ",
+   "b": "إِلَيَّ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p105 l5 at 2000 dpi: «إليّ» has a kasra under the hamza and shadda+fatha over the ya. The lam has no fatha. So إِليَّ.",
+   "result": "إِليَّ"
+  },
+  {
+   "id": "d007",
+   "page": 105,
+   "type": "haraka",
+   "a": "الْمُهَيْمِنِ،",
+   "b": "المُهَيْمِنِ،",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p105 l8: same stacked sukun head over the damma at the lam-mim of «المهيمن» as in d001. So الْمُهَيْمِنِ.",
+   "result": "الْمُهَيْمِنِ،"
+  },
+  {
+   "id": "d008",
+   "page": 105,
+   "type": "haraka",
+   "a": "علىٰ",
+   "b": "عَلىٰ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p105 l10 at 1600 dpi: «علىٰ نفسي» has only the dagger alif on the ى and no fathas on ain or lam, unlike every other على. Kept as printed.",
+   "result": "علىٰ"
+  },
+  {
+   "id": "d009",
+   "page": 105,
+   "type": "haraka",
+   "a": "الْمُؤْمِنينَ مِنِ انْتِمائِهِمْ",
+   "b": "المُؤْمِنِينَ مِنِ انْتِمَائِهِمْ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p105 l13-14 at 2000-2400 dpi: «المؤمنين» has the stacked sukun head at the lam-mim and a kasra under the mim, and no kasra under the nun before the ya. «انتمائهم» has no fatha over the mim-alif (sukun on nun, kasra under ta, kasra under hamza and ha). A matches.",
+   "result": "الْمُؤْمِنينَ مِنِ انْتِمائِهِمْ"
+  },
+  {
+   "id": "d010",
+   "page": 106,
+   "type": "haraka",
+   "a": "اللَّهُ",
+   "b": "اللهُ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p106 l1: «وصدق اللهُ» with a printed damma. Per CONVENTIONS §2 it is اللَّهُ.",
+   "result": "اللَّهُ"
+  },
+  {
+   "id": "d011",
+   "page": 106,
+   "type": "haraka",
+   "a": "الْمَشِيئَةِ،",
+   "b": "المَشِيئَةِ،",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p106 l6 at 2400 dpi: in «المشيئة» the lam-mim carries a sukun head stacked on a FATHA (not a damma). Kasra under shin, fatha over the hamza seat, kasra on ta marbuta. So الْمَشِيئَةِ.",
+   "result": "الْمَشِيئَةِ،"
+  },
+  {
+   "id": "d012",
+   "page": 106,
+   "type": "haraka",
+   "a": "بِقوةٍ",
+   "b": "بقوةٍ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p106 l7 at 2400 dpi: a kasra is clearly printed under the ba of «بقوةٍ». The qaf and waw are unvowelled. So بِقوةٍ.",
+   "result": "بِقوةٍ"
+  },
+  {
+   "id": "d013",
+   "page": 106,
+   "type": "haraka",
+   "a": "أَعْصِيَكَ،",
+   "b": "أَعْصِيكَ،",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p106 l7 at 2400 dpi: «أعصيك» has a kasra under the sad, a separate fatha over the ya (above its dots) and a fatha on the kaf. So أَعْصِيَكَ.",
+   "result": "أَعْصِيَكَ،"
+  },
+  {
+   "id": "d014",
+   "page": 106,
+   "type": "haraka",
+   "a": "الْمُتَكَبِّرِ،",
+   "b": "المُتَكَبِّرِ،",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p106 l11: the stacked sukun head is over the damma at the lam-mim of «المتكبر». So الْمُتَكَبِّرِ.",
+   "result": "الْمُتَكَبِّرِ،"
+  },
+  {
+   "id": "d015",
+   "page": 106,
+   "type": "haraka",
+   "a": "وَالْمُرْسَلِينَ،",
+   "b": "وَالمُرْسَلِينَ،",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p106 l12 at 2400 dpi: «والمرسلين» has the stacked sukun head + damma at the lam-mim, and a sukun on the ra. So وَالْمُرْسَلِينَ.",
+   "result": "وَالْمُرْسَلِينَ،"
+  },
+  {
+   "id": "d016",
+   "page": 107,
+   "type": "haraka",
+   "a": "تَقْويمٍ،",
+   "b": "تَقْوِيمٍ،",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p107 l3: the prose «تقويمٍ» has no kasra under the waw (only the sukun on qaf and kasratan on mim). So تَقْويمٍ.",
+   "result": "تَقْويمٍ،"
+  },
+  {
+   "id": "d017",
+   "page": 107,
+   "type": "haraka",
+   "a": "تَقْويمٍ، بِكَمَالِ الإيمانِ",
+   "b": "تَقْوِيمٍ، بِكَمَالِ الإِيمَانِ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p107 l3-4 at 2400 dpi: the second prose «تقويمٍ» likewise has no kasra on the waw. «الإيمانِ» has only the hamza under the lam-alif, no kasra under it and no fatha on the mim-alif, with a kasra on the nun. A matches.",
+   "result": "تَقْويمٍ، بِكَمَالِ الإيمانِ"
+  },
+  {
+   "id": "d018",
+   "page": 107,
+   "type": "haraka",
+   "a": "اللَّهُ",
+   "b": "اللهُ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p107 l6 at 2400 dpi: «يَا اللهُ» with a printed damma on the Name, so اللَّهُ per CONVENTIONS §2.",
+   "result": "اللَّهُ"
+  },
+  {
+   "id": "d019",
+   "page": 107,
+   "type": "haraka",
+   "a": "[؟:عَوَالمِي]",
+   "b": "عَوَالِمِي",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p107 l12 at 3000 dpi: «عوالمي» has fathas on ain and waw and exactly ONE kasra, under the initial lam-mim ligature. It is in the same position as the kasra of the mim in «الْعَالَمِينَ» (p106 l9, where the lam has its fatha above), which suggests mim. But in this ligature a lam kasra would fall in the same place, so it cannot be assigned with certainty. B's two kasras are not printed. A's [؟:عَوَالمِي] marker is kept.",
+   "result": "[؟:عَوَالمِي]"
+  },
+  {
+   "id": "d020",
+   "page": 107,
+   "type": "haraka",
+   "a": "والْمُصَوِّرُ",
+   "b": "والمُصَوِّرُ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p107 l16: the stacked sukun head over the damma is at the lam-mim of «والمصور», and the waw has no fatha. So والْمُصَوِّرُ.",
+   "result": "والْمُصَوِّرُ"
+  },
+  {
+   "id": "d021",
+   "page": 108,
+   "type": "haraka",
+   "a": "الْمُصَوِّرِ،",
+   "b": "المُصَوِّرِ،",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p108 l1: the stacked sukun head over the damma is at the lam-mim of «المصور». So الْمُصَوِّرِ.",
+   "result": "الْمُصَوِّرِ،"
+  },
+  {
+   "id": "d022",
+   "page": 108,
+   "type": "haraka",
+   "a": "الْعُيوبِ،",
+   "b": "الْعُيُوبِ،",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p108 l5 at 2400 dpi: «العيوب» has a sukun on the lam and a damma on the ain only. No damma is printed over the ya. So الْعُيوبِ.",
+   "result": "الْعُيوبِ،"
+  },
+  {
+   "id": "d023",
+   "page": 108,
+   "type": "haraka",
+   "a": "الْمُتَحَقِّقِ",
+   "b": "المُتَحَقِّقِ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p108 l7: the stacked sukun head over the damma is at the lam-mim of «المتحقق». So الْمُتَحَقِّقِ.",
+   "result": "الْمُتَحَقِّقِ"
+  },
+  {
+   "id": "d024",
+   "page": 108,
+   "type": "haraka",
+   "a": "قالَ:",
+   "b": "قَالَ:",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p108 l8 at 2400 dpi: «قالَ:» has no fatha on the qaf, only a fatha on the lam.",
+   "result": "قالَ:"
+  },
+  {
+   "id": "d025",
+   "page": 108,
+   "type": "haraka",
+   "a": "بِبشارةِ",
+   "b": "ببشارة",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p108 l9 at 3600 dpi: in «ببشارة» one kasra sits under the FIRST ba (below its dot). The second ba has none, شارة is unvowelled, and the ta marbuta has a kasra. So بِبشارةِ.",
+   "result": "بِبشارةِ"
+  },
+  {
+   "id": "d026",
+   "page": 108,
+   "type": "haraka",
+   "a": "الْمُسْلِمِينَ،",
+   "b": "المُسْلِمِينَ،",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p108 l11 at 2400 dpi: the stacked sukun head + damma is at the lam-mim of «المسلمين». There are kasras under both the lam and the mim, so الْمُسْلِمِينَ.",
+   "result": "الْمُسْلِمِينَ،"
+  },
+  {
+   "id": "d027",
+   "page": 108,
+   "type": "haraka",
+   "a": "عُيوبِهِمْ،",
+   "b": "عُيُوبِهِمْ،",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p108 l11: «عيوبهم» has a damma on the ain only, with nothing over the ya. So عُيوبِهِمْ.",
+   "result": "عُيوبِهِمْ،"
+  },
+  {
+   "id": "d028",
+   "page": 108,
+   "type": "haraka",
+   "a": "إِليَّ،",
+   "b": "إِلَيَّ،",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p108 l13 at 2400 dpi: «إليّ» has a kasra under the hamza, shadda+fatha on the ya, and no fatha on the lam. So إِليَّ.",
+   "result": "إِليَّ،"
+  },
+  {
+   "id": "d029",
+   "page": 108,
+   "type": "haraka",
+   "a": "اللَّهُ.",
+   "b": "اللهُ.",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p108 l13: «يَا اللهُ.» with a printed damma, so اللَّهُ per CONVENTIONS §2.",
+   "result": "اللَّهُ."
+  },
+  {
+   "id": "d030",
+   "page": 108,
+   "type": "haraka",
+   "a": "للوجودِ،",
+   "b": "لِلوجودِ،",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p108 l15 at 2000 dpi: «للوجودِ» has no kasra under the first lam. Only the dal has a kasra.",
+   "result": "للوجودِ،"
+  },
+  {
+   "id": "d031",
+   "page": 108,
+   "type": "punct",
+   "a": "(١٢/١٩٥)",
+   "b": "(١٢/ ١٩٥)",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p108 footnote at 2000 dpi: in (١٢/١٩٥) the slash has about equal gaps on both sides at mid-height, and they are the same as in (١٢/١٠٨) on the same line. No extra word space follows the slash.",
+   "result": "(١٢/١٩٥)"
+  },
+  {
+   "id": "d032",
+   "page": 108,
+   "type": "punct",
+   "a": "(١٢/١٠٨)",
+   "b": "(١٢/ ١٠٨)",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p108 footnote: (١٢/١٠٨) is set tight, with the same slash spacing as d031. No space.",
+   "result": "(١٢/١٠٨)"
+  },
+  {
+   "id": "q001",
+   "page": 107,
+   "type": "quran_marks",
+   "a": "خَلَقَهُۥ",
+   "b": null,
+   "tanzil": "خَلَقَهُۥ ۖ",
+   "choice": "A",
+   "note": "p107 l6 at 2400 dpi: «خَلَقَهُۥ» is followed directly by the closing ornament. No waqf sign (ۖ) is printed over or after the word (the quotation ends there). This is a genuine print variant of the Tanzil text, so A's reading is kept.",
+   "result": "خَلَقَهُۥ"
+  }
+ ],
+ "extra_edits": [
+  {
+   "page": 105,
+   "find": "أُحِبَّ لِلْمُسْلِمِينَ مَا",
+   "replace": "أُحِبَّ لِلْمُسْلِمينَ مَا",
+   "note": "Full re-read, p105 l4 at 2400 and 3000 dpi: «للمسلمين» has a kasra under the first lam and a kasra under the lam of مسلمين (below its stroke). No kasra is under the mim before the ya (compare p108 «الْمُسْلِمِينَ», where a second kasra is clearly under the mim). Both keyers added a kasra on the mim that is not printed."
+  },
+  {
+   "page": 108,
+   "find": "حَقِّهِ لِأُمَّتِهِ،",
+   "replace": "حَقِّهِ لأُمَّتِهِ،",
+   "note": "Full re-read, p108 l7 at 2400 dpi: «لأمته» has only hamza+damma over the alif and shadda+fatha on the mim. Nothing is under the lam-alif; the kasras on that line belong to ta and ha. Compare «لِأَجْلِهِ» (l9) and «بِالِافْتِقَارِ» (p106), where a kasra is clearly under the lam-alif. Both keyers added a kasra that is not printed."
+  }
+ ],
+ "rules": {
+  "plain_final_ya": {
+   "105": 17,
+   "106": 8,
+   "107": 8,
+   "108": 9
+  }
+ },
+ "unresolved_uncertain": [
+  {
+   "page": 107,
+   "reading": "عَوَالمِي",
+   "context": "َتُهُ حَقِيقَتِي، وَحَقِيقَتُهُ جَامِعَ [؟:عَوَالمِي] الظَّاهِرَةِ وَالْبَاطِنَةِ، يَا نِعْمَ"
+  }
+ ],
+ "quran_residual": [
+  {
+   "page": 107,
+   "kind": "quran_marks",
+   "keyed": "خَلَقَهُۥ",
+   "tanzil": "خَلَقَهُۥ ۖ",
+   "ref": "32:7"
+  }
+ ],
+ "keyer_notes": {
+  "keyA": {
+   "uncertain": [
+    {
+     "page": 107,
+     "reading": "عَوَالمِي",
+     "why": "In «جَامِعَ عوالمي الظَّاهِرَةِ» only ONE kasra is printed, under the lam-mim ligature. At 2600 dpi I could not tell whether it belongs to the lam (عَوَالِمي) or the mim (عَوَالمِي). The fatha on ain and waw is certain. Written [؟:عَوَالمِي]."
+    }
+   ],
+   "print_errors": [
+    {
+     "page": 106,
+     "text": "[النمل: ٦١]",
+     "note": "The quoted verse «أَمَّن يُجِيبُ ٱلْمُضْطَرَّ إِذَا دَعَاهُ وَيَكْشِفُ ٱلسُّوٓءَ» is An-Naml 27:62, but the print gives ٦١. Kept as printed (checked at 1600 dpi)."
+    },
+    {
+     "page": 107,
+     "text": "﴿أَحْسَنَ كُلَّ شَىْءٍ خَلَقَهُۥ﴾ [السجدة:٧]",
+     "note": "Tanzil has the waqf sign ۖ after خَلَقَهُۥ. It is not printed; the bracket closes right after the word. Not added. scripts/quran.py flags it (quran_marks)."
+    },
+    {
+     "page": 105,
+     "text": "أَحَبَّ إِليَّ",
+     "note": "There is no fatha on the lam (only kasra under the hamza and shadda+fatha on the yeh). The same pattern is on p.108 «لِتُحْسِنَ إِليَّ». Kept as printed (checked at 3000 dpi)."
+    },
+    {
+     "page": 105,
+     "text": "أُهَيْمِنُ بِهَا علىٰ نَفْسِي",
+     "note": "This علىٰ has only the dagger alif and no fathas, while every other على on these pages is عَلَىٰ. Kept as printed (checked at 1800 dpi)."
+    }
+   ],
+   "notes": "Markers. p.104 ends with item ٦ complete («…وَيَدِي.») and has no footnotes, so p.105 starts a new item (٧) with no '+'. p.106 continues the 35:10 quotation begun at the end of p.105 («﴿مَن كَانَ يُرِيدُ ٱلْعِزَّةَ فَلِلَّهِ ٱلْعِزَّةُ» / «جَمِيعًا﴾ [فاطر: ١٠]»), so it is <<<ص:106+>>>. validate.py needs balanced ﴿﴾ on each line, so the span is closed with ﴾ at the end of p.105 and reopened with ﴿ on p.106; no bracket is printed at the page break. p.107 opens with the new item ١٢ (no '+'). p.108 continues item ١٤ («…فِي أَحْسَنِ صُورَةٍ، صَلِّ» / «وَسَلِّمْ وبَارِكْ…»), so it is <<<ص:108+>>>. p.108 ends mid-sentence («…فَأَخْرَجْتَهُ للوجودِ،»), which continues on p.109.\n\nRed: only the divine Name is red. For يا خالق الأكوان / يا بارئ الأكوان / يا غفار الذنوب / يا مصور بني آدم only the Name word is marked; the following genitive is black. Commas after the Names are black and sit outside the == markers.\n\nPartial vowelling kept exactly as printed (checked at 2000-4000 dpi), for example: وبَارِكْ (waw with no fatha) in every prayer; سَيِّدِنا; عَبْدِ الجبَّارِ and بِقوةٍ and سِواكَ (p.106); عُبودِيَّتِي, والانكسارِ, وَالاضطرارِ; يَقَظَةً and وَمَنامًا (p.105); الْمُؤْمِنينَ and انْتِمائِهِمْ (p.105); تَقْويمٍ (twice in prose on p.107, no kasra on waw; the Quran span has تَقْوِيمٍ); وخُلُقِي; الإيمانِ والأَعْمَالِ; فكانَ; قالَ (no fatha on qaf); باسْمِكَ; بِبشارةِ (kasra only under the first ba); الْعُيوبِ and عُيوبِهِمْ; وقَابِلَ; للوجودِ.\n\nCombined marks over الـ. Where the sukun on the lam and the vowel of the next letter merge into one glyph, I read each case at 3000-4000 dpi: الْمُلْكِ / وَالْمَلَكُوتِ (p.105), الْمَشِيئَةِ (p.106: sukun plus FATHA, not damma), الْمَخْلُوقَاتِ and الْمَعْدُومَ (sukun plus fatha), الْمُصَوِّرِ / الْمُتَحَقِّقِ / الْمُجِيبُ (sukun plus damma).\n\nThe Name of Allah printed with a damma (صَلَّىٰ اللهُ, يَا اللهُ, وَصَدَقَ اللهُ) is written اللَّهُ per CONVENTIONS §2.\n\nReferences keep the printed spacing: [السجدة:٧] has no space after the colon; all the others have one. In the footnote on p.108 the slashes in (١٢/١٩٥) and (١٢/١٠٨) have the same side gaps as each other, so neither is written with a space.\n\nCommas: item ١٠ prints «سَيِّدِنا مُحَمَّدٍ عَبْدِ الجبَّارِ وَعَلَىٰ آلِهِ،» with no comma after محمد or after الجبار. Item ١٢ has «[التين: ٤-٦] يَا اللَّهُ» with no comma. Item ١٥ has «[الفتح: ٢] صَلَاةً» with no comma. All are as printed."
+  },
+  "keyB": {
+   "uncertain": [],
+   "print_errors": [
+    {
+     "page": 105,
+     "text": "يَأْمَنُنِي النَّاسُ بِهاَ",
+     "note": "The fatha of بها is printed after the alif (it sits over the alif, not over the ha), unlike بِهَا elsewhere on the same page. Kept as printed: بِهاَ."
+    },
+    {
+     "page": 106,
+     "text": "مُحَمَّدٍ عَبْدِ الجبَّارِ وَعَلَىٰ آلِهِ،",
+     "note": "In prayer ١٠ no comma is printed after مُحَمَّدٍ nor after الجبَّارِ (all other prayers have them), and the jim of الجبَّارِ carries no fatha. Kept as printed."
+    },
+    {
+     "page": 106,
+     "text": "[النمل: ٦١]",
+     "note": "The quoted ayah أَمَّن يُجِيبُ ٱلْمُضْطَرَّ… is 27:62 in the standard Kufan count; the book prints ٦١. Kept as printed."
+    },
+    {
+     "page": 107,
+     "text": "[السجدة:٧]",
+     "note": "Printed with no space between the colon and the number, unlike every other reference in the batch. Kept as printed."
+    },
+    {
+     "page": 107,
+     "text": "==مُصَوِّرَ==",
+     "note": "The red Name مُصَوِّر has its final fatha printed in black (the letters are red). The fatha belongs to the word, so it is kept inside the == markers."
+    }
+   ],
+   "notes": "Page 104 ends with a complete sentence (prayer ٦ ends with a period), so p105 starts without '+'; no footnote continues from p104. Page 105 ends in the middle of a Quran quotation (﴿مَن كَانَ يُرِيدُ ٱلْعِزَّةَ فَلِلَّهِ ٱلْعِزَّةُ | جَمِيعًا﴾ [فاطر: ١٠]) and page 107 ends mid-sentence (…صُورَةٍ، صَلِّ | وَسَلِّمْ…), so p106 and p108 carry '+'. Because validate.py requires balanced ﴿﴾ on every line, the split quotation is closed with ﴾ at the end of p105 and reopened with ﴿ at the start of p106 (same approach as the poetry-fence rule for page breaks); in the print it is one continuous quotation and the reference [فاطر: ١٠] appears only on p106. Prose عَلَىٰ / إِلَىٰ / حَتَّىٰ / صَلَّىٰ are printed with a dagger alif over the ى and are written with U+0670; on p105 the phrase عَلىٰ نَفْسِي has no fatha on the lam as printed. Words printed only partly vowelled were kept so: سَيِّدِنا, وبَارِكْ, وَمَنامًا, سِواكَ, بقوةٍ, عُبودِيَّتِي, والانكسارِ, وَالاضطرارِ, وخُلُقِي, والأَعْمَالِ, باسْمِكَ, ببشارة, فكانَ, وقَابِلَ, لِلوجودِ, المُؤْمِنِ / المُلْكِ / المَشِيئَةِ etc. (no sukun on the lam of ال where none is printed). Quran passages follow the Tanzil/KFGQPC encoding: dotless ى in فِىٓ, شَىْءٍ, عِبَادِىَ as printed; أُمَّةٍۭ with the small low mim (iqlab) printed under the ة; ءَامَنُوا۟ وَعَمِلُوا۟ with the small round zero; ٱلسُّوٓءَ with madda; ذَنۢبِكَ with small high mim; خَلَقَهُۥ and وَلِرَسُولِهِۦ with the small waw/yeh. The stretched وَمَاحِـــيَ on p108 is written without tatweel. Footnote (١) on p108: the volume/page citations are printed as (١٢/ ١٩٥) and (١٢/ ١٠٨) with a space after the slash. No [؟:] markers were needed."
+  }
+ }
+}

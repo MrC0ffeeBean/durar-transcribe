@@ -1,0 +1,32 @@
+{
+ "uncertain": [
+  {
+   "page": 107,
+   "reading": "عَوَالمِي",
+   "why": "In «جَامِعَ عوالمي الظَّاهِرَةِ» only ONE kasra is printed, under the lam-mim ligature. At 2600 dpi I could not tell whether it belongs to the lam (عَوَالِمي) or the mim (عَوَالمِي). The fatha on ain and waw is certain. Written [؟:عَوَالمِي]."
+  }
+ ],
+ "print_errors": [
+  {
+   "page": 106,
+   "text": "[النمل: ٦١]",
+   "note": "The quoted verse «أَمَّن يُجِيبُ ٱلْمُضْطَرَّ إِذَا دَعَاهُ وَيَكْشِفُ ٱلسُّوٓءَ» is An-Naml 27:62, but the print gives ٦١. Kept as printed (checked at 1600 dpi)."
+  },
+  {
+   "page": 107,
+   "text": "﴿أَحْسَنَ كُلَّ شَىْءٍ خَلَقَهُۥ﴾ [السجدة:٧]",
+   "note": "Tanzil has the waqf sign ۖ after خَلَقَهُۥ. It is not printed; the bracket closes right after the word. Not added. scripts/quran.py flags it (quran_marks)."
+  },
+  {
+   "page": 105,
+   "text": "أَحَبَّ إِليَّ",
+   "note": "There is no fatha on the lam (only kasra under the hamza and shadda+fatha on the yeh). The same pattern is on p.108 «لِتُحْسِنَ إِليَّ». Kept as printed (checked at 3000 dpi)."
+  },
+  {
+   "page": 105,
+   "text": "أُهَيْمِنُ بِهَا علىٰ نَفْسِي",
+   "note": "This علىٰ has only the dagger alif and no fathas, while every other على on these pages is عَلَىٰ. Kept as printed (checked at 1800 dpi)."
+  }
+ ],
+ "notes": "Markers. p.104 ends with item ٦ complete («…وَيَدِي.») and has no footnotes, so p.105 starts a new item (٧) with no '+'. p.106 continues the 35:10 quotation begun at the end of p.105 («﴿مَن كَانَ يُرِيدُ ٱلْعِزَّةَ فَلِلَّهِ ٱلْعِزَّةُ» / «جَمِيعًا﴾ [فاطر: ١٠]»), so it is <<<ص:106+>>>. validate.py needs balanced ﴿﴾ on each line, so the span is closed with ﴾ at the end of p.105 and reopened with ﴿ on p.106; no bracket is printed at the page break. p.107 opens with the new item ١٢ (no '+'). p.108 continues item ١٤ («…فِي أَحْسَنِ صُورَةٍ، صَلِّ» / «وَسَلِّمْ وبَارِكْ…»), so it is <<<ص:108+>>>. p.108 ends mid-sentence («…فَأَخْرَجْتَهُ للوجودِ،»), which continues on p.109.\n\nRed: only the divine Name is red. For يا خالق الأكوان / يا بارئ الأكوان / يا غفار الذنوب / يا مصور بني آدم only the Name word is marked; the following genitive is black. Commas after the Names are black and sit outside the == markers.\n\nPartial vowelling kept exactly as printed (checked at 2000-4000 dpi), for example: وبَارِكْ (waw with no fatha) in every prayer; سَيِّدِنا; عَبْدِ الجبَّارِ and بِقوةٍ and سِواكَ (p.106); عُبودِيَّتِي, والانكسارِ, وَالاضطرارِ; يَقَظَةً and وَمَنامًا (p.105); الْمُؤْمِنينَ and انْتِمائِهِمْ (p.105); تَقْويمٍ (twice in prose on p.107, no kasra on waw; the Quran span has تَقْوِيمٍ); وخُلُقِي; الإيمانِ والأَعْمَالِ; فكانَ; قالَ (no fatha on qaf); باسْمِكَ; بِبشارةِ (kasra only under the first ba); الْعُيوبِ and عُيوبِهِمْ; وقَابِلَ; للوجودِ.\n\nCombined marks over الـ. Where the sukun on the lam and the vowel of the next letter merge into one glyph, I read each case at 3000-4000 dpi: الْمُلْكِ / وَالْمَلَكُوتِ (p.105), الْمَشِيئَةِ (p.106: sukun plus FATHA, not damma), الْمَخْلُوقَاتِ and الْمَعْدُومَ (sukun plus fatha), الْمُصَوِّرِ / الْمُتَحَقِّقِ / الْمُجِيبُ (sukun plus damma).\n\nThe Name of Allah printed with a damma (صَلَّىٰ اللهُ, يَا اللهُ, وَصَدَقَ اللهُ) is written اللَّهُ per CONVENTIONS §2.\n\nReferences keep the printed spacing: [السجدة:٧] has no space after the colon; all the others have one. In the footnote on p.108 the slashes in (١٢/١٩٥) and (١٢/١٠٨) have the same side gaps as each other, so neither is written with a space.\n\nCommas: item ١٠ prints «سَيِّدِنا مُحَمَّدٍ عَبْدِ الجبَّارِ وَعَلَىٰ آلِهِ،» with no comma after محمد or after الجبار. Item ١٢ has «[التين: ٤-٦] يَا اللَّهُ» with no comma. Item ١٥ has «[الفتح: ٢] صَلَاةً» with no comma. All are as printed."
+}

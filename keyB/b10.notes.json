@@ -1,0 +1,15 @@
+{
+  "uncertain": [],
+  "print_errors": [
+    {"page": 37, "text": "و المصافحة", "note": "Conjunction waw printed as a separate word with a full space after it; kept as printed."},
+    {"page": 37, "text": "اسماعيل", "note": "Printed without hamza under the alif; kept as printed."},
+    {"page": 37, "text": "١٩٩٨.", "note": "Small gap before the final period in print; written without a space per CONVENTIONS §2."},
+    {"page": 40, "text": "و الذي", "note": "Conjunction waw printed separately with a full space; kept as printed."},
+    {"page": 40, "text": "وحضر موت", "note": "Hadramawt printed as two words with a word space; kept as printed."},
+    {"page": 40, "text": "المبارك.", "note": "Print has a space before the final period («المبارك .»); written without the space per CONVENTIONS §2."},
+    {"page": 40, "text": "### النواحى العلميه والنشاط الدعوى:", "note": "Heading printed with dotless ى in النواحى/الدعوى and ه (not ة) in العلميه; kept as printed."},
+    {"page": 40, "text": "فى / البخارى / سيدى / الدرديرى", "note": "Page 040 prints these with dotless ى (unlike other pages); kept as printed. «في أربع» on the same page is printed with dotted ي."},
+    {"page": 40, "text": "القاهرة / بمقابلتهم", "note": "The first two paragraphs end without a final period in print; none added."}
+  ],
+  "notes": "p037 continues the last paragraph of p036 (…إجازة عامة / بالمناولة) -> marker 037+. p038 and p039 continue the previous page mid-sentence -> +. p040 starts a new indented paragraph -> no +. No footnotes, Quran, or honorific glyphs on these pages. «رحمه الله» and «حفظه الله» are printed as ordinary words and kept as words. Lotus ligatures (مـا in عثمان, الغماري, الشمائل, علماء) were read as plain letters. «وما زلنا» (p039, para 2) is printed as two words and «ومازلنا/ومازلت» elsewhere as one; kept as printed."
+}

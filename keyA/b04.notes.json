@@ -1,0 +1,16 @@
+{
+  "uncertain": [],
+  "print_errors": [
+    {
+      "page": 13,
+      "text": "وشرح الشيخ على بركة التطواني",
+      "note": "The name (the scholar علي بركة التطواني) is printed with a dotless final ى, «على», with the body font's small alif over it. The expected spelling is «علي». Kept as printed after checking at 800 dpi. «على» is regular weight. The bold starts at «بركة»."
+    },
+    {
+      "page": 16,
+      "text": "ومعنا أحد الاخوان الصديقيين",
+      "note": "«الاخوان» is printed without the hamza under the alif. The book prints «الإخوان» elsewhere (e.g. p.012). Kept as printed after checking at 700 dpi."
+    }
+  ],
+  "notes": "All four pages continue the previous page in mid-sentence, so every marker has '+'. p.012 ends «…من شروحها وحواشيها», p.013 ends «…والدسوقي», p.014 ends «…وأثنى على» and p.015 ends «…لجدنا». No page in the batch has footnotes, headings, Quran or honorific glyphs. «رضي الله عنه» and «رحمه الله» are printed as ordinary words. p.013: there is one bold run across two lines, «بركة التطواني، وعليه ضريح يزار بمدينة تطوان، وشرحه هذا مخطوط،». Both commas in it are printed bold, so they are inside the markers. p.014: the single verse by Ibn Malik («إني أقول لمن ترجى وقايته / ق المستجير قياه قوه قي قينا») is set side by side in the bold poem font. It has no number and no harakat, so it is written in a :::شعر fence without ** (whole block in one heavier font). The dashes around «وهو من تلاميذه، وله مؤلفات» and «يعنيني» are en dashes with a space on each side. They are written – (U+2013), the same as in b03. Printed harakat are copied exactly: أيضًا, كثيرًا, بحوثًا and جدًا have the tanween on the letter before the alif. Also copied: للقنَّوجي, عليَّ (p.013), إليَّ (p.015; the later «خطاباته إلي:» has no shadda, checked at 800 dpi) and أجزنَّاى (p.016). In أجزنَّاى the final letter is a dotless ى with the body font's small alif, checked at 900 dpi; it may be a spelling of the Moroccan name أجزناي, kept as printed. «شكاره» (p.016) ends in ه, not ة. Under CONVENTIONS §2 the small alif that the body font draws over final ى is written as plain ى. The year «١٣٤٩» is in Arabic-Indic digits. p.013 prints «أحمد بن عجيبة» and p.016 prints «أحمد ابن عجيبة», both kept as printed."
+}

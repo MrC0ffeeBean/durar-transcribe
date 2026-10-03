@@ -1,0 +1,241 @@
+{
+ "batch": "b21",
+ "agreement": 0.9726,
+ "counts": {
+  "punct": 2,
+  "structure": 3,
+  "haraka": 5
+ },
+ "n_items": 10,
+ "n_quran_flags": 0,
+ "n_uncertain_flags": 0,
+ "mode": "spots",
+ "choices": {
+  "A": 7,
+  "B": 3,
+  "T": 0,
+  "custom": 0
+ },
+ "decisions": [
+  {
+   "id": "d001",
+   "page": 81,
+   "type": "punct",
+   "a": "الناس(سبع",
+   "b": "الناس (سبع",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Zoom p.081: in item 2 the opening parenthesis sits directly after الناس with no word space, unlike the wide gaps in items 1, 3 and 5. Kept as printed.",
+   "result": "الناس(سبع"
+  },
+  {
+   "id": "d002",
+   "page": 81,
+   "type": "punct",
+   "a": "الإخلاص(سبع",
+   "b": "الإخلاص (سبع",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Zoom p.081: item 4 prints الإخلاص(سبع with no space before the parenthesis, the same as item 2. Kept as printed.",
+   "result": "الإخلاص(سبع"
+  },
+  {
+   "id": "d003",
+   "page": 81,
+   "type": "structure",
+   "a": "### ٦- آية الكرسي",
+   "b": "**٦- آية الكرسي**",
+   "tanzil": null,
+   "choice": "A",
+   "note": "٦- آية الكرسي is a standalone, centred bold title in the smaller title font. It titles the ayah below it and matches ٧- الباقيات الصالحات and الصلاة الإبراهيمية (### per STRUCTURE). Items 1-5 are different: larger, right-aligned bold list lines with no body.",
+   "result": "### ٦- آية الكرسي"
+  },
+  {
+   "id": "d004",
+   "page": 82,
+   "type": "structure",
+   "a": "### ٧- الباقيات الصالحات",
+   "b": "**٧- الباقيات الصالحات**",
+   "tanzil": null,
+   "choice": "A",
+   "note": "٧- الباقيات الصالحات is a centred bold title line in the same font and position as الصلاة الإبراهيمية below it on p.082, so it is ###.",
+   "result": "### ٧- الباقيات الصالحات"
+  },
+  {
+   "id": "d005",
+   "page": 82,
+   "type": "haraka",
+   "a": "وَعَلى",
+   "b": "وَعَلَى",
+   "tanzil": null,
+   "choice": "A",
+   "note": "1000dpi zoom, last salawat line on p.082: وَعَلى has a fatha on و and on ع and none on ل (only the automatic small alif over ى). Line 3's وَعَلَى shows two fathas, so the difference is real.",
+   "result": "وَعَلى"
+  },
+  {
+   "id": "d006",
+   "page": 83,
+   "type": "haraka",
+   "a": "وَالأَوْهَامِ",
+   "b": "وَالأَوْهَام",
+   "tanzil": null,
+   "choice": "A",
+   "note": "1000dpi zoom: a kasra sits directly under the tail of the م in وَالأَوْهَامِ, clearly above the next line's harakat.",
+   "result": "وَالأَوْهَامِ"
+  },
+  {
+   "id": "d007",
+   "page": 83,
+   "type": "haraka",
+   "a": "[؟:الفَاتِحِينَ]،",
+   "b": "[؟:الفَاتِحينَ]،",
+   "tanzil": null,
+   "choice": "B",
+   "note": "2400dpi zoom: only ONE kasra is printed under the تح ligature of الفاتحين, so A's two kasras are not in the print. The kasra cannot be assigned to ت or ح with certainty; following الغافرين (kasra on the first letter, none before ين), the best reading is الفَاتِحينَ, with the [؟:] marker kept.",
+   "result": "[؟:الفَاتِحينَ]،"
+  },
+  {
+   "id": "d008",
+   "page": 83,
+   "type": "haraka",
+   "a": "الغَافِرِينَ،",
+   "b": "الغَافِرينَ،",
+   "tanzil": null,
+   "choice": "B",
+   "note": "1600 and 2400dpi zooms: one kasra under ف and none under the tail of ر, so the print is الغَافِرينَ. Compare النَّاصِرِينَ on the line above, which clearly has a second kasra under ر.",
+   "result": "الغَافِرينَ،"
+  },
+  {
+   "id": "d009",
+   "page": 84,
+   "type": "haraka",
+   "a": "[؟:الظَّالِمِينَ]",
+   "b": "[؟:الظَّالِمينَ]",
+   "tanzil": null,
+   "choice": "B",
+   "note": "2400dpi zoom: only one kasra is printed under the لم ligature of الظالمين (the ي dots are separate), so A's two kasras are not in the print. Which letter it belongs to is unsure, so B's [؟:الظَّالِمينَ] is kept with its marker, as for d007. The nearby الرَّاحِمِينَ and الرَّازِقِينَ do print two kasras.",
+   "result": "[؟:الظَّالِمينَ]"
+  },
+  {
+   "id": "d010",
+   "page": 84,
+   "type": "structure",
+   "a": "¶",
+   "b": "",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Pixel measurement on p.084: the line ending [يس: ١-٩]. stops at x=0.227 while every justified line reaches about 0.18. It is visibly short (unjustified), and شَاهَتِ الوُجُوهُ (ثلاثًا). starts a new line, so by CONVENTIONS §6 (after a visibly short last line) it is its own paragraph.",
+   "result": "¶"
+  }
+ ],
+ "extra_edits": [
+  {
+   "page": 83,
+   "find": "السَّاتِرَةِ لِلقُلُوبِ",
+   "replace": "السَّاتِرةِ لِلقُلُوبِ",
+   "note": "1600dpi zoom on p.083 line 4: السَّاتِرةِ has shadda+fatha on س, kasra under ت and kasra under ة, with no fatha on ر. Both keyers added the fatha."
+  }
+ ],
+ "rules": {
+  "plain_final_ya": {}
+ },
+ "unresolved_uncertain": [
+  {
+   "page": 83,
+   "reading": "الفَاتِحينَ",
+   "context": "رِينَ، وَافْتَحْ لَنَا فَإِنَّكَ خَيْرُ [؟:الفَاتِحينَ]، وَاغْفِرْ لَنَا فَإِنَّكَ خَيْرُ الغَا"
+  },
+  {
+   "page": 84,
+   "reading": "الظَّالِمينَ",
+   "context": "نَ، وَاهْدِنَا وَنَجِّنَا مِنَ القَوْمِ [؟:الظَّالِمينَ] وَهَبْ لَنَا رِيحًا طَيِّبَةً كَمَا هِي"
+  }
+ ],
+ "quran_residual": [],
+ "keyer_notes": {
+  "keyA": {
+   "uncertain": [
+    {
+     "page": 83,
+     "reading": "الفَاتِحِينَ",
+     "why": "Under the stacked ta-ha ligature of «الفاتحين» only one kasra is printed. It sits under the ta and the right part of the ha (checked at 3600 dpi). This font puts the below-marks of stacked ligature parts at the same spot: compare the lam kasra in «وَالكَلِمَاتِ» and the mim kasra in «الْعَالَمِينَ». So it could be two kasras (ta and ha) printed on top of each other, or a single kasra on the ta or on the ha. In the ha-mim ligature of «الرَّاحِمِينَ» (p.084), which is side by side and not stacked, two separate kasras show. Every other word in this dua is fully vowelled, so the best reading has both kasras."
+    },
+    {
+     "page": 84,
+     "reading": "الظَّالِمِينَ",
+     "why": "Same case in the stacked lam-mim ligature: only one kasra is printed under «لم» (checked at 3500 dpi), and it could be the lam's kasra and the mim's kasra on top of each other. The best reading follows the fully vowelled pattern of the dua (الرَّازِقِينَ، الغَافِرِينَ، النَّاصِرِينَ)."
+    }
+   ],
+   "print_errors": [
+    {
+     "page": 82,
+     "text": "وَعَلى آلِ سَيِّدِنَا إِبْرَاهِيمَ",
+     "note": "Last line of the Ibrahimi salat. «وَعَلى» has a fatha on the waw and on the ain but none on the lam, while the other three «وَعَلَى» on the page carry a fatha on the lam (checked at 2400 dpi). Kept as printed."
+    },
+    {
+     "page": 82,
+     "text": "وَعَلَى آل سَيِّدِنَا مُحَمَّدٍ",
+     "note": "The second «آل» (line 3 of the salat) has no kasra on the lam (checked at 1500 dpi). The other three «آلِ» have one. Kept as printed."
+    },
+    {
+     "page": 82,
+     "text": "سبحان الله، و الحمد لله",
+     "note": "The waw is printed with a full word-space before «الحمد». Kept as printed."
+    },
+    {
+     "page": 83,
+     "text": "لإِبْرَاهِيمَ",
+     "note": "The lam-alif ligature has a hamza and kasra under the alif but no kasra for the lam (checked at 2500 dpi). Kept as printed."
+    },
+    {
+     "page": 84,
+     "text": "إِنَّكَ عَلَى كُلِّ شَيءٍ قَدِير.",
+     "note": "«شَيءٍ» has no sukun on the yeh, unlike «شَيْءٍ» twice on p.083. «قَدِير» has no vowel on the ra (checked at 2400 dpi). Kept as printed."
+    }
+   ],
+   "notes": "Markers: p.081 opens a new section (# المسبعات العشر). p.080 ends with the complete «[الصافات: ١٨٠-١٨٢].» and has no footnotes, so there is no + and no (تابع). p.082 opens with a new item (### ٧- الباقيات الصالحات) and p.083 with a new section (# حزب البحر), so neither gets a +. p.083 ends «…وَارْحَمْنَا» and p.084 continues «فَإِنَّكَ خَيْرُ الرَّاحِمِينَ», so it is <<<ص:084+>>>. There are no footnotes anywhere in the batch.\n\nThe Quran span 55:19-20 runs past the end of p.084 (the page ends «…بَيْنَهُمَا بَرْزَخٌ»). Following b17/b18/b19/b27, I closed it with ﴾ at the page end; p.085 will reopen ﴿ before «لَّا يَبْغِيَانِ (٢٠)».\n\nHeadings and bold: STRUCTURE fixes the # headings «المسبعات العشر» and «حزب البحر» and the ### heading «الصلاة الإبراهيمية». «٦- آية الكرسي» and «٧- الباقيات الصالحات» are set in the same bold title font, centred on their own line, like «الصلاة الإبراهيمية», so they are ### too, with their printed numbers. Items ١-٥ on p.081 are in the same large bold font but set flush right (all start at the same indent) and are instructions, not titles. They contrast with the regular Quran text on the page, so each is a bold paragraph «**١-سورة الفاتحة (سبع مرات)**». Every «(سبع مرات)» at a line end on pp.081-082 is bold against regular text, so it is written **(سبع مرات)** in the same paragraph, after the text it ends. The lines under the titles («(تقرأ يوميا …)», «لسيدي أبي الحسن الشاذلي (رضي الله عنه)», «(يقرأ مرَّة يوميًّا منفردًا)», «يقرأ في جماعة …») are plain paragraphs per STRUCTURE §2, even though they are set in a heavier face. The رضي الله عنه glyph is written (رضي الله عنه). The calligraphic basmala on p.083 is written as the standard line, outside brackets.\n\nSpacing, measured at 600 dpi (a word space is about 49-61 px in the p.081 list): item ١-٤ «N-سورة» has no space after the hyphen (13-14 px) and item ٥ «٥- سورة» has one (51 px). Items ٢ and ٤ put «(» only 24 px after the word, against 55-61 px in items ١, ٣ and ٥, so they are «الناس(سبع» and «الإخلاص(سبع». The p.081 subtitle is a tightly set bold font in which every word gap is narrow, so it is written with normal single spaces. «[طه:١١١]» is printed with no space after the colon, while the other references have one. «طسٓ-حمٓ- عٓسٓقٓ» has no space around the first hyphen and a space only after the second (gap 24 px, the same as the word space after «،»). Printed dashes are written as the ASCII '-'. A space is written between ﴾ and [ as in the earlier batches. The muqatta'at «كٓهيعٓصٓ», «طسٓ», «حمٓ», «عٓسٓقٓ» are in the ordinary font outside ﴿﴾, so they are plain text with each printed madda (U+0653): on ك, ع and ص; on س; on م; and on ع, س and ق.\n\nPrinted-vowel details, checked at 1500-4000 dpi: «أَنْتَ» ×2 has the nun's sukun overlapping the alif's hamza and fatha. «وَزُلْزِلُواْ» has a sukun on the silent alif. «زِلْزَالاً» puts the fathatan over the alif arm of the lam-alif, «شَدِيدًا» puts it on the dal, «عاجلاً/وآجلاً» put it over the alif, and «ثلاثًا» puts it on the tha. In the dua the article's lam is mostly unvowelled (الحَسْبُ، العَزِيزُ، المُؤْمِنُونَ، لِلقُلُوبِ، المُضِيَّ، المَجِيءَ …), and that is kept. «السَّلامَةِ» ×2, «فَلا» and «وَلا» have no vowel on the lam-alif, while «الْعَالَمِينَ» (p.082) does carry a sukun on the lam. Plain «الله» is used where only the ligature's automatic marks show (p.082). Final ى with the automatic Lotus small alif is written plain (عَلَى، لِمُوسَى).\n\nQuran (2:255, 33:12, 36:66-67, 36:1-9, 20:111, 55:19-20): every word was read from the image. The round zero on the silent alif of «فَٱسْتَبَقُوا۟/ٱسْتَطَٰعُوا۟» is ۟ (it differs from the khaa-head sukun). The small high mim in «مِنۢ» is ۢ. Neither the rub' sign ۞ of 20:111 nor the basmala of Ya-Sin is printed, so neither is included. scripts/quran.py reports no flags, and validate.py prints OK. Harakat order was normalized to shadda first."
+  },
+  "keyB": {
+   "uncertain": [
+    {
+     "page": 83,
+     "reading": "الفَاتِحينَ",
+     "why": "Only one kasra is printed under the vertical ta-ha ligature of الفاتحين; it sits under the ta, so the kasra on ha seems omitted. Two exactly overlapping kasras cannot be fully ruled out (then الفَاتِحِينَ)."
+    },
+    {
+     "page": 84,
+     "reading": "الظَّالِمينَ",
+     "why": "Only one kasra is printed under the vertical lam-mim ligature of الظالمين, nearer the lam stroke, so the kasra on mim seems omitted. Overlapping kasras cannot be fully ruled out (then الظَّالِمِينَ)."
+    }
+   ],
+   "print_errors": [
+    {
+     "page": 82,
+     "text": "و الحمد لله",
+     "note": "The print has a clear space between the conjunction و and الحمد (gap as wide as a normal word space). Kept as printed."
+    },
+    {
+     "page": 82,
+     "text": "وَعَلَى آل سَيِّدِنَا مُحَمَّدٍ كَمَا بَارَكْتَ",
+     "note": "The second-half آل has no kasra (the other three آلِ have one). Kept as printed."
+    },
+    {
+     "page": 83,
+     "text": "وَالأَوْهَام السَّاتِرَةِ",
+     "note": "No kasra under the final mim of الأوهام, although the rest of the word is fully vowelled. Kept as printed."
+    },
+    {
+     "page": 83,
+     "text": "خَيْرُ الغَافِرينَ",
+     "note": "The kasra under fa is printed but the kasra under ra is not (compare النَّاصِرِينَ, الرَّاحِمِينَ, الرَّازِقِينَ). Kept as printed."
+    },
+    {
+     "page": 84,
+     "text": "عَلَى كُلِّ شَيءٍ قَدِير.",
+     "note": "شَيءٍ has no sukun on ya (p.083 prints شَيْءٍ), and قَدِير has no tanween. Kept as printed."
+    }
+   ],
+   "notes": "p.081 is not a continuation: p.080 ends with a complete Quran quotation and its reference. Items ١–٧ of المسبعات العشر (including «٦- آية الكرسي» and «٧- الباقيات الصالحات») are written as bold paragraphs, following STRUCTURE's «numbered list (bold)», not as ### headings. «الصلاة الإبراهيمية» is ### per STRUCTURE. The spacing after the hyphen is kept as printed: «١-سورة» to «٤-سورة» have none, while «٥- سورة» and «٦- آية» have a space. The subtitle lines under the titles («(تقرأ يوميا …)», «(يقرأ مرَّة يوميًّا منفردًا)», «يقرأ في جماعة …») are plain paragraphs per STRUCTURE, though printed bold. The «(سبع مرات)» at the end of a line, separated by a wide gap, is bold and kept in the same paragraph. On p.083 the calligraphic basmala is written in its standard form outside the brackets. «كٓهيعٓصٓ» on p.083 and «طسٓ-حمٓ- عٓسٓقٓ» on p.084 are in the ordinary font with no ﴿﴾, so they are ordinary text with their printed maddas (U+0653). The dash spacing «طسٓ-حمٓ- عٓسٓقٓ» was measured from pixel gaps. «[طه:١١١]» is printed with no space after the colon. The fathatan on a lam-alif ligature is written after the alif («زِلْزَالاً», «عاجلاً وآجلاً»), because the print cannot show which letter carries it. «وَزُلْزِلُواْ» has a printed sukun on the alif. In the dua text the qamari lam usually has no sukun (e.g. «لِلقُلُوبِ», «المُؤْمِنُونَ», «الحَسْبُ»), except «فِي الْعَالَمِينَ» on p.082, which has one. The lam-alif in «السَّلامَةِ», «فَلا» and «وَلا» has no fatha, as printed. p.084 is a continuation (+) of the كهيعص paragraph. «شَاهَتِ الوُجُوهُ (ثلاثًا).» is not indented and follows a nearly full line, so it is kept in the same paragraph as the Yasin passage. The Quran quotation of al-Rahman 19–20 runs onto p.085: per the earlier keyB practice (b18), it is closed with ﴾ after «بَيْنَهُمَا بَرْزَخٌ» at the end of p.084, so p.085 should reopen with ﴿. Quran spans cross-checked with scripts/quran.py: no flags."
+  }
+ }
+}

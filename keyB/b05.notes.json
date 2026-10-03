@@ -1,0 +1,8 @@
+{
+  "uncertain": [],
+  "print_errors": [
+    {"page": 18, "text": "وهو من ذريه الشيخ عبد الله الشرقاوي", "note": "printed with final ه (no dots) where ذرية is expected; kept as printed"},
+    {"page": 17, "text": "بشرح الأسنوى", "note": "final letter printed as ى (no dots) while neighbouring nisbas (البيضاوي) have ي; kept as printed"}
+  ],
+  "notes": "p017 continues the last paragraph of p016 (sentence broken at «وفي الأسبوع الأول من رمضان») -> marker 017+. p018 opens with an indented new paragraph («ولما علم») -> plain marker. p019 and p020 continue mid-sentence -> 019+ and 020+. No footnotes, headings or honorific glyphs on these pages; «رضي الله عنه» on p018 is printed as ordinary words. p019 first line ends «العبادي. الخ» with no final period, kept as printed. Kashida-like joins (الـخ، وذلـك) dropped as tatweel."
+}

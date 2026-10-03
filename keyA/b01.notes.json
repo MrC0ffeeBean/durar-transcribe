@@ -1,0 +1,11 @@
+{
+  "uncertain": [],
+  "print_errors": [
+    {
+      "page": 2,
+      "text": "٩٧٨-٩٧٧-٦٦١٤-٢-٤",
+      "note": "The printed ISBN has only 12 digits (3+3+4+1+1), so it cannot be a valid ISBN-13 or ISBN-10. It is kept exactly as printed."
+    }
+  ],
+  "notes": "p001: first page of the book, so the marker has no '+' and there are no footnotes. The title heading is joined from 2 printed lines, keeping only the printed marks: الدُّرَر النَّقِيَّة, no marks on في/أوراد/الطريقة, اليُسْرِيَّة, and الصِّديقيَّة (shadda+kasra on ص only, nothing on د or ق). The subtitle and the author/title lines are plain paragraphs with no ** markup, following the STRUCTURE rule for lines under a title, although the subtitle and the name line are printed in a heavier font. The dash in «بالمقطم- القاهرة» is written as printed: glued to the word before it, with a space after. p002: each centered line is its own paragraph. Most lines use a heavy display font; the labels «رقم الإيداع:» and «الترقيم الدولي» look lighter. No ** was used because this is a front-matter page set in display type. Number order: the deposit number is written ٢٠١٧/٢٢٨٣٤, the order in which it is printed left to right (year/number); under Unicode bidi it displays exactly as printed. The ISBN is written in standard ISBN order starting with ٩٧٨, which is also the printed left-to-right order (978 leftmost). A purely mechanical right-to-left reading would reverse the groups to ٤-٢-٦٦١٤-٩٧٧-٩٧٨. The arbiter should check this if keyB differs. Hijri هـ keeps its tatweel as printed. p001/p003: the abbreviation printed after أ is a small dot near the baseline, written as ASCII '.' in «أ.د/», as in STRUCTURE. p003: photo omitted; 4 caption lines are plain paragraphs, all unvowelled. p004: the basmala roundel is written بسم الله الرحمن الرحيم without harakat, per STRUCTURE §4. The calligraphic salawat line has only these marks printed: اللَّهمَّ (shadda+fatha on the second lam and on mim, nothing on ه), صَلِّ, and وسَلِّم (no sukun on م). على سيدنا محمد وآله carry no marks except the madda in آله. All zooms were saved as scratch\\kA01_*, kA02_*, kA03_*, kA04_*."
+}

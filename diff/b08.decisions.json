@@ -1,0 +1,14 @@
+{
+ "mode": "spots",
+ "decisions": {
+  "d001": {
+   "choice": "A",
+   "note": "The print shows the waqf sign ۖ above the end of ٱلْأَرْضِ. The project encodes waqf signs as a separate token after a space, as Tanzil does and as every earlier final batch does (quran.py merges it with the word). B's attached form would raise a false Quran flag."
+  },
+  "q001": {
+   "choice": "A",
+   "note": "At 600 dpi the closing ornament ﴾ after فَحَدِّثْ touches the reference parenthesis «(الضحى: ١١)» with no space, although the justified line widens every other space. Both keyers wrote it glued. The verse words match Tanzil exactly. The flag is only a tokenization artefact of the glued reference, not a Quran variant, so A is kept as printed."
+  }
+ },
+ "extra_edits": []
+}

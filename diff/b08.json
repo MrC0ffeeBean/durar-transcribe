@@ -1,0 +1,49 @@
+{
+ "batch": "b08",
+ "pages": [
+  29,
+  30,
+  31,
+  32
+ ],
+ "agreement": 0.9972,
+ "full_reread_required": false,
+ "counts": {
+  "punct": 1
+ },
+ "n_items": 1,
+ "n_quran_flags": 1,
+ "n_uncertain": 0,
+ "items": [
+  {
+   "page": 30,
+   "type": "punct",
+   "a_range": [
+    82,
+    84
+   ],
+   "a_text": "ٱلْأَرْضِ ۖ",
+   "b_text": "ٱلْأَرْضِۖ",
+   "ctx_before": "مصر: ﴿قَالَ ٱجْعَلْنِى عَلَىٰ خَزَآئِنِ",
+   "ctx_after": "إِنِّى حَفِيظٌ عَلِيمٌ﴾ (يوسف: ٥٥)",
+   "id": "d001"
+  }
+ ],
+ "quran_flags": [
+  {
+   "page": 30,
+   "kind": "quran_extra_word",
+   "a_range": [
+    69,
+    70
+   ],
+   "keyed": "فَحَدِّثْ(الضحى",
+   "tanzil": "",
+   "ref": "93:11",
+   "id": "q001",
+   "ctx_before": "لقوله تعالى: ﴿وَأَمَّا بِنِعْمَةِ رَبِّكَ",
+   "ctx_after": "١١) واقتداء بيوسف الصديق الذي"
+  }
+ ],
+ "uncertain": []
+}

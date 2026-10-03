@@ -1,0 +1,12 @@
+{
+ "mode": "spots",
+ "decisions": {
+  "d001": {"choice": "B", "note": "p033 heading at 500 dpi: both final letters of «يسري» and «رشدي» clearly carry the two dots of ي (the body line below also has dotted ي). The image is the authority, so the heading is «أ.د/ يسري رشدي السيد جبر». The «يسرى رشدى» mentioned in CONVENTIONS/STRUCTURE is not what this page prints."},
+  "d002": {"choice": "A", "note": "p033 last line: «١٩٩٧م .» shows a stray space before the full stop. Elsewhere on the page the stops are tight («مهنة.»), so this is a one-off typing slip, not deliberate spacing. CONVENTIONS §2 says no space before «.», so it is written «١٩٩٧م.»."},
+  "d003": {"choice": "A", "note": "p034 heading «حفظ القرآن الكريم :» is printed with a space before the colon. The other sub-titles of this biography are tight («المولد والنشأة:», «…ورحمهم الله:»), so the space is a slip. Per §2 there is no space before «:»."},
+  "d004": {"choice": "A", "note": "p035: the print has «رحمه الله .كما», with the space misplaced before the stop and none after it. Per §2 there is no space before «.». No space is added after the stop either, because none is printed (same as «أسماؤه.وكذلك» on p.034)."},
+  "d005": {"choice": "A", "note": "p036: «جمعة ( وكان» has a stray space after the opening parenthesis. Every other parenthesis on these pages is tight («(عضو», «(قالون», «(قنبل»), so per §2 it is written «(وكان»."},
+  "d006": {"choice": "B", "note": "p036 at 800 and 1500 dpi: the slash between ٢ and ١٩٩٣ is set tight. The bounding-box gaps are about 35 and 70 px, against about 130 to 170 px around the spaced slash in «١٢ / ٢». So no word space follows that slash: «١٢ / ٢/١٩٩٣»."}
+ },
+ "extra_edits": []
+}

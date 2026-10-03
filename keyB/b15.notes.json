@@ -1,0 +1,41 @@
+{
+ "uncertain": [],
+ "print_errors": [
+  {
+   "page": 58,
+   "text": "# المعارف الذوقيَّة في الوظيفة الصِّديقيَّة",
+   "note": "In the heading the shadda (and the kasra under it) stand on the ص and the د is bare (expected الصِّدِّيقيَّة), as in the p.051 heading. Checked at 1400-1600 dpi. Kept as printed."
+  },
+  {
+   "page": 58,
+   "text": "المُتوَّجِ",
+   "note": "The ت has no fatha (checked at 2400 dpi); the mim's damma is the only mark on the lam-mim ligature. Kept as printed."
+  },
+  {
+   "page": 58,
+   "text": "الْمُوْصُوفَةُ",
+   "note": "Above the lam-mim ligature a damma and a sukun overlap (lam sukun + mim damma, same composite glyph as in الْمُمْكِنَةُ p.059), and a separate sukun stands over the following و. Expected الْمَوْصُوفَةُ. Checked at 7000 dpi. Kept as printed."
+  },
+  {
+   "page": 58,
+   "text": "(وَانْفَلَقَتِ الَأنْوَارُ)",
+   "note": "In the bold lam-alif the fatha sits over the lam stroke and nothing stands over the hamza (compare الْأَسْرَارُ / الْأَبَدِ on the same page, where the hamza's fatha is directly above the hamza and the lam carries a sukun). Expected الْأَنْوَارُ. Checked at 5000 dpi. Kept as printed."
+  },
+  {
+   "page": 58,
+   "text": "تَهْدِيِهِ",
+   "note": "Three kasras are printed: under the د, under the dots of the ي, and under the final ه (expected تَهْدِيهِ). Checked at 3200 dpi. Kept as printed."
+  },
+  {
+   "page": 59,
+   "text": "وَلَا شَيْءَ إِلَا وَهُوَ",
+   "note": "The lam-alif of إلا has only a fatha and no shadda (expected إِلَّا). Checked at 2000 dpi. Kept as printed."
+  },
+  {
+   "page": 57,
+   "text": "وَلا قُوَّةَ إِلا بِالله",
+   "note": "إلا is printed with the kasra under the hamza but no shadda/fatha on the lam-alif (expected إِلَّا; إِلَّا لَهُ two lines earlier has the shadda). Kept as printed."
+  }
+ ],
+ "notes": "Markers: p057 '+' because p056 ends mid-sentence («وَأَعْظِم لي نُورًا،») and p057 begins «وَأَعْطِنِي نُورًا»; p056 has no footnotes, so no (تابع). p058 opens the new section with the # heading (no '+'). p059 '+' (continues «(وَفِيهِ ارْتَقَتِ الْحَقَائِقُ)» → «الْمُمْكِنَةُ…»); p060 '+' (continues «(لَذَهَبَ كَمَا» → «قِيلَ الْمَوْسُوطُ)»). The line under the heading «(تُقْرَأُ مَرَّة يوميًّا…)» is printed bold but is written as a plain paragraph per STRUCTURE §2; tatweel in «يـوم»، «الجمعـة» dropped. Bold vs regular was decided by measuring median stroke width at 1200 dpi (bold ≈16-18 px, regular ≈11-13 px): bold = (اللَّهُمَّ صلِّ)، (عَلَى)، (مَنْ مِنْهُ انْشَقَّتِ الْأَسْرَارُ)، «كُنْتُ نَبِيًّا وَآدَمُ بَيْنَ الرُّوحِ وَالْجَسَدِ» (the guillemets themselves are regular weight, so ** is inside them)، (وَانْفَلَقَتِ الَأنْوَارُ)، (وَفِيهِ ارْتَقَتِ الْحَقَائِقُ) on p058; only (وَتَنَزَّلَتْ عُلُومُ آدَمَ) on p059 (all the other parenthesised Mashishiya phrases on p059 measure regular); on p060 (صَلَاةً)، (تَلِيقُ بِكَ)، (مِّنْكَ)، (إِلَيْهِ)، (كَمَا هُوَ أَهْلُهُ. اللَّهُمَّ إِنَّهُ سِرُّكَ الْجَامِعُ)، (الدَّالُّ)، (عَلَيْكَ)، (وَحِجَابُكَ الْأَعْظَمُ الْقَائِمُ لَكَ) — parentheses included in the ** as in keyB b17. Lam ligatures (لم، لج، لح، لخ) were checked at 3600-7000 dpi: the lam's mark and (for لم) the mim's mark sit together at the ligature top, the next letter's mark sits lower-left; a sukun+fatha or sukun+damma pair overlapping at the top can look like a single damma at normal zoom (bold: circle-sukun crossed by a fatha). This resolves الْمَمْدُودِ، وَالْجَسَدِ، الْحَقَائِقُ (p058), الْمُمْكِنَةُ، الْمَلَكُوتِ (p059), الْمَوْسُوطُ، الْجَامِعُ، الْمُزَكَّى، الْمُؤَيَّدُ (p060) as written; المُودَعَةُ، المُتوَّجِ، المُشِعَّةُ carry only the mim's damma (no lam sukun). p058 «بـ«كُنْتُ»: the joining tatweel after ب is dropped (validator rule), giving «ب«». Reference ranges are written in logical order with an ASCII hyphen and no spaces: [الأحزاب: ٤٥-٤٦] (printed «٤٥ -٤٦») and [المائدة: ١٥-١٦] (printed «١٥ - ١٦»). The footnote mark (١) on p059 follows the closing ﴾ directly (﴾(١) [النساء: ١١٣]), so validate.py cannot see it and warns 'footnote refs [2, 3] vs [1, 2, 3]'; the mark is printed there. Quran: all nine quotations match Tanzil letter-for-letter (dagger alif without tatweel; madda written ا+ٓ; silent alif ۟; small waw/yeh ۥ ۦ; waqf ۚ after تَعْلَمُ in النساء ١١٣ as printed; لَعَلَىٰ with its printed dagger alif). The word Allah in ordinary text is written with only its printed case vowel (بِالله، اللهُ، وَاللهُ) as in earlier keyB batches. Final ى with the Lotus automatic small alif is written plain (أَحْصَى، عَلَى، حَتَّى، فَتَجَلَّى، تُزْجَى، الْمُزَكَّى، وَصَلَّى). Partial vowelling kept as printed, e.g. صلِّ (no fatha on ص), وَاجْعَل لِّي، شَيءٍ (p057, no sukun) vs شَيْءٍ (p059), كَثِيْرًا (sukun on madd ي), والنُّعُوتِ (bare و), وَجَدتُّ (bare د), مِن رَّفِيعِ. Honorifics in footnotes are printed as words (رضي الله عنه، عليه السلام) and kept so; ﷺ on p059 kept as glyph. Zoom images: scratch\\b15B\\."
+}

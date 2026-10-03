@@ -1,0 +1,31 @@
+{
+ "mode": "full_reread",
+ "decisions": {
+  "d001": {"choice": "A", "note": "p005 line 2: a small dagger alif is clearly printed over the final ى of «على» (zoom at 500 dpi). It is a visible printed mark, so it is kept as ىٰ per §2. The body font prints it on every final alef maqsura; the bold font does not (see «على الله» p006)."},
+  "d002": {"choice": "A", "note": "p005 line 3: «وعلىٰ آله». The dagger alif over ى is clearly visible in the zoom, the same as d001."},
+  "d003": {"choice": "A", "note": "p005: «أخرىٰ،». The dagger alif over the final ى is clearly printed."},
+  "d004": {"choice": "A", "note": "p005: «علىٰ خير البرية». The dagger alif over ى is clearly printed."},
+  "d005": {"choice": "A", "note": "p005: «الحسنىٰ).». The dagger alif over the final ى is clearly printed at the start of the line."},
+  "d006": {"choice": "A", "note": "p006: «[الزمر:١٠]» (bold). I measured it at 600 dpi: the gap from the colon to ١ is 30 px and the gap between the digits ١ and ٠ is 38 px. So no space is printed after the colon, and A's spacing is kept."},
+  "d007": {"choice": "A", "note": "p006: «[آل عمران:٢٠٠]» (small, regular). The colon touches the digits (21 px gap against a 30 px gap between digits), so no space is printed."},
+  "d008": {"choice": "A", "note": "p006: «(رحمتك أرجىٰ عندي من عملي).». The dagger alif over the final ى is clearly printed in the regular font."},
+  "d009": {"choice": "A", "note": "p006: the print sets «مذهبنا:» on its own larger bold line. But CONVENTIONS §6 gives this exact text as its run-in label example («**مذهبنا:** حسن الظن…»), and STRUCTURE §3 also lists «مذهبنا:» and «طريقتنا:» as run-in labels, so A's run-in bold label follows the conventions. The statement after it is also printed bold, which A keeps as its own **…**."},
+  "d010": {"choice": "A", "note": "p006: «طريقتنا:» is the same case as d009. STRUCTURE §3 names it as a run-in bold label. The next line «ما وافق الشرع الشريف؛ إسلامًا، وإيمانًا، وإحسانًا.» is printed bold."},
+  "d011": {"choice": "A", "note": "p006: «عقيدتنا:» is treated like مذهبنا/طريقتنا (d009, d010) for consistency. The next line «الاعتماد على الله.» is printed bold, with no dagger alif on على in the bold font."},
+  "d012": {"choice": "A", "note": "p006: «[الأنعام:٩١]» is bold and the colon is set tight against ٩١ in the 900 dpi zoom, so no space is printed."},
+  "d013": {"choice": "B", "note": "p007 right caption: «السيد أبو الفيض» is a short centered line that is not stretched. The next line «أحمد ابن الصديق الغماري» is also centered, and the text from «ولد بطنجة…» onward is a kashida-justified block. Per §6 (a visibly short line ends a paragraph; centered short lines are their own paragraphs), each name line is its own paragraph."},
+  "d014": {"choice": "B", "note": "p007 right caption: «أحمد ابن الصديق الغماري» is a short centered line. A paragraph break follows it, before the justified «ولد بطنجة عام…» block (same reasoning as d013)."},
+  "d015": {"choice": "B", "note": "p007 left caption: «السيد أبو الفضل» is a short centered line and its own paragraph, the same as d013."},
+  "d016": {"choice": "B", "note": "p007 left caption: «عبد الله ابن الصديق الغماري» is a short centered line. The justified «ولد بطنجة عام ١٣٢٨هـ…» block follows as its own paragraph (same as d014)."},
+  "d017": {"choice": "A", "note": "p008: «حتىٰ كان يرجع». The dagger alif over the final ى is clearly visible in the 500 dpi zoom."},
+  "d018": {"choice": "A", "note": "p008: «علىٰ ابن عمتنا». The dagger alif over ى is clearly visible."},
+  "d019": {"choice": "A", "note": "p008: «وعلىٰ شقيقنا». The dagger alif over ى is clearly visible."},
+  "d020": {"choice": "A", "note": "p008: «إلىٰ فاس». The dagger alif over ى is clearly visible."}
+ },
+ "extra_edits": [
+  {"page": 7, "find": "عام ١٣٢٠ه موافق", "replace": "عام ١٣٢٠هـ موافق", "note": "Both keyers dropped the tatweel of the Hijri abbreviation. The print clearly shows «١٣٢٠هـ» (initial-form heh with tail), and CONVENTIONS §2 says to keep it as printed (the validator allows it)."},
+  {"page": 7, "find": "١٣٨٠ه،", "replace": "١٣٨٠هـ،", "note": "The print clearly shows «١٣٨٠هـ،» (heh + tatweel, then comma). Kept per CONVENTIONS §2. Both keyers had dropped the tatweel."},
+  {"page": 7, "find": "١٣٢٨ه موافق", "replace": "١٣٢٨هـ موافق", "note": "Left caption: the print shows «١٣٢٨هـ» with tatweel. Kept per CONVENTIONS §2. Both keyers had dropped it."},
+  {"page": 7, "find": "١٤١٣ه موافق", "replace": "١٤١٣هـ موافق", "note": "Left caption: the print shows «١٤١٣هـ» with tatweel at the end of the line. Kept per CONVENTIONS §2. Both keyers had dropped it."}
+ ]
+}

@@ -1,0 +1,305 @@
+{
+ "batch": "b02",
+ "agreement": 0.9451,
+ "counts": {
+  "haraka": 10,
+  "punct": 3,
+  "structure": 7
+ },
+ "n_items": 20,
+ "n_quran_flags": 0,
+ "n_uncertain_flags": 0,
+ "mode": "full_reread",
+ "choices": {
+  "A": 16,
+  "B": 4,
+  "T": 0,
+  "custom": 0
+ },
+ "decisions": [
+  {
+   "id": "d001",
+   "page": 5,
+   "type": "haraka",
+   "a": "علىٰ",
+   "b": "على",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p005 line 2: a small dagger alif is clearly printed over the final ى of «على» (zoom at 500 dpi). It is a visible printed mark, so it is kept as ىٰ per §2. The body font prints it on every final alef maqsura; the bold font does not (see «على الله» p006).",
+   "result": "علىٰ"
+  },
+  {
+   "id": "d002",
+   "page": 5,
+   "type": "haraka",
+   "a": "وعلىٰ",
+   "b": "وعلى",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p005 line 3: «وعلىٰ آله». The dagger alif over ى is clearly visible in the zoom, the same as d001.",
+   "result": "وعلىٰ"
+  },
+  {
+   "id": "d003",
+   "page": 5,
+   "type": "haraka",
+   "a": "أخرىٰ،",
+   "b": "أخرى،",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p005: «أخرىٰ،». The dagger alif over the final ى is clearly printed.",
+   "result": "أخرىٰ،"
+  },
+  {
+   "id": "d004",
+   "page": 5,
+   "type": "haraka",
+   "a": "علىٰ",
+   "b": "على",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p005: «علىٰ خير البرية». The dagger alif over ى is clearly printed.",
+   "result": "علىٰ"
+  },
+  {
+   "id": "d005",
+   "page": 5,
+   "type": "haraka",
+   "a": "الحسنىٰ).",
+   "b": "الحسنى).",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p005: «الحسنىٰ).». The dagger alif over the final ى is clearly printed at the start of the line.",
+   "result": "الحسنىٰ)."
+  },
+  {
+   "id": "d006",
+   "page": 6,
+   "type": "punct",
+   "a": "**[الزمر:١٠]**",
+   "b": "**[الزمر: ١٠]**",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p006: «[الزمر:١٠]» (bold). I measured it at 600 dpi: the gap from the colon to ١ is 30 px and the gap between the digits ١ and ٠ is 38 px. So no space is printed after the colon, and A's spacing is kept.",
+   "result": "**[الزمر:١٠]**"
+  },
+  {
+   "id": "d007",
+   "page": 6,
+   "type": "punct",
+   "a": "عمران:٢٠٠]",
+   "b": "عمران: ٢٠٠]",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p006: «[آل عمران:٢٠٠]» (small, regular). The colon touches the digits (21 px gap against a 30 px gap between digits), so no space is printed.",
+   "result": "عمران:٢٠٠]"
+  },
+  {
+   "id": "d008",
+   "page": 6,
+   "type": "haraka",
+   "a": "أرجىٰ",
+   "b": "أرجى",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p006: «(رحمتك أرجىٰ عندي من عملي).». The dagger alif over the final ى is clearly printed in the regular font.",
+   "result": "أرجىٰ"
+  },
+  {
+   "id": "d009",
+   "page": 6,
+   "type": "structure",
+   "a": "**مذهبنا:**",
+   "b": "### مذهبنا: ¶",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p006: the print sets «مذهبنا:» on its own larger bold line. But CONVENTIONS §6 gives this exact text as its run-in label example («**مذهبنا:** حسن الظن…»), and STRUCTURE §3 also lists «مذهبنا:» and «طريقتنا:» as run-in labels, so A's run-in bold label follows the conventions. The statement after it is also printed bold, which A keeps as its own **…**.",
+   "result": "**مذهبنا:**"
+  },
+  {
+   "id": "d010",
+   "page": 6,
+   "type": "structure",
+   "a": "**طريقتنا:**",
+   "b": "### طريقتنا: ¶",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p006: «طريقتنا:» is the same case as d009. STRUCTURE §3 names it as a run-in bold label. The next line «ما وافق الشرع الشريف؛ إسلامًا، وإيمانًا، وإحسانًا.» is printed bold.",
+   "result": "**طريقتنا:**"
+  },
+  {
+   "id": "d011",
+   "page": 6,
+   "type": "structure",
+   "a": "**عقيدتنا:**",
+   "b": "### عقيدتنا: ¶",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p006: «عقيدتنا:» is treated like مذهبنا/طريقتنا (d009, d010) for consistency. The next line «الاعتماد على الله.» is printed bold, with no dagger alif on على in the bold font.",
+   "result": "**عقيدتنا:**"
+  },
+  {
+   "id": "d012",
+   "page": 6,
+   "type": "punct",
+   "a": "**[الأنعام:٩١]**",
+   "b": "**[الأنعام: ٩١]**",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p006: «[الأنعام:٩١]» is bold and the colon is set tight against ٩١ in the 900 dpi zoom, so no space is printed.",
+   "result": "**[الأنعام:٩١]**"
+  },
+  {
+   "id": "d013",
+   "page": 7,
+   "type": "structure",
+   "a": "",
+   "b": "¶",
+   "tanzil": null,
+   "choice": "B",
+   "note": "p007 right caption: «السيد أبو الفيض» is a short centered line that is not stretched. The next line «أحمد ابن الصديق الغماري» is also centered, and the text from «ولد بطنجة…» onward is a kashida-justified block. Per §6 (a visibly short line ends a paragraph; centered short lines are their own paragraphs), each name line is its own paragraph.",
+   "result": "¶"
+  },
+  {
+   "id": "d014",
+   "page": 7,
+   "type": "structure",
+   "a": "",
+   "b": "¶",
+   "tanzil": null,
+   "choice": "B",
+   "note": "p007 right caption: «أحمد ابن الصديق الغماري» is a short centered line. A paragraph break follows it, before the justified «ولد بطنجة عام…» block (same reasoning as d013).",
+   "result": "¶"
+  },
+  {
+   "id": "d015",
+   "page": 7,
+   "type": "structure",
+   "a": "",
+   "b": "¶",
+   "tanzil": null,
+   "choice": "B",
+   "note": "p007 left caption: «السيد أبو الفضل» is a short centered line and its own paragraph, the same as d013.",
+   "result": "¶"
+  },
+  {
+   "id": "d016",
+   "page": 7,
+   "type": "structure",
+   "a": "",
+   "b": "¶",
+   "tanzil": null,
+   "choice": "B",
+   "note": "p007 left caption: «عبد الله ابن الصديق الغماري» is a short centered line. The justified «ولد بطنجة عام ١٣٢٨هـ…» block follows as its own paragraph (same as d014).",
+   "result": "¶"
+  },
+  {
+   "id": "d017",
+   "page": 8,
+   "type": "haraka",
+   "a": "حتىٰ",
+   "b": "حتى",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p008: «حتىٰ كان يرجع». The dagger alif over the final ى is clearly visible in the 500 dpi zoom.",
+   "result": "حتىٰ"
+  },
+  {
+   "id": "d018",
+   "page": 8,
+   "type": "haraka",
+   "a": "علىٰ",
+   "b": "على",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p008: «علىٰ ابن عمتنا». The dagger alif over ى is clearly visible.",
+   "result": "علىٰ"
+  },
+  {
+   "id": "d019",
+   "page": 8,
+   "type": "haraka",
+   "a": "وعلىٰ",
+   "b": "وعلى",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p008: «وعلىٰ شقيقنا». The dagger alif over ى is clearly visible.",
+   "result": "وعلىٰ"
+  },
+  {
+   "id": "d020",
+   "page": 8,
+   "type": "haraka",
+   "a": "إلىٰ",
+   "b": "إلى",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p008: «إلىٰ فاس». The dagger alif over ى is clearly visible.",
+   "result": "إلىٰ"
+  }
+ ],
+ "extra_edits": [
+  {
+   "page": 7,
+   "find": "عام ١٣٢٠ه موافق",
+   "replace": "عام ١٣٢٠هـ موافق",
+   "note": "Both keyers dropped the tatweel of the Hijri abbreviation. The print clearly shows «١٣٢٠هـ» (initial-form heh with tail), and CONVENTIONS §2 says to keep it as printed (the validator allows it)."
+  },
+  {
+   "page": 7,
+   "find": "١٣٨٠ه،",
+   "replace": "١٣٨٠هـ،",
+   "note": "The print clearly shows «١٣٨٠هـ،» (heh + tatweel, then comma). Kept per CONVENTIONS §2. Both keyers had dropped the tatweel."
+  },
+  {
+   "page": 7,
+   "find": "١٣٢٨ه موافق",
+   "replace": "١٣٢٨هـ موافق",
+   "note": "Left caption: the print shows «١٣٢٨هـ» with tatweel. Kept per CONVENTIONS §2. Both keyers had dropped it."
+  },
+  {
+   "page": 7,
+   "find": "١٤١٣ه موافق",
+   "replace": "١٤١٣هـ موافق",
+   "note": "Left caption: the print shows «١٤١٣هـ» with tatweel at the end of the line. Kept per CONVENTIONS §2. Both keyers had dropped it."
+  }
+ ],
+ "rules": {
+  "plain_final_ya": {
+   "5": 5,
+   "6": 1,
+   "8": 4
+  }
+ },
+ "unresolved_uncertain": [],
+ "quran_residual": [],
+ "keyer_notes": {
+  "keyA": {
+   "uncertain": [],
+   "print_errors": [
+    {
+     "page": 6,
+     "text": "(قُلِ ٱللَّهُ ۖ ثُمَّ ذَرْهُمْ فِى خَوْضِهِمْ يَلْعَبُونَ (٩١)﴾",
+     "note": "The opening bracket of the al-An'am 91 quotation is printed as a plain round parenthesis '(' instead of the ornate ﴿ (the closing ﴾ is ornate). Transcribed as ﴿…﴾ per CONVENTIONS §3."
+    }
+   ],
+   "notes": "p.005: starts with the heading «مقدِّمة» (shadda+kasra on dal), so there is no '+' on the marker. p.004 ends with a complete salawat line and has no footnotes. Throughout pp.005-008 the body font prints a small dagger alif over final alef maqsura in على/إلى/حتى/أخرى/الحسنى/أرجى. Because it is a visible printed mark, it is written ىٰ (U+0649 U+0670). The bold «على الله» on p.006 has no dagger and is written plain. p.006: «شعارنا ومنهج حياتنا:» is ### (STRUCTURE §2). مذهبنا:/طريقتنا:/عقيدتنا: are written as run-in bold labels joined to the next printed line, following the explicit example in CONVENTIONS §6 and STRUCTURE §3, even though the print sets each label on its own larger bold line. The statements after them are also printed bold (in contrast to the regular explanatory lines «أي…», «النصر مع الصبر», «(رحمتك…)»), so they get their own **…**. Item numbers (١)-(٥) are kept outside the bold so they are not read as glued footnote references. The references [الزمر:١٠] and [الأنعام:٩١] are printed bold, [آل عمران:٢٠٠] regular and smaller. All three are printed with no space after the colon and are kept that way. The silent alif on واْ in 3:200 is the round zero (U+06DF), and فِى in 6:91 is printed without dots. The ornament flowers on the brackets are dropped. scripts\\quran.py reports no flags. p.007: the photos are omitted. Each centered caption is one paragraph, right caption first. The stretched «هـ» after the hijri years is written «ه» because tatweel is dropped (§2, which the validator enforces). «عبد الله» in the left caption has a visible space. p.008: the 2-line title is one # heading. «عبدالله» is written without a space, following the STRUCTURE heading map; in the condensed title font the gap is ambiguous. The shadda and kasra in «الصِّديق» both sit on the ṣād (dal unmarked, checked at 2000 dpi). The رضي الله عنه glyph becomes (رضي الله عنه). «قائلا :» is printed with a space before the colon and normalized to «قائلا:» per §2 spacing. «رحمه الله» is printed as ordinary words. The page ends mid-sentence («…وأبو الحسن الشاذلي،»), so p.009 should start with a '+' marker. The footnote «(١) القرويين: …» has no final period in print."
+  },
+  "keyB": {
+   "uncertain": [],
+   "print_errors": [
+    {
+     "page": 6,
+     "text": "(قُلِ ٱللَّهُ ۖ ثُمَّ ذَرْهُمْ فِى خَوْضِهِمْ يَلْعَبُونَ (٩١)﴾",
+     "note": "الآية الأخيرة في الصفحة تبدأ بقوس عادي ( وتنتهي بالقوس المزخرف ﴾ (خطأ طباعي في علامة الفتح). كُتبت ﴿…﴾ لأن النص قرآني بالخط العثماني ولأن المدقق يرفض عدم توازن الأقواس."
+    },
+    {
+     "page": 8,
+     "text": "قائلا :",
+     "note": "مطبوعة بمسافة قبل النقطتين؛ كُتبت «قائلا:» بلا مسافة وفق §2 (لا مسافة قبل :)."
+    }
+   ],
+   "notes": "p005 يبدأ من أول الفقرة (p004 صفحة خط فقط) فلا «+» ولا «(تابع)». p008 ينتهي في وسط الجملة («وأبو الحسن الشاذلي،») فينبغي أن يبدأ p009 بالعلامة «+». — الألف الخنجرية فوق الألف المقصورة: الخط العادي في الكتاب يرسم ألفًا صغيرة فوق كل ى نهائية (على، إلى، حتى، أخرى، الحسنى، أرجى) بينما نفس الكلمات بالخط الأسود (مثل «صلى» و«على» في p006) بلا ألف صغيرة، فعُدَّت سمةً للخط لا تشكيلًا مطبوعًا (قياسًا على قاعدة لفظ الجلالة في §2) وكُتبت ى مجردة. — رمز التاريخ «هـ» (هاء + كشيدة) كُتب «ه» بحذف الكشيدة (§2 والمدقق). — p005: عنوان «مقدِّمة» مطبوع بشدة وكسرة على الدال، والكشيدة محذوفة؛ p008: «تعريـــف» بكشيدة محذوفة. — p006: أرقام البنود (١)…(٥) مطبوعة بالأسود مع نصها؛ تُرك الرقم خارج ** حتى لا يُحسب حاشية؛ سطور المحتوى تحت مذهبنا/طريقتنا/عقيدتنا مطبوعة بالأسود فوُسمت **؛ المرجعان [الزمر: ١٠] و[الأنعام: ٩١] مطبوعان بخط أسود فوُسما **، أما [آل عمران: ٢٠٠] فبخط صغير عادي. — p006 القرآن: «فِى» بياء بلا نقط كما في المصحف، صفر مستدير ۟ على ألف الجماعة، علامة الوقف ۖ بعد «ٱللَّهُ» بمسافة على طريقة تنزيل. — p007: التعليقان بخط أسود واحد فلا وسم **؛ التعليق الأيمن أولًا ثم الأيسر؛ كل سطر اسم ممركز فقرة مستقلة والنص المضبوط بالكشيدة فقرة واحدة. — p008 العنوان: الفراغ بين «عبد» و«الله» في خط العنوان لا يُميَّز عن فراغات الحروف المنفصلة (قيس بالبكسل: 44 بكسل مقابل 38 بين «بالسيد» و«عبد» و37–44 داخل الكلمات)، فاتُّبعت خريطة العناوين في STRUCTURE «عبدالله»؛ علمًا بأن الترويسة و p007 تطبعان «عبد الله» بمسافة. — p008: الرمز الشرفي بعد الغماري كُتب (رضي الله عنه)."
+  }
+ }
+}

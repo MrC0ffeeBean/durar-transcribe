@@ -1,0 +1,11 @@
+{
+  "uncertain": [],
+  "print_errors": [
+    {"page": 40, "text": "### النواحى العلميه والنشاط الدعوى:", "note": "Heading printed with dotless final ى (النواحى، الدعوى) and ه instead of ة (العلميه); kept as printed. STRUCTURE.md lists it in normalized spelling «النواحي العلمية والنشاط الدعوي:»."},
+    {"page": 40, "text": "فى بيته فى القاهرة / فى مسجد / البخارى / سيدى / الدرديرى", "note": "Dotless ى printed in these words on p.040 (unlike في/البخاري elsewhere); kept as printed. «في أربع سنوات» on the same page has dots."},
+    {"page": 40, "text": "وحضر موت", "note": "Hadramawt printed as two words with a clear space; kept as printed."},
+    {"page": 37, "text": "اسماعيل", "note": "Printed without hamza under the alif; kept as printed."},
+    {"page": 40, "text": "مفتي نيجريا ... فى القاهرة / ... وشرفت بمقابلتهم", "note": "These two paragraphs end without a final period in the print; none added."}
+  ],
+  "notes": "p037, p038, p039 start with + (sentence continues from the previous page; p036 ends «إجازة عامة» with no footnotes). p040 starts a new indented paragraph (p039 ends «للكلية.»), so no +. No footnotes, Quran, harakat or honorific glyphs on these pages; «رحمه الله» and «حفظه الله» are printed as ordinary words. Printed spaces kept: «و المصافحة» (p037), «و الذي» (p040). A visible space before the final period in «١٩٩٨ .» (p037) and «المبارك .» (p040) was normalized to no space per CONVENTIONS §2. Heading on p040 written as ### (bold standalone line ending with «:»)."
+}

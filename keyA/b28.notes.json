@@ -1,0 +1,13 @@
+{
+  "uncertain": [
+    {"page": 109, "reading": "الصَّالِحينَ", "why": "Only one kasra is printed under the stacked lam-hah ligature of «الصالحين» (line 8). At 2400 dpi it sits under both the lam stem and the hah bowl, so it cannot be told whether it belongs to ل (الصَّالِحينَ) or to ح (الصَّالحِينَ). Letters are certain."}
+  ],
+  "print_errors": [
+    {"page": 109, "text": "الْموْجُودَ", "note": "Printed with sukun on ل and on و and no fatha on م (2400 dpi zoom confirms two sukun glyphs, no fatha). Expected الْمَوْجُودَ."},
+    {"page": 109, "text": "مِنْ الِاعْتِرَاضِ", "note": "Sukun printed on the nun of «مِنْ» before hamzat al-wasl (expected مِنَ). The kasra under the lam-alif ligature is encoded on the lam, as in my earlier batches («بِالِافْتِقَارِ»)."},
+    {"page": 110, "text": "سَيِّدَنا", "note": "In الصلاة البرزخية (4) the dal carries a fatha (expected سَيِّدِنا). The same misprint occurs in day 1 (p.100)."},
+    {"page": 110, "text": "مُحَمَّدُِ / مَحْمُودُِ", "note": "The final dal of both words carries a damma above and a kasra below, kept as printed (the same as p.100)."},
+    {"page": 112, "text": "هُوْ", "note": "In «لَا إِلَهَ إِلَّا هُوْ» a sukun is printed on the waw, kept as printed."}
+  ],
+  "notes": "p109 continues item 16 of p108 (marker 109+). The p108 footnote ends on p108, so p109 has no footnotes and no (تابع). The Quran quote of al-Shura 52 runs across p110 to p111: I closed it with ﴾ at the end of p110 and reopened it with ﴿ on p111 (marker 111+), as in b27, because validate.py needs balanced brackets on each line. For the word Allah with a printed case vowel (يَا اللهُ on p111, بِاللهِ / هو اللهُ on p112), I followed CONVENTIONS §2 and wrote it fully vowelled, اللَّهُ / اللَّهِ. My b26 (pp.101-102) wrote اللهُ / اللهِ for the identical print, so the reconciler should pick one form for both. Final ى with the small alif that the Lotus font draws automatically is written as plain ى (عَلَى، حَتَّى، الْهَوَى، مُصْطَفَى، مَجْلَى، الشورى); in Quran text I kept the dagger alif only where the mushaf font shows it (إِلَىٰ، ٱلْحُسْنَىٰ). On p112 the decorative asterisk bullet is written «* » and the isti'adha line, set in a heavier font as a whole, is not marked bold, both as in b26. Silent-alif marks in Ahzab 56 are small round zeros (۟). The Quran cross-check (scripts/quran.py) gives one flag: Tanzil has the waqf sign ۖ after «بِهَا» in A'raf 180, but the print ends the fragment at «بِهَا» with no waqf sign (checked at 2000 dpi), so it is left out. The last line of p111 «يَا اللهُ، يَا اللهُ، يَا اللهُ(٢)» measured the same stroke weight as the surrounding lines, so it is not bold. validate.py: OK, no warnings."
+}

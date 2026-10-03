@@ -1,0 +1,36 @@
+{
+  "uncertain": [],
+  "print_errors": [
+    {
+      "page": 198,
+      "text": "تَكُونُ بِهَا(١) … فَلَا(١) تَمَسَّكُ",
+      "note": "The reference (١) is printed twice on this page: once after بِهَا (end of the first hemistich of bayt 9) and again after فَلَا (start of bayt 10). The footnote block has only one (١) («في نسخة: ولا»), which fits فَلَا; the (١) after بِهَا looks like a stray/duplicate marker. Both transcribed as printed."
+    },
+    {
+      "page": 198,
+      "text": "تَضْلِيل",
+      "note": "Last word of bayt 11 is printed without the final damma, unlike all the other rhyme words (…لُ). Kept as printed."
+    },
+    {
+      "page": 199,
+      "text": "سُعادُ",
+      "note": "Bayt 14 prints سُعادُ with no fatha on the ع (p.196 bayt 1 prints سُعَادُ). Kept as printed."
+    },
+    {
+      "page": 199,
+      "text": "١٤-  تبلغها / ١٥ – عذافرة / ١٦-نضاخة",
+      "note": "Gloss item numbers are set with irregular spacing around the dash (double space after ١٤-, a space before the dash of ١٥, no space after the dash of ١٦). Normalized to the standard «N- » form."
+    },
+    {
+      "page": 200,
+      "text": "﴿وَحَدَائِقَ غُلْبًا﴾ [عبس: ٣٠]",
+      "note": "Printed inside ﴿﴾ but in the ordinary gloss font: no madda on the alif (Uthmani: وَحَدَآئِقَ) and ordinary stacked tanween. Transcribed exactly as printed."
+    },
+    {
+      "page": 200,
+      "text": "﴿إِنَّ لَكَ أَلَّا تَجُوعَ فِيهَا وَلَا تَعْرَىٰ * وَأَنَّكَ لَا تَظْمَأُ فِيهَا وَلَا تَضْحَىٰ﴾ [طه: ١١٨، ١١٩]",
+      "note": "Printed تَظْمَأُ (hamza on alif + damma) rather than the Uthmani تَظْمَؤُا۟, and the two ayahs are separated by a small asterisk ornament instead of an ayah-number roundel; the ornament is written as ' * ' (CONVENTIONS §7). Transcribed as printed."
+    }
+  ],
+  "notes": "Batch b50 = pp.197-200 of قصيدة بانت سعاد (bayts 5-22), all in the stacked poetry layout; each page = :::شعر fence + :::مفردات glosses (+ :::حواشي variant footnotes on pp.198-199). p.196 ends with a complete bayt 4 and a gloss ending in a full stop, so p.197 takes a plain marker (no '+') and no (تابع). DAGGER ALIF: the gloss font draws a small dagger alif on every final ى (القذى، أضحى، الضحى، الأذى، حتى ×3، الذِّفَرى، يرى، تعالى، مثنى، عَلَى in the hadith), while the poem font never does; this is a glyph feature of that font (same as the automatic marks on الله, CONVENTIONS §2), so plain ى is written in ordinary text. Inside the Quran brackets on p.200 (تَعْرَىٰ، تَضْحَىٰ) the printed dagger is written as U+0670 per the §3 table (it matches the Uthmani text there). The hadith on p.197 («أَنَا فَرَطُكُمْ عَلَى الْحَوْضِ») is in the ordinary font without ﴿﴾ and is transcribed as ordinary vowelled text; ﷺ before it is the printed glyph. Gloss separators are the printed dashes, written as ASCII hyphen glued to the preceding word with a space after (مزجت- شَبِمٍ). Kashida inside stretched hemistichs (أَكْــرِمْ، الْحِـــزَّانُ, etc.) dropped. Footnote refs are glued inside the poetry lines (بِهَا(١)، فَلَا(١)، تُمْسِكُ(٢) on p.198; الْحِزَّانُ(١)، فَعْمٌ(٢) on p.199); validate.py only counts refs on prose lines, hence its two WARN lines 'footnote refs in text [] vs footnote lines [1, 2]' on pp.198-199 are expected and not a transcription gap. No [؟:…] markers were needed. validate.py printed OK."
+}

@@ -1,0 +1,16 @@
+{
+ "uncertain": [],
+ "print_errors": [
+  {
+   "page": 18,
+   "text": "وهو من ذريه الشيخ عبد الله الشرقاوي",
+   "note": "«ذريه» printed with final heh (expected ذرية); kept as printed."
+  },
+  {
+   "page": 17,
+   "text": "بشرح الأسنوى",
+   "note": "Name printed «الأسنوى» with alef maqsura (usually الإسنوي); kept as printed."
+  }
+ ],
+ "notes": "p017 continues p016 (sentence broken after «من رمضان») -> 017+. p018 starts a new indented paragraph after p017 ended with a full stop -> no '+'. p019 and p020 continue mid-sentence -> '+'. p020 ends mid-sentence («إسماعيل الحامدي»). No footnotes, headings, bold or Quran on these pages. «رضي الله عنه» on p018 is printed as ordinary words (no glyph). p019 first line ends «العبادي. الخ» with no full stop after الخ. Final ى with the Lotus auto small alif written as plain ى."
+}

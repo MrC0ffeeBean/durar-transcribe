@@ -1,0 +1,9 @@
+{
+  "uncertain": [],
+  "print_errors": [
+    {"page": 13, "text": "وشرح الشيخ على **بركة التطواني", "note": "Printed «على» with undotted alef maqsura (regular weight); the name is presumably «علي بركة التطواني». Kept as printed. Bold begins at «بركة» and runs through «وشرحه هذا مخطوط،»."},
+    {"page": 15, "text": "في مختلفة العلوم", "note": "Printed «مختلفة» (expected «مختلف العلوم»); kept as printed."},
+    {"page": 16, "text": "أحد الاخوان الصديقيين", "note": "«الاخوان» printed without hamza under the alif (cf. «اجازة» on p.012); kept as printed."}
+  ],
+  "notes": "p013, p014, p015 and p016 each continue the previous page's sentence, so all four markers have '+'. No footnotes on any page. p014: the opening bayt of Ibn Malik's riddle verse is printed side by side in a heavier font with no harakat. It is written as a :::شعر block without ** because the whole block is set in that font. The spaced en-dashes on p014 («سكيرج – وهو …مؤلفات – برسالة», «فلان – يعنيني –») are written as U+2013 with spaces, as printed. Every «رضي الله عنه» / «رحمه الله» in this batch is printed as ordinary words, not as glyphs. Final ى in Lotus Light is written without the automatic small alif (على، أخرى، الفتاوى، حكى، أتى، أجزنَّاى). The year ١٣٤٩ is in Arabic-Indic digits."
+}

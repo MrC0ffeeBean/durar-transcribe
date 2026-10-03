@@ -1,0 +1,47 @@
+{
+ "batch": "b07",
+ "pages": [
+  25,
+  26,
+  27,
+  28
+ ],
+ "agreement": 0.9919,
+ "full_reread_required": false,
+ "counts": {
+  "punct": 2
+ },
+ "n_items": 2,
+ "n_quran_flags": 0,
+ "n_uncertain": 0,
+ "items": [
+  {
+   "page": 27,
+   "type": "punct",
+   "a_range": [
+    23,
+    25
+   ],
+   "a_text": "ج ١",
+   "b_text": "ج١",
+   "ctx_before": "السلام (طبع) ¶ سمير الصالحين",
+   "ctx_after": "(طبع مرتين) سميرالصالحين ج ٢",
+   "id": "d001"
+  },
+  {
+   "page": 27,
+   "type": "punct",
+   "a_range": [
+    27,
+    30
+   ],
+   "a_text": "سميرالصالحين ج ٢",
+   "b_text": "سمير الصالحين ج٢",
+   "ctx_before": "الصالحين ج ١ (طبع مرتين)",
+   "ctx_after": "(طبع) ¶ حسن البيان في",
+   "id": "d002"
+  }
+ ],
+ "quran_flags": [],
+ "uncertain": []
+}

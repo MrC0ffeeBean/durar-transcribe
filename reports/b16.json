@@ -1,0 +1,769 @@
+{
+ "batch": "b16",
+ "agreement": 0.8852,
+ "counts": {
+  "haraka": 7,
+  "punct": 38
+ },
+ "n_items": 45,
+ "n_quran_flags": 5,
+ "n_uncertain_flags": 0,
+ "mode": "full_reread",
+ "choices": {
+  "A": 45,
+  "B": 2,
+  "T": 0,
+  "custom": 3
+ },
+ "decisions": [
+  {
+   "id": "d001",
+   "page": 61,
+   "type": "haraka",
+   "a": "الْمَنْزِلَةِ",
+   "b": "الْمَنزِلَةِ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "At 5000 dpi there are two separate marks over المنزلة: a sukun crossed by a fatha over the lam (sukun on lam, fatha on mim), and a lone sukun (same size as a plain sukun) over the nun. So الْمَنْزِلَةِ with sukun on the nun.",
+   "result": "الْمَنْزِلَةِ"
+  },
+  {
+   "id": "d002",
+   "page": 61,
+   "type": "punct",
+   "a": "(**بَيْنَ يَدَيْكَ**)",
+   "b": "**(بَيْنَ يَدَيْكَ)**",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Zoom: the bold words are inside the markers; the parentheses have the thin regular stroke (compared with the bold letters at 2000 dpi on p.061), so they stay outside the ** as in the finals of b15 and b17.",
+   "result": "(**بَيْنَ يَدَيْكَ**)"
+  },
+  {
+   "id": "d003",
+   "page": 61,
+   "type": "punct",
+   "a": "(**اللَّهُمَّ أَلْحِقْنِي**)",
+   "b": "**(اللَّهُمَّ أَلْحِقْنِي)**",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Zoom: the bold words are inside the markers; the parentheses have the thin regular stroke (compared with the bold letters at 2000 dpi on p.061), so they stay outside the ** as in the finals of b15 and b17.",
+   "result": "(**اللَّهُمَّ أَلْحِقْنِي**)"
+  },
+  {
+   "id": "d004",
+   "page": 61,
+   "type": "punct",
+   "a": "(**بِنَسَبِهِ**)",
+   "b": "**(بِنَسَبِهِ)**",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Zoom: the bold words are inside the markers; the parentheses have the thin regular stroke (compared with the bold letters at 2000 dpi on p.061), so they stay outside the ** as in the finals of b15 and b17.",
+   "result": "(**بِنَسَبِهِ**)"
+  },
+  {
+   "id": "d005",
+   "page": 61,
+   "type": "punct",
+   "a": "(**وَحَقِّقْنِي**)",
+   "b": "**(وَحَقِّقْنِي)**",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Zoom: the bold words are inside the markers; the parentheses have the thin regular stroke (compared with the bold letters at 2000 dpi on p.061), so they stay outside the ** as in the finals of b15 and b17.",
+   "result": "(**وَحَقِّقْنِي**)"
+  },
+  {
+   "id": "d006",
+   "page": 61,
+   "type": "punct",
+   "a": "(**بِحَسَبِهِ**)",
+   "b": "**(بِحَسَبِهِ)**",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Zoom: the bold words are inside the markers; the parentheses have the thin regular stroke (compared with the bold letters at 2000 dpi on p.061), so they stay outside the ** as in the finals of b15 and b17.",
+   "result": "(**بِحَسَبِهِ**)"
+  },
+  {
+   "id": "d007",
+   "page": 61,
+   "type": "punct",
+   "a": "(**وَعَرِّفْنِي إِيَّاهُ مَعْرِفَةً**)",
+   "b": "**(وَعَرِّفْنِي إِيَّاهُ مَعْرِفَةً)**",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Zoom: the bold words are inside the markers; the parentheses have the thin regular stroke (compared with the bold letters at 2000 dpi on p.061), so they stay outside the ** as in the finals of b15 and b17.",
+   "result": "(**وَعَرِّفْنِي إِيَّاهُ مَعْرِفَةً**)"
+  },
+  {
+   "id": "d008",
+   "page": 61,
+   "type": "punct",
+   "a": "(**أَسْلَمُ",
+   "b": "**(أَسْلَمُ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Zoom: the bold words are inside the markers; the parentheses have the thin regular stroke (compared with the bold letters at 2000 dpi on p.061), so they stay outside the ** as in the finals of b15 and b17.",
+   "result": "(**أَسْلَمُ"
+  },
+  {
+   "id": "d009",
+   "page": 61,
+   "type": "punct",
+   "a": "الْجَهْلِ**)",
+   "b": "الْجَهْلِ)**",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Zoom: the bold words are inside the markers; the parentheses have the thin regular stroke (compared with the bold letters at 2000 dpi on p.061), so they stay outside the ** as in the finals of b15 and b17.",
+   "result": "الْجَهْلِ**)"
+  },
+  {
+   "id": "d010",
+   "page": 61,
+   "type": "punct",
+   "a": "(**وَأَكْرَعُ",
+   "b": "**(وَأَكْرَعُ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Zoom: the bold words are inside the markers; the parentheses have the thin regular stroke (compared with the bold letters at 2000 dpi on p.061), so they stay outside the ** as in the finals of b15 and b17.",
+   "result": "(**وَأَكْرَعُ"
+  },
+  {
+   "id": "d011",
+   "page": 61,
+   "type": "punct",
+   "a": "الْفَضْلِ**)",
+   "b": "الْفَضْلِ)**",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Zoom: the bold words are inside the markers; the parentheses have the thin regular stroke (compared with the bold letters at 2000 dpi on p.061), so they stay outside the ** as in the finals of b15 and b17.",
+   "result": "الْفَضْلِ**)"
+  },
+  {
+   "id": "d012",
+   "page": 62,
+   "type": "haraka",
+   "a": "(**وَاحْمِلْنِي**)",
+   "b": "**(وَاحِمْلْنِي)**",
+   "tanzil": null,
+   "choice": "custom",
+   "note": "At 2600 dpi the kasra sits under the ha body and the sukun circle over the mim loop. The geometry matches حَمْلًا on the same page (ha vowel over the ha head, mim sukun over the mim), so the print has وَاحِمْلْنِي, a print error kept as printed (B's harakat). The parentheses are regular weight and stay outside the bold.",
+   "result": "(**وَاحِمْلْنِي**)"
+  },
+  {
+   "id": "d013",
+   "page": 62,
+   "type": "punct",
+   "a": "(**عَلَى سَبِيلِهِ**)",
+   "b": "**(عَلَى سَبِيلِهِ)**",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Zoom: the bold words are inside the markers; the parentheses have the thin regular stroke (compared with the bold letters at 2000 dpi on p.061), so they stay outside the ** as in the finals of b15 and b17.",
+   "result": "(**عَلَى سَبِيلِهِ**)"
+  },
+  {
+   "id": "d014",
+   "page": 62,
+   "type": "punct",
+   "a": "(**إِلَى حَضْرَتِكَ**)",
+   "b": "**(إِلَى حَضْرَتِكَ)**",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Zoom: the bold words are inside the markers; the parentheses have the thin regular stroke (compared with the bold letters at 2000 dpi on p.061), so they stay outside the ** as in the finals of b15 and b17.",
+   "result": "(**إِلَى حَضْرَتِكَ**)"
+  },
+  {
+   "id": "d015",
+   "page": 62,
+   "type": "haraka",
+   "a": "(**حَمْلًا مَحْفُوفًا بِنُصْرَتِكَ**) الرَّبَّانِيَّةِ",
+   "b": "**(حَمْلًا مَحْفُوفًا بِنُصْرَتِكَ)** الرَّبَانِيَّةِ",
+   "tanzil": null,
+   "choice": "custom",
+   "note": "At 2000 dpi the ra carries shadda+fatha and the ba only a plain fatha, with no shadda. So the print has الرَّبَانِيَّةِ, a print error kept (B's reading). The parentheses are regular weight and stay outside the bold (A).",
+   "result": "(**حَمْلًا مَحْفُوفًا بِنُصْرَتِكَ**) الرَّبَانِيَّةِ"
+  },
+  {
+   "id": "d016",
+   "page": 62,
+   "type": "punct",
+   "a": "ٱلتَّقْوَىٰ﴾[البقرة: ١٩٧].(**وَاقْذِفْ بِي عَلَى**) جَيْشِ (**الْبَاطِلِ فَأَدْمَغَهُ**)",
+   "b": "ٱلتَّقْوَىٰ﴾ [البقرة: ١٩٧]. **(وَاقْذِفْ بِي عَلَى)** جَيْشِ **(الْبَاطِلِ فَأَدْمَغَهُ)**",
+   "tanzil": null,
+   "choice": "A",
+   "note": "At 500 and 1000 dpi the ornament ﴾ touches «[البقرة» and «].(وَاقْذِفْ» is set closed up with no word space, so it stays glued as printed. No waqf sign is printed after ٱلتَّقْوَىٰ. The parentheses are regular weight and outside the bold.",
+   "result": "ٱلتَّقْوَىٰ﴾[البقرة: ١٩٧].(**وَاقْذِفْ بِي عَلَى**) جَيْشِ (**الْبَاطِلِ فَأَدْمَغَهُ**)"
+  },
+  {
+   "id": "d017",
+   "page": 62,
+   "type": "punct",
+   "a": "٢١]،﴿وَمَا",
+   "b": "٢١]، ﴿وَمَا",
+   "tanzil": null,
+   "choice": "A",
+   "note": "At 1000 dpi the comma to ornament gap is 49 px. The spaced «]، ﴿مَّآ» on p.063 measures 93 px, and the glued «]،﴿» kept in b15 measured about 42 px. So no word space is printed: «]،﴿وَمَا» is kept glued.",
+   "result": "٢١]،﴿وَمَا"
+  },
+  {
+   "id": "d018",
+   "page": 62,
+   "type": "punct",
+   "a": "(**وزُجَّ",
+   "b": "**(وزُجَّ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Zoom: the bold words are inside the markers; the parentheses have the thin regular stroke (compared with the bold letters at 2000 dpi on p.061), so they stay outside the ** as in the finals of b15 and b17.",
+   "result": "(**وزُجَّ"
+  },
+  {
+   "id": "d019",
+   "page": 62,
+   "type": "punct",
+   "a": "الْأَحَدِيَّةِ**)",
+   "b": "الْأَحَدِيَّةِ)**",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Zoom: the bold words are inside the markers; the parentheses have the thin regular stroke (compared with the bold letters at 2000 dpi on p.061), so they stay outside the ** as in the finals of b15 and b17.",
+   "result": "الْأَحَدِيَّةِ**)"
+  },
+  {
+   "id": "d020",
+   "page": 62,
+   "type": "punct",
+   "a": "(**وانْشُلْنِي",
+   "b": "**(وانْشُلْنِي",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Zoom: the bold words are inside the markers; the parentheses have the thin regular stroke (compared with the bold letters at 2000 dpi on p.061), so they stay outside the ** as in the finals of b15 and b17.",
+   "result": "(**وانْشُلْنِي"
+  },
+  {
+   "id": "d021",
+   "page": 62,
+   "type": "punct",
+   "a": "التَّوْحِيدِ**)(٢)",
+   "b": "التَّوْحِيدِ)**(٢)",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Zoom: the bold words are inside the markers; the parentheses have the thin regular stroke (compared with the bold letters at 2000 dpi on p.061), so they stay outside the ** as in the finals of b15 and b17.",
+   "result": "التَّوْحِيدِ**)(٢)"
+  },
+  {
+   "id": "d022",
+   "page": 62,
+   "type": "haraka",
+   "a": "وصفاتِه",
+   "b": "وصفاتِهِ",
+   "tanzil": null,
+   "choice": "custom",
+   "note": "Component analysis at 1000 dpi and a zoom at 4000 dpi show only ONE kasra in this word. It is centred under the final heh (kasra cx 226, heh portion ~203-250), not under the ta, whose dots are at cx 268. In the same footnote font the kasra of a ta sits exactly under its dots (بذاتِ: dots cx 347, kasra cx 348), and medial letters carry their own marks (عَطَّلَهَا). So the print has وصفاتهِ. Neither A (kasra on ta) nor B (two kasras) matches.",
+   "result": "وصفاتهِ"
+  },
+  {
+   "id": "d023",
+   "page": 62,
+   "type": "haraka",
+   "a": "ومن",
+   "b": "وَمن",
+   "tanzil": null,
+   "choice": "B",
+   "note": "At 800 dpi (components) the fatha (x 451-482) sits over the head of the waw of ومن (x 413-462), not over the dal of كاليهود (x 491-527). So the print has وَمن.",
+   "result": "وَمن"
+  },
+  {
+   "id": "d024",
+   "page": 63,
+   "type": "punct",
+   "a": "(**وَأَغْرِقْنِي",
+   "b": "**(وَأَغْرِقْنِي",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Zoom: the bold words are inside the markers; the parentheses have the thin regular stroke (compared with the bold letters at 2000 dpi on p.061), so they stay outside the ** as in the finals of b15 and b17.",
+   "result": "(**وَأَغْرِقْنِي"
+  },
+  {
+   "id": "d025",
+   "page": 63,
+   "type": "punct",
+   "a": "الْوَحْدَةِ**)(١)",
+   "b": "الْوَحْدَةِ)**(١)",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Zoom: the bold words are inside the markers; the parentheses have the thin regular stroke (compared with the bold letters at 2000 dpi on p.061), so they stay outside the ** as in the finals of b15 and b17.",
+   "result": "الْوَحْدَةِ**)(١)"
+  },
+  {
+   "id": "d026",
+   "page": 63,
+   "type": "punct",
+   "a": "نَّفْسِكَ﴾[النساء: ٧٩]، (**حَتَّى",
+   "b": "نَّفْسِكَ﴾ [النساء: ٧٩]، **(حَتَّى",
+   "tanzil": null,
+   "choice": "A",
+   "note": "At 1500 dpi the ornament ﴾ touches the bracket in «نَّفْسِكَ﴾[النساء» (about 35 px against about 105 px for the spaced «﴾ [النجم: ٤٢]»), so it is kept glued as printed. No waqf sign is printed after نَّفْسِكَ. The parentheses are regular weight and outside the bold.",
+   "result": "نَّفْسِكَ﴾[النساء: ٧٩]، (**حَتَّى"
+  },
+  {
+   "id": "d027",
+   "page": 63,
+   "type": "punct",
+   "a": "بِهَا**)،",
+   "b": "بِهَا)**،",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Zoom: the bold words are inside the markers; the parentheses have the thin regular stroke (compared with the bold letters at 2000 dpi on p.061), so they stay outside the ** as in the finals of b15 and b17.",
+   "result": "بِهَا**)،"
+  },
+  {
+   "id": "d028",
+   "page": 63,
+   "type": "punct",
+   "a": "(**وَاجْعَلِ الْحِجَابَ الَأْعْظَمَ**)(٣)",
+   "b": "**(وَاجْعَلِ الْحِجَابَ الَأْعْظَمَ)**(٣)",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Zoom: the bold words are inside the markers; the parentheses have the thin regular stroke (compared with the bold letters at 2000 dpi on p.061), so they stay outside the ** as in the finals of b15 and b17.",
+   "result": "(**وَاجْعَلِ الْحِجَابَ الَأْعْظَمَ**)(٣)"
+  },
+  {
+   "id": "d029",
+   "page": 63,
+   "type": "punct",
+   "a": "(**حَيَاةَ رُوحِي**)،",
+   "b": "**(حَيَاةَ رُوحِي)**،",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Zoom: the bold words are inside the markers; the parentheses have the thin regular stroke (compared with the bold letters at 2000 dpi on p.061), so they stay outside the ** as in the finals of b15 and b17.",
+   "result": "(**حَيَاةَ رُوحِي**)،"
+  },
+  {
+   "id": "d030",
+   "page": 63,
+   "type": "punct",
+   "a": "أَمْرِنَا﴾[الشورى:",
+   "b": "أَمْرِنَا﴾ [الشورى:",
+   "tanzil": null,
+   "choice": "A",
+   "note": "At 1500 dpi the flower of ﴾ touches the bracket of «[الشورى» (about 40 px, glued), so A's «أَمْرِنَا﴾[الشورى:» is kept. No waqf sign is printed after أَمْرِنَا.",
+   "result": "أَمْرِنَا﴾[الشورى:"
+  },
+  {
+   "id": "d031",
+   "page": 63,
+   "type": "punct",
+   "a": "(**وَرُوحَهُ**)",
+   "b": "**(وَرُوحَهُ)**",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Zoom: the bold words are inside the markers; the parentheses have the thin regular stroke (compared with the bold letters at 2000 dpi on p.061), so they stay outside the ** as in the finals of b15 and b17.",
+   "result": "(**وَرُوحَهُ**)"
+  },
+  {
+   "id": "d032",
+   "page": 63,
+   "type": "punct",
+   "a": "(**سِرَّ حَقِيقَتِي**)",
+   "b": "**(سِرَّ حَقِيقَتِي)**",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Zoom: the bold words are inside the markers; the parentheses have the thin regular stroke (compared with the bold letters at 2000 dpi on p.061), so they stay outside the ** as in the finals of b15 and b17.",
+   "result": "(**سِرَّ حَقِيقَتِي**)"
+  },
+  {
+   "id": "d033",
+   "page": 63,
+   "type": "haraka",
+   "a": "الله﴾",
+   "b": "اللهِ﴾",
+   "tanzil": null,
+   "choice": "B",
+   "note": "At 2400 dpi a kasra is printed low under the heh of the bold الله ligature, between the two footnote lines and clearly above «(٢) البخاري». It is the same low placement as the kasra of بِاللهِ adjudicated in b15. So the print has اللهِ.",
+   "result": "اللهِ﴾"
+  },
+  {
+   "id": "d034",
+   "page": 64,
+   "type": "punct",
+   "a": "(**وَحَقِيقَتَهُ**)",
+   "b": "**(وَحَقِيقَتَهُ)**",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Zoom: the bold words are inside the markers; the parentheses have the thin regular stroke (compared with the bold letters at 2000 dpi on p.061), so they stay outside the ** as in the finals of b15 and b17.",
+   "result": "(**وَحَقِيقَتَهُ**)"
+  },
+  {
+   "id": "d035",
+   "page": 64,
+   "type": "haraka",
+   "a": "(**جَامِعَ [؟:عَوَالمِي]**)",
+   "b": "**(جَامِعَ [؟:عَوَالِمِي])**",
+   "tanzil": null,
+   "choice": "A",
+   "note": "At 2000 dpi only ONE kasra is printed under the lam-mim-ya ligature (component cx 291, under the lam foot, with the mim loop at about 175-265). In this ligature a lam kasra and a mim kasra fall in the same place, as noted in b27 d019 for the same word. It cannot be assigned with certainty, so A's [؟:عَوَالمِي] marker is kept as in b27. The parentheses are regular weight and outside the bold.",
+   "result": "(**جَامِعَ [؟:عَوَالمِي]**)"
+  },
+  {
+   "id": "d036",
+   "page": 64,
+   "type": "punct",
+   "a": "(**بِتَحْقِيقِ الْحَقِّ الْأَوَّلِ**)",
+   "b": "**(بِتَحْقِيقِ الْحَقِّ الْأَوَّلِ)**",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Zoom: the bold words are inside the markers; the parentheses have the thin regular stroke (compared with the bold letters at 2000 dpi on p.061), so they stay outside the ** as in the finals of b15 and b17.",
+   "result": "(**بِتَحْقِيقِ الْحَقِّ الْأَوَّلِ**)"
+  },
+  {
+   "id": "d037",
+   "page": 64,
+   "type": "punct",
+   "a": "وَلَتَنصُرُنَّهُۥ﴾[آل",
+   "b": "وَلَتَنصُرُنَّهُۥ﴾ [آل",
+   "tanzil": null,
+   "choice": "A",
+   "note": "At 1500 dpi the flower of ﴾ is about 30 px from the bracket of «[آل عمران: ٨١]» (glued; the spaced control is about 105 px), so it is kept glued as printed. No waqf sign is printed after وَلَتَنصُرُنَّهُۥ.",
+   "result": "وَلَتَنصُرُنَّهُۥ﴾[آل"
+  },
+  {
+   "id": "d038",
+   "page": 64,
+   "type": "punct",
+   "a": "(**يَا أَوَّلُ**)",
+   "b": "**(يَا أَوَّلُ)**",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Zoom: the bold words are inside the markers; the parentheses have the thin regular stroke (compared with the bold letters at 2000 dpi on p.061), so they stay outside the ** as in the finals of b15 and b17.",
+   "result": "(**يَا أَوَّلُ**)"
+  },
+  {
+   "id": "d039",
+   "page": 64,
+   "type": "punct",
+   "a": "(**يَا آخِرُ**)",
+   "b": "**(يَا آخِرُ)**",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Zoom: the bold words are inside the markers; the parentheses have the thin regular stroke (compared with the bold letters at 2000 dpi on p.061), so they stay outside the ** as in the finals of b15 and b17.",
+   "result": "(**يَا آخِرُ**)"
+  },
+  {
+   "id": "d040",
+   "page": 64,
+   "type": "punct",
+   "a": "(**يَا ظَاهِرُ**)",
+   "b": "**(يَا ظَاهِرُ)**",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Zoom: the bold words are inside the markers; the parentheses have the thin regular stroke (compared with the bold letters at 2000 dpi on p.061), so they stay outside the ** as in the finals of b15 and b17.",
+   "result": "(**يَا ظَاهِرُ**)"
+  },
+  {
+   "id": "d041",
+   "page": 64,
+   "type": "punct",
+   "a": "(**يَا بَاطِنُ**)",
+   "b": "**(يَا بَاطِنُ)**",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Zoom: the bold words are inside the markers; the parentheses have the thin regular stroke (compared with the bold letters at 2000 dpi on p.061), so they stay outside the ** as in the finals of b15 and b17.",
+   "result": "(**يَا بَاطِنُ**)"
+  },
+  {
+   "id": "d042",
+   "page": 64,
+   "type": "punct",
+   "a": "(**اسْمَعْ نِدَائِي**)",
+   "b": "**(اسْمَعْ نِدَائِي)**",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Zoom: the bold words are inside the markers; the parentheses have the thin regular stroke (compared with the bold letters at 2000 dpi on p.061), so they stay outside the ** as in the finals of b15 and b17.",
+   "result": "(**اسْمَعْ نِدَائِي**)"
+  },
+  {
+   "id": "d043",
+   "page": 64,
+   "type": "punct",
+   "a": "(**بِمَا",
+   "b": "**(بِمَا",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Zoom: the bold words are inside the markers; the parentheses have the thin regular stroke (compared with the bold letters at 2000 dpi on p.061), so they stay outside the ** as in the finals of b15 and b17.",
+   "result": "(**بِمَا"
+  },
+  {
+   "id": "d044",
+   "page": 64,
+   "type": "punct",
+   "a": "زَكَرِيَّا**)،",
+   "b": "زَكَرِيَّا)**،",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Zoom: the bold words are inside the markers; the parentheses have the thin regular stroke (compared with the bold letters at 2000 dpi on p.061), so they stay outside the ** as in the finals of b15 and b17.",
+   "result": "زَكَرِيَّا**)،"
+  },
+  {
+   "id": "d045",
+   "page": 64,
+   "type": "punct",
+   "a": "(**وَانْصُرْنِي بِكَ لَكَ**)",
+   "b": "**(وَانْصُرْنِي بِكَ لَكَ)**",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Zoom: the bold words are inside the markers; the parentheses have the thin regular stroke (compared with the bold letters at 2000 dpi on p.061), so they stay outside the ** as in the finals of b15 and b17.",
+   "result": "(**وَانْصُرْنِي بِكَ لَكَ**)"
+  },
+  {
+   "id": "q001",
+   "page": 62,
+   "type": "quran_marks",
+   "a": "ٱتَّبَعَنِى",
+   "b": null,
+   "tanzil": "ٱتَّبَعَنِى ۖ",
+   "choice": "A",
+   "note": "No waqf sign is printed after the last word of the quotation before the closing ornament (zoom at 900 dpi; the only coloured signs on these pages are ۚ in 12:108 and ۖ in 42:11). The quote ends there, so this is a genuine print variant, as in b15/b17. (ٱتَّبَعَنِى, 12:108)",
+   "result": "ٱتَّبَعَنِى"
+  },
+  {
+   "id": "q002",
+   "page": 63,
+   "type": "quran_marks",
+   "a": "ٱللَّهِ",
+   "b": null,
+   "tanzil": "ٱللَّهِ ۖ",
+   "choice": "A",
+   "note": "No waqf sign is printed after the last word of the quotation before the closing ornament (zoom at 900 dpi; the only coloured signs on these pages are ۚ in 12:108 and ۖ in 42:11). The quote ends there, so this is a genuine print variant, as in b15/b17. (ٱللَّهِ, 4:78)",
+   "result": "ٱللَّهِ"
+  },
+  {
+   "id": "q003",
+   "page": 63,
+   "type": "quran_marks",
+   "a": "تُوَلُّوا",
+   "b": null,
+   "tanzil": "تُوَلُّوا۟",
+   "choice": "A",
+   "note": "The footnote verse is set in bold naskh, not the mushaf font. At 1600 dpi there is no silent-zero sign over the final alif of تُوَلُّوا, so the print is kept as printed (a genuine print variant).",
+   "result": "تُوَلُّوا"
+  },
+  {
+   "id": "q004",
+   "page": 64,
+   "type": "quran_marks",
+   "a": "خَلِيفَةً",
+   "b": null,
+   "tanzil": "خَلِيفَةً ۖ",
+   "choice": "A",
+   "note": "No waqf sign is printed after the last word of the quotation before the closing ornament (zoom at 900 dpi; the only coloured signs on these pages are ۚ in 12:108 and ۖ in 42:11). The quote ends there, so this is a genuine print variant, as in b15/b17. (خَلِيفَةً, 2:30)",
+   "result": "خَلِيفَةً"
+  },
+  {
+   "id": "q005",
+   "page": 64,
+   "type": "quran_marks",
+   "a": "لَكُمْ",
+   "b": null,
+   "tanzil": "لَكُمْ ۖ",
+   "choice": "A",
+   "note": "No waqf sign is printed after the last word of the quotation before the closing ornament (zoom at 900 dpi; the only coloured signs on these pages are ۚ in 12:108 and ۖ in 42:11). The quote ends there, so this is a genuine print variant, as in b15/b17. (لَكُمْ, 3:160)",
+   "result": "لَكُمْ"
+  }
+ ],
+ "extra_edits": [],
+ "rules": {
+  "plain_final_ya": {}
+ },
+ "unresolved_uncertain": [
+  {
+   "page": 64,
+   "reading": "عَوَالمِي",
+   "context": "ثُ الْهِدَايَةُ وَالْيَقِينُ (**جَامِعَ [؟:عَوَالمِي]**) الظَّاهِرَةِ وَالْبَاطِنَةِ فِي جَمِ"
+  }
+ ],
+ "quran_residual": [
+  {
+   "page": 62,
+   "kind": "quran_marks",
+   "keyed": "ٱتَّبَعَنِى",
+   "tanzil": "ٱتَّبَعَنِى ۖ",
+   "ref": "12:108"
+  },
+  {
+   "page": 62,
+   "kind": "quran_marks",
+   "keyed": "ٱلتَّقْوَىٰ",
+   "tanzil": "ٱلتَّقْوَىٰ ۚ",
+   "ref": "2:197"
+  },
+  {
+   "page": 63,
+   "kind": "quran_marks",
+   "keyed": "ٱللَّهِ",
+   "tanzil": "ٱللَّهِ ۖ",
+   "ref": "4:78"
+  },
+  {
+   "page": 63,
+   "kind": "quran_marks",
+   "keyed": "نَّفْسِكَ",
+   "tanzil": "نَّفْسِكَ ۚ",
+   "ref": "4:79"
+  },
+  {
+   "page": 63,
+   "kind": "quran_marks",
+   "keyed": "أَمْرِنَا",
+   "tanzil": "أَمْرِنَا ۚ",
+   "ref": "42:52"
+  },
+  {
+   "page": 63,
+   "kind": "quran_marks",
+   "keyed": "تُوَلُّوا",
+   "tanzil": "تُوَلُّوا۟",
+   "ref": "2:115"
+  },
+  {
+   "page": 63,
+   "kind": "quran_marks",
+   "keyed": "اللهِ",
+   "tanzil": "ٱللَّهِ ۚ",
+   "ref": "2:115"
+  },
+  {
+   "page": 64,
+   "kind": "quran_marks",
+   "keyed": "خَلِيفَةً",
+   "tanzil": "خَلِيفَةً ۖ",
+   "ref": "2:30"
+  },
+  {
+   "page": 64,
+   "kind": "quran_marks",
+   "keyed": "وَلَتَنصُرُنَّهُۥ",
+   "tanzil": "وَلَتَنصُرُنَّهُۥ ۚ",
+   "ref": "3:81"
+  },
+  {
+   "page": 64,
+   "kind": "quran_marks",
+   "keyed": "لَكُمْ",
+   "tanzil": "لَكُمْ ۖ",
+   "ref": "3:160"
+  }
+ ],
+ "keyer_notes": {
+  "keyA": {
+   "uncertain": [
+    {
+     "page": 64,
+     "reading": "عَوَالمِي",
+     "why": "Bold «(جَامِعَ عوالمي)»: only ONE kasra is printed, under the vertical lam-mim-ya ligature (component analysis at 1300-1800 dpi). It cannot be resolved whether it belongs to the lam or to the mim. Written on the mim, because this text regularly vowels the letter before a final ي. Expected عَوَالِمِي."
+    }
+   ],
+   "print_errors": [
+    {
+     "page": 61,
+     "text": "فَتْحًا مُّبِينًا (٢)",
+     "note": "The ayah-end ornament after 48:1 is printed with ٢ instead of ١. The next ornament (after مُّسْتَقِيمًا) is also ٢. Checked at 1000 dpi. Kept as printed."
+    },
+    {
+     "page": 62,
+     "text": "القُدُّوسِيّةِ",
+     "note": "No sukun on the lam, and the shadda on the yeh has no fatha (component map at 2000 dpi). Expected الْقُدُّوسِيَّةِ. Kept as printed."
+    },
+    {
+     "page": 62,
+     "text": "الْمُنَزَّهِةِ",
+     "note": "There is a kasra under the heh and no fatha above it. The nun carries a fatha, and the zay carries shadda+fatha (component map at 1600 dpi). Expected الْمُنَزَّهَةِ. Kept as printed."
+    },
+    {
+     "page": 62,
+     "text": "(وزُجَّ بِي",
+     "note": "The bold initial waw has no fatha (checked at 1600 dpi), unlike (وَاحْمِلْنِي) etc. Kept. The same applies to (وانْشُلْنِي) on the same page."
+    },
+    {
+     "page": 62,
+     "text": "ٱلتَّقْوَىٰ﴾[البقرة: ١٩٧].(وَاقْذِفْ",
+     "note": "No spaces are printed between ﴾ and [, or between ]. and (. The gap ﴾→[ is 26 px at 1000 dpi, where spaced cases on the same page are 67-89 px. Kept glued."
+    },
+    {
+     "page": 63,
+     "text": "الَأْعْظَمَ",
+     "note": "In bold «(وَاجْعَلِ الْحِجَابَ الَأْعْظَمَ)», the marks on the lam-alif are swapped: a fatha sits over the lam stroke, and a round sukun sits over the hamza on the alif stroke. Compare the correct bold الْأَحَدِيَّةِ (p.062) and الْأَوَّلِ (p.064), where the sukun is over the lam stroke and the fatha over the hamza. Kept as printed."
+    },
+    {
+     "page": 63,
+     "text": "أى وجه تجلى وظهور.",
+     "note": "أي is printed with a dotless ى (footnote 1). A stray space is printed before the final period («وظهور .», a 44 px gap at 1000 dpi). It was normalized per CONVENTIONS §2."
+    },
+    {
+     "page": 63,
+     "text": "مِّنْ أَمْرِنَا﴾[الشورى: ٥٢]",
+     "note": "A wide space (justified, about 170 px at 1000 dpi) is printed between أَمْرِنَا and ﴾. It was normalized to no space per §2. ﴾ and [ are printed glued (27 px) and kept glued. The same glued ﴾[ is kept in «نَّفْسِكَ﴾[النساء: ٧٩]» (24 px)."
+    },
+    {
+     "page": 63,
+     "text": "﴿فَأَيْنَمَا تُوَلُّوا فَثَمَّ وَجْهُ الله﴾",
+     "note": "The Quran quotation in footnote 1 is set in bold naskh, not the mushaf font. It is transcribed with its printed marks: no silent-zero on تُوَلُّوا, and no case vowel on الله (the font's ligature only). scripts/quran.py flags both against Tanzil, as expected."
+    },
+    {
+     "page": 64,
+     "text": "مَعْ بِشَارَةِ / مَعْ ظُهُورِ",
+     "note": "Both are printed with fatha on the mim and a sukun on the ain (مَعْ), not مَعَ. Component maps at 800 dpi. Kept as printed."
+    },
+    {
+     "page": 64,
+     "text": "مُّؤَزَّرًا",
+     "note": "Shadda+damma is printed on the initial mim (expected مُؤَزَّرًا). Kept as printed."
+    },
+    {
+     "page": 64,
+     "text": "خَلِيفَةً﴾ [البقرة: ٣٠] / لَكُمْ﴾ [آل عمران: ١٦٠]",
+     "note": "A visible gap is printed before ﴾ (120 px and 68 px at 1000 dpi). It was normalized to no space per §2."
+    }
+   ],
+   "notes": "Markers: p.061 continues p.060 mid-sentence (p.060 ends «مِن رَّفِيعِ الرُّتْبَةِ», and p.061 begins «وَعَظِيمِ الْمَنْزِلَةِ»). p.062 continues the hadith «إِنَّمَا | بُعِثْتُ». p.063 and p.064 also begin mid-sentence, so all four pages get '+'. No footnote continues across pages. Paragraphs: on p.061 a new indented paragraph starts at «الْخَاضِعُ» after «[الفتح: ١-٣].», and p.062 is one paragraph. On p.063 a new indented paragraph starts at «(وَرُوحَهُ)». On p.064 one starts at «(يَا أَوَّلُ)» after «[آل عمران: ٨١].». Bold: the bold Mashishiyya phrases and the bold hadith texts are wrapped (**…**) and «**…**», with the light-weight parentheses and quotes outside, as in keyA b15. The bold spans that cross a line join into one span. The hadith «إِنَّمَا بُعِثْتُ…» crosses the page break, so it is closed at the end of p.061 and reopened on p.062. «(وَرُوحَهُ)» on p.063 is bold (checked at 1000 dpi). The hadith «كُنْتُ أَوَّلَ النَّاسِ…» on p.064 is in regular weight, as is «جَيْشِ» between two bold spans on p.062. Lam-mim and lam-ha mark clusters were resolved by connected-component analysis (BFS labelling, colour maps under scratch\\a16). In the regular font at 1600 dpi, sukun alone measures about 74x55 / 2200 px, sukun+fatha about 90x86 / 3000, and sukun+damma about 97x94 / 3450. This gives الْمَنْزِلَةِ (p.061: sukun+fatha over lam, plus a separate sukun for the nun), الْمَسَالِكِ, الْمُحِيطَةِ, الْمُوقِعَةِ, الْمُنَزَّهِةِ, and الْكَثْرَةِ (sukun alone, then fatha on kaf). In bold, the 'hat' cluster (81x78 / 2486, identical to الْجَامِعُ on p.060) is sukun+fatha: الْجَهْلِ, الْحَقِّ. A lone damma with an open loop means no sukun on the lam: الجِسْمَانِيِّ (nothing on the lam), القُدُّوسِيّةِ, and المُجَسِّمة in the p.062 footnote. In the footnote, الْمُوَصِّلُ (p.063 fn 3) has a filled sukun+damma cluster. وَالتَّلْقِينُ (p.063) has a sukun on the lam and a plain kasra on the qaf, with no shadda. Quran: the encoding follows Tanzil, with the dagger alif written directly after the letter. The upright rectangular zero ۠ on أَنَا۠ (12:108) was distinguished from the round zero ۟ on أَدْعُوٓا۟ by direct shape comparison: an upright oval with a tall flat-bottomed hole, versus a tilted round zero. The blue small-jim ۚ (12:108) and the صلى signs ۖ (42:11, 4:79, 32:24) are printed and kept. The quote-final waqf signs that Tanzil has (12:108, 2:197, 4:78, 4:79, 42:52, 2:30, 3:81, 3:160) are not printed and are not added; scripts/quran.py flags these as quran_marks only. Hamza seats follow Tanzil: أَئِمَّةً has its hamza drawn below the tooth, and بِـَٔايَٰتِنَا has the hamza on a kashida seat. ٱلنَّبِيِّـۧنَ keeps Tanzil's tatweel + small high yeh. Spacing: '[الفتح: ١-٣]' has no spaces around the dash. Digit-gap measurements show the gaps equal the digits' own side-bearings, as in «١٠٧». '[الإسراء:١]' is printed with no space after the colon. On p.062, ﴾→[ before [محمد: ٢١] is 45 px against 26 px glued, so it is kept with a space. On p.064, ﴾→[ before [آل عمران: ١٦٠] is also 45 px and kept with a space. «]،﴿وَمَا» (p.062) has a 48 px gap, the same as the glued «]،﴿مَّن» on p.060 (42 px), so it is kept glued. The name الله: with a printed case vowel over the font ligature it is written as in keyA b13-b15 (no explicit shadda). The bold «(اللَّهُمَّ…)» on p.061 has an explicit shadda+fatha on the lam (component map) and is written with all its marks. Final ى: the small alif over final ى on these pages is the font's (none of pp.061-064 is in ref\\typed_dagger_pages.json), so it is written plain (حَتَّى، عَلَى، الهَوَى، تَرَدَّى، تعالى، تجلى). On p.064, «(يَا أَوَّلُ)…» is in a tight font. Normal word spaces are written, as the print gives no other evidence. validate.py prints OK."
+  },
+  "keyB": {
+   "uncertain": [
+    {
+     "page": 64,
+     "reading": "عَوَالِمِي",
+     "why": "In the bold «(جَامِعَ عَوَالِمِي)» only ONE kasra is printed under the lam-meem-yeh ligature (checked at 3000-3200 dpi). It cannot be decided whether it is the lam's kasra, the meem's kasra, or two identical kasras placed on the same anchor and overlapping. Written with both kasras as the most likely reading, inside [؟:…]."
+    }
+   ],
+   "print_errors": [
+    {
+     "page": 61,
+     "text": "فَتْحًا مُّبِينًا (٢) لِّيَغْفِرَ",
+     "note": "The ayah ornament after مُّبِينًا (al-Fath 48:1) contains ٢, not ١. At 1000 dpi it is the same digit glyph as in the (٢) after مُّسْتَقِيمًا. Kept as printed (٢), so the passage shows (٢) twice and then (٣)."
+    },
+    {
+     "page": 62,
+     "text": "(وَاحِمْلْنِي)",
+     "note": "In the bold حم ligature the kasra is under the ح and the sukun circle is over the م (expected وَاحْمِلْنِي). Checked at 3000 dpi against رَحْمَةً (line 1) and حَمْلًا (line 6) on the same page. In those words the ح's mark sits over the middle of the ح stroke and the م's mark sits further left over the hook and the meem. Here the sukun has the meem position and the kasra the ح position, the same pattern as حَمْلًا (ح vowel + م sukun). Kept as printed."
+    },
+    {
+     "page": 62,
+     "text": "الرَّبَانِيَّةِ",
+     "note": "The ب has a fatha only, with no shadda (expected الرَّبَّانِيَّةِ). The ر and the ي carry shadda+fatha. Checked at 3500 dpi. Kept as printed."
+    },
+    {
+     "page": 62,
+     "text": "الْمُنَزَّهِةِ",
+     "note": "A kasra stands under the ه, which has nothing above it (expected الْمُنَزَّهَةِ). The ز has shadda+fatha and the ة has a kasra. Checked at 2500 dpi. Kept as printed."
+    },
+    {
+     "page": 63,
+     "text": "(وَاجْعَلِ الْحِجَابَ الَأْعْظَمَ)",
+     "note": "In the bold lam-alif the fatha is over the lam stroke and the sukun circle is directly over the hamza, the reverse of the correct الْأَحَدِيَّةِ (p.062) and الْأَوَّلِ (p.064), where the circle is over the lam stroke and the fatha over the hamza. A separate sukun circle stands over the ع. Expected الْأَعْظَمَ. Checked at 2500 dpi. Kept as printed. The same kind of error as الَأنْوَارُ on p.058."
+    },
+    {
+     "page": 63,
+     "text": "أى وجه تجلى وظهور.",
+     "note": "Footnote (١) is printed «وظهور .» with a space before the final period. The space is dropped per CONVENTIONS §2 (no space before «.»)."
+    }
+   ],
+   "notes": "Markers: all four pages are '+'. p061 continues p060 («شُكْرًا عَلَى مَا أَوْلَيْتَهُ مِن رَّفِيعِ الرُّتْبَةِ» → «وَعَظِيمِ الْمَنزِلَةِ»). p060's only footnote «(١) البخاري ومسلم.» is complete, so there is no (تابع). p062, p063 and p064 each continue mid-sentence. The bold «إِنَّمَا … مُهْدَاةً» is split at the p061/p062 turn and each part is closed on its own page. Paragraph breaks (indented / after a short line): p061 «الْخَاضِعُ», p063 «(وَرُوحَهُ)», p064 «(يَا أَوَّلُ)». Bold vs regular was measured by median stroke width at 1200 dpi (bold 16-19 px, regular 11-13 px; scratch\\b16B\\stroke.py). Bold covers every parenthesised matn phrase, parentheses included in the ** as in keyB b15/b17, plus the bold hadiths «كُلُّ سَبَبٍ … وَنَسَبِي» (p061), «إِنَّمَا بُعِثْتُ رَحْمَةً مُهْدَاةً» (p061-062) and «فَإِذَا أَحْبَبْتُهُ … يَمْشِي بِهَا» (p063). For all three the guillemets are regular weight, so the ** is inside them. The p064 hadith «كُنْتُ أَوَّلَ النَّاسِ خَلْقًا … وَخَاتَمًا» measures regular (11-13) and is unmarked. The p064 paragraph «(يَا أَوَّلُ)…» is in a slightly different typeface: the parenthesised parts measure bold (17) and the rest regular (12-13). Lam ligatures checked at 3000-4000 dpi. Regular font: a hook-sukun crossed by a fatha = lam sukun + next letter fatha (الْمَنزِلَةِ، الْمَسَالِكِ، الْمَعَانِي). The filled 'blob' damma with the sukun hook overlapping it = lam sukun + meem damma (الْمُحِيطَةِ، الْمُنَزَّهِةِ، الْمُوقِعَةِ، الْمُحَمَّدِيَّةِ، fn الْمُوَصِّلُ). Bold font: a circle-sukun crossed by a fatha = lam sukun + fatha (الْجَهْلِ، الْحَقِّ). Lams printed bare are kept bare: الجِسْمَانِيِّ، القُدُّوسِيّةِ (also shadda without fatha on the ي)، الهَوَى، المُجَسِّمة (fn). Other partial or unusual vowelling, kept as printed: (وزُجَّ and (وانْشُلْنِي (no fatha on و, while the rest is fully vowelled), مَعْ (twice on p064, with sukun), وَخَاتَمًا (fatha on ت, checked at 3000 dpi, with fathatan on the م and a separate fatha over the ت), فَأَدْمَغَهُ and وَأُدْحِضَهُ (fatha on the last radical), كاليهود وَمن (fn, fatha on the و of ومن, not on the د), اللهِ with kasra in the p063 footnote verse. In (عَلَى سَبِيلِهِ) and (وَاقْذِفْ بِي عَلَى) the second fatha of على sits left of the lam, over the start of the ى. It is read as the lam's fatha. Final ى with the automatic small alif is written plain (حَتَّى، إِلَى، الهَوَى، تَرَدَّى، تعالى، أى، تجلى، إلى). Spacing: the print often sets the ornament brackets and parentheses touching neighbours («﴾[البقرة», «].(وَاقْذِفْ», «]،﴿وَمَا», «﴾[الشورى», «﴾[النساء», «﴾[آل عمران», «(يَاأَوَّلُ)لَيْسَ», «(يَاآخِرُ)تَقَدَّسَ»). These are normalised to one space between words / after closing punctuation, as in keyB b15. «[الإسراء:١]» is printed without a space after the colon and kept so. «[السجدة: ٢٤]» has no punctuation after it, as printed. Quran: all quotations were checked letter by letter against the Tanzil Uthmani text (dagger alif written without tatweel). quran.py flags only (a) waqf signs Tanzil has after the last word of a cut quotation (ۖ after ٱتَّبَعَنِى، خَلِيفَةً، ٱللَّهِ 4:78، لَكُمْ 3:160; ۚ after ٱلتَّقْوَىٰ، نَّفْسِكَ، أَمْرِنَا، وَلَتَنصُرُنَّهُۥ), which are not printed: the zooms show nothing there, and a colour scan finds only two blue signs on these pages, ۚ in 12:108 and ۖ in 42:11; the black ۖ in 4:79 and 32:24 are transcribed. (b) The footnote verse on p063 «﴿فَأَيْنَمَا تُوَلُّوا فَثَمَّ وَجْهُ اللهِ﴾», which is set in the ordinary bold naskh (not the Uthmani font) inside ornate brackets and is transcribed with its printed harakat. Encodings following Tanzil: أَئِمَّةً (the print draws the Madinah form, hamza+kasra under the nabira), بِـَٔايَٰتِنَا and ٱلنَّبِيِّـۧنَ (tatweel seat carrying ـَٔ / ۧ), أَنَا۠ (upright oval zero, distinct from the round zero ۟ of أَدْعُوٓا۟، صَبَرُوا۟، وَكَانُوا۟، صَدَقُوا۟، وَتَزَوَّدُوا۟), مُّحِيطٌۢ (small high meem printed), شَىْءٌ / شَىْءٍ and إِنِّى / فِى / عِبَادِى / سَبِيلِىٓ / ٱلَّذِىٓ / لَتَهْدِىٓ / ٱتَّبَعَنِى with dotless ى as printed. Honorific: ﷺ glyph in p063 fn3. validate.py: OK with no warnings. Zoom images: scratch\\b16B\\."
+  }
+ }
+}

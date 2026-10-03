@@ -1,0 +1,26 @@
+{
+ "mode": "spots",
+ "decisions": {
+  "d001": {
+   "choice": "A",
+   "note": "p053 l.10 at 1000 dpi: the comma touches the alif of اهدني, with the same tight gap as ن|، and no word space after it (the word gaps on the line are much wider). Kept as printed, following the earlier precedent for a missing space after punctuation (أسماؤه.وكذلك, رحمه الله .كما)."
+  },
+  "d002": {
+   "choice": "custom",
+   "text": "وَمَغْفَرَةً مِنْكَ وَرِضْوَانَا.",
+   "note": "p054 l.3 at 1500 dpi: مغفرة has a clear fatha over the fa and no kasra under it (A is right). رضوانا has one single fatha stroke over the nun, not the double tanween stroke seen on وعافيةً/ومغفرةً beside it (B is right). Both are print slips, kept as printed."
+  },
+  "d003": {
+   "choice": "A",
+   "note": "p056 l.11 at 1800 dpi: الإجابة has only the hamza under the alif and no kasra stroke, unlike إِنِّي on the same page. A is right, as printed."
+  }
+ },
+ "extra_edits": [
+  {
+   "page": 56,
+   "find": "وَعَدُوًّا لأَعْدَائِكَ",
+   "replace": "وَعَدُوًا لأَعْدَائِكَ",
+   "note": "p056 l.9 at 2400 dpi: the waw of عدوا has only the two parallel tanween strokes and no shadda (compare ضالِّين/مضلِّين on the same line, where the shadda is clear). Both keyers added a shadda that is not printed."
+  }
+ ]
+}

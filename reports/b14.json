@@ -1,0 +1,215 @@
+{
+ "batch": "b14",
+ "agreement": 0.9905,
+ "counts": {
+  "punct": 1,
+  "haraka": 2
+ },
+ "n_items": 3,
+ "n_quran_flags": 0,
+ "n_uncertain_flags": 0,
+ "mode": "spots",
+ "choices": {
+  "A": 2,
+  "B": 0,
+  "T": 0,
+  "custom": 1
+ },
+ "decisions": [
+  {
+   "id": "d001",
+   "page": 53,
+   "type": "punct",
+   "a": "يَخْتَلِفُون،اهْدِنِي",
+   "b": "يَخْتَلِفُون، اهْدِنِي",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p053 l.10 at 1000 dpi: the comma touches the alif of اهدني, with the same tight gap as ن|، and no word space after it (the word gaps on the line are much wider). Kept as printed, following the earlier precedent for a missing space after punctuation (أسماؤه.وكذلك, رحمه الله .كما).",
+   "result": "يَخْتَلِفُون،اهْدِنِي"
+  },
+  {
+   "id": "d002",
+   "page": 54,
+   "type": "haraka",
+   "a": "وَمَغْفَرَةً مِنْكَ وَرِضْوَانًا.",
+   "b": "وَمَغْفِرَةً مِنْكَ وَرِضْوَانَا.",
+   "tanzil": null,
+   "choice": "custom",
+   "note": "p054 l.3 at 1500 dpi: مغفرة has a clear fatha over the fa and no kasra under it (A is right). رضوانا has one single fatha stroke over the nun, not the double tanween stroke seen on وعافيةً/ومغفرةً beside it (B is right). Both are print slips, kept as printed.",
+   "result": "وَمَغْفَرَةً مِنْكَ وَرِضْوَانَا."
+  },
+  {
+   "id": "d003",
+   "page": 56,
+   "type": "haraka",
+   "a": "الإجَابَةُ",
+   "b": "الإِجَابَةُ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p056 l.11 at 1800 dpi: الإجابة has only the hamza under the alif and no kasra stroke, unlike إِنِّي on the same page. A is right, as printed.",
+   "result": "الإجَابَةُ"
+  }
+ ],
+ "extra_edits": [
+  {
+   "page": 56,
+   "find": "وَعَدُوًّا لأَعْدَائِكَ",
+   "replace": "وَعَدُوًا لأَعْدَائِكَ",
+   "note": "p056 l.9 at 2400 dpi: the waw of عدوا has only the two parallel tanween strokes and no shadda (compare ضالِّين/مضلِّين on the same line, where the shadda is clear). Both keyers added a shadda that is not printed."
+  }
+ ],
+ "rules": {
+  "plain_final_ya": {}
+ },
+ "unresolved_uncertain": [],
+ "quran_residual": [],
+ "keyer_notes": {
+  "keyA": {
+   "uncertain": [],
+   "print_errors": [
+    {
+     "page": 53,
+     "text": "يَخْتَلِفُون،اهْدِنِي",
+     "note": "No space printed after the comma (kept glued as printed); nun of يختلفون carries no fatha."
+    },
+    {
+     "page": 53,
+     "text": "مِنْ الحَقِّ",
+     "note": "Sukun printed on مِن before the article (expected مِنَ الحَقِّ); kept as printed."
+    },
+    {
+     "page": 54,
+     "text": "ارْزُقَنِي",
+     "note": "Fatha printed on the qaf (expected ارْزُقْنِي)."
+    },
+    {
+     "page": 54,
+     "text": "اللَّهُمِّ إِنِّي",
+     "note": "Twice (lines 2 and 4): shadda+kasra printed on the mim of اللهم instead of shadda+fatha; kept as printed. Other اللَّهُمَّ on the page are normal."
+    },
+    {
+     "page": 54,
+     "text": "وَمَغْفَرَةً",
+     "note": "Fatha printed on the fa (expected وَمَغْفِرَةً)."
+    },
+    {
+     "page": 54,
+     "text": "مُطَمَئِنَةً",
+     "note": "Fatha on ta and no shadda on nun (expected مُطْمَئِنَّةً)."
+    },
+    {
+     "page": 54,
+     "text": "يَا قَيِّومُ",
+     "note": "Shadda+kasra printed on the ya (expected قَيُّومُ)."
+    },
+    {
+     "page": 54,
+     "text": "كَلِّ ذِي شَرٍّ",
+     "note": "Fatha printed on the kaf (expected كُلِّ)."
+    },
+    {
+     "page": 54,
+     "text": "طَرْفَةَ عَيْن،",
+     "note": "No tanween on عين (expected عَيْنٍ)."
+    },
+    {
+     "page": 54,
+     "text": "قَبْلَكَ شَيء،",
+     "note": "No tanween on this شيء, unlike the following شَيءٌ ×3."
+    },
+    {
+     "page": 54,
+     "text": "مِنْ الفَقْر.",
+     "note": "Sukun on مِن before the article; no vowel on final ra."
+    },
+    {
+     "page": 54,
+     "text": "الْأرَضِينَ",
+     "note": "Sukun printed over the lam of the article and no fatha on the hamza; kept as printed."
+    },
+    {
+     "page": 56,
+     "text": "وَنَورًا مِنْ بَيْن يَدَيَّ",
+     "note": "Fatha printed on the nun of نور (all other occurrences are نُورًا); بَيْن has no fatha on the nun."
+    },
+    {
+     "page": 56,
+     "text": "وَعَلَيكَ الإجَابَةُ",
+     "note": "No sukun on the ya of the first وعليك (the second has وَعَلَيْكَ) and no kasra under the hamza of الإجابة."
+    }
+   ],
+   "notes": "No footnotes, headings or Quran on pp.053-056 (all fully vowelled dua prose of حزب الفتح الصديقي). p.052 ends with a complete sentence and p.053 opens with an indented line, so p.053 has no '+'; pp.054 and 056 continue the previous page's sentence ('+'); p.055 starts a new indented paragraph. Small alif over final ى (إِلَى، عَلَى، النَّوَى) is the automatic Lotus glyph and is written as plain ى. The print often puts sukun on a long ya/waw (وَإِسْرَافِيْلَ، فِيْمَا، خَطِيْئَتِي، دُوْنَكَ); kept as printed. Marks deliberately absent as printed: الوَهَّاب. ; شيءٍ (p.053, no fatha on shin); شَقيًّا (no kasra on qaf); وَأَسْأَلُك لِسَانًا (no fatha on kaf, p.054); تَعْلَم، ×2; وَأَعْظِم (no sukun); اجْعَل لِّي. p.054 أَصْلِح لِي: a single kasra sits inside the bowl of the final ha and no sukun is printed; read as the lam's kasra (أَصْلِحْ imperative) — reviewer may wish to confirm. p.056 سَلَمًا printed with fatha on sin and lam. Zooms were rendered from zoom.py coordinates (the pages\\ PNGs are framed differently from the PDF page box)."
+  },
+  "keyB": {
+   "uncertain": [],
+   "print_errors": [
+    {
+     "page": 53,
+     "text": "وَكُلَّ ذَلِكَ عِنْدِي",
+     "note": "Printed shadda+fatha on the lam (verified at 3000 dpi); the hadith reads وَكُلُّ. Kept as printed."
+    },
+    {
+     "page": 53,
+     "text": "مِنْ الحَقِّ",
+     "note": "Printed with sukun on the nun before the article (expected مِنَ). Kept as printed."
+    },
+    {
+     "page": 54,
+     "text": "اللَّهُمَّ ارْزُقَنِي",
+     "note": "Printed fatha on the qaf of ارزقني (expected sukun). Kept as printed."
+    },
+    {
+     "page": 54,
+     "text": "اللَّهُمِّ إِنِّي أَسْأَلُكَ صِحَّةَ / اللَّهُمِّ إِنِّي أَسْأَلُكَ نَفْسًا",
+     "note": "In these two places the mim of اللهم carries shadda with the kasra stroke under it (same mark shape as on the nun of إِنِّي), not shadda+fatha as in every other اللهم on these pages. Kept as printed."
+    },
+    {
+     "page": 54,
+     "text": "مُطَمَئِنَةً",
+     "note": "Printed fatha on the ta' (not sukun) and the nun has only a fatha with no shadda (expected مُطْمَئِنَّةً). Kept as printed."
+    },
+    {
+     "page": 54,
+     "text": "يَا قَيِّومُ",
+     "note": "The ya' carries shadda+kasra (expected قَيُّومُ, compare حَيُّ just before). Kept as printed."
+    },
+    {
+     "page": 54,
+     "text": "وَرَبَّ الْأرَضِينَ",
+     "note": "Sukun printed on the lam; the hamza has no vowel and the only fatha stands over the ra'. Kept as printed."
+    },
+    {
+     "page": 54,
+     "text": "مِنْ شَرِّ كَلِّ ذِي شَرٍّ",
+     "note": "Printed fatha on the kaf of كل (expected كُلِّ). Kept as printed."
+    },
+    {
+     "page": 54,
+     "text": "وَرِضْوَانَا",
+     "note": "Single fatha on the nun, not tanween (expected وَرِضْوَانًا). Kept as printed."
+    },
+    {
+     "page": 54,
+     "text": "وَأَسْأَلُك لِسَانًا",
+     "note": "This one occurrence has no fatha on the final kaf, unlike every other أَسْأَلُكَ on these pages. Kept as printed."
+    },
+    {
+     "page": 54,
+     "text": "مِنْ الفَقْر.",
+     "note": "Sukun on the nun before the article, and no vowel on the final ra'. Kept as printed."
+    },
+    {
+     "page": 56,
+     "text": "وَنَورًا مِنْ بَيْن يَدَيَّ",
+     "note": "Printed fatha on the nun of the third نورا (all the others have damma). Kept as printed."
+    },
+    {
+     "page": 56,
+     "text": "سَلَمًا لأَوْلِيَائِكَ",
+     "note": "Printed with fatha on both sin and lam (commonly سِلْمًا). Kept as printed."
+    }
+   ],
+   "notes": "p053 starts a new indented paragraph after p052 ended with «يَا رَحْمَنُ.», so there is no + marker; p052's footnotes end on that page, so there is no (تابع). p054 and p056 continue sentences from the previous page (+). There are no footnotes, headings or bold on pp.053-056: the whole dua is set in one heavier font. p053: the kasra under «الله» in «بِسْمِ اللهِ» sits low between the lines but belongs to line 1, and «بِاللهِ» also has a printed kasra. Following my earlier batches, Allah is written with only the printed case vowel (the automatic ligature shadda/small alif is not written). p053: the print has no space after the comma in «يَخْتَلِفُون،اهْدِنِي»; I wrote one space under the one-space-between-words rule. Final ى in إِلَى/عَلَى/وَالنَّوَى/وَتَرْضَى has the automatic Lotus small alif, so it is written as plain ى. Partial vowelling is kept as printed, for example: نَعَّار، (no vowel on the ra'), الوَهَّاب., يَخْتَلِفُون، (no fatha on the nun), شيءٍ (p053, no fatha on the shin) against شَيء، and شَيءٌ (p054), عَيْن، (p054), أَصْلِح (kasra only on the lam), تَعْلَم، (twice), وَعَلَيكَ (first occurrence on p056, no sukun on the ya'), بَيْن يَدَيَّ, اجْعَل لِّي, وَأَعْظِم. Sukun printed on a madd ya' or waw is kept: وَإِسْرَافِيْلَ, فِيْمَا, خَطِيْئَتِي, دُوْنَكَ. Shadda is written before its vowel throughout."
+  }
+ }
+}

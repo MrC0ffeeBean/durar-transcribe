@@ -1,0 +1,16 @@
+{
+  "uncertain": [],
+  "print_errors": [
+    {"page": 49, "text": "إلي ما قبل الظهر / المغرب إلي ما قبل الفجر", "note": "Printed twice with dotted yeh (for إلى); kept as printed."},
+    {"page": 49, "text": "المائة :(عدد / كلماتِكَ ، وكما", "note": "Print has a stray space before ':' and before '،'; normalized per CONVENTIONS §2 spacing rule to 'المائة:(عدد' and 'كلماتِكَ، وكما' (no space added after the colon, none is printed)."},
+    {"page": 50, "text": "السَّيِئَاتِ", "note": "No shadda on the yeh (expected السَّيِّئَات); kasra under yeh only, as printed."},
+    {"page": 50, "text": "وَتُبَلِغُنَا", "note": "No shadda on the lam (expected وَتُبَلِّغُنَا); kept."},
+    {"page": 50, "text": "بِوَجِهِه", "note": "Kasra printed under jim and under the medial heh, final heh bare (expected بِوَجْهِهِ); kept."},
+    {"page": 51, "text": "كَلِّ شَيءٍ", "note": "Fatha on kaf (expected كُلِّ); kept."},
+    {"page": 51, "text": "[أَمْسَيِتُ]", "note": "Kasra under yeh (expected أَمْسَيْتُ); kept."},
+    {"page": 52, "text": "أَقْتَرَفَ", "note": "Fatha on ra, ta bare, no kasra under ra (expected أَقْتَرِفَ after أَنْ); checked at 2400 dpi; kept."},
+    {"page": 52, "text": "المُضطَّرِينَ", "note": "Shadda+fatha printed on ta, no sukun on dad, kasra under ra (expected المُضْطَرِّينَ); kept."},
+    {"page": 52, "text": "مِنْ السَّمَاءِ", "note": "Sukun on nun before the article (expected مِنَ); kept."}
+  ],
+  "notes": "Page 049 opens with a new # heading, so no '+' marker; p048 has no footnotes, so no (تابع). None of pp.050-052 continues the previous page (each previous page ends a sentence/paragraph). Allah: where a case vowel is printed after the font's automatic shadda+small-alif ligature (اللهَ on pp.049, 052) I wrote only the printed vowel: اللهَ; the bare ligature is الله / بِالله. p049 heading written 'الورد اليومي (الأساس)' (the gap after د is narrow in the bold title font; STRUCTURE gives two words). p049 bullets '*' kept as the printed asterisk glyph. p050: 'وتقسم على جميع الحاضرين.' is a bold standalone sentence ending in '.', so I wrote a bold paragraph, not a heading. p050 'في الملمات ... بالتلقي:' and the following Tazi salawat are one paragraph (the line before is full width, the next has no indent and no extra leading). Likewise p051 'أربع مرات.' closes the preceding paragraph. p051 heading: shadda above and kasra below the ص of الصِّديقي (bold title font). The intro line يُقْرَأُ … under the p051 title is a plain paragraph per STRUCTURE §2, even though it is set bold. The Quran ref '[الأعراف:٨٩].' is printed without spaces and is kept so. Other unusual vowelling kept as printed: اللَّهُمّ (shadda only, p051), كلُّه (bare kaf, p051), وَحْدَك / سَيِّدنَا / إِني (p051), الغَيبِ, وَالأرْضِ, إِلَه, دَعْوةِ, الأَرْض (p052), الخَوَاتِيْم (p050). quran.py raised no flags."
+}

@@ -1,0 +1,10 @@
+{
+  "uncertain": [],
+  "print_errors": [
+    {"page": 41, "text": "للإمام البصيرى", "note": "Printed البصيرى (no waw) for البوصيري; kept as printed (checked at 600 dpi)."},
+    {"page": 42, "text": "بالاضافه إلي الدروس", "note": "Printed بالاضافه (bare alif after lam, final ه) and إلي with dotted ي; kept as printed."},
+    {"page": 42, "text": "وإلي الآن", "note": "إلي printed with dotted ي; kept as printed."},
+    {"page": 44, "text": "علي قناة الساوند كلاود", "note": "علي (dotted ي) where على is meant; kept as printed."}
+  ],
+  "notes": "p041 continues p040 (paragraph broken mid-list after «ورياض الصالحين»), so marker 041+. Pages 042-044 begin new indented paragraphs. No footnotes on pages 041-044. ى vs ي follows the print: the small-alif ى forms (البيجورى، البصيرى، النبوى، فى، سيدى، على، إلى، صلى، كفى) are written ى, the dotted forms (في، إلي، علي، النبي) are written ي. Separate «و » before a word is kept where printed with a space (و التبيان، و الخريدة، و الإمام، و العلماء …). The print has stray spaces before some punctuation (p041 «لله ،», p042 «يو تيوب .», p043 «بكربلاء .»، «بالمغرب .»، «العلم .»); per CONVENTIONS §2 these are written without the space. p042 «يو تيوب» is printed as two words (the gap is as wide as a word space, unlike «اليوتيوب» earlier in the paragraph), so it is kept split. p042 «كاملًا»: the fathatan sits over the lam-alif ligature, so it is encoded on the lam; «سنوياً» and p044 «اسبوعياً» have it clearly after the alif. Spacing of dates as printed: «٢٠١٤ م ١٤٣٦ هـ» (p042), «١٤٣٥هـ.» and «٢٠١١م.» (p043), «٢٠١٣ م.» (p044). p043 «بن بشيش» is printed with ب (not مشيش); kept. p044 table: there is no printed header row, so the first printed row is used as the Markdown header row. The Arabic label column comes first. The YouTube URL wraps onto two lines in its cell; per §11 the break became one space («channel/ UCHUZY…»). The channel id was checked at 900 dpi: UCHUZYEvS7utmviL1C3EYrwA. «وما بكم من نعمة فمن الله» (p042) is printed in the body font without ﴿﴾, so it is transcribed as ordinary text."
+}

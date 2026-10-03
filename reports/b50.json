@@ -1,0 +1,443 @@
+{
+ "batch": "b50",
+ "agreement": 0.956,
+ "counts": {
+  "haraka": 24,
+  "letters": 1,
+  "punct": 2
+ },
+ "n_items": 27,
+ "n_quran_flags": 3,
+ "n_uncertain_flags": 0,
+ "mode": "spots",
+ "choices": {
+  "A": 27,
+  "B": 3,
+  "T": 0,
+  "custom": 0
+ },
+ "decisions": [
+  {
+   "id": "d001",
+   "page": 197,
+   "type": "haraka",
+   "a": "مَحْنِيَة",
+   "b": "مَحْنِيَةٍ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p197 bayt 5: at 1000 dpi the final ة of «مَحْنِيَة» in the verse has no tanween beneath it (only kasra under ن and fatha on ي). The gloss prints مَحْنِيَةٍ, but the verse does not.",
+   "result": "مَحْنِيَة"
+  },
+  {
+   "id": "d002",
+   "page": 197,
+   "type": "haraka",
+   "a": "بأَبْطَحَ",
+   "b": "بِأَبْطَحَ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p197 bayt 5: at 900 dpi there is no kasra under the ب of «بأَبْطَحَ», only its dot. The kasratan belongs to صَافٍ.",
+   "result": "بأَبْطَحَ"
+  },
+  {
+   "id": "d003",
+   "page": 197,
+   "type": "haraka",
+   "a": "مَوعُودَهَا",
+   "b": "مَوْعُودَهَا",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p197 bayt 7: no sukun over the waw of «مَوعُودَهَا» at 800 dpi (fatha on م, damma on ع only).",
+   "result": "مَوعُودَهَا"
+  },
+  {
+   "id": "d004",
+   "page": 197,
+   "type": "haraka",
+   "a": "مِن",
+   "b": "مِنْ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p197 bayt 8: no sukun over the ن of «مِن» (kashida-stretched) at 800 dpi.",
+   "result": "مِن"
+  },
+  {
+   "id": "d005",
+   "page": 197,
+   "type": "haraka",
+   "a": "القذىٰ-",
+   "b": "القذى-",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p197 gloss 5: a small dagger alif is clearly drawn in the bowl of the final ى of «القذىٰ». Kept as ىٰ, following the b02 adjudication precedent for the body/gloss font.",
+   "result": "القذىٰ-"
+  },
+  {
+   "id": "d006",
+   "page": 197,
+   "type": "haraka",
+   "a": "أضحىٰ: وقت الضحىٰ-",
+   "b": "أضحى: وقت الضحى-",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p197 gloss 5: dagger alif clearly printed on both «أضحىٰ» and «الضحىٰ» (500 dpi zoom).",
+   "result": "أضحىٰ: وقت الضحىٰ-"
+  },
+  {
+   "id": "d007",
+   "page": 197,
+   "type": "haraka",
+   "a": "القذىٰ: الأذىٰ",
+   "b": "القذى: الأذى",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p197 gloss 6: dagger alif clearly printed on «القذىٰ» and «الأذىٰ».",
+   "result": "القذىٰ: الأذىٰ"
+  },
+  {
+   "id": "d008",
+   "page": 197,
+   "type": "haraka",
+   "a": "عَلَىٰ",
+   "b": "عَلَى",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p197 gloss 6 hadith: at 1000 dpi «عَلَىٰ» shows the fatha on ل and a dagger alif in the ى bowl.",
+   "result": "عَلَىٰ"
+  },
+  {
+   "id": "d009",
+   "page": 197,
+   "type": "haraka",
+   "a": "بيضٌ:",
+   "b": "بِيضٌ:",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p197 gloss 6: «بيضٌ» has only the dammatan on ض. There is no kasra under ب at 900 dpi.",
+   "result": "بيضٌ:"
+  },
+  {
+   "id": "d010",
+   "page": 198,
+   "type": "haraka",
+   "a": "بالْعَهْدِ",
+   "b": "بِالْعَهْدِ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p198 bayt 10: no kasra under the ب of «بالْعَهْدِ» at 900 dpi. The sukun on ل, fatha on ع, sukun on ه and kasra on د are present.",
+   "result": "بالْعَهْدِ"
+  },
+  {
+   "id": "d011",
+   "page": 198,
+   "type": "haraka",
+   "a": "الغَرَابِيلُ",
+   "b": "الْغَرَابِيلُ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p198 bayt 10: the lam of «الغَرَابِيلُ» has no sukun at 900 dpi. Fatha on غ and ر, kasra on ب.",
+   "result": "الغَرَابِيلُ"
+  },
+  {
+   "id": "d012",
+   "page": 198,
+   "type": "haraka",
+   "a": "**دعها** حتىٰ",
+   "b": "دعها حتى",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p198 gloss 12: «دعها» is visibly heavier (bold) than the neighbouring «قال» and «حتىٰ» at 1000 dpi. The dagger alif on «حتىٰ» is clearly printed.",
+   "result": "**دعها** حتىٰ"
+  },
+  {
+   "id": "d013",
+   "page": 198,
+   "type": "haraka",
+   "a": "**دعها** حتىٰ",
+   "b": "دعها حتى",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p198 gloss 12, second «دعها»: bold, the same as d012. The dagger alif on حتىٰ is visible.",
+   "result": "**دعها** حتىٰ"
+  },
+  {
+   "id": "d014",
+   "page": 198,
+   "type": "haraka",
+   "a": "**دعها** حتىٰ",
+   "b": "دعها حتى",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p198 gloss 12, third «دعها» (line end): bold. The dagger alif on حتىٰ is visible.",
+   "result": "**دعها** حتىٰ"
+  },
+  {
+   "id": "d015",
+   "page": 198,
+   "type": "letters",
+   "a": "أثمرت",
+   "b": "أتمرت",
+   "tanzil": null,
+   "choice": "B",
+   "note": "p198 gloss 12: at 1200 dpi the tooth after the alif carries two dots, not three: «أتمرت». Compare «ثمرة» on the first line of the same gloss, which clearly has three dots.",
+   "result": "أتمرت"
+  },
+  {
+   "id": "d016",
+   "page": 199,
+   "type": "haraka",
+   "a": "الْمَراسِيلُ",
+   "b": "الْمَرَاسِيلُ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p199 bayt 14: above the lam-mim there is one merged mark, a sukun circle crossed by a fatha (the same shape as in الْمَاءَ p198). Nothing is printed over the ر: الْمَراسِيلُ.",
+   "result": "الْمَراسِيلُ"
+  },
+  {
+   "id": "d017",
+   "page": 199,
+   "type": "haraka",
+   "a": "لَهِقٍ",
+   "b": "لَهَقٍ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p199 bayt 17: at 1800 dpi a single kasra sits under the lam-ha ligature, so the ه has a kasra. A separate kasratan for the ق hangs lower, just above the next line. Printed لَهِقٍ.",
+   "result": "لَهِقٍ"
+  },
+  {
+   "id": "d018",
+   "page": 199,
+   "type": "haraka",
+   "a": "الحِزَّانُ(١)",
+   "b": "الْحِزَّانُ(١)",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p199 bayt 17: the lam of «الحِزَّانُ» has no sukun. The double stroke above it is the displaced kasratan of لَهِقٍ from the line above, and the kasra under ح is visible.",
+   "result": "الحِزَّانُ(١)"
+  },
+  {
+   "id": "d019",
+   "page": 199,
+   "type": "haraka",
+   "a": "بَناتِ",
+   "b": "بَنَاتِ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p199 bayt 18: «بَناتِ» shows a fatha on ب and a kasra on ت, with nothing over the ن (1000 dpi).",
+   "result": "بَناتِ"
+  },
+  {
+   "id": "d020",
+   "page": 199,
+   "type": "punct",
+   "a": "١٥ -",
+   "b": "١٥-",
+   "tanzil": null,
+   "choice": "B",
+   "note": "p199 gloss 15 is printed «١٥ - عذافرة», with a stray space before the dash from justification. It is normalized to the book's numbering form «١٥- », as both keyers did for the double space after «١٤-» (§2 spacing, §7 numbering). The text is unchanged.",
+   "result": "١٥-"
+  },
+  {
+   "id": "d021",
+   "page": 199,
+   "type": "haraka",
+   "a": "إلىٰ",
+   "b": "إلى",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p199 gloss 15: the dagger alif in the ى bowl of «إلىٰ» is clearly printed.",
+   "result": "إلىٰ"
+  },
+  {
+   "id": "d022",
+   "page": 199,
+   "type": "punct",
+   "a": "١٦ -نضاخة:",
+   "b": "١٦- نضاخة:",
+   "tanzil": null,
+   "choice": "B",
+   "note": "p199 gloss 16 is printed «١٦ -نضاخة», with the spacing around the dash reversed (a typesetting slip). It is normalized to the standard «١٦- نضاخة:» item form, consistent with d020 and every other gloss number.",
+   "result": "١٦- نضاخة:"
+  },
+  {
+   "id": "d023",
+   "page": 199,
+   "type": "haraka",
+   "a": "الذِّفَرىٰ:",
+   "b": "الذِّفَرى:",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p199 gloss 16: «الذِّفَرىٰ» has a shadda+kasra on ذ, a fatha on ف and a clearly printed dagger alif in the ى.",
+   "result": "الذِّفَرىٰ:"
+  },
+  {
+   "id": "d024",
+   "page": 199,
+   "type": "haraka",
+   "a": "يرىٰ",
+   "b": "يرى",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p199 gloss 17: the dagger alif is clearly printed on «يرىٰ».",
+   "result": "يرىٰ"
+  },
+  {
+   "id": "d025",
+   "page": 200,
+   "type": "haraka",
+   "a": "مُذَكَّرةٌ",
+   "b": "مُذَكَّرَةٌ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p200 bayt 19: at 1200 dpi «مُذَكَّرةٌ» has damma on م, fatha on ذ, shadda+fatha on ك and dammatan on ة, with no fatha on ر.",
+   "result": "مُذَكَّرةٌ"
+  },
+  {
+   "id": "d026",
+   "page": 200,
+   "type": "haraka",
+   "a": "تعالىٰ:",
+   "b": "تعالى:",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p200 gloss 20: the dagger alif is clearly printed in «تعالىٰ».",
+   "result": "تعالىٰ:"
+  },
+  {
+   "id": "d027",
+   "page": 200,
+   "type": "haraka",
+   "a": "مثنىٰ",
+   "b": "مثنى",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p200 gloss 20: the dagger alif is clearly printed in «مثنىٰ».",
+   "result": "مثنىٰ"
+  },
+  {
+   "id": "q001",
+   "page": 200,
+   "type": "quran_marks",
+   "a": "وَحَدَائِقَ",
+   "b": null,
+   "tanzil": "وَحَدَآئِقَ",
+   "choice": "A",
+   "note": "Genuine print variant. The citation is set in the ordinary gloss naskh inside ornate brackets, and at 1400 dpi the alif of «وَحَدَائِقَ» clearly has no madda.",
+   "result": "وَحَدَائِقَ"
+  },
+  {
+   "id": "q002",
+   "page": 200,
+   "type": "quran_extra_word",
+   "a": "*",
+   "b": null,
+   "tanzil": "",
+   "choice": "A",
+   "note": "Genuine print variant. The print separates Taha 118 and 119 with a six-petal asterisk ornament instead of an ayah number, written « * ».",
+   "result": "*"
+  },
+  {
+   "id": "q003",
+   "page": 200,
+   "type": "quran_letters",
+   "a": "تَظْمَأُ",
+   "b": null,
+   "tanzil": "تَظْمَؤُا۟",
+   "choice": "A",
+   "note": "Genuine print variant. At 1000 dpi the naskh citation clearly reads «تَظْمَأُ» (hamza on alif with damma), not the Uthmani تَظْمَؤُا۟.",
+   "result": "تَظْمَأُ"
+  }
+ ],
+ "extra_edits": [],
+ "rules": {
+  "plain_final_ya": {
+   "197": 6,
+   "198": 3,
+   "199": 3,
+   "200": 2
+  }
+ },
+ "unresolved_uncertain": [],
+ "quran_residual": [
+  {
+   "page": 200,
+   "kind": "quran_marks",
+   "keyed": "وَحَدَائِقَ",
+   "tanzil": "وَحَدَآئِقَ",
+   "ref": "80:30"
+  },
+  {
+   "page": 200,
+   "kind": "quran_extra_word",
+   "keyed": "*",
+   "tanzil": "",
+   "ref": "20:118"
+  },
+  {
+   "page": 200,
+   "kind": "quran_letters",
+   "keyed": "تَظْمَأُ",
+   "tanzil": "تَظْمَؤُا۟",
+   "ref": "20:119"
+  }
+ ],
+ "keyer_notes": {
+  "keyA": {
+   "uncertain": [],
+   "print_errors": [
+    {
+     "page": 198,
+     "text": "تَكُونُ بِهَا(١)",
+     "note": "Bayt 9 has a footnote mark (١) after بِهَا, and bayt 10 has another (١) after فَلَا. There is only one footnote (١) («في نسخة: ولا.»), and it fits فَلَا. The (١) on بِهَا looks like a stray duplicate. Both marks are kept as printed."
+    },
+    {
+     "page": 198,
+     "text": "وَالْأَحْلَامَ تَضْلِيل",
+     "note": "The rhyme word تَضْلِيل has no final damma in print. Every other bayt-final rhyme letter carries ُ. Checked at 800 dpi. Kept without the damma."
+    },
+    {
+     "page": 199,
+     "text": "١٥ - عذافرة / ١٦ -نضاخة",
+     "note": "These gloss numbers are spaced differently from the others («١٤- …»). The print has «١٥ - عذافرة», with a space on both sides of the dash, and «١٦ -نضاخة», with a space before the dash and none after. Checked at 1500 dpi. Kept exactly as printed. An adjudicator may prefer to normalize them to «١٥- عذافرة» and «١٦- نضاخة»."
+    }
+   ],
+   "notes": "Markers: p.196 ends with bayt 4 complete and its gloss 4 complete, with no footnotes. p.197 starts with bayt 5 and has no '+' and no (تابع). pp.198-200 each also start with a new bayt. Layout: the poem is set stacked in one heavier font, so no ** is used in the verse. Each bayt is one ':::شعر' line. Each page's glosses form a ':::مفردات' block, one line per numbered gloss item. On p.200, gloss 21 is printed with an early line break after «من», but it is one item. Variant notes (pp.198, 199) are ':::حواشي' blocks. Each page prints its two footnotes on one line, written here as two lines. p.200 has no footnotes. The validate.py warnings on pp.198/199 come from the footnote refs sitting inside the poetry fence, which the validator does not count. They are expected. Dagger alif: the gloss font draws a small vertical alif in the bowl of final ى (القذىٰ، أضحىٰ، الضحىٰ، الأذىٰ، عَلَىٰ، حتىٰ، إلىٰ، الذِّفَرىٰ، يرىٰ، تعالىٰ، تَعْرَىٰ، تَضْحَىٰ، مثنىٰ). Following the keyA precedent (b02/b17), it is written ىٰ (U+0649 U+0670). The verse font draws final ى plain (القَذَى، أَضْحَى، عَلَى، الذِّفْرَى), so those are written plain. Overlapping marks (verified by measuring connected components at 1500 dpi): in the initial lam-mim ligature of this verse font, the mim's mark is placed above the lam stem, at the same spot as the lam's own mark. (a) In «الْمَاءَ» (p.198 b.10) and «الْمَراسِيلُ» (p.199 b.14), the single mark above the lam looks like a damma at normal zoom. It is in fact a sukun and a fatha drawn over each other: area 1895 px, versus 1390 for a sukun, 1005 for a fatha and 2110 for a damma, and the shape is a closed loop crossed by a fatha stroke. It is therefore written sukun on the lam and fatha on the mim. Compare المَتْنَيْنِ on p.200, where a plain fatha (the mim's) sits in the same place over the lam. (b) In «خَالُهَا» (p.200 b.21), the mark above the lam-ha ligature is a damma with a fatha merged into it: area 2421 px, with a fatha tip visible. So the ha's fatha also anchors above the lam stem. (c) In «لَهَا» (p.198 b.12), only one fatha is visible above the lam stem. Its area is 1044 px, against 1001-1012 for every single fatha on the page and 1007 for the lone lam fatha of «لَهِقٍ». This means two nearly coincident fathas, so it is written لَهَا. Without that measurement, an eye reading would see a single fatha (لَها or لهَا). Line-crossing marks: several marks hang between the stacked lines and were assigned by position at 1000-2000 dpi. The kasratan under the ض of «بِأَرْضٍ» (b.14) sits beside «إِلَّا» on the next line and is not a fathatan on إلا. The stroke left of «عُرْضَتُهَا» (b.16) is the kasra under the hamza of «إِذَا» on the line above. The kasra of «عَرِقَتْ» is on the ra. The stroke above «إِذَا» (b.17b) is the kasra of «بِعَيْنَيْ». The double stroke above «الحِزَّانُ» is the kasratan of «لَهِقٍ». Marks deliberately not added, all confirmed at high zoom: ماءِ and سُعادُ (no fatha on mim/ain); مَحْنِيَة (final ta unvowelled); بأَبْطَحَ and بالْعَهْدِ (no kasra on ba); مِن دَمِهَا (no sukun on nun); مَوعُودَهَا (no sukun on waw); مُذَكَّرةٌ (no fatha on ra); مُقَلَّدُها and مُقَيَّدُها (ha unvowelled); بَناتِ (no fatha on nun); الغَرَابِيلُ، القَذَى، الغُيُوبَ، الحِزَّانُ، الأَعْلَامِ، الفَحْلِ، المَتْنَيْنِ (lam of the article without sukun, as printed). تَمَسَّكُ (b.10) shows two separate fathas, on the ta and on the mim. «كَمَا» in b.9 and b.10 both have fathas on the kaf and the mim. Bold: «دعها» is printed bold in all three places in gloss 12 (p.198). Its strokes are visibly thicker than the neighbouring «قال» and «حتىٰ», and the colon before it is regular. It is marked **دعها**. «في الحديث» on p.197 looks heavy, but its alif measures the same width as regular alifs (17 px at 1500 dpi), as do its dots (330 px), so it is not bold. The dark look of «جمع»، «بالحرف»، «الحركة»، «عظيمة» comes from the ligature glyphs. Dot-size and alif-width scans of all four gloss blocks found no other weight change. Quran: the two citations on p.200 (عبس 30، طه 118-119) are printed in the ordinary gloss naskh inside ornate brackets, not in the mushaf font. They are transcribed with exactly the printed marks (وَحَدَائِقَ without madda; تَظْمَأُ; ىٰ as drawn). The two ayahs of Taha are separated in print by a six-petal asterisk with no ayah numbers, written « * ». So scripts/quran.py may flag spelling differences from Tanzil. These are the book's own non-Uthmani spellings. Honorific: ﷺ glyph in gloss 6 (p.197) kept as U+FDFA. Process note: a project-wide grep run to look up the keyA ىٰ precedent also printed a few lines from keyB/b17.md and keyB/b27.md (pp.06x and 11x, unrelated to this batch). Nothing from keyB, diff, final or reports for pp.197-200 was opened."
+  },
+  "keyB": {
+   "uncertain": [],
+   "print_errors": [
+    {
+     "page": 198,
+     "text": "تَكُونُ بِهَا(١) … فَلَا(١) تَمَسَّكُ",
+     "note": "The reference (١) is printed twice on this page: once after بِهَا (end of the first hemistich of bayt 9) and again after فَلَا (start of bayt 10). The footnote block has only one (١) («في نسخة: ولا»), which fits فَلَا; the (١) after بِهَا looks like a stray/duplicate marker. Both transcribed as printed."
+    },
+    {
+     "page": 198,
+     "text": "تَضْلِيل",
+     "note": "Last word of bayt 11 is printed without the final damma, unlike all the other rhyme words (…لُ). Kept as printed."
+    },
+    {
+     "page": 199,
+     "text": "سُعادُ",
+     "note": "Bayt 14 prints سُعادُ with no fatha on the ع (p.196 bayt 1 prints سُعَادُ). Kept as printed."
+    },
+    {
+     "page": 199,
+     "text": "١٤-  تبلغها / ١٥ – عذافرة / ١٦-نضاخة",
+     "note": "Gloss item numbers are set with irregular spacing around the dash (double space after ١٤-, a space before the dash of ١٥, no space after the dash of ١٦). Normalized to the standard «N- » form."
+    },
+    {
+     "page": 200,
+     "text": "﴿وَحَدَائِقَ غُلْبًا﴾ [عبس: ٣٠]",
+     "note": "Printed inside ﴿﴾ but in the ordinary gloss font: no madda on the alif (Uthmani: وَحَدَآئِقَ) and ordinary stacked tanween. Transcribed exactly as printed."
+    },
+    {
+     "page": 200,
+     "text": "﴿إِنَّ لَكَ أَلَّا تَجُوعَ فِيهَا وَلَا تَعْرَىٰ * وَأَنَّكَ لَا تَظْمَأُ فِيهَا وَلَا تَضْحَىٰ﴾ [طه: ١١٨، ١١٩]",
+     "note": "Printed تَظْمَأُ (hamza on alif + damma) rather than the Uthmani تَظْمَؤُا۟, and the two ayahs are separated by a small asterisk ornament instead of an ayah-number roundel; the ornament is written as ' * ' (CONVENTIONS §7). Transcribed as printed."
+    }
+   ],
+   "notes": "Batch b50 = pp.197-200 of قصيدة بانت سعاد (bayts 5-22), all in the stacked poetry layout; each page = :::شعر fence + :::مفردات glosses (+ :::حواشي variant footnotes on pp.198-199). p.196 ends with a complete bayt 4 and a gloss ending in a full stop, so p.197 takes a plain marker (no '+') and no (تابع). DAGGER ALIF: the gloss font draws a small dagger alif on every final ى (القذى، أضحى، الضحى، الأذى، حتى ×3، الذِّفَرى، يرى، تعالى، مثنى، عَلَى in the hadith), while the poem font never does; this is a glyph feature of that font (same as the automatic marks on الله, CONVENTIONS §2), so plain ى is written in ordinary text. Inside the Quran brackets on p.200 (تَعْرَىٰ، تَضْحَىٰ) the printed dagger is written as U+0670 per the §3 table (it matches the Uthmani text there). The hadith on p.197 («أَنَا فَرَطُكُمْ عَلَى الْحَوْضِ») is in the ordinary font without ﴿﴾ and is transcribed as ordinary vowelled text; ﷺ before it is the printed glyph. Gloss separators are the printed dashes, written as ASCII hyphen glued to the preceding word with a space after (مزجت- شَبِمٍ). Kashida inside stretched hemistichs (أَكْــرِمْ، الْحِـــزَّانُ, etc.) dropped. Footnote refs are glued inside the poetry lines (بِهَا(١)، فَلَا(١)، تُمْسِكُ(٢) on p.198; الْحِزَّانُ(١)، فَعْمٌ(٢) on p.199); validate.py only counts refs on prose lines, hence its two WARN lines 'footnote refs in text [] vs footnote lines [1, 2]' on pp.198-199 are expected and not a transcription gap. No [؟:…] markers were needed. validate.py printed OK."
+  }
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "batch": "b13",
+ "pages": [
+  49,
+  50,
+  51,
+  52
+ ],
+ "agreement": 0.9963,
+ "full_reread_required": false,
+ "counts": {
+  "haraka": 2
+ },
+ "n_items": 2,
+ "n_quran_flags": 0,
+ "n_uncertain": 0,
+ "items": [
+  {
+   "page": 51,
+   "type": "haraka",
+   "a_range": [
+    64,
+    65
+   ],
+   "a_text": "عَلانِيَتُهُ",
+   "b_text": "عَلانِيتُهُ",
+   "ctx_before": "كُلُّهُ وَإِلَيْكَ يَرْجِعُ الأَمْرُ كُلُّهُ",
+   "ctx_after": "وَسِرُّهُ لَكَ الحمدُ إِنَّكَ عَلَى",
+   "id": "d001"
+  },
+  {
+   "page": 52,
+   "type": "haraka",
+   "a_range": [
+    59,
+    60
+   ],
+   "a_text": "أَقْتَرَفَ",
+   "b_text": "أَقْترَفَ",
+   "ctx_before": "نَفْسِي وَشَرِّ الشَّيْطَانِ وَشَرَكِهِ(١)، (وَأَنْ",
+   "ctx_after": "سُوءًا عَلَى نَفْسِي أو أَجُرَّهُ",
+   "id": "d002"
+  }
+ ],
+ "quran_flags": [],
+ "uncertain": []
+}

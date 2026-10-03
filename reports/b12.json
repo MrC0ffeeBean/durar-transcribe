@@ -1,0 +1,170 @@
+{
+ "batch": "b12",
+ "agreement": 0.9793,
+ "counts": {
+  "punct": 3,
+  "haraka": 2
+ },
+ "n_items": 5,
+ "n_quran_flags": 0,
+ "n_uncertain_flags": 0,
+ "mode": "spots",
+ "choices": {
+  "A": 4,
+  "B": 1,
+  "T": 0,
+  "custom": 0
+ },
+ "decisions": [
+  {
+   "id": "d001",
+   "page": 45,
+   "type": "punct",
+   "a": "١٠-آداب",
+   "b": "١٠ -آداب",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p045 item 10 at 500 dpi, ink-column measurement: the dash sits 24 px from the narrow ١ glyph. For item 1, where a space really is printed, the gap is 51 px. Items ٧/٨/٩ have 11-18 px gaps with wider digits. The visible gap comes from the side-bearing of the thin ١, so no space is printed: «١٠-آداب».",
+   "result": "١٠-آداب"
+  },
+  {
+   "id": "d002",
+   "page": 46,
+   "type": "punct",
+   "a": "أَجْرًا ۚ وَٱسْتَغْفِرُوا۟ ٱللَّهَ ۖ",
+   "b": "أَجْرًاۚ وَٱسْتَغْفِرُوا۟ ٱللَّهَۖ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p046: the waqf signs ۚ (over أجرا) and ۖ (over الله) are clearly printed. They are written as separate tokens with a space before them, which matches the project's existing finals (b02, b08, b17, b21) and the Tanzil encoding.",
+   "result": "أَجْرًا ۚ وَٱسْتَغْفِرُوا۟ ٱللَّهَ ۖ"
+  },
+  {
+   "id": "d003",
+   "page": 46,
+   "type": "haraka",
+   "a": "رَّحِيمٌ﴾",
+   "b": "رَّحِيمٌۢ﴾",
+   "tanzil": null,
+   "choice": "B",
+   "note": "p046 at 1600 dpi: the mark over the final م of رَّحِيم is a damma plus a small mim (the iqlab form, the same shape as on لَطِيفٌۢ in item ٥). It is not the double-damma dammatan printed on غَفُورٌ just before it. So it is ٌۢ, matching Tanzil 73:20.",
+   "result": "رَّحِيمٌۢ﴾"
+  },
+  {
+   "id": "d004",
+   "page": 46,
+   "type": "punct",
+   "a": "يَشَآءُ ۖ",
+   "b": "يَشَآءُۖ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p046 item ٥: ۖ is clearly printed over يَشَآءُ. It is written with a space before it, as in d002 and the project's existing finals.",
+   "result": "يَشَآءُ ۖ"
+  },
+  {
+   "id": "d005",
+   "page": 47,
+   "type": "haraka",
+   "a": "اللَّهِ",
+   "b": "اللهِ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p047 item ٤ at 900 dpi: a kasra is clearly printed under the heh of the Allah ligature in «عطاءِ الله». A Name printed with a case vowel is written with all its marks (CONVENTIONS §2; same practice in b17/b21/b27), so it is اللَّهِ.",
+   "result": "اللَّهِ"
+  }
+ ],
+ "extra_edits": [],
+ "rules": {
+  "plain_final_ya": {}
+ },
+ "unresolved_uncertain": [],
+ "quran_residual": [],
+ "keyer_notes": {
+  "keyA": {
+   "uncertain": [],
+   "print_errors": [
+    {
+     "page": 46,
+     "text": "﴿.وَمَا تُقَدِّمُوا۟",
+     "note": "A full stop is printed between the opening ﴿ and وَمَا in item (٣), on the baseline. Kept as printed: ﴿.وَمَا. The Quran cross-check matches Tanzil 73:20 once the dot is ignored."
+    },
+    {
+     "page": 46,
+     "text": "وجزء قرآن علي الأقل يومياً",
+     "note": "Printed علي with yeh dots, standing for على. Kept as printed."
+    },
+    {
+     "page": 47,
+     "text": "من ١٠٠ مرة إلي ١٠٠٠ مرة",
+     "note": "Printed إلي with yeh dots, standing for إلى. Kept as printed."
+    },
+    {
+     "page": 47,
+     "text": "حقوق المصطفي",
+     "note": "Printed المصطفي with yeh dots (bold paragraph), standing for المصطفى. Kept as printed."
+    },
+    {
+     "page": 48,
+     "text": "في مدح النبي صلي الله عليه وسلم",
+     "note": "Printed صلي with yeh dots, standing for صلى. These are ordinary words, not a glyph. Kept as printed."
+    }
+   ],
+   "notes": "p044 ends with a complete sentence and p045 opens with the # heading, so p045 has no '+'. p046 opens with an indented new paragraph, so no '+'. p047 continues item (٧) of p046 («...وعافية» / «الأبدان...»), so its marker is <<<ص:047+>>>. p048 opens with list item (٧), so no '+'. No footnotes on any page.\n\np045 heading: the marks are copied as printed. «اليُسْرِيَّة» has damma, sukun, kasra and shadda+fatha. «الصِّديقيَّة» has shadda+kasra on ṣād only, nothing on dal or qaf. «الدرقاويَّة» and «الشاذليَّة» have shadda+fatha on the yeh. This matches the p001 title.\n\np045 list numbers: the dash spacing was measured from pixel ink runs at 600 dpi. Single digits sit 10-25 px from the dash, which is glyph side-bearing only, so no space is written before the dash. In item ١ the gap is 60 px, a real space, so it is written «١ - ورد». In item ١٠ the zero sits 30 px from the dash, which is the zero glyph's own side-bearing (١ to ٠ inside the number is 41 px), so it is written «١٠-آداب». After the dash, items ٧ and ١٠ have 14-15 px (no space): «٧-الصلوات», «١٠-آداب». All other items have 28-60 px (a space). This follows keyA b50 («١٦ -نضاخة» kept as printed).\n\nNormalized spacing (CONVENTIONS §2: no space before ) or .): p045 «(ورد الأساس )» → «(ورد الأساس)», «العصر )» → «العصر)», «الصديقية .» → «الصديقية.». p048 «ﷺ .» → «ﷺ.». p046 «رَّحِيمٌ ﴾» → «رَّحِيمٌ﴾».\n\nParenthesized list numbers (pp.046-048): the print has the closing paren tight against the next word in most items, e.g. «(١)أعوذ», «(٧)منظومة». Following earlier keyA batches (b02) and the CONVENTIONS template «(٣) …», they are written with one space: «(١) أعوذ». Arbiter, please align with keyB if it differs.\n\nTanween by printed position. Fathatan after the alif: «يومياً صباحاً» (p045 item ١), and every «صباحاً», «أيضاً», «يومياً» on pp.046-047. Fathatan before the alif: «يوميًّا صباحًا» (p045 item ٣, where the yeh carries shadda + fathatan), «يوميًا» (item ٥: fathatan only, no shadda, checked at 1400 dpi), «صباحًا» (item ٦). «مساءً» always has fathatan on the hamza.\n\np045 item ٣: «الصِّدِّيقِيةِ» has shadda+kasra on ṣād and on dal, kasra on qaf, nothing on the second yeh, and kasra on the teh marbuta. Item ٦: «الْإِمَامِ» has a sukun on the lam.\n\nQuran (p046). 73:20 (part) and 42:19 match the Tanzil text exactly (with madda as alif+U+0653 and shadda before the vowel). Sukun is printed as the khāʾ-head shape and written ْ. The silent alif in «تُقَدِّمُوا۟» and «وَٱسْتَغْفِرُوا۟» is a round zero (U+06DF). Waqf signs: ۚ after «أَجْرًا», ۖ after «ٱللَّهَ» and «يَشَآءُ». «لَطِيفٌۢ» has the iqlab small mim. The final «رَّحِيمٌ» of 73:20 is printed with plain dammatan and NO small mim (Tanzil has ٌۢ there), so no ۢ is written. The references keep the printed format «[المزمل:٢٠]» and «[الشورى:١٩]», with no space after the colon. «الشورى» is plain ى (body-font auto small alif).\n\np047: «عطاءِ اللَّهِ» has a kasra printed under the heh of the Allah ligature (checked at 1500 dpi). Following earlier keyA practice (CONVENTIONS §2, write them all), this is written اللَّهِ. Other «الله» with no case vowel are written plain. The bold paragraph «وننصح ... على الانترنت.» is set entirely in bold against regular text, so it is wrapped in ** (its final full stop is bold too). The first word has two nun teeth: «وننصح». «محتويات أخرى:» is a standalone bold title ending in a colon, so it is ###. Tatweel in «المنســوبةُ» is dropped.\n\np046: «وأوراد الطريقة القادرية» is a bold run-in at the start of the paragraph, written as **…**. Numbers are in reading order: ٦٤٥, ١٢٩, ١١, ١٠٠, ١٠٠٠. p048: tatweel in «لسيـــدي» and «صبـــاح» is dropped. ﷺ is the printed glyph. «الدِّرَعِي» has shadda+kasra on dal, fatha on ra and kasra on ʿayn. Each item that wraps (p047 items ١ and ٦, p048 items ٧ and ١٢) is joined into one paragraph."
+  },
+  "keyB": {
+   "uncertain": [],
+   "print_errors": [
+    {
+     "page": 45,
+     "text": "العصر )",
+     "note": "space printed before the closing parenthesis in item ٤; written without the space (CONVENTIONS §2 spacing)."
+    },
+    {
+     "page": 45,
+     "text": "الصديقية .",
+     "note": "space printed before the final period of item ١٠; written without the space."
+    },
+    {
+     "page": 45,
+     "text": "١ - ورد / ٧-الصلوات / ١٠ -آداب",
+     "note": "inconsistent spacing around the list-number dash; kept as printed."
+    },
+    {
+     "page": 46,
+     "text": "علي الأقل",
+     "note": "printed with dotted ي (for على); kept as printed."
+    },
+    {
+     "page": 46,
+     "text": "﴿.وَمَا تُقَدِّمُوا۟",
+     "note": "a stray period is printed right after the opening ornate bracket of item (٣); kept as printed."
+    },
+    {
+     "page": 46,
+     "text": "رَّحِيمٌۢ ﴾",
+     "note": "space before the closing ornate bracket; written without the space."
+    },
+    {
+     "page": 47,
+     "text": "إلي ١٠٠٠",
+     "note": "printed with dotted ي (for إلى); kept as printed."
+    },
+    {
+     "page": 47,
+     "text": "المصطفي",
+     "note": "printed with dotted ي (for المصطفى); kept as printed."
+    },
+    {
+     "page": 48,
+     "text": "النبي ﷺ .",
+     "note": "space before the period after the ﷺ glyph; written without the space."
+    },
+    {
+     "page": 48,
+     "text": "صلي الله عليه وسلم",
+     "note": "printed with dotted ي (for صلى) and as ordinary words (no glyph); kept as printed."
+    }
+   ],
+   "notes": "p045 begins with the # heading (p044 ends with a complete paragraph, no footnotes), so no '+'. p046 begins a new paragraph (no '+'). p047 continues item (٧) from p046 ('...وعافية' / 'الأبدان...') so marker is 047+. p048 starts a new list item (no '+'). Parenthesised list numbers '(n)' are printed tight against the next word in a few items ((١)أعوذ, (٦)يا, (٧)منظومة); written uniformly as '(n) ' per CONVENTIONS §7. Tanween placement kept as printed: p045 item ١ 'يومياً صباحاً' (fathatan after the alif) vs items ٣/٥/٦ 'يوميًّا/صباحًا/يوميًا' (fathatan on the letter before the alif); p046-p047 use the 'ـاً' form. p047 item (٤): a kasra is printed under the ligature الله ('عطاءِ اللهِ'); written 'اللهِ' (the ligature's automatic shadda/small alif not written). p046 Quran: the round zero on the silent alif written U+06DF (تُقَدِّمُوا۟, وَٱسْتَغْفِرُوا۟), the khaa-head sukun as U+0652, iqlab mim U+06E2 on رَّحِيمٌۢ and لَطِيفٌۢ, final dotless ى in ٱلْقَوِىُّ as printed, madda as U+0653. p047 the whole 'وننصح ... الانترنت.' paragraph is bold (contrasts with surrounding regular text); 'محتويات أخرى:' is a bold standalone title -> ###. Tatweel in المنســوبةُ (p047), لسيـــدي and صبـــاح (p048) dropped."
+  }
+ }
+}

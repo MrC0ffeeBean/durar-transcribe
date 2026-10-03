@@ -1,0 +1,100 @@
+{
+ "batch": "b09",
+ "pages": [
+  33,
+  34,
+  35,
+  36
+ ],
+ "agreement": 0.9839,
+ "full_reread_required": false,
+ "counts": {
+  "letters": 1,
+  "punct": 5
+ },
+ "n_items": 6,
+ "n_quran_flags": 0,
+ "n_uncertain": 0,
+ "items": [
+  {
+   "page": 33,
+   "type": "letters",
+   "a_range": [
+    6,
+    8
+   ],
+   "a_text": "يسرى رشدى",
+   "b_text": "يسري رشدي",
+   "ctx_before": "إلى الله ¶ # أ.د/",
+   "ctx_after": "السيد جبر ¶ الفقير إلى",
+   "id": "d001"
+  },
+  {
+   "page": 33,
+   "type": "punct",
+   "a_range": [
+    128,
+    129
+   ],
+   "a_text": "١٩٩٧م.",
+   "b_text": "١٩٩٧م .",
+   "ctx_before": "الشريعة الإسلامية بتقدير جيد جدا",
+   "ctx_after": "",
+   "id": "d002"
+  },
+  {
+   "page": 34,
+   "type": "punct",
+   "a_range": [
+    3,
+    4
+   ],
+   "a_text": "الكريم:",
+   "b_text": "الكريم :",
+   "ctx_before": "### حفظ القرآن",
+   "ctx_after": "¶ بدأت حفظ القرآن الكريم",
+   "id": "d003"
+  },
+  {
+   "page": 35,
+   "type": "punct",
+   "a_range": [
+    51,
+    52
+   ],
+   "a_text": "الله.كما",
+   "b_text": "الله .كما",
+   "ctx_before": "سورة التوبة ثم توفي رحمه",
+   "ctx_after": "أجازني الشيخ عبد الفتاح مدكور",
+   "id": "d004"
+  },
+  {
+   "page": 36,
+   "type": "punct",
+   "a_range": [
+    46,
+    47
+   ],
+   "a_text": "(وكان",
+   "b_text": "( وكان",
+   "ctx_before": "فضيلة الشيخ د: علي جمعة",
+   "ctx_after": "في مرحلة الطلب وقد تولى",
+   "id": "d005"
+  },
+  {
+   "page": 36,
+   "type": "punct",
+   "a_range": [
+    88,
+    90
+   ],
+   "a_text": "٢/ ١٩٩٣",
+   "b_text": "٢/١٩٩٣",
+   "ctx_before": "شعبان ١٤١٣ هـ ١٢ /",
+   "ctx_after": "يوم الجمعة ووفقني الله وزرته",
+   "id": "d006"
+  }
+ ],
+ "quran_flags": [],
+ "uncertain": []
+}

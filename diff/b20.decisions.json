@@ -1,0 +1,12 @@
+{
+  "mode": "spots",
+  "decisions": {
+    "d001": {"choice": "A", "note": "p077 verse line 2 at 1400 dpi: «كـل» has one kasra and no shadda or damma. It sits under the kashida joining ك to ل, and lower than the bottom of the final lam's bowl. That depth matches how this bold font places below-marks on deep final letters (compare the kasratan under the bowl of «نفسٍ» on the same line). A kasra on the kaf would sit just under the baseline. So it is the lam's case vowel: كلِ, as in A."},
+    "d002": {"choice": "A", "note": "p077 last line at 800 dpi: a damma is clearly printed over the Allah ligature in «إِلَّا اللهُ،». A case vowel is printed, so per CONVENTIONS §2 and the b17/b18/b19 precedent the Name is written with all its marks: اللَّهُ."},
+    "d003": {"choice": "A", "note": "p078 line 1 at 800 dpi: a kasra is printed low under the ha of the Allah ligature, separate from the fatha over ث of ثَبِّتْنَا on the next line. A case vowel is printed, so the Name gets all its marks per precedent: اللَّهِ."},
+    "d004": {"choice": "A", "note": "p078 at 1000 dpi: «رَّبَّنَا» has shadda+fatha on the ra as well as on the ba (idgham after the tanween of وَاحِدٌ)."},
+    "d005": {"choice": "A", "note": "p079 at 900 dpi: «].آمين» is set tight. The gap between the period and آمين is no wider than the gap between ] and the period, so no word space is printed. Kept as printed, following the earlier precedent for tight spacing after punctuation."},
+    "d006": {"choice": "A", "note": "p079 last line at 1400 dpi: there are two kasras, one under ب and a second, lower one under the ha of the Allah ligature. A case vowel is printed, so the Name is written with all its marks per precedent: بِاللَّهِ."}
+  },
+  "extra_edits": []
+}

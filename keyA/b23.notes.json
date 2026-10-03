@@ -1,0 +1,27 @@
+{
+ "uncertain": [
+  {
+   "page": 91,
+   "reading": "الصَّلَوَاتُ اليُسْرِيَّةُ عَلَى خَيْرِ البَرِيَّةِ",
+   "why": "Calligraphic (thuluth) title is a low-resolution raster; letters are certain but the harakat (and which small marks are vowels vs. decorative muhmal signs) cannot be read with certainty. Shaddas on the ص and on both يّ are visible; remaining vowels are best reading. Whole heading wrapped in one [؟:…] marker."
+  }
+ ],
+ "print_errors": [
+  {
+   "page": 90,
+   "text": "**[ثُمَّ يَتْفُلُ ثَلاثًا ... ثُمَّ يَقُولُ:**",
+   "note": "Opening square bracket is printed but no closing ] appears anywhere; kept as printed."
+  },
+  {
+   "page": 90,
+   "text": "مَا أَطِيقُ وَمَا لا أَطِيقُ",
+   "note": "Both أَطِيقُ printed with fatha on the hamza (expected أُطِيقُ); kept as printed."
+  },
+  {
+   "page": 92,
+   "text": "تِسْعَةً وَتِسْعِينَ اسْمَا مِائَةً",
+   "note": "اسْمَا printed with a single fatha on the mim, not tanween (expected اسْمًا); kept as printed."
+  }
+ ],
+ "notes": "p089 continues p088 (its first line finishes «وَمِثْلُ» from p088) -> marker 089+. p090 first line is indented -> new paragraph (no +). p090: «فَإِن تَوَلَّوْا۟ فَقُلْ» is printed in the mushaf font but OUTSIDE the ﴿﴾ (the bracket opens before حَسْبِىَ); transcribed with Uthmani encoding, outside the brackets as printed. p090 bold bracketed instruction line set as a bold paragraph (reading instruction), not a heading. p091: heading per STRUCTURE (#), subtitle «وشرحها بصلوات الأسماء الحسنى» and «(تقرأ على ستة أيام)» as plain paragraphs, «مقدمة» as ##. p092 continues the p091 sentence (…وبشمائله،) -> 092+. p092: Quran 7:180 quote ends at بِهَا with no waqf sign printed (Tanzil has ۖ there) — checked at high zoom; quran.py flags only this. Tight justification spacing after commas (e.g. «النبي،ليزداد», «»(١)،فقام») normalised to one space. Calligraphic ﷺ glyphs kept as ﷺ. Tatweel dropped everywhere except the Quranic وَلِـِّۧىَ and بِٱلْـَٔاخِرَةِ where it carries marks (Tanzil encoding, matches print)."
+}

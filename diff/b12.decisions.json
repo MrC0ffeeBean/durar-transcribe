@@ -1,0 +1,11 @@
+{
+  "mode": "spots",
+  "decisions": {
+    "d001": {"choice": "A", "note": "p045 item 10 at 500 dpi, ink-column measurement: the dash sits 24 px from the narrow ١ glyph. For item 1, where a space really is printed, the gap is 51 px. Items ٧/٨/٩ have 11-18 px gaps with wider digits. The visible gap comes from the side-bearing of the thin ١, so no space is printed: «١٠-آداب»."},
+    "d002": {"choice": "A", "note": "p046: the waqf signs ۚ (over أجرا) and ۖ (over الله) are clearly printed. They are written as separate tokens with a space before them, which matches the project's existing finals (b02, b08, b17, b21) and the Tanzil encoding."},
+    "d003": {"choice": "B", "note": "p046 at 1600 dpi: the mark over the final م of رَّحِيم is a damma plus a small mim (the iqlab form, the same shape as on لَطِيفٌۢ in item ٥). It is not the double-damma dammatan printed on غَفُورٌ just before it. So it is ٌۢ, matching Tanzil 73:20."},
+    "d004": {"choice": "A", "note": "p046 item ٥: ۖ is clearly printed over يَشَآءُ. It is written with a space before it, as in d002 and the project's existing finals."},
+    "d005": {"choice": "A", "note": "p047 item ٤ at 900 dpi: a kasra is clearly printed under the heh of the Allah ligature in «عطاءِ الله». A Name printed with a case vowel is written with all its marks (CONVENTIONS §2; same practice in b17/b21/b27), so it is اللَّهِ."}
+  },
+  "extra_edits": []
+}

@@ -1,0 +1,86 @@
+{
+ "batch": "b08",
+ "agreement": 0.9972,
+ "counts": {
+  "punct": 1
+ },
+ "n_items": 1,
+ "n_quran_flags": 1,
+ "n_uncertain_flags": 0,
+ "mode": "spots",
+ "choices": {
+  "A": 2,
+  "B": 0,
+  "T": 0,
+  "custom": 0
+ },
+ "decisions": [
+  {
+   "id": "d001",
+   "page": 30,
+   "type": "punct",
+   "a": "ٱلْأَرْضِ ۖ",
+   "b": "ٱلْأَرْضِۖ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "The print shows the waqf sign ۖ above the end of ٱلْأَرْضِ. The project encodes waqf signs as a separate token after a space, as Tanzil does and as every earlier final batch does (quran.py merges it with the word). B's attached form would raise a false Quran flag.",
+   "result": "ٱلْأَرْضِ ۖ"
+  },
+  {
+   "id": "q001",
+   "page": 30,
+   "type": "quran_extra_word",
+   "a": "فَحَدِّثْ(الضحى",
+   "b": null,
+   "tanzil": "",
+   "choice": "A",
+   "note": "At 600 dpi the closing ornament ﴾ after فَحَدِّثْ touches the reference parenthesis «(الضحى: ١١)» with no space, although the justified line widens every other space. Both keyers wrote it glued. The verse words match Tanzil exactly. The flag is only a tokenization artefact of the glued reference, not a Quran variant, so A is kept as printed.",
+   "result": "فَحَدِّثْ(الضحى"
+  }
+ ],
+ "extra_edits": [],
+ "rules": {
+  "plain_final_ya": {}
+ },
+ "unresolved_uncertain": [],
+ "quran_residual": [],
+ "keyer_notes": {
+  "keyA": {
+   "uncertain": [],
+   "print_errors": [
+    {
+     "page": 30,
+     "text": "وأى فخر",
+     "note": "Printed with dotless final ى (the body font draws its automatic small alif over it), where the word is the interrogative أي; kept as printed."
+    },
+    {
+     "page": 32,
+     "text": "رحمه الله:",
+     "note": "The parenthetical opened by the dash at the end of p.031 («فقال لي الشيخ الحسيني –») has no closing dash on p.032; nothing added."
+    }
+   ],
+   "notes": "All four pages continue the previous page (029+ because p.028 ends «صعب علي العلم،»; 030+, 031+ and 032+ continue mid-sentence). No footnotes, headings or glosses in this batch. Prose dashes on p.030 («أقول – تقريرًا») and at the end of p.031 are written as the printed en dash U+2013 with spaces. In p.030 the reference «(الضحى: ١١)» is printed touching the closing ornament with no space, so it is written glued: «فَحَدِّثْ﴾(الضحى: ١١)». quran.py reports one quran_extra_word flag for this token only because of that gluing; the verse text matches Tanzil. The second reference «(يوسف: ٥٥)» is printed with a space after ﴾. Both references use round parentheses, as printed. Waqf sign ۖ on ٱلْأَرْضِ is written as a separate token after a space, as in Tanzil. Dotless final ى in the Quran is kept as printed (ٱجْعَلْنِى، إِنِّى). Honorifics printed as words (رضي الله عنه، رضي الله عنهم، عليه السلام، عليهما السلام، رحمه الله) are kept as ordinary text; the two printed ﷺ glyphs (pp.031, 032) are kept as U+FDFA. «شريف منسب» on p.032 is clearly printed منسب and is transcribed as is. «حديثيا» on p.031 has no tanween in the print."
+  },
+  "keyB": {
+   "uncertain": [],
+   "print_errors": [
+    {
+     "page": 30,
+     "text": "وأى فخر",
+     "note": "printed with dotless ى (font adds its small alif) where وأي is expected; kept as printed"
+    },
+    {
+     "page": 31,
+     "text": "ورؤيت لي مبشرات",
+     "note": "hamza on waw as printed (expected رُئيت); kept as printed"
+    },
+    {
+     "page": 32,
+     "text": "شريف منسب حقًا",
+     "note": "printed منسب (م ن س ب) clearly; possibly intended منتسب/النسب; kept as printed"
+    }
+   ],
+   "notes": "All four pages continue the previous page's sentence, so every marker has '+'; p028 has no footnotes, and pp.029-032 have no footnotes. On p030 the closing bracket of the Duha quotation touches the reference parenthesis in print, so it is written ﴾(الضحى: ١١) with no space; the Yusuf reference has a printed space: ﴾ (يوسف: ٥٥). In the Yusuf 55 quotation the print has dotless final ى in ٱجْعَلْنِى and إِنِّى (Madinah style), the hamza+kasra drawn under the tooth in خَزَآئِنِ (encoded ئِ as in Tanzil, madda as ا+U+0653), and the ۖ waqf sign over ٱلْأَرْضِ (attached to the word). The dashes after «أقول» (p030) and «الحسيني» (p031) are written as en dash –. Honorifics رضي الله عنه/عنهم, عليه السلام, رحمه الله are printed as ordinary words (no glyphs); ﷺ glyph on pp.031 and 032 kept."
+  }
+ }
+}

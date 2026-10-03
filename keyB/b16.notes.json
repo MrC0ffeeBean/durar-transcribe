@@ -1,0 +1,42 @@
+{
+ "uncertain": [
+  {
+   "page": 64,
+   "reading": "عَوَالِمِي",
+   "why": "In the bold «(جَامِعَ عَوَالِمِي)» only ONE kasra is printed under the lam-meem-yeh ligature (checked at 3000-3200 dpi). It cannot be decided whether it is the lam's kasra, the meem's kasra, or two identical kasras placed on the same anchor and overlapping. Written with both kasras as the most likely reading, inside [؟:…]."
+  }
+ ],
+ "print_errors": [
+  {
+   "page": 61,
+   "text": "فَتْحًا مُّبِينًا (٢) لِّيَغْفِرَ",
+   "note": "The ayah ornament after مُّبِينًا (al-Fath 48:1) contains ٢, not ١. At 1000 dpi it is the same digit glyph as in the (٢) after مُّسْتَقِيمًا. Kept as printed (٢), so the passage shows (٢) twice and then (٣)."
+  },
+  {
+   "page": 62,
+   "text": "(وَاحِمْلْنِي)",
+   "note": "In the bold حم ligature the kasra is under the ح and the sukun circle is over the م (expected وَاحْمِلْنِي). Checked at 3000 dpi against رَحْمَةً (line 1) and حَمْلًا (line 6) on the same page. In those words the ح's mark sits over the middle of the ح stroke and the م's mark sits further left over the hook and the meem. Here the sukun has the meem position and the kasra the ح position, the same pattern as حَمْلًا (ح vowel + م sukun). Kept as printed."
+  },
+  {
+   "page": 62,
+   "text": "الرَّبَانِيَّةِ",
+   "note": "The ب has a fatha only, with no shadda (expected الرَّبَّانِيَّةِ). The ر and the ي carry shadda+fatha. Checked at 3500 dpi. Kept as printed."
+  },
+  {
+   "page": 62,
+   "text": "الْمُنَزَّهِةِ",
+   "note": "A kasra stands under the ه, which has nothing above it (expected الْمُنَزَّهَةِ). The ز has shadda+fatha and the ة has a kasra. Checked at 2500 dpi. Kept as printed."
+  },
+  {
+   "page": 63,
+   "text": "(وَاجْعَلِ الْحِجَابَ الَأْعْظَمَ)",
+   "note": "In the bold lam-alif the fatha is over the lam stroke and the sukun circle is directly over the hamza, the reverse of the correct الْأَحَدِيَّةِ (p.062) and الْأَوَّلِ (p.064), where the circle is over the lam stroke and the fatha over the hamza. A separate sukun circle stands over the ع. Expected الْأَعْظَمَ. Checked at 2500 dpi. Kept as printed. The same kind of error as الَأنْوَارُ on p.058."
+  },
+  {
+   "page": 63,
+   "text": "أى وجه تجلى وظهور.",
+   "note": "Footnote (١) is printed «وظهور .» with a space before the final period. The space is dropped per CONVENTIONS §2 (no space before «.»)."
+  }
+ ],
+ "notes": "Markers: all four pages are '+'. p061 continues p060 («شُكْرًا عَلَى مَا أَوْلَيْتَهُ مِن رَّفِيعِ الرُّتْبَةِ» → «وَعَظِيمِ الْمَنزِلَةِ»). p060's only footnote «(١) البخاري ومسلم.» is complete, so there is no (تابع). p062, p063 and p064 each continue mid-sentence. The bold «إِنَّمَا … مُهْدَاةً» is split at the p061/p062 turn and each part is closed on its own page. Paragraph breaks (indented / after a short line): p061 «الْخَاضِعُ», p063 «(وَرُوحَهُ)», p064 «(يَا أَوَّلُ)». Bold vs regular was measured by median stroke width at 1200 dpi (bold 16-19 px, regular 11-13 px; scratch\\b16B\\stroke.py). Bold covers every parenthesised matn phrase, parentheses included in the ** as in keyB b15/b17, plus the bold hadiths «كُلُّ سَبَبٍ … وَنَسَبِي» (p061), «إِنَّمَا بُعِثْتُ رَحْمَةً مُهْدَاةً» (p061-062) and «فَإِذَا أَحْبَبْتُهُ … يَمْشِي بِهَا» (p063). For all three the guillemets are regular weight, so the ** is inside them. The p064 hadith «كُنْتُ أَوَّلَ النَّاسِ خَلْقًا … وَخَاتَمًا» measures regular (11-13) and is unmarked. The p064 paragraph «(يَا أَوَّلُ)…» is in a slightly different typeface: the parenthesised parts measure bold (17) and the rest regular (12-13). Lam ligatures checked at 3000-4000 dpi. Regular font: a hook-sukun crossed by a fatha = lam sukun + next letter fatha (الْمَنزِلَةِ، الْمَسَالِكِ، الْمَعَانِي). The filled 'blob' damma with the sukun hook overlapping it = lam sukun + meem damma (الْمُحِيطَةِ، الْمُنَزَّهِةِ، الْمُوقِعَةِ، الْمُحَمَّدِيَّةِ، fn الْمُوَصِّلُ). Bold font: a circle-sukun crossed by a fatha = lam sukun + fatha (الْجَهْلِ، الْحَقِّ). Lams printed bare are kept bare: الجِسْمَانِيِّ، القُدُّوسِيّةِ (also shadda without fatha on the ي)، الهَوَى، المُجَسِّمة (fn). Other partial or unusual vowelling, kept as printed: (وزُجَّ and (وانْشُلْنِي (no fatha on و, while the rest is fully vowelled), مَعْ (twice on p064, with sukun), وَخَاتَمًا (fatha on ت, checked at 3000 dpi, with fathatan on the م and a separate fatha over the ت), فَأَدْمَغَهُ and وَأُدْحِضَهُ (fatha on the last radical), كاليهود وَمن (fn, fatha on the و of ومن, not on the د), اللهِ with kasra in the p063 footnote verse. In (عَلَى سَبِيلِهِ) and (وَاقْذِفْ بِي عَلَى) the second fatha of على sits left of the lam, over the start of the ى. It is read as the lam's fatha. Final ى with the automatic small alif is written plain (حَتَّى، إِلَى، الهَوَى، تَرَدَّى، تعالى، أى، تجلى، إلى). Spacing: the print often sets the ornament brackets and parentheses touching neighbours («﴾[البقرة», «].(وَاقْذِفْ», «]،﴿وَمَا», «﴾[الشورى», «﴾[النساء», «﴾[آل عمران», «(يَاأَوَّلُ)لَيْسَ», «(يَاآخِرُ)تَقَدَّسَ»). These are normalised to one space between words / after closing punctuation, as in keyB b15. «[الإسراء:١]» is printed without a space after the colon and kept so. «[السجدة: ٢٤]» has no punctuation after it, as printed. Quran: all quotations were checked letter by letter against the Tanzil Uthmani text (dagger alif written without tatweel). quran.py flags only (a) waqf signs Tanzil has after the last word of a cut quotation (ۖ after ٱتَّبَعَنِى، خَلِيفَةً، ٱللَّهِ 4:78، لَكُمْ 3:160; ۚ after ٱلتَّقْوَىٰ، نَّفْسِكَ، أَمْرِنَا، وَلَتَنصُرُنَّهُۥ), which are not printed: the zooms show nothing there, and a colour scan finds only two blue signs on these pages, ۚ in 12:108 and ۖ in 42:11; the black ۖ in 4:79 and 32:24 are transcribed. (b) The footnote verse on p063 «﴿فَأَيْنَمَا تُوَلُّوا فَثَمَّ وَجْهُ اللهِ﴾», which is set in the ordinary bold naskh (not the Uthmani font) inside ornate brackets and is transcribed with its printed harakat. Encodings following Tanzil: أَئِمَّةً (the print draws the Madinah form, hamza+kasra under the nabira), بِـَٔايَٰتِنَا and ٱلنَّبِيِّـۧنَ (tatweel seat carrying ـَٔ / ۧ), أَنَا۠ (upright oval zero, distinct from the round zero ۟ of أَدْعُوٓا۟، صَبَرُوا۟، وَكَانُوا۟، صَدَقُوا۟، وَتَزَوَّدُوا۟), مُّحِيطٌۢ (small high meem printed), شَىْءٌ / شَىْءٍ and إِنِّى / فِى / عِبَادِى / سَبِيلِىٓ / ٱلَّذِىٓ / لَتَهْدِىٓ / ٱتَّبَعَنِى with dotless ى as printed. Honorific: ﷺ glyph in p063 fn3. validate.py: OK with no warnings. Zoom images: scratch\\b16B\\."
+}

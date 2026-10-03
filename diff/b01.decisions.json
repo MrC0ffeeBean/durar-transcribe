@@ -1,0 +1,13 @@
+{
+ "mode": "full_reread",
+ "decisions": {
+  "d001": {"choice": "B", "note": "p001: the line «أ.د/ يسري رشدي السيد جبر الحسني» is printed clearly bold and larger (500 dpi zoom). The lines around it («جمع وترتيب الفقير إلى الله», «شيخ الطريقة…», «إمام وخطيب…») are regular weight. It contrasts, so it is marked **…** per CONVENTIONS §6. It is not a title-attribution line directly under the heading; a large gap separates it from the title block."},
+  "d002": {"choice": "B", "note": "p001: closes the bold span of the author-name line (see d001). The bold ends at «الحسني»; the next line «شيخ الطريقة…» is regular weight."},
+  "d003": {"choice": "B", "note": "p002: the print shows «٢٢٨٣٤» right after the colon of «رقم الإيداع:» and «٢٠١٧» at the far left, after the slash. Read in Arabic order (group by group, right to left, like the range rule in CONVENTIONS §2 and the date line «١٤٤٤هـ - ٢٠٢٣م» on the same page), this is number/year «٢٢٨٣٤/٢٠١٧», which is also the standard Egyptian deposit-number format (number/year). The digits are the same in both versions; only the logical order differs."},
+  "d004": {"choice": "B", "note": "p003 caption: «الفقير إلى الله» is regular weight. The three lines below it («أ.د/ …الحسني», «شيخ الطريقة…بمصر», «إمام وخطيب…بالمقطم») are clearly bold (300 dpi zoom comparing stroke weight). They contrast, so they are marked **…** per §6. This item opens the bold on «أ.د/»."},
+  "d005": {"choice": "B", "note": "p003: the name line and the «شيخ الطريقة…» line are each bold and are separate paragraphs. Close ** after «الحسني» and reopen before «شيخ» (see d004)."},
+  "d006": {"choice": "B", "note": "p003: the line «شيخ الطريقة اليسرية الصديقية الدرقاوية الشاذلية القادرية بمصر» is bold to its end. Close after «بمصر». The next line «إمام وخطيب…» is also bold, so reopen before «إمام»."},
+  "d007": {"choice": "B", "note": "p003: the last caption line «إمام وخطيب مسجد الأشراف بالمقطم» is bold to its end; there is no «- القاهرة» on this page. Close ** after «بالمقطم»."}
+ },
+ "extra_edits": []
+}

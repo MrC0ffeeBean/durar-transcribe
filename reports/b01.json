@@ -1,0 +1,128 @@
+{
+ "batch": "b01",
+ "agreement": 0.8972,
+ "counts": {
+  "punct": 4,
+  "letters": 1,
+  "structure": 2
+ },
+ "n_items": 7,
+ "n_quran_flags": 0,
+ "n_uncertain_flags": 0,
+ "mode": "full_reread",
+ "choices": {
+  "A": 0,
+  "B": 7,
+  "T": 0,
+  "custom": 0
+ },
+ "decisions": [
+  {
+   "id": "d001",
+   "page": 1,
+   "type": "punct",
+   "a": "أ.د/",
+   "b": "**أ.د/",
+   "tanzil": null,
+   "choice": "B",
+   "note": "p001: the line «أ.د/ يسري رشدي السيد جبر الحسني» is printed clearly bold and larger (500 dpi zoom). The lines around it («جمع وترتيب الفقير إلى الله», «شيخ الطريقة…», «إمام وخطيب…») are regular weight. It contrasts, so it is marked **…** per CONVENTIONS §6. It is not a title-attribution line directly under the heading; a large gap separates it from the title block.",
+   "result": "**أ.د/"
+  },
+  {
+   "id": "d002",
+   "page": 1,
+   "type": "punct",
+   "a": "الحسني",
+   "b": "الحسني**",
+   "tanzil": null,
+   "choice": "B",
+   "note": "p001: closes the bold span of the author-name line (see d001). The bold ends at «الحسني»; the next line «شيخ الطريقة…» is regular weight.",
+   "result": "الحسني**"
+  },
+  {
+   "id": "d003",
+   "page": 2,
+   "type": "letters",
+   "a": "٢٠١٧/٢٢٨٣٤",
+   "b": "٢٢٨٣٤/٢٠١٧",
+   "tanzil": null,
+   "choice": "B",
+   "note": "p002: the print shows «٢٢٨٣٤» right after the colon of «رقم الإيداع:» and «٢٠١٧» at the far left, after the slash. Read in Arabic order (group by group, right to left, like the range rule in CONVENTIONS §2 and the date line «١٤٤٤هـ - ٢٠٢٣م» on the same page), this is number/year «٢٢٨٣٤/٢٠١٧», which is also the standard Egyptian deposit-number format (number/year). The digits are the same in both versions; only the logical order differs.",
+   "result": "٢٢٨٣٤/٢٠١٧"
+  },
+  {
+   "id": "d004",
+   "page": 3,
+   "type": "punct",
+   "a": "أ.د/",
+   "b": "**أ.د/",
+   "tanzil": null,
+   "choice": "B",
+   "note": "p003 caption: «الفقير إلى الله» is regular weight. The three lines below it («أ.د/ …الحسني», «شيخ الطريقة…بمصر», «إمام وخطيب…بالمقطم») are clearly bold (300 dpi zoom comparing stroke weight). They contrast, so they are marked **…** per §6. This item opens the bold on «أ.د/».",
+   "result": "**أ.د/"
+  },
+  {
+   "id": "d005",
+   "page": 3,
+   "type": "structure",
+   "a": "الحسني ¶ شيخ",
+   "b": "الحسني** ¶ **شيخ",
+   "tanzil": null,
+   "choice": "B",
+   "note": "p003: the name line and the «شيخ الطريقة…» line are each bold and are separate paragraphs. Close ** after «الحسني» and reopen before «شيخ» (see d004).",
+   "result": "الحسني** ¶ **شيخ"
+  },
+  {
+   "id": "d006",
+   "page": 3,
+   "type": "structure",
+   "a": "بمصر ¶ إمام",
+   "b": "بمصر** ¶ **إمام",
+   "tanzil": null,
+   "choice": "B",
+   "note": "p003: the line «شيخ الطريقة اليسرية الصديقية الدرقاوية الشاذلية القادرية بمصر» is bold to its end. Close after «بمصر». The next line «إمام وخطيب…» is also bold, so reopen before «إمام».",
+   "result": "بمصر** ¶ **إمام"
+  },
+  {
+   "id": "d007",
+   "page": 3,
+   "type": "punct",
+   "a": "بالمقطم",
+   "b": "بالمقطم**",
+   "tanzil": null,
+   "choice": "B",
+   "note": "p003: the last caption line «إمام وخطيب مسجد الأشراف بالمقطم» is bold to its end; there is no «- القاهرة» on this page. Close ** after «بالمقطم».",
+   "result": "بالمقطم**"
+  }
+ ],
+ "extra_edits": [],
+ "rules": {
+  "plain_final_ya": {}
+ },
+ "unresolved_uncertain": [],
+ "quran_residual": [],
+ "keyer_notes": {
+  "keyA": {
+   "uncertain": [],
+   "print_errors": [
+    {
+     "page": 2,
+     "text": "٩٧٨-٩٧٧-٦٦١٤-٢-٤",
+     "note": "The printed ISBN has only 12 digits (3+3+4+1+1), so it cannot be a valid ISBN-13 or ISBN-10. It is kept exactly as printed."
+    }
+   ],
+   "notes": "p001: first page of the book, so the marker has no '+' and there are no footnotes. The title heading is joined from 2 printed lines, keeping only the printed marks: الدُّرَر النَّقِيَّة, no marks on في/أوراد/الطريقة, اليُسْرِيَّة, and الصِّديقيَّة (shadda+kasra on ص only, nothing on د or ق). The subtitle and the author/title lines are plain paragraphs with no ** markup, following the STRUCTURE rule for lines under a title, although the subtitle and the name line are printed in a heavier font. The dash in «بالمقطم- القاهرة» is written as printed: glued to the word before it, with a space after. p002: each centered line is its own paragraph. Most lines use a heavy display font; the labels «رقم الإيداع:» and «الترقيم الدولي» look lighter. No ** was used because this is a front-matter page set in display type. Number order: the deposit number is written ٢٠١٧/٢٢٨٣٤, the order in which it is printed left to right (year/number); under Unicode bidi it displays exactly as printed. The ISBN is written in standard ISBN order starting with ٩٧٨, which is also the printed left-to-right order (978 leftmost). A purely mechanical right-to-left reading would reverse the groups to ٤-٢-٦٦١٤-٩٧٧-٩٧٨. The arbiter should check this if keyB differs. Hijri هـ keeps its tatweel as printed. p001/p003: the abbreviation printed after أ is a small dot near the baseline, written as ASCII '.' in «أ.د/», as in STRUCTURE. p003: photo omitted; 4 caption lines are plain paragraphs, all unvowelled. p004: the basmala roundel is written بسم الله الرحمن الرحيم without harakat, per STRUCTURE §4. The calligraphic salawat line has only these marks printed: اللَّهمَّ (shadda+fatha on the second lam and on mim, nothing on ه), صَلِّ, and وسَلِّم (no sukun on م). على سيدنا محمد وآله carry no marks except the madda in آله. All zooms were saved as scratch\\kA01_*, kA02_*, kA03_*, kA04_*."
+  },
+  "keyB": {
+   "uncertain": [],
+   "print_errors": [
+    {
+     "page": 2,
+     "text": "٩٧٨-٩٧٧-٦٦١٤-٢-٤",
+     "note": "The printed ISBN has only 12 digits (3+3+4+1+1), but an ISBN-13 needs 13. A digit is probably missing in the print. Transcribed exactly as printed."
+    }
+   ],
+   "notes": "p001: Page 1 starts the book, so the plain marker is used (no '+' and no (تابع)). Title harakat checked at up to 1400 dpi: الدُّرَر (shadda+damma on د, fatha on the first ر only), النَّقِيَّة, في (no kasra; the kasra under the line belongs to ق), اليُسْرِيَّة (damma on ي, sukun on س, kasra on ر), الصِّديقيَّة. In الصِّديقيَّة only ص (shadda+kasra) and the last ي (shadda+fatha) carry marks. د and ق have none. The small spur under the ص bowl is part of the ص glyph, not a second kasra. This differs from the fuller vocalisation الصِّدِّيقِيَّة in README.md; I followed the print. The author-name line is printed bold among regular lines, so I marked it **…** (CONVENTIONS §5 'bold if printed bold'). The subtitle «وأذكار…» is a plain paragraph, per STRUCTURE. «بالمقطم- القاهرة» uses the printed short dash, glued to the word before it. p001/p003: the dot in «أ.د/» is drawn as a raised filled dot (Arabic period shape in this font); I wrote it as a period '.', matching STRUCTURE. p002: The whole page is bold, so there is no ** markup. Hijri abbreviation «١٤٤٤هـ» is printed with tatweel and kept. The deposit number is printed visually with ٢٠١٧ at the far left and ٢٢٨٣٤ next to the colon. I wrote it in reading/meaning order (number/year) as «٢٢٨٣٤/٢٠١٧»; if the adjudicator prefers the bidi-visual order, it would be «٢٠١٧/٢٢٨٣٤». The ISBN is printed visually with ٩٧٨ at the far left. I wrote it in its meaningful order «٩٧٨-٩٧٧-٦٦١٤-٢-٤» with ASCII hyphens. 'I.S.BN' is kept as printed. p003: The photo is omitted. Caption: «الفقير إلى الله» is regular weight. The next three lines are bold and contrast with it, so each is marked **…**. p004: The roundel is written as plain «بسم الله الرحمن الرحيم» per STRUCTURE §4. The salawat line is a low-resolution raster (335x61 px). Marks were verified at 1100-1500 dpi: shadda+fatha on the second ل and on م of اللَّهمَّ (no damma on ه); fatha on ص and shadda+kasra on ل of صَلِّ; fatha on س and shadda+kasra on ل of وسَلِّم (no mark on و or م); madda on وآله; على/سيدنا/محمد unmarked. على is drawn with a calligraphic returning yeh and is written ى."
+  }
+ }
+}

@@ -1,0 +1,213 @@
+{
+ "batch": "b13",
+ "agreement": 0.9963,
+ "counts": {
+  "haraka": 2
+ },
+ "n_items": 2,
+ "n_quran_flags": 0,
+ "n_uncertain_flags": 0,
+ "mode": "spots",
+ "choices": {
+  "A": 0,
+  "B": 2,
+  "T": 0,
+  "custom": 0
+ },
+ "decisions": [
+  {
+   "id": "d001",
+   "page": 51,
+   "type": "haraka",
+   "a": "عَلانِيَتُهُ",
+   "b": "عَلانِيتُهُ",
+   "tanzil": null,
+   "choice": "B",
+   "note": "p051 zoom at 1400 dpi: عَلانِيتُهُ has fatha on ع, kasra under ن, damma on ت and on ه; no fatha on the ي.",
+   "result": "عَلانِيتُهُ"
+  },
+  {
+   "id": "d002",
+   "page": 52,
+   "type": "haraka",
+   "a": "أَقْتَرَفَ",
+   "b": "أَقْترَفَ",
+   "tanzil": null,
+   "choice": "B",
+   "note": "p052 zoom at 1600 dpi: أَقْترَفَ has fatha on أ, sukun on ق, fatha on ر and on ف; nothing above the ت (only its two dots).",
+   "result": "أَقْترَفَ"
+  }
+ ],
+ "extra_edits": [
+  {
+   "page": 52,
+   "find": "سُوءًا عَلَى نَفْسِي",
+   "replace": "سُوءًا عَلى نَفْسِي",
+   "note": "Both keyers wrote two fathas. A 2400 dpi zoom shows only one fatha, over the ع, and nothing above the ل stem. The other عَلَى on this page (أَنَّ اللهَ عَلَى كُلِّ) clearly has both fathas at the same zoom. Written as printed (CONVENTIONS §2)."
+  }
+ ],
+ "rules": {
+  "plain_final_ya": {}
+ },
+ "unresolved_uncertain": [],
+ "quran_residual": [],
+ "keyer_notes": {
+  "keyA": {
+   "uncertain": [],
+   "print_errors": [
+    {
+     "page": 49,
+     "text": "إلي ما قبل الظهر / المغرب إلي ما قبل الفجر",
+     "note": "Printed twice with dotted yeh (for إلى); kept as printed."
+    },
+    {
+     "page": 49,
+     "text": "المائة :(عدد / كلماتِكَ ، وكما",
+     "note": "Print has a stray space before ':' and before '،'; normalized per CONVENTIONS §2 spacing rule to 'المائة:(عدد' and 'كلماتِكَ، وكما' (no space added after the colon, none is printed)."
+    },
+    {
+     "page": 50,
+     "text": "السَّيِئَاتِ",
+     "note": "No shadda on the yeh (expected السَّيِّئَات); kasra under yeh only, as printed."
+    },
+    {
+     "page": 50,
+     "text": "وَتُبَلِغُنَا",
+     "note": "No shadda on the lam (expected وَتُبَلِّغُنَا); kept."
+    },
+    {
+     "page": 50,
+     "text": "بِوَجِهِه",
+     "note": "Kasra printed under jim and under the medial heh, final heh bare (expected بِوَجْهِهِ); kept."
+    },
+    {
+     "page": 51,
+     "text": "كَلِّ شَيءٍ",
+     "note": "Fatha on kaf (expected كُلِّ); kept."
+    },
+    {
+     "page": 51,
+     "text": "[أَمْسَيِتُ]",
+     "note": "Kasra under yeh (expected أَمْسَيْتُ); kept."
+    },
+    {
+     "page": 52,
+     "text": "أَقْتَرَفَ",
+     "note": "Fatha on ra, ta bare, no kasra under ra (expected أَقْتَرِفَ after أَنْ); checked at 2400 dpi; kept."
+    },
+    {
+     "page": 52,
+     "text": "المُضطَّرِينَ",
+     "note": "Shadda+fatha printed on ta, no sukun on dad, kasra under ra (expected المُضْطَرِّينَ); kept."
+    },
+    {
+     "page": 52,
+     "text": "مِنْ السَّمَاءِ",
+     "note": "Sukun on nun before the article (expected مِنَ); kept."
+    }
+   ],
+   "notes": "Page 049 opens with a new # heading, so no '+' marker; p048 has no footnotes, so no (تابع). None of pp.050-052 continues the previous page (each previous page ends a sentence/paragraph). Allah: where a case vowel is printed after the font's automatic shadda+small-alif ligature (اللهَ on pp.049, 052) I wrote only the printed vowel: اللهَ; the bare ligature is الله / بِالله. p049 heading written 'الورد اليومي (الأساس)' (the gap after د is narrow in the bold title font; STRUCTURE gives two words). p049 bullets '*' kept as the printed asterisk glyph. p050: 'وتقسم على جميع الحاضرين.' is a bold standalone sentence ending in '.', so I wrote a bold paragraph, not a heading. p050 'في الملمات ... بالتلقي:' and the following Tazi salawat are one paragraph (the line before is full width, the next has no indent and no extra leading). Likewise p051 'أربع مرات.' closes the preceding paragraph. p051 heading: shadda above and kasra below the ص of الصِّديقي (bold title font). The intro line يُقْرَأُ … under the p051 title is a plain paragraph per STRUCTURE §2, even though it is set bold. The Quran ref '[الأعراف:٨٩].' is printed without spaces and is kept so. Other unusual vowelling kept as printed: اللَّهُمّ (shadda only, p051), كلُّه (bare kaf, p051), وَحْدَك / سَيِّدنَا / إِني (p051), الغَيبِ, وَالأرْضِ, إِلَه, دَعْوةِ, الأَرْض (p052), الخَوَاتِيْم (p050). quran.py raised no flags."
+  },
+  "keyB": {
+   "uncertain": [],
+   "print_errors": [
+    {
+     "page": 49,
+     "text": "المائة:(عدد",
+     "note": "Print has «المائة :(عدد»: a space before the colon and none after it. Written without the space before the colon (CONVENTIONS §2). No space was added after it."
+    },
+    {
+     "page": 49,
+     "text": "كلماتِكَ،",
+     "note": "Print has a clear space before the comma («كلماتِكَ ،»). Written without the space (CONVENTIONS §2)."
+    },
+    {
+     "page": 49,
+     "text": "إلي ما قبل الظهر / إلي ما قبل الفجر",
+     "note": "Both are printed with a dotted ي (إلي), while «إلى مغربها» on the same page has ى. Kept as printed."
+    },
+    {
+     "page": 49,
+     "text": "النَّبِي الأُمِّي",
+     "note": "In the Friday salat the final yeh of both words has no shadda+kasra, unlike النَّبِيِّ الأُمِّيِّ in the second bullet. Kept as printed."
+    },
+    {
+     "page": 50,
+     "text": "السَّيِئَاتِ",
+     "note": "The yeh has only a kasra and no shadda (expected السَّيِّئَاتِ). Checked at 1800 dpi."
+    },
+    {
+     "page": 50,
+     "text": "وَتُبَلِغُنَا",
+     "note": "The lam has only a kasra and no shadda (expected وَتُبَلِّغُنَا). Checked at 1500 dpi."
+    },
+    {
+     "page": 50,
+     "text": "بِوَجِهِه",
+     "note": "The kasra marks are under the jeem and the medial heh, and the final heh has none (expected بِوَجْهِهِ). Checked at 2600 dpi."
+    },
+    {
+     "page": 50,
+     "text": "الخَوَاتِيْم",
+     "note": "A sukun is printed over the yeh. Kept."
+    },
+    {
+     "page": 51,
+     "text": "# حزب الفتح الصِّديقي",
+     "note": "In the heading the shadda+kasra sit on the ص and the د is bare (expected الصِّدِّيقي)."
+    },
+    {
+     "page": 51,
+     "text": "اللَّهُمّ لَكَ الحَمْدُ",
+     "note": "The meem has a shadda with no fatha. Kept."
+    },
+    {
+     "page": 51,
+     "text": "عَلَى كَلِّ شَيءٍ",
+     "note": "A fatha is printed on the ك (expected كُلِّ). Checked at 2400 dpi."
+    },
+    {
+     "page": 51,
+     "text": "[أَمْسَيِتُ]",
+     "note": "A kasra is printed under the ي (expected أَمْسَيْتُ). Checked at 2400 dpi."
+    },
+    {
+     "page": 51,
+     "text": "سَيِّدنَا",
+     "note": "The د has no kasra (expected سَيِّدِنَا)."
+    },
+    {
+     "page": 51,
+     "text": "وَحْدَك لا شَرِيكَ لَكَ",
+     "note": "The final ك of وَحْدَك has no fatha, but the other ك in the line have one. Kept."
+    },
+    {
+     "page": 51,
+     "text": "ٱلْفَٰتِحِينَ﴾",
+     "note": "A space is printed before the closing ornate bracket. Written glued (CONVENTIONS §2). The reference «[الأعراف:٨٩]» is printed with no space after the colon and is kept that way."
+    },
+    {
+     "page": 52,
+     "text": "أَقْترَفَ",
+     "note": "The fatha stands over the ر and the ت is bare (expected أَقْتَرِفَ). Checked at 3600 dpi."
+    },
+    {
+     "page": 52,
+     "text": "دَعْوةِ",
+     "note": "The و has no fatha. Kept."
+    },
+    {
+     "page": 52,
+     "text": "وَالأرْضِ",
+     "note": "In «فاطر السماوات والأرض» the hamza has no fatha. The later «فِي الأَرْض» has a fatha on the hamza but no vowel on the ض. Both kept as printed."
+    },
+    {
+     "page": 52,
+     "text": "التِي",
+     "note": "The lam has no shadda (expected الَّتِي). Kept."
+    }
+   ],
+   "notes": "p049 opens with the # heading after p048's complete list, so there is no '+'. p048 has no footnotes, so there is no (تابع). The pages 050, 051 and 052 each start a new indented paragraph after a complete sentence, so none has a '+'. Bullets are printed as a flower asterisk and written '* ' (CONVENTIONS §7, STRUCTURE). The word الله: wherever the plain font ligature is used, it is written الله, and only a separately printed case fatha is added (اللهَ on p049 and p052), as in earlier keyB batches (b12 اللهِ). Final ى carrying the font's automatic small alif is written as plain ى (عَلَى، إلى، ترضى، مَضَى، تُقْضَى، أَقْصَى، إِلَى). p050: the Tazi salat line «اللَّهُمَّ صَلِّ صَلاةً…» starts flush right with no indent, and the line before it («…وصيغتها بالتلقي:») is full width. Per §6 it is joined to the «في الملمات…» paragraph. In the same way, on p051 «أربع مرات.» is joined to the preceding dua, and the reference «[الأعراف:٨٩].», which wraps onto its own line, stays with the Quran quotation. p050 «وتقسم على جميع الحاضرين.» is a bold standalone instruction, written as a **bold** paragraph. p051: the paragraph «يُقْرَأُ مرة في الصباح…» under the title is set in bold, but per STRUCTURE §2 a «تقرأ…» line under a title is a plain paragraph, so no ** was used. The calligraphic basmala is written in the standard form outside the brackets. The Quran text (الأعراف ٨٩) matches Tanzil with no tatweel before the dagger alif. In the lam-alif ligature the hamza of لأ sits on the left slanted stroke, which identifies that stroke as the alif. The fathatan above that stroke in «أَعْمَالاً» (p051) is therefore encoded on the alif. «لَمْ يَشَأ لَمْ يَكُنْ» (p052) is set tight, but each word is written separately with a space. All lines were checked against 650 dpi half-line renders and 1300 dpi third-line renders, plus 1500–3600 dpi zooms of every questionable mark (scratch\\b13_*.png)."
+  }
+ }
+}

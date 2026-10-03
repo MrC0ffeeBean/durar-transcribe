@@ -1,0 +1,126 @@
+{
+ "mode": "spots",
+ "decisions": {
+  "d001": {
+   "choice": "A",
+   "note": "p197 bayt 5: at 1000 dpi the final ة of «مَحْنِيَة» in the verse has no tanween beneath it (only kasra under ن and fatha on ي). The gloss prints مَحْنِيَةٍ, but the verse does not."
+  },
+  "d002": {
+   "choice": "A",
+   "note": "p197 bayt 5: at 900 dpi there is no kasra under the ب of «بأَبْطَحَ», only its dot. The kasratan belongs to صَافٍ."
+  },
+  "d003": {
+   "choice": "A",
+   "note": "p197 bayt 7: no sukun over the waw of «مَوعُودَهَا» at 800 dpi (fatha on م, damma on ع only)."
+  },
+  "d004": {
+   "choice": "A",
+   "note": "p197 bayt 8: no sukun over the ن of «مِن» (kashida-stretched) at 800 dpi."
+  },
+  "d005": {
+   "choice": "A",
+   "note": "p197 gloss 5: a small dagger alif is clearly drawn in the bowl of the final ى of «القذىٰ». Kept as ىٰ, following the b02 adjudication precedent for the body/gloss font."
+  },
+  "d006": {
+   "choice": "A",
+   "note": "p197 gloss 5: dagger alif clearly printed on both «أضحىٰ» and «الضحىٰ» (500 dpi zoom)."
+  },
+  "d007": {
+   "choice": "A",
+   "note": "p197 gloss 6: dagger alif clearly printed on «القذىٰ» and «الأذىٰ»."
+  },
+  "d008": {
+   "choice": "A",
+   "note": "p197 gloss 6 hadith: at 1000 dpi «عَلَىٰ» shows the fatha on ل and a dagger alif in the ى bowl."
+  },
+  "d009": {
+   "choice": "A",
+   "note": "p197 gloss 6: «بيضٌ» has only the dammatan on ض. There is no kasra under ب at 900 dpi."
+  },
+  "d010": {
+   "choice": "A",
+   "note": "p198 bayt 10: no kasra under the ب of «بالْعَهْدِ» at 900 dpi. The sukun on ل, fatha on ع, sukun on ه and kasra on د are present."
+  },
+  "d011": {
+   "choice": "A",
+   "note": "p198 bayt 10: the lam of «الغَرَابِيلُ» has no sukun at 900 dpi. Fatha on غ and ر, kasra on ب."
+  },
+  "d012": {
+   "choice": "A",
+   "note": "p198 gloss 12: «دعها» is visibly heavier (bold) than the neighbouring «قال» and «حتىٰ» at 1000 dpi. The dagger alif on «حتىٰ» is clearly printed."
+  },
+  "d013": {
+   "choice": "A",
+   "note": "p198 gloss 12, second «دعها»: bold, the same as d012. The dagger alif on حتىٰ is visible."
+  },
+  "d014": {
+   "choice": "A",
+   "note": "p198 gloss 12, third «دعها» (line end): bold. The dagger alif on حتىٰ is visible."
+  },
+  "d015": {
+   "choice": "B",
+   "note": "p198 gloss 12: at 1200 dpi the tooth after the alif carries two dots, not three: «أتمرت». Compare «ثمرة» on the first line of the same gloss, which clearly has three dots."
+  },
+  "d016": {
+   "choice": "A",
+   "note": "p199 bayt 14: above the lam-mim there is one merged mark, a sukun circle crossed by a fatha (the same shape as in الْمَاءَ p198). Nothing is printed over the ر: الْمَراسِيلُ."
+  },
+  "d017": {
+   "choice": "A",
+   "note": "p199 bayt 17: at 1800 dpi a single kasra sits under the lam-ha ligature, so the ه has a kasra. A separate kasratan for the ق hangs lower, just above the next line. Printed لَهِقٍ."
+  },
+  "d018": {
+   "choice": "A",
+   "note": "p199 bayt 17: the lam of «الحِزَّانُ» has no sukun. The double stroke above it is the displaced kasratan of لَهِقٍ from the line above, and the kasra under ح is visible."
+  },
+  "d019": {
+   "choice": "A",
+   "note": "p199 bayt 18: «بَناتِ» shows a fatha on ب and a kasra on ت, with nothing over the ن (1000 dpi)."
+  },
+  "d020": {
+   "choice": "B",
+   "note": "p199 gloss 15 is printed «١٥ - عذافرة», with a stray space before the dash from justification. It is normalized to the book's numbering form «١٥- », as both keyers did for the double space after «١٤-» (§2 spacing, §7 numbering). The text is unchanged."
+  },
+  "d021": {
+   "choice": "A",
+   "note": "p199 gloss 15: the dagger alif in the ى bowl of «إلىٰ» is clearly printed."
+  },
+  "d022": {
+   "choice": "B",
+   "note": "p199 gloss 16 is printed «١٦ -نضاخة», with the spacing around the dash reversed (a typesetting slip). It is normalized to the standard «١٦- نضاخة:» item form, consistent with d020 and every other gloss number."
+  },
+  "d023": {
+   "choice": "A",
+   "note": "p199 gloss 16: «الذِّفَرىٰ» has a shadda+kasra on ذ, a fatha on ف and a clearly printed dagger alif in the ى."
+  },
+  "d024": {
+   "choice": "A",
+   "note": "p199 gloss 17: the dagger alif is clearly printed on «يرىٰ»."
+  },
+  "d025": {
+   "choice": "A",
+   "note": "p200 bayt 19: at 1200 dpi «مُذَكَّرةٌ» has damma on م, fatha on ذ, shadda+fatha on ك and dammatan on ة, with no fatha on ر."
+  },
+  "d026": {
+   "choice": "A",
+   "note": "p200 gloss 20: the dagger alif is clearly printed in «تعالىٰ»."
+  },
+  "d027": {
+   "choice": "A",
+   "note": "p200 gloss 20: the dagger alif is clearly printed in «مثنىٰ»."
+  },
+  "q001": {
+   "choice": "A",
+   "note": "Genuine print variant. The citation is set in the ordinary gloss naskh inside ornate brackets, and at 1400 dpi the alif of «وَحَدَائِقَ» clearly has no madda."
+  },
+  "q002": {
+   "choice": "A",
+   "note": "Genuine print variant. The print separates Taha 118 and 119 with a six-petal asterisk ornament instead of an ayah number, written « * »."
+  },
+  "q003": {
+   "choice": "A",
+   "note": "Genuine print variant. At 1000 dpi the naskh citation clearly reads «تَظْمَأُ» (hamza on alif with damma), not the Uthmani تَظْمَؤُا۟."
+  }
+ },
+ "extra_edits": []
+}

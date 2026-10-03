@@ -1,0 +1,9 @@
+{
+ "mode": "spots",
+ "decisions": {
+  "d001": {"choice": "A", "note": "Measured on a 600 dpi strip of p.074. In the 1st dua the gap between the period and «[» is 18 px. That is the same as the ')' to '.' gap (19 px), so only the glyph side bearings separate them and no space is printed: «(ثلاثًا).[تقرأ». In the 2nd dua the same gap is 40 px, an extra word space: «(ثلاثًا). [تقرأ». Kept tight as printed, following the b17/b18 precedent of copying tight spacing."},
+  "d002": {"choice": "B", "note": "At 450 dpi «مُحَمَّدٍ» looks heavier than «وَبسيدنا» and «نَبِيًّا». This is the body font's special محمد ligature, and it looks the same in «سَيِّدِنَا مُحَمَّدٍ عَبْدِكَ» on p.049 (zoomed for comparison). That p.049 instance is unmarked in final b13, as are all other مُحَمَّدٍ in finals b13/b17/b21/b27. It is not contrasting bold emphasis, so no ** is used."},
+  "d003": {"choice": "A", "note": "At 800 dpi a kasra is printed low under the Allah ligature in «بِكَلِمَاتِ الله التَّامَّاتِ». It sits separately from the kasra under the ت of كلمات and from the letters of التامات. A case vowel is printed, so the Name is written with all its marks per CONVENTIONS §2: اللَّهِ. This follows the b18 d003 precedent for بِاللَّهِ."}
+ },
+ "extra_edits": []
+}

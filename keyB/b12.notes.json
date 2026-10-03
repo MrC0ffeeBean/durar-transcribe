@@ -1,0 +1,56 @@
+{
+ "uncertain": [],
+ "print_errors": [
+  {
+   "page": 45,
+   "text": "العصر )",
+   "note": "space printed before the closing parenthesis in item ٤; written without the space (CONVENTIONS §2 spacing)."
+  },
+  {
+   "page": 45,
+   "text": "الصديقية .",
+   "note": "space printed before the final period of item ١٠; written without the space."
+  },
+  {
+   "page": 45,
+   "text": "١ - ورد / ٧-الصلوات / ١٠ -آداب",
+   "note": "inconsistent spacing around the list-number dash; kept as printed."
+  },
+  {
+   "page": 46,
+   "text": "علي الأقل",
+   "note": "printed with dotted ي (for على); kept as printed."
+  },
+  {
+   "page": 46,
+   "text": "﴿.وَمَا تُقَدِّمُوا۟",
+   "note": "a stray period is printed right after the opening ornate bracket of item (٣); kept as printed."
+  },
+  {
+   "page": 46,
+   "text": "رَّحِيمٌۢ ﴾",
+   "note": "space before the closing ornate bracket; written without the space."
+  },
+  {
+   "page": 47,
+   "text": "إلي ١٠٠٠",
+   "note": "printed with dotted ي (for إلى); kept as printed."
+  },
+  {
+   "page": 47,
+   "text": "المصطفي",
+   "note": "printed with dotted ي (for المصطفى); kept as printed."
+  },
+  {
+   "page": 48,
+   "text": "النبي ﷺ .",
+   "note": "space before the period after the ﷺ glyph; written without the space."
+  },
+  {
+   "page": 48,
+   "text": "صلي الله عليه وسلم",
+   "note": "printed with dotted ي (for صلى) and as ordinary words (no glyph); kept as printed."
+  }
+ ],
+ "notes": "p045 begins with the # heading (p044 ends with a complete paragraph, no footnotes), so no '+'. p046 begins a new paragraph (no '+'). p047 continues item (٧) from p046 ('...وعافية' / 'الأبدان...') so marker is 047+. p048 starts a new list item (no '+'). Parenthesised list numbers '(n)' are printed tight against the next word in a few items ((١)أعوذ, (٦)يا, (٧)منظومة); written uniformly as '(n) ' per CONVENTIONS §7. Tanween placement kept as printed: p045 item ١ 'يومياً صباحاً' (fathatan after the alif) vs items ٣/٥/٦ 'يوميًّا/صباحًا/يوميًا' (fathatan on the letter before the alif); p046-p047 use the 'ـاً' form. p047 item (٤): a kasra is printed under the ligature الله ('عطاءِ اللهِ'); written 'اللهِ' (the ligature's automatic shadda/small alif not written). p046 Quran: the round zero on the silent alif written U+06DF (تُقَدِّمُوا۟, وَٱسْتَغْفِرُوا۟), the khaa-head sukun as U+0652, iqlab mim U+06E2 on رَّحِيمٌۢ and لَطِيفٌۢ, final dotless ى in ٱلْقَوِىُّ as printed, madda as U+0653. p047 the whole 'وننصح ... الانترنت.' paragraph is bold (contrasts with surrounding regular text); 'محتويات أخرى:' is a bold standalone title -> ###. Tatweel in المنســوبةُ (p047), لسيـــدي and صبـــاح (p048) dropped."
+}

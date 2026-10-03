@@ -1,0 +1,26 @@
+{
+ "mode": "full_reread",
+ "decisions": {
+  "d001": {"choice": "A", "note": "At 1200 dpi a second kasra is printed low under the final ha of الله (separate from the kasra under the ba), so the print has بِاللهِ."},
+  "d002": {"choice": "A", "note": "The words are bold, but the parentheses have the same thin stroke as the regular parens of «(فَأَعْجَزَ» on p.059 (compared at 1000 dpi). They do not contrast, so they stay outside the ** markers, as in the final of b17 for this section."},
+  "d003": {"choice": "A", "note": "Same as d002: the bold word is inside the markers, and the regular-weight parentheses are outside."},
+  "d004": {"choice": "B", "note": "At 1300 dpi the ta of المتوج has only its two dots and no fatha. The marks are a damma on the lam-mim and shadda+fatha on the waw, so the print has المُتوَّجِ."},
+  "d005": {"choice": "A", "note": "At 1000 dpi the dash touches ٤٦ and there is a clear word gap between it and ٤٥, so «٤٥ -٤٦» is kept as printed. The parentheses are regular weight and stay outside the bold (see d002)."},
+  "d006": {"choice": "A", "note": "The closing parenthesis is regular weight, so it goes outside the bold (see d002)."},
+  "d007": {"choice": "A", "note": "Component analysis at 1300 dpi: there is one fatha over the waw and a second, separate fatha directly over the alif (the nun has its own sukun), so the print has وَاَنْفَلَقَتِ. In الَأنْوَارُ the fatha sits over the lam stroke and the hamza is bare, as both keyers read. The parentheses are regular weight and stay outside the bold."},
+  "d008": {"choice": "A", "note": "[المائدة: ١٥ - ١٦] is printed with a space on both sides of the dash, so it is kept as printed. The parentheses are regular weight and stay outside the bold."},
+  "d009": {"choice": "A", "note": "Only this phrase is bold on p.059, and its parentheses are regular weight, so they stay outside the markers (see d002)."},
+  "d010": {"choice": "A", "note": "The bold words are inside the markers, and the regular-weight parentheses are outside (see d002)."},
+  "d011": {"choice": "A", "note": "The parentheses are regular weight and stay outside the bold (see d002). مِّنْكَ has shadda+kasra on the mim, as printed."},
+  "d012": {"choice": "custom", "text": "تُزْجَى (**إِلَيْهِ**)", "note": "At 1000 dpi a single dot is printed over the second letter, a separate component between the ta's damma/dots and the sukun, so the word is تُزْجَى with a zay (B's reading). The parentheses of (إليه) are regular weight and stay outside the bold, as in A."},
+  "d013": {"choice": "A", "note": "The opening parenthesis is regular weight and stays outside the bold (see d002)."},
+  "d014": {"choice": "A", "note": "The closing parenthesis is regular weight and stays outside the bold (see d002)."},
+  "d015": {"choice": "A", "note": "The parentheses are regular weight and stay outside the bold (see d002)."},
+  "d016": {"choice": "A", "note": "The parentheses are regular weight and stay outside the bold (see d002)."},
+  "d017": {"choice": "A", "note": "At 1200 dpi the comma after [المنافقون: ١] touches the ornate opening bracket, with no word space, so the glued «]،﴿» is kept."},
+  "d018": {"choice": "A", "note": "At 1200 dpi a clear damma (a loop with a tail) is printed over the ha of ٱللَّهُ, and no waqf sign follows. The Tanzil text has ٱللَّهَ ۖ, so this is a print variant/error that is kept as printed."},
+  "d019": {"choice": "A", "note": "The opening parenthesis is regular weight and stays outside the bold (see d002)."},
+  "d020": {"choice": "A", "note": "The closing parenthesis is regular weight and stays outside the bold (see d002)."}
+ },
+ "extra_edits": []
+}

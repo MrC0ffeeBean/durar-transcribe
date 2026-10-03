@@ -1,0 +1,15 @@
+{
+ "mode": "spots",
+ "decisions": {
+  "d001": {
+   "choice": "B",
+   "note": "p.027 l.3: no space typed between ج and ١. Measured at 900 dpi: ج|١ ink gap 38 px. Digits are tabular here (p.021 «١٣٥٠»: ١|٣ 34 px, ٥|٠ 53 px; p.026 ٣|٣ 14 px), so ١ alone carries ~32 px of side bearing. Final ج + space + أ («تخريج أحاديث», same page) gives 48 px, and a space is ~24 px (سمير|الصالحين 34 px vs the joined one 10 px). With a space the ج|١ gap would be ~70 px. The visible gap is the bearing of ١, so the print reads ج١."
+  },
+  "d002": {
+   "choice": "custom",
+   "text": "سميرالصالحين ج٢",
+   "note": "p.027 l.3. The second «سميرالصالحين» is printed joined: the ر–ا ink gap is 10 px at 900 dpi, against 34 px for the first «سمير الصالحين» on the same line. This is kept as printed, a print slip, as in A. ج|٢ is 30 px. ٢ has ~19 px of tabular bearing, and with a space the gap would be ~55-60 px, so the print has no space: ج٢, as in B."
+  }
+ },
+ "extra_edits": []
+}

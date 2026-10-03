@@ -1,0 +1,27 @@
+{
+ "uncertain": [
+  {
+   "page": 91,
+   "reading": "الصَّلَوَاتُ اليُسرِيَّةُ عَلَى خَيْرِ البَرِيَّةِ",
+   "why": "Chapter title is a low-resolution (377x73 px) raster thuluth calligraphy; letters are certain but the harakat are mixed with ornamental/muhmal marks (small v over ص/س/ر, small ع/ح/ص under letters). No sukun visible on س of اليسرية; fatha on و of الصلوات, damma on ت and final kasra of البرية not clearly resolvable. Whole heading text wrapped in [؟:…]."
+  }
+ ],
+ "print_errors": [
+  {
+   "page": 90,
+   "text": "[ثُمَّ يَتْفُلُ ثَلاثًا عَنْ يَمِينِه، وَشِمَالِهِ، وَأَمَامِهِ، وَخَلْفِهِ، ثُمَّ يَقُولُ:",
+   "note": "Opening bracket [ has no closing ] anywhere on the line; kept as printed."
+  },
+  {
+   "page": 90,
+   "text": "مَا أَطِيقُ وَمَا لا أَطِيقُ",
+   "note": "Both أطيق printed with fatha on the hamza (expected أُطِيقُ); kept as printed."
+  },
+  {
+   "page": 92,
+   "text": "تِسْعَةً وَتِسْعِينَ اسْمَا مِائَةً",
+   "note": "اسما printed with a single fatha on م, not tanween (expected اسْمًا); verified at high zoom; kept as printed."
+  }
+ ],
+ "notes": "p089 continues p088's last paragraph (وَمِثْلُ ذَلِكَ مِنْ تَحْتِي…) -> <<<ص:089+>>>; p092 continues p091's last sentence -> <<<ص:092+>>>; p090 and p091 start new blocks. No footnotes on 089-091; p092 has one footnote. 'اللهُ' (p089, p090) written with only the printed damma: the word is the font's الله ligature with an added damma, not explicit shadda+fatha. p090: bold bracketed reading instruction line written as a **bold** paragraph (STRUCTURE §3: reading instructions -> **…**), not ###. p090: «فَإِن تَوَلَّوْا۟ فَقُلْ» is printed in the Uthmani font before the ﴿ bracket; transcribed with the Quran encoding but outside ﴿﴾ as printed. Waqf signs written as separate space-delimited tokens (Tanzil/quran.py format): ٱلْكِتَٰبَ ۖ، وَقْرًا ۚ، هُوَ ۖ، تَوَكَّلْتُ ۖ. 7:180 quote ends at بِهَا with no waqf sign printed (quran.py flags Tanzil's ۖ; kept as printed). 7:196 وَلِـِّۧىَ and 17:45 بِٱلْـَٔاخِرَةِ encoded with the tatweel-carrier as in Tanzil (keep_tatweel exception). Body-font auto small alif over final ى dropped everywhere (على، تعالى، صلى، الحسنى…). Print shows a space after « in «إِنَّ (p092) and tight/no spaces after some commas (p091/p092, e.g. النبي،ليزداد، ،فقام); normalized to §2 spacing. p091: STRUCTURE heading map followed (# title, then paragraphs «وشرحها بصلوات الأسماء الحسنى» and «(تقرأ على ستة أيام)», then ## مقدمة). p092 range/volume refs written ٢/ ٩٨١ and ٤/ ٢٠٦٢ with the printed space after the slash."
+}

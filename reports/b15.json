@@ -1,0 +1,359 @@
+{
+ "batch": "b15",
+ "agreement": 0.9316,
+ "counts": {
+  "haraka": 4,
+  "punct": 15,
+  "letters": 1
+ },
+ "n_items": 20,
+ "n_quran_flags": 0,
+ "n_uncertain_flags": 0,
+ "mode": "full_reread",
+ "choices": {
+  "A": 18,
+  "B": 1,
+  "T": 0,
+  "custom": 1
+ },
+ "decisions": [
+  {
+   "id": "d001",
+   "page": 57,
+   "type": "haraka",
+   "a": "بِاللهِ",
+   "b": "بِالله",
+   "tanzil": null,
+   "choice": "A",
+   "note": "At 1200 dpi a second kasra is printed low under the final ha of الله (separate from the kasra under the ba), so the print has بِاللهِ.",
+   "result": "بِاللهِ"
+  },
+  {
+   "id": "d002",
+   "page": 58,
+   "type": "punct",
+   "a": "(**اللَّهُمَّ صلِّ**)(١)",
+   "b": "**(اللَّهُمَّ صلِّ)**(١)",
+   "tanzil": null,
+   "choice": "A",
+   "note": "The words are bold, but the parentheses have the same thin stroke as the regular parens of «(فَأَعْجَزَ» on p.059 (compared at 1000 dpi). They do not contrast, so they stay outside the ** markers, as in the final of b17 for this section.",
+   "result": "(**اللَّهُمَّ صلِّ**)(١)"
+  },
+  {
+   "id": "d003",
+   "page": 58,
+   "type": "punct",
+   "a": "(**عَلَى**)",
+   "b": "**(عَلَى)**",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Same as d002: the bold word is inside the markers, and the regular-weight parentheses are outside.",
+   "result": "(**عَلَى**)"
+  },
+  {
+   "id": "d004",
+   "page": 58,
+   "type": "haraka",
+   "a": "المُتَوَّجِ",
+   "b": "المُتوَّجِ",
+   "tanzil": null,
+   "choice": "B",
+   "note": "At 1300 dpi the ta of المتوج has only its two dots and no fatha. The marks are a damma on the lam-mim and shadda+fatha on the waw, so the print has المُتوَّجِ.",
+   "result": "المُتوَّجِ"
+  },
+  {
+   "id": "d005",
+   "page": 58,
+   "type": "punct",
+   "a": "٤٥ -٤٦]، (**مَنْ",
+   "b": "٤٥-٤٦]، **(مَنْ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "At 1000 dpi the dash touches ٤٦ and there is a clear word gap between it and ٤٥, so «٤٥ -٤٦» is kept as printed. The parentheses are regular weight and stay outside the bold (see d002).",
+   "result": "٤٥ -٤٦]، (**مَنْ"
+  },
+  {
+   "id": "d006",
+   "page": 58,
+   "type": "punct",
+   "a": "الْأَسْرَارُ**)",
+   "b": "الْأَسْرَارُ)**",
+   "tanzil": null,
+   "choice": "A",
+   "note": "The closing parenthesis is regular weight, so it goes outside the bold (see d002).",
+   "result": "الْأَسْرَارُ**)"
+  },
+  {
+   "id": "d007",
+   "page": 58,
+   "type": "haraka",
+   "a": "(**وَاَنْفَلَقَتِ الَأنْوَارُ**)",
+   "b": "**(وَانْفَلَقَتِ الَأنْوَارُ)**",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Component analysis at 1300 dpi: there is one fatha over the waw and a second, separate fatha directly over the alif (the nun has its own sukun), so the print has وَاَنْفَلَقَتِ. In الَأنْوَارُ the fatha sits over the lam stroke and the hamza is bare, as both keyers read. The parentheses are regular weight and stay outside the bold.",
+   "result": "(**وَاَنْفَلَقَتِ الَأنْوَارُ**)"
+  },
+  {
+   "id": "d008",
+   "page": 58,
+   "type": "punct",
+   "a": "١٥ - ١٦]، (**وَفِيهِ ارْتَقَتِ الْحَقَائِقُ**)",
+   "b": "١٥-١٦]، **(وَفِيهِ ارْتَقَتِ الْحَقَائِقُ)**",
+   "tanzil": null,
+   "choice": "A",
+   "note": "[المائدة: ١٥ - ١٦] is printed with a space on both sides of the dash, so it is kept as printed. The parentheses are regular weight and stay outside the bold.",
+   "result": "١٥ - ١٦]، (**وَفِيهِ ارْتَقَتِ الْحَقَائِقُ**)"
+  },
+  {
+   "id": "d009",
+   "page": 59,
+   "type": "punct",
+   "a": "(**وَتَنَزَّلَتْ عُلُومُ آدَمَ**)",
+   "b": "**(وَتَنَزَّلَتْ عُلُومُ آدَمَ)**",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Only this phrase is bold on p.059, and its parentheses are regular weight, so they stay outside the markers (see d002).",
+   "result": "(**وَتَنَزَّلَتْ عُلُومُ آدَمَ**)"
+  },
+  {
+   "id": "d010",
+   "page": 60,
+   "type": "punct",
+   "a": "(**صَلَاةً**) كَامِلَةً (**تَلِيقُ بِكَ**)",
+   "b": "**(صَلَاةً)** كَامِلَةً **(تَلِيقُ بِكَ)**",
+   "tanzil": null,
+   "choice": "A",
+   "note": "The bold words are inside the markers, and the regular-weight parentheses are outside (see d002).",
+   "result": "(**صَلَاةً**) كَامِلَةً (**تَلِيقُ بِكَ**)"
+  },
+  {
+   "id": "d011",
+   "page": 60,
+   "type": "punct",
+   "a": "(**مِّنْكَ**)",
+   "b": "**(مِّنْكَ)**",
+   "tanzil": null,
+   "choice": "A",
+   "note": "The parentheses are regular weight and stay outside the bold (see d002). مِّنْكَ has shadda+kasra on the mim, as printed.",
+   "result": "(**مِّنْكَ**)"
+  },
+  {
+   "id": "d012",
+   "page": 60,
+   "type": "letters",
+   "a": "تُرْجَى (**إِلَيْهِ**)",
+   "b": "تُزْجَى **(إِلَيْهِ)**",
+   "tanzil": null,
+   "choice": "custom",
+   "note": "At 1000 dpi a single dot is printed over the second letter, a separate component between the ta's damma/dots and the sukun, so the word is تُزْجَى with a zay (B's reading). The parentheses of (إليه) are regular weight and stay outside the bold, as in A.",
+   "result": "تُزْجَى (**إِلَيْهِ**)"
+  },
+  {
+   "id": "d013",
+   "page": 60,
+   "type": "punct",
+   "a": "(**كَمَا",
+   "b": "**(كَمَا",
+   "tanzil": null,
+   "choice": "A",
+   "note": "The opening parenthesis is regular weight and stays outside the bold (see d002).",
+   "result": "(**كَمَا"
+  },
+  {
+   "id": "d014",
+   "page": 60,
+   "type": "punct",
+   "a": "الْجَامِعُ**)",
+   "b": "الْجَامِعُ)**",
+   "tanzil": null,
+   "choice": "A",
+   "note": "The closing parenthesis is regular weight and stays outside the bold (see d002).",
+   "result": "الْجَامِعُ**)"
+  },
+  {
+   "id": "d015",
+   "page": 60,
+   "type": "punct",
+   "a": "(**الدَّالُّ**)",
+   "b": "**(الدَّالُّ)**",
+   "tanzil": null,
+   "choice": "A",
+   "note": "The parentheses are regular weight and stay outside the bold (see d002).",
+   "result": "(**الدَّالُّ**)"
+  },
+  {
+   "id": "d016",
+   "page": 60,
+   "type": "punct",
+   "a": "(**عَلَيْكَ**)",
+   "b": "**(عَلَيْكَ)**",
+   "tanzil": null,
+   "choice": "A",
+   "note": "The parentheses are regular weight and stay outside the bold (see d002).",
+   "result": "(**عَلَيْكَ**)"
+  },
+  {
+   "id": "d017",
+   "page": 60,
+   "type": "punct",
+   "a": "١]،﴿مَّن",
+   "b": "١]، ﴿مَّن",
+   "tanzil": null,
+   "choice": "A",
+   "note": "At 1200 dpi the comma after [المنافقون: ١] touches the ornate opening bracket, with no word space, so the glued «]،﴿» is kept.",
+   "result": "١]،﴿مَّن"
+  },
+  {
+   "id": "d018",
+   "page": 60,
+   "type": "haraka",
+   "a": "ٱللَّهُ﴾",
+   "b": "ٱللَّهَ﴾",
+   "tanzil": null,
+   "choice": "A",
+   "note": "At 1200 dpi a clear damma (a loop with a tail) is printed over the ha of ٱللَّهُ, and no waqf sign follows. The Tanzil text has ٱللَّهَ ۖ, so this is a print variant/error that is kept as printed.",
+   "result": "ٱللَّهُ﴾"
+  },
+  {
+   "id": "d019",
+   "page": 60,
+   "type": "punct",
+   "a": "(**وَحِجَابُكَ",
+   "b": "**(وَحِجَابُكَ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "The opening parenthesis is regular weight and stays outside the bold (see d002).",
+   "result": "(**وَحِجَابُكَ"
+  },
+  {
+   "id": "d020",
+   "page": 60,
+   "type": "punct",
+   "a": "لَكَ**)",
+   "b": "لَكَ)**",
+   "tanzil": null,
+   "choice": "A",
+   "note": "The closing parenthesis is regular weight and stays outside the bold (see d002).",
+   "result": "لَكَ**)"
+  }
+ ],
+ "extra_edits": [],
+ "rules": {
+  "plain_final_ya": {}
+ },
+ "unresolved_uncertain": [],
+ "quran_residual": [
+  {
+   "page": 60,
+   "kind": "quran_marks",
+   "keyed": "ٱللَّهُ",
+   "tanzil": "ٱللَّهَ ۖ",
+   "ref": "4:80"
+  }
+ ],
+ "keyer_notes": {
+  "keyA": {
+   "uncertain": [],
+   "print_errors": [
+    {
+     "page": 58,
+     "text": "الصِّديقيَّة",
+     "note": "Heading: shadda+kasra printed on the sad (shadda sits over the sad's tooth), no shadda on the dal (expected الصِّدِّيقيّة)."
+    },
+    {
+     "page": 58,
+     "text": "(اللَّهُمَّ صلِّ)",
+     "note": "No fatha on the sad of صلِّ."
+    },
+    {
+     "page": 58,
+     "text": "الْمُوْصُوفَةُ",
+     "note": "The marks over لمو form one merged cluster; component analysis at 1600-2400 dpi shows it is identical in shape and ink area to the cluster on الْمُمْكِنَةُ (p.059 line 1) = sukun on lam + damma on mim, plus a separate sukun on the waw. So the print has damma on the mim and sukun on the waw (expected الْمَوْصُوفَةُ). Contrast الْمَوْسُوطُ (p.060) and الْمَمْدُودِ (p.058), whose clusters are sukun+fatha."
+    },
+    {
+     "page": 58,
+     "text": "(وَاَنْفَلَقَتِ",
+     "note": "A fatha is printed over the alif (hamzat wasl) after the waw."
+    },
+    {
+     "page": 58,
+     "text": "الَأنْوَارُ",
+     "note": "Fatha printed over the lam stroke of the lam-alif, none over the hamza; sukun on nun. Compare الْأَسْرَارُ on the same page (sukun over lam, fatha over hamza)."
+    },
+    {
+     "page": 58,
+     "text": "تَهْدِيِهِ",
+     "note": "Three separate kasras under dal, ya and final ha (an extra kasra under the ya)."
+    },
+    {
+     "page": 58,
+     "text": "[الأحزاب: ٤٥ -٤٦]",
+     "note": "Spacing kept as printed: space before the dash, none after (cf. [المائدة: ١٥ - ١٦] with spaces on both sides)."
+    },
+    {
+     "page": 59,
+     "text": "وَلَا شَيْءَ إِلَا وَهُوَ",
+     "note": "Only a fatha on the lam-alif of إِلَا, no shadda (expected إِلَّا)."
+    },
+    {
+     "page": 60,
+     "text": "(مِّنْكَ)",
+     "note": "Shadda+kasra printed on the mim (expected مِنْكَ); the later مِنْكَ in the same paragraph has a plain kasra."
+    },
+    {
+     "page": 60,
+     "text": "فَقَدْ أَطَاعَ ٱللَّهُ﴾",
+     "note": "Quran 4:80: the print has a damma on the ha of ٱللَّهُ (Tanzil ٱللَّهَ) and no waqf sign ۖ. Kept as printed; quran.py flags it."
+    },
+    {
+     "page": 60,
+     "text": "[المنافقون: ١]،﴿مَّن",
+     "note": "No space printed between the comma and the opening ornate bracket; kept glued."
+    }
+   ],
+   "notes": "p.057 continues p.056's last sentence ('وَأَعْظِم لِي نُورًا،' then 'وَأَعْطِنِي نُورًا'), so it gets '+'; p.059 and p.060 also continue mid-sentence ('+'); p.058 starts the new section (# heading per STRUCTURE). No footnote continues across pages. Bold: the phrases in bold type (parenthesised Mashishiyya text) are wrapped as (**…**) and «**…**», with the parentheses and quotes outside the markers. This follows keyA b17 for this section, and the quote marks visibly use the light weight. On p.059 only (وَتَنَزَّلَتْ عُلُومُ آدَمَ) is bold; the other parenthesised phrases there are set in the regular weight and are not marked. The line «(تُقْرَأُ مَرَّة يوميًّا …)» under the heading is printed bold but is written as a plain paragraph per STRUCTURE §2. In 'ب«كُنْتُ' the tatweel after the ba is dropped. The name الله with a printed case vowel but with the font's automatic shadda/alif ligature is written بِاللهِ / اللهُ, as in keyA b14. Quran: dagger alif written directly after the letter; the round silent-alif sign (shape checked against the khaa-head sukun) is ۟ in ظَّلَمُوٓا۟ / فَٱسْتَغْفَرُوا۟ / لَوَجَدُوا۟; the waqf ۚ after تَعْلَمُ is written with a space; فَٱتَّبِعُونِى ends in a dotless ى as printed. Many overlapping marks over 'الْمـ' clusters were resolved by connected-component analysis of 1600-2400 dpi renders: regular-font sukun+fatha (الْمَمْدُودِ، الْمَلَكُوتِ، الْجَبَرُوتِ، الْمَوْسُوطُ); sukun+damma (الْمُمْكِنَةُ، الْمُتَلَأْلِئَةِ (+ta fatha merged in)، الْمُزَكَّى (+zay fatha merged in)، الْمُؤَيَّدُ، الْمُوْصُوفَةُ). In the bold font, sukun is a circle, and the 'hat' shape (circle crossed by a fatha) = sukun+fatha (وَالْجَسَدِ، الْحَقَائِقُ، الْجَامِعُ). Words whose lam/mim carries only a damma with an open loop are written without a sukun on the lam (المُتَوَّجِ، المُودَعَةُ، المُشِعَّةُ). validate.py prints OK with one warning: on p.059 the footnote ref (١) is glued after the closing ﴾ ('(١١٣)﴾(١)'), as printed, and the validator does not count it."
+  },
+  "keyB": {
+   "uncertain": [],
+   "print_errors": [
+    {
+     "page": 58,
+     "text": "# المعارف الذوقيَّة في الوظيفة الصِّديقيَّة",
+     "note": "In the heading the shadda (and the kasra under it) stand on the ص and the د is bare (expected الصِّدِّيقيَّة), as in the p.051 heading. Checked at 1400-1600 dpi. Kept as printed."
+    },
+    {
+     "page": 58,
+     "text": "المُتوَّجِ",
+     "note": "The ت has no fatha (checked at 2400 dpi); the mim's damma is the only mark on the lam-mim ligature. Kept as printed."
+    },
+    {
+     "page": 58,
+     "text": "الْمُوْصُوفَةُ",
+     "note": "Above the lam-mim ligature a damma and a sukun overlap (lam sukun + mim damma, same composite glyph as in الْمُمْكِنَةُ p.059), and a separate sukun stands over the following و. Expected الْمَوْصُوفَةُ. Checked at 7000 dpi. Kept as printed."
+    },
+    {
+     "page": 58,
+     "text": "(وَانْفَلَقَتِ الَأنْوَارُ)",
+     "note": "In the bold lam-alif the fatha sits over the lam stroke and nothing stands over the hamza (compare الْأَسْرَارُ / الْأَبَدِ on the same page, where the hamza's fatha is directly above the hamza and the lam carries a sukun). Expected الْأَنْوَارُ. Checked at 5000 dpi. Kept as printed."
+    },
+    {
+     "page": 58,
+     "text": "تَهْدِيِهِ",
+     "note": "Three kasras are printed: under the د, under the dots of the ي, and under the final ه (expected تَهْدِيهِ). Checked at 3200 dpi. Kept as printed."
+    },
+    {
+     "page": 59,
+     "text": "وَلَا شَيْءَ إِلَا وَهُوَ",
+     "note": "The lam-alif of إلا has only a fatha and no shadda (expected إِلَّا). Checked at 2000 dpi. Kept as printed."
+    },
+    {
+     "page": 57,
+     "text": "وَلا قُوَّةَ إِلا بِالله",
+     "note": "إلا is printed with the kasra under the hamza but no shadda/fatha on the lam-alif (expected إِلَّا; إِلَّا لَهُ two lines earlier has the shadda). Kept as printed."
+    }
+   ],
+   "notes": "Markers: p057 '+' because p056 ends mid-sentence («وَأَعْظِم لي نُورًا،») and p057 begins «وَأَعْطِنِي نُورًا»; p056 has no footnotes, so no (تابع). p058 opens the new section with the # heading (no '+'). p059 '+' (continues «(وَفِيهِ ارْتَقَتِ الْحَقَائِقُ)» → «الْمُمْكِنَةُ…»); p060 '+' (continues «(لَذَهَبَ كَمَا» → «قِيلَ الْمَوْسُوطُ)»). The line under the heading «(تُقْرَأُ مَرَّة يوميًّا…)» is printed bold but is written as a plain paragraph per STRUCTURE §2; tatweel in «يـوم»، «الجمعـة» dropped. Bold vs regular was decided by measuring median stroke width at 1200 dpi (bold ≈16-18 px, regular ≈11-13 px): bold = (اللَّهُمَّ صلِّ)، (عَلَى)، (مَنْ مِنْهُ انْشَقَّتِ الْأَسْرَارُ)، «كُنْتُ نَبِيًّا وَآدَمُ بَيْنَ الرُّوحِ وَالْجَسَدِ» (the guillemets themselves are regular weight, so ** is inside them)، (وَانْفَلَقَتِ الَأنْوَارُ)، (وَفِيهِ ارْتَقَتِ الْحَقَائِقُ) on p058; only (وَتَنَزَّلَتْ عُلُومُ آدَمَ) on p059 (all the other parenthesised Mashishiya phrases on p059 measure regular); on p060 (صَلَاةً)، (تَلِيقُ بِكَ)، (مِّنْكَ)، (إِلَيْهِ)، (كَمَا هُوَ أَهْلُهُ. اللَّهُمَّ إِنَّهُ سِرُّكَ الْجَامِعُ)، (الدَّالُّ)، (عَلَيْكَ)، (وَحِجَابُكَ الْأَعْظَمُ الْقَائِمُ لَكَ) — parentheses included in the ** as in keyB b17. Lam ligatures (لم، لج، لح، لخ) were checked at 3600-7000 dpi: the lam's mark and (for لم) the mim's mark sit together at the ligature top, the next letter's mark sits lower-left; a sukun+fatha or sukun+damma pair overlapping at the top can look like a single damma at normal zoom (bold: circle-sukun crossed by a fatha). This resolves الْمَمْدُودِ، وَالْجَسَدِ، الْحَقَائِقُ (p058), الْمُمْكِنَةُ، الْمَلَكُوتِ (p059), الْمَوْسُوطُ، الْجَامِعُ، الْمُزَكَّى، الْمُؤَيَّدُ (p060) as written; المُودَعَةُ، المُتوَّجِ، المُشِعَّةُ carry only the mim's damma (no lam sukun). p058 «بـ«كُنْتُ»: the joining tatweel after ب is dropped (validator rule), giving «ب«». Reference ranges are written in logical order with an ASCII hyphen and no spaces: [الأحزاب: ٤٥-٤٦] (printed «٤٥ -٤٦») and [المائدة: ١٥-١٦] (printed «١٥ - ١٦»). The footnote mark (١) on p059 follows the closing ﴾ directly (﴾(١) [النساء: ١١٣]), so validate.py cannot see it and warns 'footnote refs [2, 3] vs [1, 2, 3]'; the mark is printed there. Quran: all nine quotations match Tanzil letter-for-letter (dagger alif without tatweel; madda written ا+ٓ; silent alif ۟; small waw/yeh ۥ ۦ; waqf ۚ after تَعْلَمُ in النساء ١١٣ as printed; لَعَلَىٰ with its printed dagger alif). The word Allah in ordinary text is written with only its printed case vowel (بِالله، اللهُ، وَاللهُ) as in earlier keyB batches. Final ى with the Lotus automatic small alif is written plain (أَحْصَى، عَلَى، حَتَّى، فَتَجَلَّى، تُزْجَى، الْمُزَكَّى، وَصَلَّى). Partial vowelling kept as printed, e.g. صلِّ (no fatha on ص), وَاجْعَل لِّي، شَيءٍ (p057, no sukun) vs شَيْءٍ (p059), كَثِيْرًا (sukun on madd ي), والنُّعُوتِ (bare و), وَجَدتُّ (bare د), مِن رَّفِيعِ. Honorifics in footnotes are printed as words (رضي الله عنه، عليه السلام) and kept so; ﷺ on p059 kept as glyph. Zoom images: scratch\\b15B\\."
+  }
+ }
+}

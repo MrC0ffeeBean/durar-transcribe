@@ -1,0 +1,14 @@
+{
+  "mode": "spots",
+  "decisions": {
+    "d001": {"choice": "A", "note": "Colon printed tight against the digits in [الرحمن:١٩-٢٠]: colon-to-digit gap ~30px@700dpi vs ~45-47px for the spaced refs [البقرة: ١٣٧] and [التوبة: ١٢٩] on the same page; no space."},
+    "d002": {"choice": "B", "note": "[غافر: ١-٣]: colon-to-digit gap ~45px@700dpi, same as the spaced [البقرة: ١٣٧] (45) and [التوبة: ١٢٩] (47) and clearly wider than the tight [الرحمن:١٩] (30); a space is printed after the colon."},
+    "d003": {"choice": "A", "note": "1400dpi zoom: damma over د, a straight fatha stroke (not a damma) over ب, fatha over ر; print reads دُبَرَ (stretched with tatweel)."},
+    "d004": {"choice": "A", "note": "Only one kasra visible under the lam-heh ligature of أموالهم (all three occurrences, and the same on p.105), whereas أَدْيَانِهِمْ shows two stacked kasras; cannot tell whether one or two kasras were typed, so keep A's [؟:أَمْوَالِهِمْ]."},
+    "d005": {"choice": "A", "note": "1800dpi zoom: وعلى before دِينِي (2nd set) has fatha on و and on ع only; no fatha by the lam stem, unlike the neighbouring عَلَى which has both fathas."},
+    "d006": {"choice": "A", "note": "Same as d004: single kasra under the lam-heh ligature; keep the uncertainty marker."},
+    "d007": {"choice": "A", "note": "Same as d004: single kasra under the lam-heh ligature; keep the uncertainty marker."},
+    "d008": {"choice": "B", "note": "1400dpi zoom: two separate kasratan marks, one under ء and one below the dots of ي (شَـيٍءٍ); kept as printed (print oddity)."}
+  },
+  "extra_edits": []
+}

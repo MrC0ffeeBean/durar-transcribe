@@ -1,0 +1,13 @@
+{
+ "mode": "spots",
+ "decisions": {
+  "d001": {"choice": "A", "note": "At 700 dpi the colon of «[الناس:» sits as close to the 6 as the digits sit to each other, so no word space is printed. «](ثلاثًا)» is set closed up, with ] touching (. This matches b17 d022 for the same layout on p.068. European digits are kept, in logical order 1-6."},
+  "d002": {"choice": "A", "note": "At 700 dpi «[الفاتحة:١-٧]» is printed tight, with the colon touching ١. Compare «[الصافات: ١٨٠-١٨٢]» on the same page, which has a clear space."},
+  "d003": {"choice": "A", "note": "At 1200 dpi a kasra is printed low under the final ha of the Allah ligature, separate from the kasra under the ba. The Name has a printed case vowel, so it is written with all its marks per CONVENTIONS §2 (اللَّهُ/ٱللَّهِ example), as in b17/b21/b27: بِاللَّهِ."},
+  "d004": {"choice": "A", "note": "At 800 dpi «[طه:١١١]» is printed tight after the colon, while «[آل عمران: ١-٢]» on the line above has a clear space."},
+  "q001": {"choice": "A", "note": "At 800 dpi nothing is printed over ٱللَّهِ before the closing bracket of 16:53, and the quotation ends there. Genuine print variant. Waqf signs of this size, e.g. ۖ over وَٰحِدٌ on p.071, are clearly visible elsewhere."},
+  "q002": {"choice": "A", "note": "At 700 dpi the short 2:255 quotation on p.071 ends «ٱلْقَيُّومُ﴾» with no ۚ printed. Genuine print variant at the end of the quoted span."},
+  "q003": {"choice": "A", "note": "At 700 dpi nothing is printed over ٱلْقَيُّومِ before the closing bracket of 20:111, and the quotation ends there. Genuine print variant."}
+ },
+ "extra_edits": []
+}

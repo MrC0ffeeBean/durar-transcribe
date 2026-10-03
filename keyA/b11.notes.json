@@ -1,0 +1,31 @@
+{
+  "uncertain": [],
+  "print_errors": [
+    {
+      "page": 41,
+      "text": "للإمام البصيرى",
+      "note": "Printed without waw (expected البوصيري); kept as printed. Final ى dotless with the font's automatic small alif, written plain ى (likewise البيجورى)."
+    },
+    {
+      "page": 42,
+      "text": "هذا بالاضافه إلي الدروس",
+      "note": "بالاضافه printed without hamza and with final ه instead of ة; إلي printed with dotted ي (for إلى); kept as printed. Same dotted form in «وإلي الآن» (p042)."
+    },
+    {
+      "page": 44,
+      "text": "علي قناة الساوند كلاود",
+      "note": "Dotted ي where the preposition على is meant; kept as printed."
+    },
+    {
+      "page": 44,
+      "text": "اسبوعياً",
+      "note": "Initial alif printed without hamza; kept as printed."
+    },
+    {
+      "page": 43,
+      "text": "عبد السلام بن بشيش",
+      "note": "Printed «بشيش» (variant of مشيش); kept as printed."
+    }
+  ],
+  "notes": "p041 starts with + : its first line «و التبيان…» continues the list sentence ending p040 «…ورياض الصالحين» (no footnotes on p040/p041). p042, p043, p044 each start with an indented new paragraph after a page ending in «.», so no +. No footnotes, Quran, harakat beyond tanween, or honorific glyphs on these pages («عليه السلام», «صلى الله عليه وآله وسلم» are ordinary words). Tanween copied by its printed position: «كاملًا» (p042, fathatan on the lam of the lam-alif ligature, checked against the hamza position in «للإمام»), but «سنوياً» (p042) and «اسبوعياً» (p044) with fathatan after the alif. «قائما», «يوميا», «طالبا» are printed without tanween. Dotless ى with the font's small alif written plain: فى (p042 ×2, p043), النبوى, سيدى, إلى, على, صلى, وكفى. Printed spaced و kept: «و التبيان، و الخريدة، و المباحث، و الأذكار، و حاشية، و قصيدة، و بردة» (p041), «و الندوات، و الماليزيين، و قناة، و الجمعة، و اعتكفت» (p042), «و الإمام، و العلماء» (p043). «في ما اتفق» (p041) and «يو تيوب» (p042) kept as two words. A visible space before punctuation was normalized away per CONVENTIONS §2 (same as keyA b10): «والحمد لله ،» (p041), «يو تيوب .» (p042), «بكربلاء .», «بالمغرب .», «العلم .» (p043). Spacing of number + م/هـ kept as printed: «٢٠١٤ م ١٤٣٦ هـ» (p042), «١٤٣٥هـ.», «٢٠١١م.» (p043), «٢٠١٣ م.» (p044). p044 table: no printed header row, so the first row (الموقع الرسمي) is the Markdown header; Arabic label column first. The YouTube URL wraps onto two printed lines inside its cell and was joined with one space per CONVENTIONS §11 («…/channel/ UCHUZYEvS7utmviL1C3EYrwA/playlists»); the real URL has no space. «E-mail :info@yosrygabr.com» kept with its printed space before the colon (Latin cell, copied verbatim). «بكوالالمبور» is printed as one word. The final paragraph after the table is printed without indent and transcribed as its own paragraph."
+}

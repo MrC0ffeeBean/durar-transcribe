@@ -1,0 +1,10 @@
+# regenerated in each environment (scripts/render.py, contact.py, npm install)
+pages/
+crops/
+survey/
+scratch/
+scripts/node_modules/
+__pycache__/
+*.tmp.docx
+# build outputs (final deliverables are force-added when assembled)
+out/

@@ -1,0 +1,151 @@
+{
+ "mode": "full_reread",
+ "decisions": {
+  "d001": {
+   "choice": "A",
+   "note": "p105 l2 at 3000 dpi: over the lam-mim of «المؤمن» the damma carries an extra sukun head (sukun on lam + damma on mim), and the sukun on ؤ is separate. Plain «المُ» without sukun would show a clean damma. A's الْمُؤْمِنِ is right."
+  },
+  "d002": {
+   "choice": "A",
+   "note": "p105 l2 at 2400 dpi: above the nun/ta of «أمنته» a sukun head sits over the nun (above its dot), with a separate fatha on the ta. So it is أَمِنْتَهُ."
+  },
+  "d003": {
+   "choice": "A",
+   "note": "p105 l2 at 1600 and 2400 dpi: «الملك» has the sukun head over the damma at the lam-mim and a sukun on the second lam. «والملكوت» has a sukun head stacked on a fatha at the lam-mim. A's الْمُلْكِ وَالْمَلَكُوتِ is right."
+  },
+  "d004": {
+   "choice": "B",
+   "note": "p105 l3 at 1800 dpi: in «بها» the fatha sits directly over the alif, not over the ha. Compare «مَا» on the next line, where the fatha is right of the alif. A kasra is under the ba. The print is بِهاَ, a misplaced fatha kept as printed."
+  },
+  "d005": {
+   "choice": "A",
+   "note": "p105 l4: «صَلَّىٰ الله» with a printed damma on the ha. Per CONVENTIONS §2, a Name printed with a case vowel is written with all its marks, so اللَّهُ."
+  },
+  "d006": {
+   "choice": "A",
+   "note": "p105 l5 at 2000 dpi: «إليّ» has a kasra under the hamza and shadda+fatha over the ya. The lam has no fatha. So إِليَّ."
+  },
+  "d007": {
+   "choice": "A",
+   "note": "p105 l8: same stacked sukun head over the damma at the lam-mim of «المهيمن» as in d001. So الْمُهَيْمِنِ."
+  },
+  "d008": {
+   "choice": "A",
+   "note": "p105 l10 at 1600 dpi: «علىٰ نفسي» has only the dagger alif on the ى and no fathas on ain or lam, unlike every other على. Kept as printed."
+  },
+  "d009": {
+   "choice": "A",
+   "note": "p105 l13-14 at 2000-2400 dpi: «المؤمنين» has the stacked sukun head at the lam-mim and a kasra under the mim, and no kasra under the nun before the ya. «انتمائهم» has no fatha over the mim-alif (sukun on nun, kasra under ta, kasra under hamza and ha). A matches."
+  },
+  "d010": {
+   "choice": "A",
+   "note": "p106 l1: «وصدق اللهُ» with a printed damma. Per CONVENTIONS §2 it is اللَّهُ."
+  },
+  "d011": {
+   "choice": "A",
+   "note": "p106 l6 at 2400 dpi: in «المشيئة» the lam-mim carries a sukun head stacked on a FATHA (not a damma). Kasra under shin, fatha over the hamza seat, kasra on ta marbuta. So الْمَشِيئَةِ."
+  },
+  "d012": {
+   "choice": "A",
+   "note": "p106 l7 at 2400 dpi: a kasra is clearly printed under the ba of «بقوةٍ». The qaf and waw are unvowelled. So بِقوةٍ."
+  },
+  "d013": {
+   "choice": "A",
+   "note": "p106 l7 at 2400 dpi: «أعصيك» has a kasra under the sad, a separate fatha over the ya (above its dots) and a fatha on the kaf. So أَعْصِيَكَ."
+  },
+  "d014": {
+   "choice": "A",
+   "note": "p106 l11: the stacked sukun head is over the damma at the lam-mim of «المتكبر». So الْمُتَكَبِّرِ."
+  },
+  "d015": {
+   "choice": "A",
+   "note": "p106 l12 at 2400 dpi: «والمرسلين» has the stacked sukun head + damma at the lam-mim, and a sukun on the ra. So وَالْمُرْسَلِينَ."
+  },
+  "d016": {
+   "choice": "A",
+   "note": "p107 l3: the prose «تقويمٍ» has no kasra under the waw (only the sukun on qaf and kasratan on mim). So تَقْويمٍ."
+  },
+  "d017": {
+   "choice": "A",
+   "note": "p107 l3-4 at 2400 dpi: the second prose «تقويمٍ» likewise has no kasra on the waw. «الإيمانِ» has only the hamza under the lam-alif, no kasra under it and no fatha on the mim-alif, with a kasra on the nun. A matches."
+  },
+  "d018": {
+   "choice": "A",
+   "note": "p107 l6 at 2400 dpi: «يَا اللهُ» with a printed damma on the Name, so اللَّهُ per CONVENTIONS §2."
+  },
+  "d019": {
+   "choice": "A",
+   "note": "p107 l12 at 3000 dpi: «عوالمي» has fathas on ain and waw and exactly ONE kasra, under the initial lam-mim ligature. It is in the same position as the kasra of the mim in «الْعَالَمِينَ» (p106 l9, where the lam has its fatha above), which suggests mim. But in this ligature a lam kasra would fall in the same place, so it cannot be assigned with certainty. B's two kasras are not printed. A's [؟:عَوَالمِي] marker is kept."
+  },
+  "d020": {
+   "choice": "A",
+   "note": "p107 l16: the stacked sukun head over the damma is at the lam-mim of «والمصور», and the waw has no fatha. So والْمُصَوِّرُ."
+  },
+  "d021": {
+   "choice": "A",
+   "note": "p108 l1: the stacked sukun head over the damma is at the lam-mim of «المصور». So الْمُصَوِّرِ."
+  },
+  "d022": {
+   "choice": "A",
+   "note": "p108 l5 at 2400 dpi: «العيوب» has a sukun on the lam and a damma on the ain only. No damma is printed over the ya. So الْعُيوبِ."
+  },
+  "d023": {
+   "choice": "A",
+   "note": "p108 l7: the stacked sukun head over the damma is at the lam-mim of «المتحقق». So الْمُتَحَقِّقِ."
+  },
+  "d024": {
+   "choice": "A",
+   "note": "p108 l8 at 2400 dpi: «قالَ:» has no fatha on the qaf, only a fatha on the lam."
+  },
+  "d025": {
+   "choice": "A",
+   "note": "p108 l9 at 3600 dpi: in «ببشارة» one kasra sits under the FIRST ba (below its dot). The second ba has none, شارة is unvowelled, and the ta marbuta has a kasra. So بِبشارةِ."
+  },
+  "d026": {
+   "choice": "A",
+   "note": "p108 l11 at 2400 dpi: the stacked sukun head + damma is at the lam-mim of «المسلمين». There are kasras under both the lam and the mim, so الْمُسْلِمِينَ."
+  },
+  "d027": {
+   "choice": "A",
+   "note": "p108 l11: «عيوبهم» has a damma on the ain only, with nothing over the ya. So عُيوبِهِمْ."
+  },
+  "d028": {
+   "choice": "A",
+   "note": "p108 l13 at 2400 dpi: «إليّ» has a kasra under the hamza, shadda+fatha on the ya, and no fatha on the lam. So إِليَّ."
+  },
+  "d029": {
+   "choice": "A",
+   "note": "p108 l13: «يَا اللهُ.» with a printed damma, so اللَّهُ per CONVENTIONS §2."
+  },
+  "d030": {
+   "choice": "A",
+   "note": "p108 l15 at 2000 dpi: «للوجودِ» has no kasra under the first lam. Only the dal has a kasra."
+  },
+  "d031": {
+   "choice": "A",
+   "note": "p108 footnote at 2000 dpi: in (١٢/١٩٥) the slash has about equal gaps on both sides at mid-height, and they are the same as in (١٢/١٠٨) on the same line. No extra word space follows the slash."
+  },
+  "d032": {
+   "choice": "A",
+   "note": "p108 footnote: (١٢/١٠٨) is set tight, with the same slash spacing as d031. No space."
+  },
+  "q001": {
+   "choice": "A",
+   "note": "p107 l6 at 2400 dpi: «خَلَقَهُۥ» is followed directly by the closing ornament. No waqf sign (ۖ) is printed over or after the word (the quotation ends there). This is a genuine print variant of the Tanzil text, so A's reading is kept."
+  }
+ },
+ "extra_edits": [
+  {
+   "page": 105,
+   "find": "أُحِبَّ لِلْمُسْلِمِينَ مَا",
+   "replace": "أُحِبَّ لِلْمُسْلِمينَ مَا",
+   "note": "Full re-read, p105 l4 at 2400 and 3000 dpi: «للمسلمين» has a kasra under the first lam and a kasra under the lam of مسلمين (below its stroke). No kasra is under the mim before the ya (compare p108 «الْمُسْلِمِينَ», where a second kasra is clearly under the mim). Both keyers added a kasra on the mim that is not printed."
+  },
+  {
+   "page": 108,
+   "find": "حَقِّهِ لِأُمَّتِهِ،",
+   "replace": "حَقِّهِ لأُمَّتِهِ،",
+   "note": "Full re-read, p108 l7 at 2400 dpi: «لأمته» has only hamza+damma over the alif and shadda+fatha on the mim. Nothing is under the lam-alif; the kasras on that line belong to ta and ha. Compare «لِأَجْلِهِ» (l9) and «بِالِافْتِقَارِ» (p106), where a kasra is clearly under the lam-alif. Both keyers added a kasra that is not printed."
+  }
+ ]
+}

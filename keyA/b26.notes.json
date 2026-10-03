@@ -1,0 +1,10 @@
+{
+  "uncertain": [],
+  "print_errors": [
+    {"page": 103, "text": "فَلَا تَكِلَنِي", "note": "Lam printed with a clear fatha (checked at 3000 dpi); grammatically expected تَكِلْنِي. Kept as printed."},
+    {"page": 104, "text": "عَلَى سَيِّدِنا مُحَمَّد،", "note": "In item ٥ the final dal of محمد carries no tanween (other items print مُحَمَّدٍ). Kept as printed."},
+    {"page": 103, "text": "و يا ==رَحِيمُ==", "note": "The conjunction و is printed detached from يا with a visible space. Kept as printed."},
+    {"page": 102, "text": "إِلَّا هُوْ،", "note": "Waw printed with an explicit sukun (pausal form). Not necessarily an error, kept as printed."}
+  ],
+  "notes": "p101 continues prayer (٢) from p100 (marker 101+); its two footnotes are new and identical. p104 continues item ٤ from p103 (marker 104+). Red divine names on p103-104 marked ==...==; p101-102 have no red. p102: the centred isti'adha line is in a heavier display font but is a complete block, so it is a plain paragraph without ** (not a heading); the calligraphic basmala is written per §3. The ❊ bullet glyphs on p102 are written '*'. The word الله printed as the ligature plus a printed case vowel is written اللهُ / بِاللهِ (as in earlier keyA batches); without a vowel it is الله. Stacked marks over the lam-mim ligature: a filled sukun head joined with a damma tail was read as sukun on lam plus damma on mim (الْمُسْتَقِيمِ p101, والْمُتَخَلِّقِ p102, الْمُسْلِمُونَ p104); a sukun head joined with a straight stroke was read as sukun plus fatha (الْمَلِكِ، وَالْمَقامَ، الْمَوْرُودَ p103, الْمَعْصِيَةِ p104); a plain damma alone means no sukun (المُتَخَلِّقِ p101, المُتَعَلِّقِ، والمُتَحَقِّقِ p102). The heavier look of 'يَا اللهُ، يَا اللهُ، يَا اللهُ' on p101 comes only from the Allah ligature, so it is not marked bold. Quran passages match Tanzil word for word (madda written as ا+U+0653, dotless ى in ٱلنَّبِىِّ and وَحْىٌ, as printed)."
+}

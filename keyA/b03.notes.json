@@ -1,0 +1,21 @@
+{
+  "uncertain": [],
+  "print_errors": [
+    {
+      "page": 9,
+      "text": "على ابن المحشى للعلامة",
+      "note": "Printed with a dotless final ى (المحشى); the expected spelling is المحشي. Kept as printed (checked at 700 dpi)."
+    },
+    {
+      "page": 11,
+      "text": "جمع الجوامع بشرح المحلى",
+      "note": "First occurrence is printed with a dotless final ى (المحلى). The second occurrence on the same page is printed المحلي with dots. Both kept as printed (checked at 700 dpi)."
+    },
+    {
+      "page": 12,
+      "text": "وأجاز لي اجازة عامة",
+      "note": "«اجازة» is printed without the hamza under the alif, unlike «إجازة» elsewhere. Kept as printed (checked at 900 dpi)."
+    }
+  ],
+  "notes": "p.009 continues the last sentence of p.008 («…وأبو الحسن الشاذلي،» → «وابن غازي وزروق وغيرهم.»), so its marker has '+'. p.008 has one footnote that ends on that page, so there is no (تابع) on p.009. p.010 and p.011 start with an indented new paragraph, so they have no '+'. p.011 ends mid-sentence («…وذكر مرة في درس الأصول»), so p.012 has a '+' marker. Pages 009–012 have no footnotes, headings, bold, Quran or honorific glyphs. The only harakat printed are tanween fatha: أيضًا, أيامًا, محققًا, بارعًا, صالحًا, تبركًا, حديثًا and شرحًا have it on the letter before the alif. «إذاً» on p.012 has it on the alif itself, checked at 1400 dpi. The dashes around «بفتح الميم الأولى» on p.009 are printed as en dashes with spaces and are written – (U+2013). They are not between numbers, so the ASCII-hyphen rule does not apply. The small alif that the body font draws over final ى (على، إلى، الأولى، يتخطى، روى، مرتضى، فتوى، المحشى، المحلى) is written as plain ى per CONVENTIONS §2. «عبد الله» and «عبد الرحمن» on p.010 are printed with a space, and «الرحمن» has no small alif. «لم يفهم» (p.009) and «لم يعرف» (p.012) use the lam-mim ligature and are written as two words."
+}

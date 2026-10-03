@@ -1,0 +1,11 @@
+{
+  "uncertain": [],
+  "print_errors": [
+    {
+      "page": 93,
+      "text": "كصلاة سيدي ابن بشيش",
+      "note": "Printed with a ب (one dot below) at the start, i.e. «بشيش», not the more usual «مشيش»; verified at 600 dpi; «ابن بشيش» is a known variant form of the name. Kept as printed."
+    }
+  ],
+  "notes": "p093 continues the last paragraph of p092 (p092 ends «…الموافق للعاشر من يوليو عام ألفين», p093 begins «واثني عشر…») -> <<<ص:093+>>>; no footnotes on p093-p096, so no (تابع). p094, p095 and p096 each begin with an indented new paragraph after a full stop/short last line on the previous page -> markers without +. p093: ﷺ glyph printed three times (kept as U+FDFA); «كـ«دلائل الخيرات»» printed with a connecting tatweel after ك before the opening guillemet -> tatweel dropped per §2 (ك«دلائل الخيرات»). p093 year verified at 500 dpi as ١٤٣٢ (p092 has ١٤٣٣; different events, kept as printed). The print has no space after many commas (e.g. الأعظم،ثم / الاسم،فلما / النبهاني،وكذا / الكتاني،وأيضًا / ناشرها،وأن); normalized to one space after the comma per §2, as in earlier keyB batches. Body-font automatic small alif over final ى dropped everywhere (على، الحسنى، معنى، مجلى، تعالى، لدى، المعنى، إلى، حتى، الأولى). Printed harakat kept exactly: مبينًا، طلبًا، شرحًا وافيًا، أيضًا، حُسن الخُلُق، خيرًا، ذخرًا، تقربًا، قيامًا، وِرْدًا، يوميًّا (shadda+fathatan, p095 and p096)، يُقرأ، صِيغ، ويُثني. p094: «الشيخ/ أسامة» — slash printed at the end of the line after الشيخ; written with a space after the slash at the joined line wrap. p096: the opening «وهذه الطريقة كالآتي:» is in the regular body font (not bold) and indented like a paragraph -> plain paragraph, not ###. The six day items are introduced by a flower-shaped asterisk bullet, written `* ` per §7 (same as the `*` bullets of pp.049-050). The paragraph «يبدأ يوميًّا… وصلاة الهوية،» ends with a printed comma, kept. The divine Names in parentheses on p096 (e.g. صلاة (الله)) are black ordinary text, so no == markup. The last bullet on p096 («* وفي اليوم السادس بعد المقدمة يبدأ من صلاة (المقسط)») has no final punctuation and continues on p097."
+}

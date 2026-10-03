@@ -1,0 +1,114 @@
+{
+ "batch": "b01",
+ "pages": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "agreement": 0.8972,
+ "full_reread_required": true,
+ "counts": {
+  "punct": 4,
+  "letters": 1,
+  "structure": 2
+ },
+ "n_items": 7,
+ "n_quran_flags": 0,
+ "n_uncertain": 0,
+ "items": [
+  {
+   "page": 1,
+   "type": "punct",
+   "a_range": [
+    20,
+    21
+   ],
+   "a_text": "أ.د/",
+   "b_text": "**أ.د/",
+   "ctx_before": "وترتيب الفقير إلى الله ¶",
+   "ctx_after": "يسري رشدي السيد جبر الحسني",
+   "id": "d001"
+  },
+  {
+   "page": 1,
+   "type": "punct",
+   "a_range": [
+    25,
+    26
+   ],
+   "a_text": "الحسني",
+   "b_text": "الحسني**",
+   "ctx_before": "أ.د/ يسري رشدي السيد جبر",
+   "ctx_after": "¶ شيخ الطريقة اليسرية الصديقية",
+   "id": "d002"
+  },
+  {
+   "page": 2,
+   "type": "letters",
+   "a_range": [
+    21,
+    22
+   ],
+   "a_text": "٢٠١٧/٢٢٨٣٤",
+   "b_text": "٢٢٨٣٤/٢٠١٧",
+   "ctx_before": "مزيدة ومنقحة ¶ رقم الإيداع:",
+   "ctx_after": "¶ الترقيم الدولي I.S.BN ¶",
+   "id": "d003"
+  },
+  {
+   "page": 3,
+   "type": "punct",
+   "a_range": [
+    4,
+    5
+   ],
+   "a_text": "أ.د/",
+   "b_text": "**أ.د/",
+   "ctx_before": "الفقير إلى الله ¶",
+   "ctx_after": "يسري رشدي السيد جبر الحسني",
+   "id": "d004"
+  },
+  {
+   "page": 3,
+   "type": "structure",
+   "a_range": [
+    9,
+    12
+   ],
+   "a_text": "الحسني ¶ شيخ",
+   "b_text": "الحسني** ¶ **شيخ",
+   "ctx_before": "أ.د/ يسري رشدي السيد جبر",
+   "ctx_after": "الطريقة اليسرية الصديقية الدرقاوية الشاذلية",
+   "id": "d005"
+  },
+  {
+   "page": 3,
+   "type": "structure",
+   "a_range": [
+    18,
+    21
+   ],
+   "a_text": "بمصر ¶ إمام",
+   "b_text": "بمصر** ¶ **إمام",
+   "ctx_before": "اليسرية الصديقية الدرقاوية الشاذلية القادرية",
+   "ctx_after": "وخطيب مسجد الأشراف بالمقطم",
+   "id": "d006"
+  },
+  {
+   "page": 3,
+   "type": "punct",
+   "a_range": [
+    24,
+    25
+   ],
+   "a_text": "بالمقطم",
+   "b_text": "بالمقطم**",
+   "ctx_before": "¶ إمام وخطيب مسجد الأشراف",
+   "ctx_after": "",
+   "id": "d007"
+  }
+ ],
+ "quran_flags": [],
+ "uncertain": []
+}

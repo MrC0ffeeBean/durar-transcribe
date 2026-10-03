@@ -1,0 +1,9 @@
+{
+  "uncertain": [],
+  "print_errors": [
+    {"page": 23, "text": "ومما مر بمصر في طريقه إلى الحجاز العلامة المحدث السيد عبد الحي الكتاني", "note": "Printed «ومما» (confirmed at 900 dpi); the sense needs «وممن». Kept as printed."},
+    {"page": 23, "text": "وإطلاعي", "note": "Printed with hamza under alif (إطلاع); the standard spelling is «واطلاعي» (اطّلاع). Kept as printed."},
+    {"page": 22, "text": "بين العشائين", "note": "Printed «العشائين» (ya-seated hamza); the common spelling is «العشاءين». Kept as printed. This may be a spelling variant, not an error."}
+  ],
+  "notes": "Pages 021-024 all continue the previous page's sentence, so every marker has '+'. p020 has no footnotes, and none of these pages has any, so there is no (تابع) block. The pages are plain prose, with no headings, Quran, honorific glyphs or footnotes. The only explicit harakat are the printed tanween (علمًا، عالمًا ذكيًا صوفيًا، محررًا، بحوثًا، كتابًا مطولًا، طالبًا سودانيًا، دروسًا، أيضًا، مقالًا، نقلًا، غاصًا، سؤالًا، ضنينًا جدًا), «إليَّ» on p023 (shadda+fatha), and «يُسْأل» on p024: a damma on the ya and a hook-shaped (khā'-head) sukun on the sin, checked at 2000 dpi. It is not a shadda. Final ى with the font's automatic small alif is written as plain ى (عيسى، ويروى، اثنى، أبدى، يفتى، هدى، على، إلى). علي/إلي with two dots are written with ي as printed. «رحمه الله» on p024 is printed as ordinary words, not a glyph, so it has no parentheses. The prose dashes on p022 are written ' – ' (en dash with spaces), following the earlier keyB batches. The digits ١٣٥٠ and ١٣٥١ are Arabic-Indic as printed."
+}

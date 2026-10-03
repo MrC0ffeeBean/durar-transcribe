@@ -1,0 +1,9 @@
+{
+  "uncertain": [],
+  "print_errors": [
+    {"page": 30, "text": "وأى فخر", "note": "printed with dotless ى (font adds its small alif) where وأي is expected; kept as printed"},
+    {"page": 31, "text": "ورؤيت لي مبشرات", "note": "hamza on waw as printed (expected رُئيت); kept as printed"},
+    {"page": 32, "text": "شريف منسب حقًا", "note": "printed منسب (م ن س ب) clearly; possibly intended منتسب/النسب; kept as printed"}
+  ],
+  "notes": "All four pages continue the previous page's sentence, so every marker has '+'; p028 has no footnotes, and pp.029-032 have no footnotes. On p030 the closing bracket of the Duha quotation touches the reference parenthesis in print, so it is written ﴾(الضحى: ١١) with no space; the Yusuf reference has a printed space: ﴾ (يوسف: ٥٥). In the Yusuf 55 quotation the print has dotless final ى in ٱجْعَلْنِى and إِنِّى (Madinah style), the hamza+kasra drawn under the tooth in خَزَآئِنِ (encoded ئِ as in Tanzil, madda as ا+U+0653), and the ۖ waqf sign over ٱلْأَرْضِ (attached to the word). The dashes after «أقول» (p030) and «الحسيني» (p031) are written as en dash –. Honorifics رضي الله عنه/عنهم, عليه السلام, رحمه الله are printed as ordinary words (no glyphs); ﷺ glyph on pp.031 and 032 kept."
+}

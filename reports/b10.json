@@ -1,0 +1,106 @@
+{
+ "batch": "b10",
+ "agreement": 1.0,
+ "counts": {},
+ "n_items": 0,
+ "n_quran_flags": 0,
+ "n_uncertain_flags": 0,
+ "mode": "spots",
+ "choices": {
+  "A": 0,
+  "B": 0,
+  "T": 0,
+  "custom": 0
+ },
+ "decisions": [],
+ "extra_edits": [],
+ "rules": {
+  "plain_final_ya": {}
+ },
+ "unresolved_uncertain": [],
+ "quran_residual": [],
+ "keyer_notes": {
+  "keyA": {
+   "uncertain": [],
+   "print_errors": [
+    {
+     "page": 40,
+     "text": "### النواحى العلميه والنشاط الدعوى:",
+     "note": "Heading printed with dotless final ى (النواحى، الدعوى) and ه instead of ة (العلميه); kept as printed. STRUCTURE.md lists it in normalized spelling «النواحي العلمية والنشاط الدعوي:»."
+    },
+    {
+     "page": 40,
+     "text": "فى بيته فى القاهرة / فى مسجد / البخارى / سيدى / الدرديرى",
+     "note": "Dotless ى printed in these words on p.040 (unlike في/البخاري elsewhere); kept as printed. «في أربع سنوات» on the same page has dots."
+    },
+    {
+     "page": 40,
+     "text": "وحضر موت",
+     "note": "Hadramawt printed as two words with a clear space; kept as printed."
+    },
+    {
+     "page": 37,
+     "text": "اسماعيل",
+     "note": "Printed without hamza under the alif; kept as printed."
+    },
+    {
+     "page": 40,
+     "text": "مفتي نيجريا ... فى القاهرة / ... وشرفت بمقابلتهم",
+     "note": "These two paragraphs end without a final period in the print; none added."
+    }
+   ],
+   "notes": "p037, p038, p039 start with + (sentence continues from the previous page; p036 ends «إجازة عامة» with no footnotes). p040 starts a new indented paragraph (p039 ends «للكلية.»), so no +. No footnotes, Quran, harakat or honorific glyphs on these pages; «رحمه الله» and «حفظه الله» are printed as ordinary words. Printed spaces kept: «و المصافحة» (p037), «و الذي» (p040). A visible space before the final period in «١٩٩٨ .» (p037) and «المبارك .» (p040) was normalized to no space per CONVENTIONS §2. Heading on p040 written as ### (bold standalone line ending with «:»)."
+  },
+  "keyB": {
+   "uncertain": [],
+   "print_errors": [
+    {
+     "page": 37,
+     "text": "و المصافحة",
+     "note": "Conjunction waw printed as a separate word with a full space after it; kept as printed."
+    },
+    {
+     "page": 37,
+     "text": "اسماعيل",
+     "note": "Printed without hamza under the alif; kept as printed."
+    },
+    {
+     "page": 37,
+     "text": "١٩٩٨.",
+     "note": "Small gap before the final period in print; written without a space per CONVENTIONS §2."
+    },
+    {
+     "page": 40,
+     "text": "و الذي",
+     "note": "Conjunction waw printed separately with a full space; kept as printed."
+    },
+    {
+     "page": 40,
+     "text": "وحضر موت",
+     "note": "Hadramawt printed as two words with a word space; kept as printed."
+    },
+    {
+     "page": 40,
+     "text": "المبارك.",
+     "note": "Print has a space before the final period («المبارك .»); written without the space per CONVENTIONS §2."
+    },
+    {
+     "page": 40,
+     "text": "### النواحى العلميه والنشاط الدعوى:",
+     "note": "Heading printed with dotless ى in النواحى/الدعوى and ه (not ة) in العلميه; kept as printed."
+    },
+    {
+     "page": 40,
+     "text": "فى / البخارى / سيدى / الدرديرى",
+     "note": "Page 040 prints these with dotless ى (unlike other pages); kept as printed. «في أربع» on the same page is printed with dotted ي."
+    },
+    {
+     "page": 40,
+     "text": "القاهرة / بمقابلتهم",
+     "note": "The first two paragraphs end without a final period in print; none added."
+    }
+   ],
+   "notes": "p037 continues the last paragraph of p036 (…إجازة عامة / بالمناولة) -> marker 037+. p038 and p039 continue the previous page mid-sentence -> +. p040 starts a new indented paragraph -> no +. No footnotes, Quran, or honorific glyphs on these pages. «رحمه الله» and «حفظه الله» are printed as ordinary words and kept as words. Lotus ligatures (مـا in عثمان, الغماري, الشمائل, علماء) were read as plain letters. «وما زلنا» (p039, para 2) is printed as two words and «ومازلنا/ومازلت» elsewhere as one; kept as printed."
+  }
+ }
+}

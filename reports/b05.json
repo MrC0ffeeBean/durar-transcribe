@@ -1,0 +1,56 @@
+{
+ "batch": "b05",
+ "agreement": 1.0,
+ "counts": {},
+ "n_items": 0,
+ "n_quran_flags": 0,
+ "n_uncertain_flags": 0,
+ "mode": "spots",
+ "choices": {
+  "A": 0,
+  "B": 0,
+  "T": 0,
+  "custom": 0
+ },
+ "decisions": [],
+ "extra_edits": [],
+ "rules": {
+  "plain_final_ya": {}
+ },
+ "unresolved_uncertain": [],
+ "quran_residual": [],
+ "keyer_notes": {
+  "keyA": {
+   "uncertain": [],
+   "print_errors": [
+    {
+     "page": 18,
+     "text": "وهو من ذريه الشيخ عبد الله الشرقاوي",
+     "note": "«ذريه» printed with final heh (expected ذرية); kept as printed."
+    },
+    {
+     "page": 17,
+     "text": "بشرح الأسنوى",
+     "note": "Name printed «الأسنوى» with alef maqsura (usually الإسنوي); kept as printed."
+    }
+   ],
+   "notes": "p017 continues p016 (sentence broken after «من رمضان») -> 017+. p018 starts a new indented paragraph after p017 ended with a full stop -> no '+'. p019 and p020 continue mid-sentence -> '+'. p020 ends mid-sentence («إسماعيل الحامدي»). No footnotes, headings, bold or Quran on these pages. «رضي الله عنه» on p018 is printed as ordinary words (no glyph). p019 first line ends «العبادي. الخ» with no full stop after الخ. Final ى with the Lotus auto small alif written as plain ى."
+  },
+  "keyB": {
+   "uncertain": [],
+   "print_errors": [
+    {
+     "page": 18,
+     "text": "وهو من ذريه الشيخ عبد الله الشرقاوي",
+     "note": "printed with final ه (no dots) where ذرية is expected; kept as printed"
+    },
+    {
+     "page": 17,
+     "text": "بشرح الأسنوى",
+     "note": "final letter printed as ى (no dots) while neighbouring nisbas (البيضاوي) have ي; kept as printed"
+    }
+   ],
+   "notes": "p017 continues the last paragraph of p016 (sentence broken at «وفي الأسبوع الأول من رمضان») -> marker 017+. p018 opens with an indented new paragraph («ولما علم») -> plain marker. p019 and p020 continue mid-sentence -> 019+ and 020+. No footnotes, headings or honorific glyphs on these pages; «رضي الله عنه» on p018 is printed as ordinary words. p019 first line ends «العبادي. الخ» with no final period, kept as printed. Kashida-like joins (الـخ، وذلـك) dropped as tatweel."
+  }
+ }
+}

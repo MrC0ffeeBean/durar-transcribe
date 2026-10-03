@@ -1,0 +1,33 @@
+{
+ "mode": "full_reread",
+ "decisions": {
+  "d001": {"choice": "A", "note": "p.064 ends with a short last line ([آل عمران: ١٦٠].) and the first line of p.065 «(وَأَيِّدْنِي…» is indented like «(الله. الله. الله)» lower on the page, so this is a new paragraph and there is no '+'."},
+  "d002": {"choice": "A", "note": "The words are visibly bold. The parentheses look the same as regular ones: measured at 2000 dpi, the bold-span parens and the regular parens of «(ثلاثًا)» on p.068 have the same stroke (31 px) and ink. They do not contrast, so they stay outside the ** markers."},
+  "d003": {"choice": "A", "note": "Same as d002: the bold words are inside the markers and the parentheses, which look like regular ones, are outside."},
+  "d004": {"choice": "A", "note": "[الفجر:٢٧-٢٨] is set tight: the gap after the colon is only the glyph side-bearing, while [المجادلة: ٢٢] on the same page shows a clear space. The parentheses stay outside the bold, as in d002."},
+  "d005": {"choice": "A", "note": "Closing parenthesis has the same weight as a regular one, so it goes outside the bold (see d002)."},
+  "d006": {"choice": "A", "note": "«(الله. الله. الله)»: the words are bold and the parentheses look regular, so they go outside the markers (see d002)."},
+  "d007": {"choice": "A", "note": "At 1200 dpi the nun of يَكُن has no sukun. The sukun is on لَمْ only."},
+  "d008": {"choice": "A", "note": "At 1200 dpi قَوِيٌ has a kasra under the waw and dammatan on the yeh, with no shadda (a print error kept as printed)."},
+  "d009": {"choice": "A", "note": "In the lam-mim ligature, the lam's sukun is drawn as a small filled mark stacked on the mim's damma, the same mark as in المُحَجَّلِينَ and المُذْنِبِينَ. There is no mark at all over the ra (checked at 2000 dpi). So it is الْمُرسَلِينَ."},
+  "d010": {"choice": "A", "note": "The lam's sukun is stacked above the mim's damma in the ligature (the same filled mark as in d009/d011), so it is الْمُتَّقِينَ."},
+  "d011": {"choice": "A", "note": "At 3000 dpi the stacked lam sukun is visible above the damma in both words. In المذنبين the dhal also has its own hook sukun."},
+  "d012": {"choice": "A", "note": "At 1500 dpi the hook-shaped sukun over the lam is clearly printed above the kha's fatha in الْخَيْرِ and above the ha's damma in الْهُدَىٰ."},
+  "d013": {"choice": "A", "note": "At 2500 dpi the ain of نعتك has a fatha stroke, not the hook sukun used in وَصْفِكَ just before it. So it is وَنَعَتِكَ (print error kept)."},
+  "d014": {"choice": "A", "note": "At 1500 dpi the hook sukun over the lam of بِالْمَعَارِفِ is visible above the mim's fatha."},
+  "d015": {"choice": "A", "note": "[الممتحنة:٤] is printed tight, with no word space between the colon and ٤."},
+  "d016": {"choice": "A", "note": "The print shows the hamza with a fatha on the alif of the lam-alif. The Tanzil encoding ٱلْـَٔاخِرَةِ renders exactly this. B's ءَا would put the hamza on the line."},
+  "d017": {"choice": "A", "note": "[البقرة:٢٠١] is printed tight, with no space after the colon."},
+  "d018": {"choice": "A", "note": "At 2000 dpi, a single fatha and a small high mim (iqlab) are printed over the mim of قآئما. This is encoded قَآئِمًۢا as in Tanzil."},
+  "d019": {"choice": "A", "note": "At 1500 dpi the final ba of فاكتب has only its dot below and no kasra. The damma on the ta and the sukun on the kaf are printed. Print error kept."},
+  "d020": {"choice": "A", "note": "[التحريم:٨] is printed tight, with no space after the colon."},
+  "d021": {"choice": "A", "note": "[الحشر:٢٢-٢٤] is printed tight, with no space after the colon."},
+  "d022": {"choice": "A", "note": "At 1000 dpi the colon touches the digits and «](» is set closed up, so there is no word space. European digits are kept, and the range is in logical order 1-4 (1 is on the left in the print). ثلاثًا has no fatha on the tha."},
+  "d023": {"choice": "A", "note": "At 1000 dpi the spacing is tight as in d022, and a fatha on the first tha of ثَلاثًا is clearly visible (unlike the Ikhlas line)."},
+  "q001": {"choice": "A", "note": "No waqf sign is printed after مِّنْهُ before the closing bracket. The quote ends there, so this is a genuine print variant."},
+  "q002": {"choice": "A", "note": "No waqf sign is printed after ٱللَّهِ. The quote ends at the bracket (print variant)."},
+  "q003": {"choice": "A", "note": "No waqf sign is printed after مَعَادٍ. The quote ends at the bracket (print variant)."},
+  "q004": {"choice": "A", "note": "In the print, لَنَآ is followed directly by إِنَّكَ with no ۖ above it (checked on the crop and the zoom), so this is a genuine print variant."}
+ },
+ "extra_edits": []
+}

@@ -1,0 +1,106 @@
+{
+ "batch": "b07",
+ "agreement": 0.9919,
+ "counts": {
+  "punct": 2
+ },
+ "n_items": 2,
+ "n_quran_flags": 0,
+ "n_uncertain_flags": 0,
+ "mode": "spots",
+ "choices": {
+  "A": 0,
+  "B": 1,
+  "T": 0,
+  "custom": 1
+ },
+ "decisions": [
+  {
+   "id": "d001",
+   "page": 27,
+   "type": "punct",
+   "a": "ج ١",
+   "b": "ج١",
+   "tanzil": null,
+   "choice": "B",
+   "note": "p.027 l.3: no space typed between ج and ١. Measured at 900 dpi: ج|١ ink gap 38 px. Digits are tabular here (p.021 «١٣٥٠»: ١|٣ 34 px, ٥|٠ 53 px; p.026 ٣|٣ 14 px), so ١ alone carries ~32 px of side bearing. Final ج + space + أ («تخريج أحاديث», same page) gives 48 px, and a space is ~24 px (سمير|الصالحين 34 px vs the joined one 10 px). With a space the ج|١ gap would be ~70 px. The visible gap is the bearing of ١, so the print reads ج١.",
+   "result": "ج١"
+  },
+  {
+   "id": "d002",
+   "page": 27,
+   "type": "punct",
+   "a": "سميرالصالحين ج ٢",
+   "b": "سمير الصالحين ج٢",
+   "tanzil": null,
+   "choice": "custom",
+   "note": "p.027 l.3. The second «سميرالصالحين» is printed joined: the ر–ا ink gap is 10 px at 900 dpi, against 34 px for the first «سمير الصالحين» on the same line. This is kept as printed, a print slip, as in A. ج|٢ is 30 px. ٢ has ~19 px of tabular bearing, and with a space the gap would be ~55-60 px, so the print has no space: ج٢, as in B.",
+   "result": "سميرالصالحين ج٢"
+  }
+ ],
+ "extra_edits": [],
+ "rules": {
+  "plain_final_ya": {}
+ },
+ "unresolved_uncertain": [],
+ "quran_residual": [],
+ "keyer_notes": {
+  "keyA": {
+   "uncertain": [],
+   "print_errors": [
+    {
+     "page": 25,
+     "text": "ممضاه",
+     "note": "Printed with final plain ه (no dots; checked at 900 dpi next to the dotted ة of «الشهادة»); p.021 prints the same word «ممضاة». Kept as printed."
+    },
+    {
+     "page": 25,
+     "text": "نهني",
+     "note": "«نحن نهني الأزهر» printed ن-ه-ن-ي without any hamza (expected نهنئ); checked at 600 dpi. Kept as printed."
+    },
+    {
+     "page": 26,
+     "text": "وَعَّرفَهُ",
+     "note": "The shadda+fatha is printed over the ع, not over the ر (checked at 2000 dpi: the mark sits above the ع body, the ر carries no mark); expected وَعَرَّفَهُ. Kept as printed: fatha on و, shadda+fatha on ع, nothing on ر, fatha on ف, damma on ه."
+    },
+    {
+     "page": 27,
+     "text": "سميرالصالحين ج ٢",
+     "note": "The second «سميرالصالحين» on the line is printed with no space (ink gap 7 px at 600 dpi vs 22 px for the first «سمير الصالحين» on the same line). Kept joined as printed."
+    }
+   ],
+   "notes": "Markers: p.024 ends «…مع أنه كان ضنينًا جدًا» → p.025 «بالتقريظ…», so it is <<<ص:025+>>> (p.024 has no footnotes, so there is no (تابع)). p.025 ends «…لا يتأتيان إلا» → p.026 «من رجل…» = <<<ص:026+>>>. p.027 and p.028 each begin a new title in the list of works, so neither has a +. p.028 ends mid-sentence «ولما ذهبت إلى فاس أول مرة، صعب علي العلم،» (the line is justified, so it continues on p.029). No headings, footnotes, Quran or bold on pp.025-028. List of works (pp.026-028): each printed title line is its own paragraph, with no numbers or bullets printed. On p.026 the line «إقامة البرهان على نزول عيسى في آخر الزمان (طبع مرتين)» fills the line to the left margin, and the next line «وترجم إلى اللغة الأردية» is at the same list indent, so I treated it as a wrap of that item and joined it into one paragraph. On p.027 the third line holds two items on one printed line, «سمير الصالحين ج ١ (طبع مرتين) سميرالصالحين ج ٢ (طبع)», and is kept as one paragraph. Spacing there was measured from ink gaps at 600 dpi: ج|١ = 24 px and ج|٢ = 19 px against word spaces of 21-29 px on that line. On p.026, «حينئذ ٣٣ سنة» shows that digits carry only small bearings (٣|٣ = 8 px), so I wrote ج ١ / ج ٢ with a space. «ثلاث مرات» on p.027 line 1 has a normal space (23 px). Dashes on p.025 («منه – وكان … الشريعة – فهنأني») are en dashes with spaces, written as U+2013 as in earlier batches. ﷺ after «أخلاق النبي» on p.028 is the glyph U+FDFA. Printed harakat copied exactly: tanween fatha on the letter before the alif (مضافًا، وكيلًا، أيضًا، دويًا، كبيرًا، شيخًا، ردًا، كتابًا، شيئًا، حديثًا). Madda: رآني، القرآن، الآجرومية، آدم، الآمال، آخر. «علي» on pp.026 and 028 has no shadda. «اتحاف» on p.026 is printed with a bare alif (no hamza) and «المنتقاه» with a final ه; both checked at 800 dpi and kept as printed. The body font's automatic small alif on final ى is written as plain ى (على، إلى، عيسى، نادى، رأى، سوى، أخرى). «عبد الله» is printed with a space. Zooms are saved as scratch\\a025_*, a026_*, a027_*, a028_*."
+  },
+  "keyB": {
+   "uncertain": [],
+   "print_errors": [
+    {
+     "page": 26,
+     "text": "وَعَّرفَهُ بي",
+     "note": "Checked at 2400 dpi. The shadda and its fatha sit over the ع, and the ر has no mark. The expected vowelling is «وَعَرَّفَهُ», with the shadda on the ر. Kept as printed: و+fatha, ع+shadda+fatha, ر bare, ف+fatha, ه+damma."
+    },
+    {
+     "page": 25,
+     "text": "وهي ممضاه باسم الملك فاروق",
+     "note": "Printed with final heh (no dots), confirmed at 500 dpi. p021 prints «ممضاة» with ta marbuta. Kept as printed."
+    },
+    {
+     "page": 25,
+     "text": "نحن نهني الأزهر",
+     "note": "Printed «نهني» with no hamza. The standard spelling is «نهنئ». Kept as printed."
+    },
+    {
+     "page": 26,
+     "text": "الأحاديث المنتقاه",
+     "note": "Printed with final heh (no dots), confirmed at 800 dpi. The standard spelling is «المنتقاة». Kept as printed."
+    },
+    {
+     "page": 26,
+     "text": "اتحاف الأذكياء",
+     "note": "Printed with a bare initial alif (no hamza), confirmed at 900 dpi. The standard spelling is «إتحاف». Kept as printed."
+    }
+   ],
+   "notes": "p024 ends mid-sentence («…مع أنه كان ضنينًا جدًا») and has no footnotes, so p025 is '+' with no (تابع) block. p025 ends «لا يتأتيان إلا» and p026 continues it, so p026 is '+'. p027 and p028 begin new list items after complete items, so they have no '+'. None of the four pages has footnotes, headings, Quran or poetry. Book lists (pp.026-028): each printed line is its own paragraph. One exception on p026: «وترجم إلى اللغة الأردية» is joined to the preceding «إقامة البرهان … (طبع مرتين)» item. That item's line fills the full width of the list block, the next line has no extra indent, and the words describe the same book, so it is a wrap of that item. On p027, «سمير الصالحين ج١ (طبع مرتين) سمير الصالحين ج٢ (طبع)» is printed on one line and kept as one paragraph. «ج١»/«ج٢» are written with no space: the measured gap between ج and the digit is smaller than the word spaces on that line. The second «سمير الصالحين» is set very tight (ر and ال nearly touching) but is written with a normal space. On p028, ﷺ after «النبي» is kept as the glyph, with one space before it. Prose dashes on p025 are ' – ' (en dash with spaces), as in the earlier keyB batches. The only explicit harakat are the tanween (مضافًا، وكيلًا، أيضًا ×3، دويًا، كبيرًا ×2، شيخًا، ردًا، كتابًا، شيئًا، حديثًا ×2) and «وَعَّرفَهُ» on p026. Final ى with the font's automatic small alif is written as plain ى (على، إلى، عيسى، نادى، رأى، سوى، أخرى). «عليه السلام» / «عليهم السلام» are printed as ordinary words. «الإلهية» on p028 has no dagger alif (checked at 1400 dpi). «ومن تعليقات» on p028 is printed without a final ي (one might expect «تعليقاتي»). It is grammatical as it stands, so it is not listed as an error. Digits ٣٣ (p026) are Arabic-Indic as printed."
+  }
+ }
+}

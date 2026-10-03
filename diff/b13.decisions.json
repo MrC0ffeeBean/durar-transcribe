@@ -1,0 +1,21 @@
+{
+  "mode": "spots",
+  "decisions": {
+    "d001": {
+      "choice": "B",
+      "note": "p051 zoom at 1400 dpi: عَلانِيتُهُ has fatha on ع, kasra under ن, damma on ت and on ه; no fatha on the ي."
+    },
+    "d002": {
+      "choice": "B",
+      "note": "p052 zoom at 1600 dpi: أَقْترَفَ has fatha on أ, sukun on ق, fatha on ر and on ف; nothing above the ت (only its two dots)."
+    }
+  },
+  "extra_edits": [
+    {
+      "page": 52,
+      "find": "سُوءًا عَلَى نَفْسِي",
+      "replace": "سُوءًا عَلى نَفْسِي",
+      "note": "Both keyers wrote two fathas. A 2400 dpi zoom shows only one fatha, over the ع, and nothing above the ل stem. The other عَلَى on this page (أَنَّ اللهَ عَلَى كُلِّ) clearly has both fathas at the same zoom. Written as printed (CONVENTIONS §2)."
+    }
+  ]
+}

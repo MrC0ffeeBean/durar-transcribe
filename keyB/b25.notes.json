@@ -1,0 +1,10 @@
+{
+  "uncertain": [],
+  "print_errors": [
+    {"page": 97, "text": "علي كل أيام", "note": "printed with dotted ي (for على); kept as printed."},
+    {"page": 100, "text": "سَيِّدَنا مُحَمَّدٍ", "note": "prayer (١): fatha printed on د and no haraka on ن (prayer (٢) prints سَيِّدِنَا); kept as printed."},
+    {"page": 100, "text": "مُحَمَّدُِ النِّهَايَةِ", "note": "prayer (١): the د carries both a damma above and a kasra below (checked at 2400 dpi); both kept."},
+    {"page": 100, "text": "مَحْمُودُِ السِّيرَةِ", "note": "prayer (١): the د carries both a damma above and a kasra below (checked at 1600 dpi); both kept."}
+  ],
+  "notes": "p097 continues the last bullet paragraph of p096 (097+); p099 continues the hadith list of p098 (099+). p100: prayer (٢) continues on p101; the short rule under the last line of p100 is the footnote rule. In prayer (١) الأَعْظَمِ has no sukun on the lam, while prayer (٢) prints الْأَعْظَمِ with it; both kept as printed. Footnote on p100 prints فِي with a kasra (body-text في on pp.098-099 has none); kept. ﷺ glyphs on pp.098-099 kept as U+FDFA. Quran spans checked against ref Tanzil (quran.py: no flags)."
+}

@@ -1,0 +1,21 @@
+{
+  "uncertain": [],
+  "print_errors": [
+    {
+      "page": 120,
+      "text": "إِلَيّ",
+      "note": "In «لِمَنْ أَسَاءَ إِلَيّ» the final yeh carries a shadda with no fatha (lam has fatha); expected إِلَيَّ. Transcribed as printed."
+    },
+    {
+      "page": 118,
+      "text": "تَجَنُّبًا،خَبِيرًا",
+      "note": "No space printed after the comma; written with one normal space."
+    },
+    {
+      "page": 120,
+      "text": "وَمَكْرُوهٍ،صَلَاةً",
+      "note": "No space printed after the comma; written with one normal space."
+    }
+  ],
+  "notes": "p117 continues the prayer ٢٩/٣٠ from p116 mid-Quran (المائدة ٨), so its marker has '+' and the line opens with a reopened ﴿ so that ﴿﴾ balance per line, as earlier batches do. p118 and p120 also continue the previous page ('+'); p119 starts item ٣٣ after a full stop. There are no footnotes on these pages. Red divine Names are marked ==…== (لطيف، خبير، حليم، عظيم، غفورا); the comma after each is black. Where a case vowel is printed on the Name الله it is written اللَّهُ (§2); otherwise الله. Partial vowelling is kept exactly as printed and was checked at extreme zoom: يَدْعُوني، تُورِثُني، يُؤَهِّلُني، زَمَاني (no kasra under nun); وَبِرُوحي؛ فَيَسْتَويَ (no kasra on waw); الْأَبصَارُ/الْأَبصَارَ (no sukun on ba); الْمَعْروفِ، الْكُروبَ، العُيوبَ، والْعَدوَّ (no damma on ra/ya/dal); بِأنَّ، أَيْأسُ (bare hamza); كَما، بِها؛ الإيمانِ، الإرْثِ، إلى (p117) have hamza under alif with no kasra. Over الم in الْمُسْتَقِيمِ، الْمُحْسِنِينَ، الْمُرْسَلِينَ the lam's sukun and the mim's damma overlap into one blob; this is read as sukun on lam plus damma on mim. quran.py flags two waqf signs: Tanzil has ۚ/ۖ after لِلتَّقْوَىٰ and ۖ after دَعَانِ. The print ends both quotes before the sign and shows none (verified at 2400 dpi), so they are kept as printed. The لِلتَّقْوَىٰ flag also points to 2:237, but the printed reference is المائدة ٨."
+}

@@ -1,0 +1,16 @@
+{
+  "uncertain": [],
+  "print_errors": [
+    {"page": 33, "text": "١٩٩٧م .", "note": "A space is printed before the final period (short last line, not justified). Kept as printed."},
+    {"page": 34, "text": "### حفظ القرآن الكريم :", "note": "The heading has a clear space before the colon. Kept as printed."},
+    {"page": 34, "text": "أسماؤه.وكذلك", "note": "No space after the period. Kept as printed."},
+    {"page": 34, "text": "بالمدينه المنوره", "note": "Printed with final ه instead of ة (the same page also has «بالمدينة المنورة» with ة). Kept as printed."},
+    {"page": 35, "text": "محمد بدوى،", "note": "Here بدوى is printed with dotless final ى. On p.034 it is «بدوي» with dots. Each kept as printed."},
+    {"page": 35, "text": "رحمه الله .كما", "note": "The space is printed before the period instead of after it. Kept as printed."},
+    {"page": 35, "text": "والأشباه و النظائر", "note": "The conjunction و stands alone at the end of a line and «النظائر» starts the next line. Written with a space as printed."},
+    {"page": 35, "text": "حزب من سورة البقرة / جزء من موطأ الإمام", "note": "Grammatically these would be accusatives (حزبا / جزءا), but they are printed without alif. Kept as printed."},
+    {"page": 36, "text": "جمعة ( وكان", "note": "A space is printed after the opening parenthesis. Kept as printed."},
+    {"page": 36, "text": "مفتى جمهورية", "note": "Printed with dotless ى. Kept as printed."}
+  ],
+  "notes": "There are no footnotes, Quran text or honorific glyphs on pp.033-036. Honorifics such as «رحمه الله», «رضي الله عنهم» and «صلى الله عليه وسلم» are printed as words. p.033: p.032 ends its section with a complete sentence, so the marker has no '+'. The first line «الفقير إلى الله» is a calligraphic paragraph. The # heading is printed «أ.د/ يسري رشدي السيد جبر» with dotted ي in both names, in the heading and in the first body line, although CONVENTIONS §2 and STRUCTURE say p.033 prints «يسرى رشدى». I checked this at 500 dpi and both final ي clearly carry two dots, so I wrote يسري رشدي as printed. p.035 and p.036 continue mid-sentence, so their markers have '+'. Dashes: on p.034 the long dash between words is written as an en dash '–' (U+2013), the printed glyph. On p.036 the dash between the dates «١٤٠٠هـ - ١٩٨٠ م» is written as an ASCII hyphen, following CONVENTIONS §2 for dashes between numbers. Spacing in the p.036 dates was measured from 700 dpi zooms: «١٤٠٠هـ» has no space before هـ, and the second date reads «١٤١٣ هـ ١٢ / ٢/١٩٩٣», with spaces around the first slash and none around the second. On p.033 «٢٥محرم» is printed without a space and is written that way. On p.036 the slash is printed with spaces and «١٤١٣ هـ» has a space."
+}
