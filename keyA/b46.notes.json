@@ -1,0 +1,8 @@
+{
+  "uncertain": [
+    {"page": 181, "reading": "تَقَرَّبَ", "why": "Only one fatha is drawn above the ت/ق cluster (plus shadda-fatha on ر); I could not decide whether it sits on the ت or on the ق, even at 1300-1600 dpi."},
+    {"page": 181, "reading": "يَتَقَرَّبُ", "why": "Two fathas appear before the shadda over ي-ت-ق. The fatha on ي is clear, but I could not be sure the second one is on the ت rather than the ق."}
+  ],
+  "print_errors": [],
+  "notes": "p181 has no '+': p180 ends with a full stop (item 10) and p181 opens a new chapter. pp.182-184 are '+': each continues the paragraph from the page before. Following the convention I used in earlier batches, a fatha drawn on the لا ligature is written لَا (p181 وَلَا). On p183 the hamza of الأَنْبِياء has a fatha with a sukun stacked over it, which belongs to the ن. The hadith quotations are bold and are written «**…**». In the heading on p181 no kasra is printed under the ر of اليُسْريَّة. The Quran quote on p182 is encoded per Tanzil: وَسْـَٔلُوا۟ (round silent-alif zero on the final alif) and فَضْلِهِۦٓ (small yeh with madda)."
+}

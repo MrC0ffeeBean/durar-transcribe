@@ -1,0 +1,6 @@
+{"uncertain": [],
+ "print_errors": [
+  {"page": 178, "text": "والسلام علي سيدنا محمد", "note": "علي printed with dots (for على); kept as printed."},
+  {"page": 178, "text": "مَنْ عَادَيْت تَبَارَكْتَ", "note": "no punctuation and no final fatha on عاديت; kept as printed."}
+ ],
+ "notes": "p177 starts with a new heading (في السجود:), so no '+'. p177 'اللَّهُمّ اغْفِرْ' printed with shadda only (no fatha) on the mim; 'مجِيدٌ' has no fatha on mim; first إِبْرَاهِيم (after صليت على سيدنا) has no final fatha; سَيِّدنا partly vowelled as printed. Lam-alif fathas encoded on the lam (لَا, السَّلَامُ) regardless of where the print draws them; إِلاَّ written إِلَّا. p178 'كبيراً' with tanween after alif as printed; 'الْحَيَّ الْقَيُّومَ' printed with fatha. p179: 'آية الكرسى' printed with dotless ى; 'تبَارَكْتَ يا ذا' printed without fatha on ta/ya/dhal; item 3 '(ثَلَاثَ مَرَّاتٍ)' has final fatha, item 4 '(ثَلَاث مَرَّاتٍ)' has none. Ayat al-Kursi printed without an ayah-end number, so none written. Item 7 basmala is in the ordinary font, unvowelled, written plain. Surat al-Ikhlas crosses into p180: bracket closed at end of p179 and reopened on p180 (marker 180+), following earlier batches."}

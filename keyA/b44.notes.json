@@ -1,0 +1,13 @@
+{
+  "uncertain": [
+    {"page": 173, "reading": "حُمَيَّثرة", "why": "Small stacked marks: damma on ح clear; a fatha-over-shadda cluster sits over the م/ي junction, so it is unclear whether it is مَيّ or مَيَّ (no sukun on ث visible)."}
+  ],
+  "print_errors": [
+    {"page": 174, "text": "(ت ١٢٦٢-١٨٤٦م)", "note": "Hijri year printed without هـ, unlike all the other dates; kept as printed."},
+    {"page": 175, "text": "إلي سيدي / إلي الله", "note": "إلي printed with dotted ي several times (alongside إلى); kept as printed."},
+    {"page": 175, "text": "ثلاثة وعشرون سبتمبر", "note": "Grammatically ثلاثة وعشرين expected; kept as printed."},
+    {"page": 176, "text": "وَالْمجْدِ", "note": "Only a sukun is printed over the lam-mim (no vowel on م), and sukun on ج; kept as printed."},
+    {"page": 176, "text": "الْعَظِيم / أَحَقّ", "note": "Final م of العظيم unvowelled and ق of أحق has shadda without vowel; kept as printed."}
+  ],
+  "notes": "p173 continues the isnad sentence from p172 (ends «القطب الإمام أبي»), so marked +. pp.174-175 also continue mid-sentence. p174 «و«صغرى» shows a small gap between و and «; written attached. p176 heading line «للسيد عبدالله الصِدّيق الغماري»: kasra under ص and shadda on د as printed. Bold on p173 «وهنا تجتمع الطرق كلها» with the period kept outside the bold."
+}

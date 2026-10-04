@@ -1,0 +1,13 @@
+{"uncertain": [
+ {"page": 186, "reading": "الْمُدْحِ", "why": "two marks over lam/mim/dal of المدح; could be lam-sukun+mim-damma or mim-damma+dal-sukun; exact set unclear"},
+ {"page": 187, "reading": "هَذا", "why": "a fatha printed above the junction of تستعظمواْ and هذا; most likely on the heh of هذا"},
+ {"page": 188, "reading": "يَتَمَكَّنُ", "why": "unsure whether the teh carries a fatha"}
+],
+"print_errors": [
+ {"page": 187, "text": "قُلَوبَكُمْ", "note": "fatha printed on lam (expected قُلُوبَكُمْ); kept as printed"},
+ {"page": 187, "text": "وَغَشَيَانُ", "note": "fatha on shin (expected غِشْيَان); kept"},
+ {"page": 188, "text": "خُصُوصَيَّتُكُمْ", "note": "fatha on sad (expected خُصُوصِيَّتُكُمْ); kept"},
+ {"page": 188, "text": "الطَّرَيقَةِ", "note": "first occurrence has fatha on reh (second has kasra); kept"},
+ {"page": 188, "text": "إلي الله", "note": "printed with dotted yeh إلي; kept"}
+],
+"notes": "The mark over the alif fariqa (تقومواْ، واحفظواْ، تسمعواْ، etc.) is the khah-head sukun shape; written as U+0652. p185 starts a new heading (no +); p186 and p188 continue the previous page's sentence. p187 opens a new indented paragraph. The heading on p188 is printed with two dots «..»."}

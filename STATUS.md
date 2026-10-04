@@ -58,11 +58,11 @@ A batch is DONE iff `final\bNN.md` exists, validates, and equals keyer A + the l
 | b41 | 161–164 | done | 97.5% | 13 | 1 | 1 |
 | b42 | 165–168 | done | 98.4% | 8 | 0 | 1 |
 | b43 | 169–172 | done | 98.2% | 6 | 0 | 0 |
-| b44 | 173–176 | pending |  |  |  |  |
-| b45 | 177–180 | pending |  |  |  |  |
-| b46 | 181–184 | pending |  |  |  |  |
-| b47 | 185–188 | pending |  |  |  |  |
-| b48 | 189–192 | pending |  |  |  |  |
+| b44 | 173–176 | keyed |  |  |  |  |
+| b45 | 177–180 | keyed |  |  |  |  |
+| b46 | 181–184 | keyed |  |  |  |  |
+| b47 | 185–188 | keyed |  |  |  |  |
+| b48 | 189–192 | keyed |  |  |  |  |
 | b49 | 193–196 | pending |  |  |  |  |
 | b50 (pilot) | 197–200 | done | 95.6% | 27 | 0 | 3 |
 | b51 | 201–204 | pending |  |  |  |  |

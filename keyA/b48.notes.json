@@ -1,0 +1,13 @@
+{
+  "uncertain": [
+    {"page": 189, "reading": "لَها", "why": "bayt 3: a single fatha sits above the lam stem of the لهـ ligature; in this font marks for the letter after lam are sometimes drawn over the lam stem (cf. لهُمْ p.191), so it may belong to ه (لهَا)"},
+    {"page": 191, "reading": "فِصِاَحُ", "why": "bayt 36: kasra printed under both ف and ص, and a fatha printed above the alif after the kashida; transcribed mark-for-mark as printed"}
+  ],
+  "print_errors": [
+    {"page": 189, "text": "الحُرَجِ / المُوج / لِلمُضْطَّر / مِنْ الفَرَجِ / مُكَيْرِيبٍ / لُججِ", "note": "printed as such (damma where fatha/sukun expected; ضْطَّ; مكيريب); kept as printed"},
+    {"page": 190, "text": "بَطَدٍ", "note": "bayt 24 prints بطد (expected e.g. طه); kept as printed"},
+    {"page": 191, "text": "الهُرَجِ / كَالهُمَجِ / يَسْبِقُه", "note": "damma over the lam stem read as belonging to the following letter, as in المُهَجِ; kept as printed"},
+    {"page": 192, "text": "المُالُ / الحُالُ / الحُشْرِ / فَرَقَى", "note": "damma drawn over the lam stem (expected المَالُ، الحَالُ، الحَشْرِ); فرقى for ورقى; kept as printed"}
+  ],
+  "notes": "Side-by-side poem, bayts numbered ١) etc. Page 189 starts a new section (no continuation). Words squeezed together without visible spaces in tight hemistichs (e.g. أبحتَ لهُ ما منكَ نجي, كذا الفاروق, أضحوا في الحندس, كي تنبسطي كي تبتهجي) were written as separate words. بسم اللهِ on p.190 written اللَّهِ per §2; لله on p.191 has only the automatic marks. The closing centered hemistich on p.192 is in a :::شعر مشطور block."
+}

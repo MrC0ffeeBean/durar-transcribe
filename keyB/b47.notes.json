@@ -1,0 +1,19 @@
+{"uncertain": [
+ {"page": 186, "reading": "وأَيْدِيَكُمْ", "why": "mark cluster over the hamza/yeh unclear (fatha + possible sukun)"},
+ {"page": 187, "reading": "وَتَحَابُّواْ", "why": "only one fatha visible over the ta-ha ligature; unclear which letter carries it"},
+ {"page": 187, "reading": "عَلَيْهِ", "why": "mark over yeh could be sukun or shadda+fatha"},
+ {"page": 187, "reading": "وَغَشَيَانُ", "why": "two fathas over ghain/sheen/yeh, placement unclear"},
+ {"page": 187, "reading": "تَخَافُوهُ", "why": "only one fatha visible over the ta-kha ligature"},
+ {"page": 187, "reading": "ضَرًا", "why": "no shadda clearly visible on ra under the fathatan"},
+ {"page": 188, "reading": "فَإِنَّهُ", "why": "fatha on fa not certain"},
+ {"page": 188, "reading": "الانْضِمَامِ", "why": "fatha on second mim not certain"},
+ {"page": 188, "reading": "فَيُحْسَبَ", "why": "fatha on seen not certain"},
+ {"page": 188, "reading": "يَتمَكَّنُ", "why": "fatha on yeh/ta not certain"}
+],
+"print_errors": [
+ {"page": 187, "text": "قُلَوبَكُمْ", "note": "fatha printed on lam (expected قُلُوبَكُمْ); kept as printed"},
+ {"page": 188, "text": "خُصُوصَيَّتُكُمْ", "note": "fatha on sad (expected خُصُوصِيَّتُكُمْ); kept as printed"},
+ {"page": 188, "text": "إلي الله", "note": "printed with dotted yeh (expected إلى)"},
+ {"page": 188, "text": "## إِجَازَةٌ عَامَّةٌ..", "note": "heading printed with two dots; STRUCTURE lists one"}
+],
+"notes": "p185 starts with heading الوصية الجامعة (no continuation). p186 continues the sentence from p185 (+). p187 starts a new indented paragraph. p188 continues p187 sentence (+). ﷺ glyphs on pp.185 and 187 kept. Small alif on final ى in the body font written as plain ى."}

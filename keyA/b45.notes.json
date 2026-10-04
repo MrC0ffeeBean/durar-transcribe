@@ -1,0 +1,9 @@
+{
+  "uncertain": [],
+  "print_errors": [
+    {"page": 178, "text": "يبدأ بالصلاة والسلام علي سيدنا محمد", "note": "«علي» printed with two dots (ي) where «على» is meant; kept as printed."},
+    {"page": 180, "text": "أَسْألُكَ", "note": "Second alif carries only the hamza; the damma is on the lam (no fatha on the hamza). Kept as printed."},
+    {"page": 179, "text": "وَلَا رَادّ", "note": "Final dal has shadda only, no fatha; kept as printed."}
+  ],
+  "notes": "p177 has no '+': p176 ends with a full stop and p177 opens with the heading «في السجود:». p180 is '+': Surat al-Ikhlas runs from p179 into p180, so the ﴿﴾ closes at the end of p179 and reopens on p180. All harakat were read from 800-1800 dpi zooms. In the lam-mim/lam-kha ligature, the mark drawn over the lam is a sukun stacked over the next letter's vowel. I wrote it as sukun + fatha (الْمَحْيَا، وَالْمَمَاتِ، الْمَسِيحِ، الْخَيْرَاتِ، الْمَسَاكِينِ، الْجَلَالِ، الْعَظِيمَ، الْحَيَّ) or sukun + damma (الْمُبَارَكَاتُ، الْمُنْكَرَاتِ) according to the tail shape. Printed vowel-less forms kept: اللَّهُمّ (p177, shadda only on the mim), رَبَّياني, سَيِّدنا (p177, no fatha on the dal), الْعَالَمِين (no fatha on the nun), عَادَيْتَ. لاَ/إِلاَّ printed with the marks on the lam-alif ligature are written لَا/إِلَّا. Ayat al-Kursi has no ayah-number ornament in the print, so none is written. The basmala in item 7 (p179) is in the ordinary unvowelled font and is written plain. The quran.py flag on p180 (أَحَدٌۢ vs 2:102) is a mis-location of a single word; it matches 112:4."
+}

@@ -1,0 +1,9 @@
+{"uncertain": [
+ {"page": 181, "reading": "تَقَرَّبَ", "why": "bold hadith: only one fatha clearly visible over the ت/ق cluster; unclear whether both ت and ق carry fatha"},
+ {"page": 181, "reading": "يَتَقَرَّبُ", "why": "bold hadith: fatha placement over ت/ق ambiguous at max zoom; one of them may be unvowelled"},
+ {"page": 181, "reading": "يُجَرِيهُ", "why": "mark over ج looks like a fatha stroke, not a sukun circle; expected يُجْرِيهُ"}
+],
+"print_errors": [
+ {"page": 181, "text": "يُجَرِيهُ", "note": "if the mark on ج is really a fatha it is a typo for يُجْرِيهُ"}
+],
+"notes": "p181 starts a new section (p180 ends with a complete dua), so no '+'. pp182-184 continue mid-sentence ('+'). Bold hadith quotes marked **…** inside «». Quran on p182 encoded per Tanzil (وَسْـَٔلُوا۟ … فَضْلِهِۦ; no madda printed after the small yeh). Honorific glyph on p181 title line written (رضي الله عنه); p182 ﷺ glyph kept."}

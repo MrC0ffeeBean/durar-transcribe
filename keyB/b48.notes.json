@@ -1,0 +1,12 @@
+{
+  "uncertain": [],
+  "print_errors": [
+    {"page": 189, "text": "لِلمُضْطَّر", "note": "Bayt 8: shadda+fatha printed on the ط and no shadda/kasra on the ر (expected لِلْمُضْطَرِّ). Kept as printed."},
+    {"page": 189, "text": "المُوج", "note": "Bayt 14: damma printed on the م of الموج (expected المَوْجِ) and no final kasra. Kept as printed."},
+    {"page": 189, "text": "الحُرَجِ", "note": "Bayt 2: damma on the ح of الحرج (rhyme word; expected الحَرَجِ). Kept as printed."},
+    {"page": 192, "text": "المُالُ … الحُالُ", "note": "Bayt 55: damma printed on the م of المال and on the ح of الحال (expected المَالُ / الحَالُ). Kept as printed."},
+    {"page": 192, "text": "الحُشْرِ", "note": "Bayt 58: damma on the ح of الحشر (expected الحَشْرِ). Kept as printed."},
+    {"page": 192, "text": "وَفَى فَرَقَى", "note": "Bayt 53: printed with dotless ى in both words (وَفَى فَرَقَى); copied as printed."}
+  ],
+  "notes": "Poem pages 189-192 (المنفرجة للغزالي), side-by-side layout, bayts numbered ١)…٥٩). Page 189 starts a new section (p.188 ends with a complete paragraph), so no '+'. Pages 190-192 continue the poem between bayts, so their markers have no '+'; the fence is closed/reopened per page. The final centred line on p.192 (يَا رَبِّ فَعَجِّلْ بِالفَرَجِ) is a lone hemistich in ':::شعر مشطور'. '(ثلاثاً)' (smaller font) is kept at the end of bayt 56. On p.192 several words are printed with almost no gap for justification (وَكَذَاالفَارُوقِ, كَذَاالأَزْوَاجِ, عَجِّلْ بِالنَّصْرِ وَبِالْفَرَجِ, لِأَكُونَ غَدًا فِي) — written as separate words. Words printed without some expected harakat are kept bare as printed (e.g. شِدَّتُها and وَالأزْمَةُ on p.190, وَلَكنْ p.190, وَبِقهْرِ p.190, يَسْبِقُه and مَكَارِمِه p.191, يَحُفُّهُم p.192, بَيْن p.189, سُدّ p.189). اللهِ with printed kasra on p.190 bayt 25 written اللَّهِ per §2; bare لله on p.191 bayt 45 kept bare."
+}
