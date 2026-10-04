@@ -1,0 +1,428 @@
+{
+ "batch": "b33",
+ "agreement": 0.9552,
+ "counts": {
+  "haraka": 23,
+  "letters": 1,
+  "uncertain": 1
+ },
+ "n_items": 25,
+ "n_quran_flags": 1,
+ "n_uncertain_flags": 0,
+ "mode": "spots",
+ "choices": {
+  "A": 12,
+  "B": 11,
+  "T": 0,
+  "custom": 3
+ },
+ "decisions": [
+  {
+   "id": "d001",
+   "page": 129,
+   "type": "haraka",
+   "a": "وَنَهَى",
+   "b": "وَنَهى",
+   "tanzil": null,
+   "choice": "B",
+   "note": "900dpi zoom p129 l1: fatha on و and ن only; ه carries no fatha (وَنَهى).",
+   "result": "وَنَهى"
+  },
+  {
+   "id": "d002",
+   "page": 129,
+   "type": "haraka",
+   "a": "الْمَاءِ النَّابعِ",
+   "b": "الْماءِ النَّابِعِ",
+   "tanzil": null,
+   "choice": "custom",
+   "note": "1400dpi zoom: الماء has only sukun on ل, no fatha on م; النابع has a single kasra under ع, none under ب.",
+   "result": "الْماءِ النَّابعِ"
+  },
+  {
+   "id": "d003",
+   "page": 129,
+   "type": "haraka",
+   "a": "وَحَيْثُمَا",
+   "b": "وَحَيْثُما",
+   "tanzil": null,
+   "choice": "B",
+   "note": "800dpi zoom: وَحَيْثُما, no fatha on م.",
+   "result": "وَحَيْثُما"
+  },
+  {
+   "id": "d004",
+   "page": 129,
+   "type": "haraka",
+   "a": "إِلَى",
+   "b": "إلى",
+   "tanzil": null,
+   "choice": "B",
+   "note": "800dpi zoom: إلى printed with hamza below but no kasra.",
+   "result": "إلى"
+  },
+  {
+   "id": "d005",
+   "page": 129,
+   "type": "haraka",
+   "a": "بِالْمَعَانِي،",
+   "b": "[؟:بِالْمعَانِي]،",
+   "tanzil": null,
+   "choice": "custom",
+   "note": "1400dpi zoom: sukun on ل and one fatha stacked under it in the لمع ligature (most likely on م, as in الْمَعاشِ p130); no second fatha visible; kept uncertain.",
+   "result": "[؟:بِالْمَعانِي]،"
+  },
+  {
+   "id": "d006",
+   "page": 129,
+   "type": "haraka",
+   "a": "الأَبدَانَ بِأَطَايِبِ",
+   "b": "الأَبْدَانَ بِأَطايِبِ",
+   "tanzil": null,
+   "choice": "B",
+   "note": "900dpi zoom: sukun on ب in الأَبْدَانَ; no fatha on ط in بِأَطايِبِ.",
+   "result": "الأَبْدَانَ بِأَطايِبِ"
+  },
+  {
+   "id": "d007",
+   "page": 129,
+   "type": "haraka",
+   "a": "وَلِرُوحِي",
+   "b": "وَلِرُوحي",
+   "tanzil": null,
+   "choice": "B",
+   "note": "800dpi zoom: وَلِرُوحي, no kasra under ح.",
+   "result": "وَلِرُوحي"
+  },
+  {
+   "id": "d008",
+   "page": 129,
+   "type": "haraka",
+   "a": "اللَّهُ",
+   "b": "اللهُ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Damma printed on the Name in «يَا اللهُ»; written اللَّهُ per §2 and batch precedent.",
+   "result": "اللَّهُ"
+  },
+  {
+   "id": "d009",
+   "page": 130,
+   "type": "haraka",
+   "a": "وَاسْتَعَانَكَ",
+   "b": "وَاسْتَعَانَك",
+   "tanzil": null,
+   "choice": "A",
+   "note": "1400dpi zoom: separate fathas over ن and over ك (وَاسْتَعَانَكَ).",
+   "result": "وَاسْتَعَانَكَ"
+  },
+  {
+   "id": "d010",
+   "page": 130,
+   "type": "haraka",
+   "a": "الْمَعَاشِ",
+   "b": "[؟:الْمَعاشِ]",
+   "tanzil": null,
+   "choice": "B",
+   "note": "1400dpi zoom: sukun on ل with one fatha stacked under it (on م), no fatha over ع; same ambiguous pattern as بالمعاني, kept uncertain.",
+   "result": "[؟:الْمَعاشِ]"
+  },
+  {
+   "id": "d011",
+   "page": 130,
+   "type": "haraka",
+   "a": "إِيمانًا",
+   "b": "إيمانًا",
+   "tanzil": null,
+   "choice": "B",
+   "note": "1200dpi zoom: إيمانًا has no kasra under the hamza.",
+   "result": "إيمانًا"
+  },
+  {
+   "id": "d012",
+   "page": 130,
+   "type": "letters",
+   "a": "ٱلنَّبِىُّ",
+   "b": "ٱلنَّبِيُّ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Quran font prints undotted final ى in ٱلنَّبِىُّ (matches Tanzil).",
+   "result": "ٱلنَّبِىُّ"
+  },
+  {
+   "id": "d013",
+   "page": 131,
+   "type": "haraka",
+   "a": "لِجَمالِهِ،",
+   "b": "[؟:لِجمَالِهِ]،",
+   "tanzil": null,
+   "choice": "A",
+   "note": "1000dpi zoom: fatha on ج only, none on م (لِجَمالِهِ).",
+   "result": "لِجَمالِهِ،"
+  },
+  {
+   "id": "d014",
+   "page": 131,
+   "type": "haraka",
+   "a": "لِكَمَالِ",
+   "b": "لِكَمَال",
+   "tanzil": null,
+   "choice": "A",
+   "note": "900dpi zoom: لِكَمَالِ with fathas on ك and م and kasra under final ل.",
+   "result": "لِكَمَالِ"
+  },
+  {
+   "id": "d015",
+   "page": 131,
+   "type": "haraka",
+   "a": "احْتَمى",
+   "b": "احْتَمَى",
+   "tanzil": null,
+   "choice": "A",
+   "note": "1200dpi zoom: احْتَمى, no fatha on م.",
+   "result": "احْتَمى"
+  },
+  {
+   "id": "d016",
+   "page": 131,
+   "type": "uncertain",
+   "a": "بهَا",
+   "b": "[؟:بهَا]",
+   "tanzil": null,
+   "choice": "A",
+   "note": "1300dpi zoom: one fatha over ه, no kasra under ب (بهَا).",
+   "result": "بهَا"
+  },
+  {
+   "id": "d017",
+   "page": 131,
+   "type": "haraka",
+   "a": "الرَّشَادِ،",
+   "b": "الرَّشادِ،",
+   "tanzil": null,
+   "choice": "B",
+   "note": "600dpi zoom: الرَّشادِ, no fatha on ش.",
+   "result": "الرَّشادِ،"
+  },
+  {
+   "id": "d018",
+   "page": 131,
+   "type": "haraka",
+   "a": "وَالْإِكْرَام.",
+   "b": "وَالْإِكْرَامِ.",
+   "tanzil": null,
+   "choice": "B",
+   "note": "1000dpi zoom: kasra clearly printed under final م of وَالْإِكْرَامِ.",
+   "result": "وَالْإِكْرَامِ."
+  },
+  {
+   "id": "d019",
+   "page": 132,
+   "type": "haraka",
+   "a": "خَزَائِنِ",
+   "b": "خَزائِنِ",
+   "tanzil": null,
+   "choice": "B",
+   "note": "1000dpi zoom: خَزائِنِ, no fatha on ز.",
+   "result": "خَزائِنِ"
+  },
+  {
+   "id": "d020",
+   "page": 132,
+   "type": "haraka",
+   "a": "اللَّهُ",
+   "b": "اللهُ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Damma printed on the Name; اللَّهُ per §2 and precedent.",
+   "result": "اللَّهُ"
+  },
+  {
+   "id": "d021",
+   "page": 132,
+   "type": "haraka",
+   "a": "كَمَالِ",
+   "b": "كَمَال",
+   "tanzil": null,
+   "choice": "A",
+   "note": "1500dpi zoom: two fathas over كما and kasra under ل (كَمَالِ).",
+   "result": "كَمَالِ"
+  },
+  {
+   "id": "d022",
+   "page": 132,
+   "type": "haraka",
+   "a": "اللَّهُ",
+   "b": "اللهُ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Damma printed on the Name in «صَلَّى اللهُ»; اللَّهُ per §2 and precedent.",
+   "result": "اللَّهُ"
+  },
+  {
+   "id": "d023",
+   "page": 132,
+   "type": "haraka",
+   "a": "الله",
+   "b": "اللهَ",
+   "tanzil": null,
+   "choice": "custom",
+   "note": "Fatha printed on the Name in «أَرْقُبَ اللهَ فِي خَلْقِهِ»; written اللَّهَ per §2 and precedent.",
+   "result": "اللَّهَ"
+  },
+  {
+   "id": "d024",
+   "page": 132,
+   "type": "haraka",
+   "a": "أَخْذُلَهُمْ",
+   "b": "أَخْذُلَهُم",
+   "tanzil": null,
+   "choice": "B",
+   "note": "500dpi zoom: أَخْذُلَهُم without sukun on final م (contrast أَظْلِمَهُمْ).",
+   "result": "أَخْذُلَهُم"
+  },
+  {
+   "id": "d025",
+   "page": 132,
+   "type": "haraka",
+   "a": "اللَّهُ",
+   "b": "اللهُ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Damma printed on the Name; اللَّهُ per §2 and precedent.",
+   "result": "اللَّهُ"
+  },
+  {
+   "id": "q001",
+   "page": 130,
+   "type": "quran_marks",
+   "a": "وَٱلْحِسَابَ",
+   "b": null,
+   "tanzil": "وَٱلْحِسَابَ ۚ",
+   "choice": "A",
+   "note": "1200dpi zoom: no waqf ۚ printed after ٱلْحِسَابَ; the quotation ends with the bracket — print variant.",
+   "result": "وَٱلْحِسَابَ"
+  }
+ ],
+ "extra_edits": [],
+ "rules": {
+  "plain_final_ya": {},
+  "name_full_marks": {}
+ },
+ "unresolved_uncertain": [
+  {
+   "page": 129,
+   "reading": "بِالْمَعانِي",
+   "context": " الأرْواحَ بِالْحَقَائِقِ، وَالْقُلُوبَ [؟:بِالْمَعانِي]، وَالْأَسْرَارَ بِالأُنْسِ وَالْمُشَاهَ"
+  },
+  {
+   "page": 130,
+   "reading": "الْمَعاشِ",
+   "context": "حُقُوقُ، وَتَتَيَسَّرُ لَهُمْ أَسْبَابُ [؟:الْمَعاشِ] وَرَاحَةُ الْبَالِ، وَقُلْتَ فِي مُحْكَ"
+  }
+ ],
+ "quran_residual": [
+  {
+   "page": 130,
+   "kind": "quran_marks",
+   "keyed": "وَٱلْحِسَابَ",
+   "tanzil": "وَٱلْحِسَابَ ۚ",
+   "ref": "10:5"
+  }
+ ],
+ "keyer_notes": {
+  "keyA": {
+   "uncertain": [],
+   "print_errors": [
+    {
+     "page": 129,
+     "text": "النَّابعِ",
+     "note": "In «مِنَ الْمَاءِ النَّابعِ» only one kasra is printed (under the ع); no kasra under the ب (checked at 2000 dpi). Kept as printed."
+    },
+    {
+     "page": 129,
+     "text": "الأَبدَانَ",
+     "note": "Hamza+fatha on the alif but no sukun on the ب (checked at 1800 dpi). Kept as printed."
+    },
+    {
+     "page": 129,
+     "text": "الأرْواحَ",
+     "note": "Hamza on the alif with no fatha, sukun on ر, no fatha on و. Kept as printed."
+    },
+    {
+     "page": 129,
+     "text": "الطَّعامِ / تَكونُ / واشْتِيَاقًا",
+     "note": "No fatha on ع of الطعام (second occurrence, line 8), no damma on ك of تكون, no fatha on و of واشتياقا. Kept as printed."
+    },
+    {
+     "page": 129,
+     "text": "وَسَلِّم وَبَارِك",
+     "note": "Item ٤١: no sukun printed on م of وسلم or on ك of وبارك (unlike items ٤٢-٤٤). Kept as printed."
+    },
+    {
+     "page": 130,
+     "text": "لأدَاءِ / وَليُعَلِّمَ / وتَوَكَّلَ / إِيمانًا وإِحْسَانًا",
+     "note": "No fatha on the hamza of لأداء; no kasra under the ل of وليعلم; no fatha on the first و of وتوكل and of وإحسانا; no fatha on م of إيمانا. Kept as printed."
+    },
+    {
+     "page": 130,
+     "text": "مِمَّن / الجَنَّةَ",
+     "note": "No sukun on ن of ممن; no sukun on the ل of الجنة (line 13). Kept as printed."
+    },
+    {
+     "page": 131,
+     "text": "بهَا",
+     "note": "In «صَلَاةً أُجِلُّ بهَا قَدْرَ» there is no kasra under the ب; the single fatha sits over the ه (checked at 1600 dpi). Kept as printed."
+    },
+    {
+     "page": 131,
+     "text": "تجلَّيْتَ / إِنسانٌ / احْتَمى / لِجَمالِهِ / تَطَاولِ / منْ قَبْلِ / شَيئًا / وَالْإِكْرَام",
+     "note": "Partial vowelling as printed: no fatha on ت/ج of تجليت; no sukun on ن and no fatha on س of إنسان; no fatha on م of احتمى; no fatha on م of لجماله; no damma on و of تطاول; no kasra under م of منْ (line 12); no sukun on ي of شيئا; no kasra under final م of الإكرام. Kept as printed."
+    },
+    {
+     "page": 132,
+     "text": "خَيرٌ / إنْ لمْ",
+     "note": "No sukun on ي of خير; no kasra under the alif of إن and no fatha on ل of لم. Kept as printed."
+    }
+   ],
+   "notes": "p129 continues p128 mid-sentence («فَكَانَ يَبِيتُ / عِنْدَ رَبِّهِ») -> '+'. p130 continues p129 mid-sentence («الْحَسِيبِ / النَّسِيبِ») -> '+'. p131 starts with item ٤٢ after p130 ended with a full stop -> no '+'. p132 continues p131 mid-sentence («لِلْأَكْوانِ الْيَدُ / الْعُلْيَا») -> '+'. Only p130 has a footnote (no continuation). Red divine Names: حَسِيبُ (p129), جَلِيلُ, كَرِيمُ (p131), رَقِيبُ (p132). The word الله printed with a damma (يَا اللهُ, صَلَّى اللهُ) is written اللَّهُ as in earlier batches; without a case vowel (أَرْقُبَ الله فِي خَلْقِهِ) it is written الله. Mark over lam+letter ligatures read as sukun+fatha (open hook) vs sukun+damma (filled blob) per earlier batches, e.g. الْمَعَاشِ (sukun+fatha) vs الْمُعَاشِ not printed. Quran encoded per Tanzil: 10:5 (لِتَعْلَمُوا۟ with small round zero; no waqf ۚ printed after وَٱلْحِسَابَ, verified, so none written), 8:64 (يَٰٓأَيُّهَا), 93:8. Commas printed without a following space (e.g. «جَمَالًا ،وَفِي», «وَرِفْعَةً،جَمِيلِ») normalized to '، '. Tatweel in «فَأَقُــومَ» (p132) dropped. Lines located with a row-darkness profile and read at 900-2000 dpi zooms."
+  },
+  "keyB": {
+   "uncertain": [
+    {
+     "page": 129,
+     "reading": "بِالْمعَانِي",
+     "why": "only one fatha printed in the لمع ligature, sitting between م and ع; placed on ع (could belong to م)"
+    },
+    {
+     "page": 130,
+     "reading": "الْمَعاشِ",
+     "why": "only one fatha printed in the لمع ligature, under the sukun hook; placed on م (could belong to ع)"
+    },
+    {
+     "page": 131,
+     "reading": "لِجمَالِهِ",
+     "why": "only one fatha printed over the جم ligature (elsewhere جَمَال has two); placed on م"
+    },
+    {
+     "page": 131,
+     "reading": "بهَا",
+     "why": "one fatha over the بها ligature and no kasra under ب; placed on ه"
+    }
+   ],
+   "print_errors": [
+    {
+     "page": 131,
+     "text": "لِكَمَال تَوَاضُعِهِ",
+     "note": "no kasra printed on final lam of كمال (genitive); kept as printed"
+    },
+    {
+     "page": 132,
+     "text": "مِنْ كَمَال مُرَاقَبَتِهِ",
+     "note": "no kasra printed on final lam of كمال; kept as printed"
+    }
+   ],
+   "notes": "p129 continues p128 (+); p130 and p132 continue mid-sentence (+); p131 starts with item ٤٢. Red divine Names marked ==…==. Tatweel in فَأَقُــومَ (p132) dropped. Several words print a vowel on only some letters (e.g. وتَوَكَّلَ, تجلَّيْتَ, لأدَاءِ, وَليُعَلِّمَ, إيمانًا, منْ, إنْ لمْ, بالرَّقِيبِ, الأرْواحَ) — transcribed exactly as printed after high-zoom checks. Footnote numbers kept as printed with Arabic digits."
+  }
+ }
+}

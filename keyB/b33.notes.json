@@ -1,0 +1,11 @@
+{"uncertain": [
+ {"page": 129, "reading": "بِالْمعَانِي", "why": "only one fatha printed in the لمع ligature, sitting between م and ع; placed on ع (could belong to م)"},
+ {"page": 130, "reading": "الْمَعاشِ", "why": "only one fatha printed in the لمع ligature, under the sukun hook; placed on م (could belong to ع)"},
+ {"page": 131, "reading": "لِجمَالِهِ", "why": "only one fatha printed over the جم ligature (elsewhere جَمَال has two); placed on م"},
+ {"page": 131, "reading": "بهَا", "why": "one fatha over the بها ligature and no kasra under ب; placed on ه"}
+],
+"print_errors": [
+ {"page": 131, "text": "لِكَمَال تَوَاضُعِهِ", "note": "no kasra printed on final lam of كمال (genitive); kept as printed"},
+ {"page": 132, "text": "مِنْ كَمَال مُرَاقَبَتِهِ", "note": "no kasra printed on final lam of كمال; kept as printed"}
+],
+"notes": "p129 continues p128 (+); p130 and p132 continue mid-sentence (+); p131 starts with item ٤٢. Red divine Names marked ==…==. Tatweel in فَأَقُــومَ (p132) dropped. Several words print a vowel on only some letters (e.g. وتَوَكَّلَ, تجلَّيْتَ, لأدَاءِ, وَليُعَلِّمَ, إيمانًا, منْ, إنْ لمْ, بالرَّقِيبِ, الأرْواحَ) — transcribed exactly as printed after high-zoom checks. Footnote numbers kept as printed with Arabic digits."}

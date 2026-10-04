@@ -137,7 +137,8 @@
   }
  ],
  "rules": {
-  "plain_final_ya": {}
+  "plain_final_ya": {},
+  "name_full_marks": {}
  },
  "unresolved_uncertain": [
   {

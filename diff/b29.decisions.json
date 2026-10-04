@@ -1,0 +1,57 @@
+{
+ "mode": "spots",
+ "decisions": {
+  "d001": {
+   "choice": "A",
+   "note": "p.113: closing ornament ﴾ is printed directly against [آل with no space."
+  },
+  "d002": {
+   "choice": "B",
+   "note": "800dpi zoom p.114: الله carries only the font's automatic shadda/small alif plus a damma; no fatha on the shadda -> اللهُ."
+  },
+  "d003": {
+   "choice": "B",
+   "note": "800dpi zoom: وَالنَّجْوى - no fatha on the و, only the automatic small alif over final ى."
+  },
+  "d004": {
+   "choice": "B",
+   "note": "Footnote zoom: وَاللهِ has a kasra under ه and only the automatic shadda mark, no fatha."
+  },
+  "d005": {
+   "choice": "B",
+   "note": "Footnote zoom: للهِ has a kasra below, no printed fatha on the shadda."
+  },
+  "d006": {
+   "choice": "A",
+   "note": "1000dpi zoom p.115: الْوجُودِ - sukun on ل, no damma on the first و, damma on ج."
+  },
+  "d007": {
+   "choice": "B",
+   "note": "Zoom p.115: حَالَتَي - no kasra under the ي."
+  },
+  "d008": {
+   "choice": "B",
+   "note": "800dpi zoom p.116: صَلَّى اللهُ - damma only, no fatha on the shadda of الله."
+  },
+  "d009": {
+   "choice": "B",
+   "note": "800dpi zoom p.116: عَلى - fatha on ع only, nothing on ل."
+  },
+  "q001": {
+   "choice": "A",
+   "note": "Zoom p.115: ٱللَّهِ﴾ ends the quotation with no waqf sign printed after it (Tanzil's ۚ is absent) - genuine print variant since the quote stops there."
+  },
+  "q002": {
+   "choice": "A",
+   "note": "Zoom p.115: فَمِنَ ٱللَّهِ﴾ with no waqf sign printed; Tanzil's ۖ is absent in the print at the quote end."
+  }
+ },
+ "extra_edits": [
+  {
+   "page": 114,
+   "find": "إِنِّي لَأَرْجُو",
+   "replace": "إِنِّي لأَرْجُو",
+   "note": "1000dpi footnote zoom: the lam-alif of لأرجو has only a hamza with one fatha above the alif stroke; no fatha on the lam. Both keyers added it."
+  }
+ ]
+}

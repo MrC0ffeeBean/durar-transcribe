@@ -1,0 +1,64 @@
+{
+ "batch": "b23",
+ "pages": [
+  89,
+  90,
+  91,
+  92
+ ],
+ "agreement": 0.9964,
+ "full_reread_required": false,
+ "counts": {
+  "letters": 1,
+  "haraka": 1
+ },
+ "n_items": 2,
+ "n_quran_flags": 1,
+ "n_uncertain": 0,
+ "items": [
+  {
+   "page": 89,
+   "type": "letters",
+   "a_range": [
+    50,
+    51
+   ],
+   "a_text": "دَابَّةٍ",
+   "b_text": "دَآبَّةٍ",
+   "ctx_before": "وَحَيَّةٍ وَعَقْرَبٍ وَمِنْ شَرِّ كُلِّ",
+   "ctx_after": "أَنْتَ آخِذٌ بِنَاصِيَتِهَا إِنَّ رَبِّي",
+   "id": "d001"
+  },
+  {
+   "page": 91,
+   "type": "haraka",
+   "a_range": [
+    2,
+    3
+   ],
+   "a_text": "اليُسْرِيَّةُ",
+   "b_text": "اليُسرِيَّةُ",
+   "ctx_before": "# [؟:الصَّلَوَاتُ",
+   "ctx_after": "عَلَى خَيْرِ البَرِيَّةِ] ¶ وشرحها",
+   "uncertain_in_A": true,
+   "id": "d002"
+  }
+ ],
+ "quran_flags": [
+  {
+   "page": 92,
+   "kind": "quran_marks",
+   "a_range": [
+    46,
+    47
+   ],
+   "keyed": "بِهَا",
+   "tanzil": "بِهَا ۖ",
+   "ref": "7:180",
+   "id": "q001",
+   "ctx_before": "وتعالى: ﴿وَلِلَّهِ ٱلْأَسْمَآءُ ٱلْحُسْنَىٰ فَٱدْعُوهُ",
+   "ctx_after": "[الأعراف: ١٨٠]، ولقول رسول الله"
+  }
+ ],
+ "uncertain": []
+}

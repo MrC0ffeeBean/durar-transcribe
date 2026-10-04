@@ -1,0 +1,8 @@
+{
+  "uncertain": [],
+  "print_errors": [
+    {"page": 121, "text": "فَإِنَّكَ أَنْتَ **الشَّاكِرُ** الْعَلِيمُ", "note": "Only الشَّاكِرُ is set in the heavier bold weight (clearly visible); the following Names are regular. Marked ** as printed (same pattern as bold black Names on pp.115-116)."},
+    {"page": 121, "text": "يُجِلُّ", "note": "In the stacked يج ligature the damma sits above and the kasra below the stack; written in the grammatical positions (ya damma, jim kasra)."}
+  ],
+  "notes": "p120 ends with a complete paragraph (item 35 closes with حَلِيمُ.) and has no footnote, so p121 has a plain marker. p122 continues the sentence of p121 (صَلَّى اللهُ عَلَيْهِ / وَآلِهِ) -> '+'. p123 starts the third day (## صلوات اليوم الثالث, ### الصلاة البرزخية, ### صلاة التجلي); it ends after the closing ﴾ of Quran 27:6 and p124 begins with the reference [النمل: ٦]، so p124 uses '+'. p121 'أَثَبْتَهُمْ' checked at 3000 dpi: two overlapping fathas over hamza/tha and sukun on ba. p121 'إمامِ' printed without kasra under hamza. p123 'سَيِّدَنا' (fatha on dal) and 'مُحَمَّدُِ', 'مَحْمُودُِ' (damma and kasra both printed) kept as printed; 'الأَعْظَمِ' on p123 has no sukun on lam while p124 'الْأَعْظَمِ' has one. p124 'المُتَخَلِّقِ' has no sukun on lam. p122 'عَلَيْهِم' mim unmarked. Every يا checked at high zoom has a fatha. Quran passages match ref/quran-uthmani.txt (14:7 partial, 34:13 partial, 21:107, 27:6, 42:52 partial); no waqf signs printed. Footnote volume/page references have a space after the slash, e.g. (٤/ ٣٩٨). No keyA/diff/final/reports files were opened; earlier keyB batches (own work) were consulted only for format."
+}

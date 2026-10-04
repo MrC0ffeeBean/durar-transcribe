@@ -220,6 +220,16 @@ def typed_dagger_pages():
     return _TYPED
 
 
+_BARE_NAME_VOWEL = re.compile("لله(?=[َُِ])")
+
+
+def name_full_marks(line):
+    """The Name with a printed case vowel is written with all its marks (CONVENTIONS §2):
+    اللهُ -> اللَّهُ, بِاللهِ -> بِاللَّهِ. Returns (line, n_changes)."""
+    new, n = _BARE_NAME_VOWEL.subn("للَّه", line)
+    return unicodedata.normalize("NFC", new), n
+
+
 def plain_final_ya(line):
     """Drop a small alif written over final ى outside ﴿…﴾ (CONVENTIONS §2). Returns (line, n_changes)."""
     parts = re.split(r"(﴿[^﴾]*﴾)", line)

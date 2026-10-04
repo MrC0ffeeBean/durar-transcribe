@@ -1,0 +1,41 @@
+{
+ "batch": "b24",
+ "agreement": 1.0,
+ "counts": {},
+ "n_items": 0,
+ "n_quran_flags": 0,
+ "n_uncertain_flags": 0,
+ "mode": "spots",
+ "choices": {
+  "A": 0,
+  "B": 0,
+  "T": 0,
+  "custom": 0
+ },
+ "decisions": [],
+ "extra_edits": [],
+ "rules": {
+  "plain_final_ya": {},
+  "name_full_marks": {}
+ },
+ "unresolved_uncertain": [],
+ "quran_residual": [],
+ "keyer_notes": {
+  "keyA": {
+   "uncertain": [],
+   "print_errors": [],
+   "notes": "p093 continues the last sentence of p092 (p092 ends «…من يوليو عام ألفين», p093 begins «واثني عشر…») -> marker 093+. p092's footnote ends complete on p092 and p093 has no footnotes, so no (تابع). pp.094, 095 and 096 each begin with an indented new paragraph after a full stop on the previous page -> no '+'. No footnotes, Quran or headings anywhere in pp.093-096. Calligraphic salawat glyphs (3x on p093) kept as ﷺ. Automatic small alif over final ى (على، معنى، مجلى، تعالى، لدى، الحسنى، الأولى، حتى، إلى) written as plain ى. p093 «كـ«دلائل الخيرات»» is printed with a tatweel after the kaf; per §2 tatweel dropped -> «ك«دلائل الخيرات»». p093 name printed «ابن بشيش» (dot below, checked at 600 dpi) — kept as printed (a known variant spelling of ابن مشيش, so not listed as a print error). Tight justification spacing after commas (e.g. «الأعظم،ثم», «الاسم،فلما», «الجزولي،وكتاب», «المسلمين،فكانت», «وناشرها،وأن», «الغيوب،بالإضافة») normalised to one space after the comma, as in earlier batches. Sparse printed harakat kept exactly: p094 «حُسن الخُلُق» (damma on ح; damma on خ and ل), «الشيخ/ أسامة» (slash at line end, space after it as in «أ.د/ يسرى»); p095 «وِرْدًا» (kasra on و, sukun on ر), «يوميًّا» (shadda + fathatan), «يُقرأ»; p096 «يوميًّا», «صِيغ», «ويُثني», «كالآتي». p096: «وهذه الطريقة كالآتي:» is an ordinary-weight indented line -> plain paragraph, not a heading. p096 bullets are the same flower-asterisk glyph as p049 -> written '* ' (as in b13). p096 ends mid-sentence «…من صلاة (المقسط)» (continues on p097)."
+  },
+  "keyB": {
+   "uncertain": [],
+   "print_errors": [
+    {
+     "page": 93,
+     "text": "كصلاة سيدي ابن بشيش",
+     "note": "Printed with a ب (one dot below) at the start, i.e. «بشيش», not the more usual «مشيش»; verified at 600 dpi; «ابن بشيش» is a known variant form of the name. Kept as printed."
+    }
+   ],
+   "notes": "p093 continues the last paragraph of p092 (p092 ends «…الموافق للعاشر من يوليو عام ألفين», p093 begins «واثني عشر…») -> <<<ص:093+>>>; no footnotes on p093-p096, so no (تابع). p094, p095 and p096 each begin with an indented new paragraph after a full stop/short last line on the previous page -> markers without +. p093: ﷺ glyph printed three times (kept as U+FDFA); «كـ«دلائل الخيرات»» printed with a connecting tatweel after ك before the opening guillemet -> tatweel dropped per §2 (ك«دلائل الخيرات»). p093 year verified at 500 dpi as ١٤٣٢ (p092 has ١٤٣٣; different events, kept as printed). The print has no space after many commas (e.g. الأعظم،ثم / الاسم،فلما / النبهاني،وكذا / الكتاني،وأيضًا / ناشرها،وأن); normalized to one space after the comma per §2, as in earlier keyB batches. Body-font automatic small alif over final ى dropped everywhere (على، الحسنى، معنى، مجلى، تعالى، لدى، المعنى، إلى، حتى، الأولى). Printed harakat kept exactly: مبينًا، طلبًا، شرحًا وافيًا، أيضًا، حُسن الخُلُق، خيرًا، ذخرًا، تقربًا، قيامًا، وِرْدًا، يوميًّا (shadda+fathatan, p095 and p096)، يُقرأ، صِيغ، ويُثني. p094: «الشيخ/ أسامة» — slash printed at the end of the line after الشيخ; written with a space after the slash at the joined line wrap. p096: the opening «وهذه الطريقة كالآتي:» is in the regular body font (not bold) and indented like a paragraph -> plain paragraph, not ###. The six day items are introduced by a flower-shaped asterisk bullet, written `* ` per §7 (same as the `*` bullets of pp.049-050). The paragraph «يبدأ يوميًّا… وصلاة الهوية،» ends with a printed comma, kept. The divine Names in parentheses on p096 (e.g. صلاة (الله)) are black ordinary text, so no == markup. The last bullet on p096 («* وفي اليوم السادس بعد المقدمة يبدأ من صلاة (المقسط)») has no final punctuation and continues on p097."
+  }
+ }
+}

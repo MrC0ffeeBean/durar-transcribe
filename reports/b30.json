@@ -1,0 +1,327 @@
+{
+ "batch": "b30",
+ "agreement": 0.9659,
+ "counts": {
+  "haraka": 18,
+  "punct": 1
+ },
+ "n_items": 19,
+ "n_quran_flags": 2,
+ "n_uncertain_flags": 0,
+ "mode": "spots",
+ "choices": {
+  "A": 21,
+  "B": 0,
+  "T": 0,
+  "custom": 0
+ },
+ "decisions": [
+  {
+   "id": "d001",
+   "page": 117,
+   "type": "haraka",
+   "a": "الإيمانِ",
+   "b": "الإِيمانِ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Zoom p117 l3: الإيمانِ has hamza under alif but no separate kasra.",
+   "result": "الإيمانِ"
+  },
+  {
+   "id": "d002",
+   "page": 117,
+   "type": "haraka",
+   "a": "يَدْعُوني إلى",
+   "b": "يَدْعُونِي إِلى",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p117: يَدْعُوني with no kasra under ن; إلى with hamza below and no kasra.",
+   "result": "يَدْعُوني إلى"
+  },
+  {
+   "id": "d003",
+   "page": 117,
+   "type": "haraka",
+   "a": "اللَّهُ",
+   "b": "اللهُ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "600dpi zoom: «يا اللهُ» has a printed damma on the Name, so اللَّهُ per CONVENTIONS §2 (example اللَّهُ) and A's batch-wide practice.",
+   "result": "اللَّهُ"
+  },
+  {
+   "id": "d004",
+   "page": 118,
+   "type": "haraka",
+   "a": "الإرْثِ،",
+   "b": "الإِرْثِ،",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p118: الإرْثِ printed with hamza under alif and no kasra.",
+   "result": "الإرْثِ،"
+  },
+  {
+   "id": "d005",
+   "page": 118,
+   "type": "haraka",
+   "a": "وَبِرُوحي",
+   "b": "وَبِرُوحِي",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p118: وَبِرُوحي with no kasra under ح.",
+   "result": "وَبِرُوحي"
+  },
+  {
+   "id": "d006",
+   "page": 118,
+   "type": "punct",
+   "a": "تَجَنُّبًا، خَبِيرًا",
+   "b": "تَجَنُّبًا،خَبِيرًا",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Print sets «تجنبًا،خبيرًا» tight after the comma; a normal single space is written per §2 spacing.",
+   "result": "تَجَنُّبًا، خَبِيرًا"
+  },
+  {
+   "id": "d007",
+   "page": 119,
+   "type": "haraka",
+   "a": "الْمَعْروفِ",
+   "b": "الْمَعْرُوفِ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "900dpi zoom p119 l2: no damma on ر of المعْروف.",
+   "result": "الْمَعْروفِ"
+  },
+  {
+   "id": "d008",
+   "page": 119,
+   "type": "haraka",
+   "a": "تُورِثُني",
+   "b": "تُورِثُنِي",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p119: تُورِثُني with no kasra under ن.",
+   "result": "تُورِثُني"
+  },
+  {
+   "id": "d009",
+   "page": 119,
+   "type": "haraka",
+   "a": "فَيَسْتَويَ",
+   "b": "فَيَسْتَوِيَ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p119: فَيَسْتَويَ with no kasra under و.",
+   "result": "فَيَسْتَويَ"
+  },
+  {
+   "id": "d010",
+   "page": 119,
+   "type": "haraka",
+   "a": "اللَّهُ",
+   "b": "اللهُ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Damma printed on الله in «أراد اللهُ»; written اللَّهُ per §2.",
+   "result": "اللَّهُ"
+  },
+  {
+   "id": "d011",
+   "page": 119,
+   "type": "haraka",
+   "a": "اللَّهُ",
+   "b": "اللهُ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Damma printed on الله in «أراد اللهُ تعجيله»; written اللَّهُ per §2.",
+   "result": "اللَّهُ"
+  },
+  {
+   "id": "d012",
+   "page": 120,
+   "type": "haraka",
+   "a": "اللَّهُ.",
+   "b": "اللهُ.",
+   "tanzil": null,
+   "choice": "A",
+   "note": "1000dpi zoom p120: «يَا اللهُ.» damma printed; اللَّهُ per §2.",
+   "result": "اللَّهُ."
+  },
+  {
+   "id": "d013",
+   "page": 120,
+   "type": "haraka",
+   "a": "الْكُروبَ،",
+   "b": "الْكُرُوبَ،",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p120: الْكُروبَ with no damma on ر.",
+   "result": "الْكُروبَ،"
+  },
+  {
+   "id": "d014",
+   "page": 120,
+   "type": "haraka",
+   "a": "العُيوبَ،",
+   "b": "العُيُوبَ،",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p120: العُيوبَ with no damma on ي.",
+   "result": "العُيوبَ،"
+  },
+  {
+   "id": "d015",
+   "page": 120,
+   "type": "haraka",
+   "a": "أَنْتَ، فَأَنْتَ",
+   "b": "أَنتَ، فَأَنتَ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "450dpi zoom: sukun visible on ن in both أَنْتَ and فَأَنْتَ.",
+   "result": "أَنْتَ، فَأَنْتَ"
+  },
+  {
+   "id": "d016",
+   "page": 120,
+   "type": "haraka",
+   "a": "أَيْأسُ",
+   "b": "أَيأسُ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "1600dpi zoom: fatha+hamza over first alif and a sukun hook over ي: أَيْأسُ.",
+   "result": "أَيْأسُ"
+  },
+  {
+   "id": "d017",
+   "page": 120,
+   "type": "haraka",
+   "a": "إِلَيّ،",
+   "b": "إِليَّ،",
+   "tanzil": null,
+   "choice": "A",
+   "note": "1000dpi zoom: fatha on ل, shadda alone on ي (no fatha): إِلَيّ.",
+   "result": "إِلَيّ،"
+  },
+  {
+   "id": "d018",
+   "page": 120,
+   "type": "haraka",
+   "a": "أَنْتَصِرُ",
+   "b": "أَنتَصِرُ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "900dpi zoom: sukun on ن of أَنْتَصِرُ clearly visible.",
+   "result": "أَنْتَصِرُ"
+  },
+  {
+   "id": "d019",
+   "page": 120,
+   "type": "haraka",
+   "a": "اللَّهُ يَا",
+   "b": "اللهُ يا",
+   "tanzil": null,
+   "choice": "A",
+   "note": "1000dpi zoom: «يَا اللهُ يَا» both يا carry fatha; damma on the Name -> اللَّهُ.",
+   "result": "اللَّهُ يَا"
+  },
+  {
+   "id": "q001",
+   "page": 117,
+   "type": "quran_marks",
+   "a": "لِلتَّقْوَىٰ",
+   "b": null,
+   "tanzil": "لِلتَّقْوَىٰ ۚ",
+   "choice": "A",
+   "note": "900dpi zoom: no waqf sign after لِلتَّقْوَىٰ; the quotation ends there with ﴾ (print omits ۚ).",
+   "result": "لِلتَّقْوَىٰ"
+  },
+  {
+   "id": "q002",
+   "page": 118,
+   "type": "quran_marks",
+   "a": "دَعَانِ",
+   "b": null,
+   "tanzil": "دَعَانِ ۖ",
+   "choice": "A",
+   "note": "Zoom p118: دَعَانِ﴾ with no waqf sign; quotation ends there, print omits ۖ.",
+   "result": "دَعَانِ"
+  }
+ ],
+ "extra_edits": [],
+ "rules": {
+  "plain_final_ya": {},
+  "name_full_marks": {}
+ },
+ "unresolved_uncertain": [],
+ "quran_residual": [
+  {
+   "page": 117,
+   "kind": "quran_marks",
+   "keyed": "لِلتَّقْوَىٰ",
+   "tanzil": "لِلتَّقْوَىٰ ۚ",
+   "ref": "2:237"
+  },
+  {
+   "page": 118,
+   "kind": "quran_marks",
+   "keyed": "دَعَانِ",
+   "tanzil": "دَعَانِ ۖ",
+   "ref": "2:186"
+  }
+ ],
+ "keyer_notes": {
+  "keyA": {
+   "uncertain": [],
+   "print_errors": [
+    {
+     "page": 120,
+     "text": "إِلَيّ",
+     "note": "In «لِمَنْ أَسَاءَ إِلَيّ» the final yeh carries a shadda with no fatha (lam has fatha); expected إِلَيَّ. Transcribed as printed."
+    },
+    {
+     "page": 118,
+     "text": "تَجَنُّبًا،خَبِيرًا",
+     "note": "No space printed after the comma; written with one normal space."
+    },
+    {
+     "page": 120,
+     "text": "وَمَكْرُوهٍ،صَلَاةً",
+     "note": "No space printed after the comma; written with one normal space."
+    }
+   ],
+   "notes": "p117 continues the prayer ٢٩/٣٠ from p116 mid-Quran (المائدة ٨), so its marker has '+' and the line opens with a reopened ﴿ so that ﴿﴾ balance per line, as earlier batches do. p118 and p120 also continue the previous page ('+'); p119 starts item ٣٣ after a full stop. There are no footnotes on these pages. Red divine Names are marked ==…== (لطيف، خبير، حليم، عظيم، غفورا); the comma after each is black. Where a case vowel is printed on the Name الله it is written اللَّهُ (§2); otherwise الله. Partial vowelling is kept exactly as printed and was checked at extreme zoom: يَدْعُوني، تُورِثُني، يُؤَهِّلُني، زَمَاني (no kasra under nun); وَبِرُوحي؛ فَيَسْتَويَ (no kasra on waw); الْأَبصَارُ/الْأَبصَارَ (no sukun on ba); الْمَعْروفِ، الْكُروبَ، العُيوبَ، والْعَدوَّ (no damma on ra/ya/dal); بِأنَّ، أَيْأسُ (bare hamza); كَما، بِها؛ الإيمانِ، الإرْثِ، إلى (p117) have hamza under alif with no kasra. Over الم in الْمُسْتَقِيمِ، الْمُحْسِنِينَ، الْمُرْسَلِينَ the lam's sukun and the mim's damma overlap into one blob; this is read as sukun on lam plus damma on mim. quran.py flags two waqf signs: Tanzil has ۚ/ۖ after لِلتَّقْوَىٰ and ۖ after دَعَانِ. The print ends both quotes before the sign and shows none (verified at 2400 dpi), so they are kept as printed. The لِلتَّقْوَىٰ flag also points to 2:237, but the printed reference is المائدة ٨."
+  },
+  "keyB": {
+   "uncertain": [],
+   "print_errors": [
+    {
+     "page": 118,
+     "text": "تَجَنُّبًا،خَبِيرًا",
+     "note": "No space is printed after the comma: it touches خبيرا. Kept as printed."
+    },
+    {
+     "page": 119,
+     "text": "بِأنَّ",
+     "note": "The hamza on the alif has no fatha. Only the kasra under the ba and the shadda+fatha on the nun are printed."
+    },
+    {
+     "page": 120,
+     "text": "أَنتَ / فَأَنتَ / أَنتَصِرُ",
+     "note": "The nun has no sukun in all three words. Kept as printed."
+    },
+    {
+     "page": 120,
+     "text": "أَيأسُ",
+     "note": "The ya has no sukun and the second hamza has no vowel. Kept as printed."
+    },
+    {
+     "page": 120,
+     "text": "والْعَدوَّ",
+     "note": "The dal has no damma. Kept as printed."
+    }
+   ],
+   "notes": "p117 starts with '+' because p116 ends inside Quran 5:8 (ٱعْدِلُوا۟ هُوَ أَقْرَبُ). I reopened ﴿ before لِلتَّقْوَىٰ, and the print closes it there with ﴾. p118 and p120 also start with '+' because the previous page ends mid-sentence. p119 starts with a new item (٣٣-). There are no footnotes in this batch. All Quran passages were checked against ref/quran-uthmani.txt: 5:8 end, 4:65, 60:10 end, 25:59 end (فَسْـَٔلْ keeps the tatweel before the hamza mark, as in earlier batches), 2:186 up to دَعَانِ, 3:159 up to حَوْلِكَ ۖ, 11:88 end, 15:85. Red divine Names are marked ==…==: لَطِيفُ, خَبِيرُ, حَلِيمُ, عَظِيمُ, غَفُورًا. Things kept as printed: p117 'الحَكَمِ' (lam without sukun), 'الإِيمانِ', 'إِلى الجَهْلِ أَو الظُّلْمِ' (no fatha on the lam of إلى, no sukun on the lam of الجهل, no vowel on the waw of أو), 'وبَارِكْ' (in every item); p118 'الْأَبصَارُ' / 'الْأَبصَارَ' (only one fatha is printed between ba and sad, placed over the ba-sad junction; I gave it to the sad, so the ba has no mark; it could also be read as a fatha on the ba), 'شهودًا' (tanween only), 'زَمَاني', 'وبِسِرِّي', 'وأُحْسِنَهُ'; p119 'بِها' (no fatha on the ha), 'تَأْخِيرَه،' (no damma on the ha), 'مِن قَلْبِي', 'لاجْتِمَاعِ', 'خَوفًا', 'القَبُولِ', 'فَلا', 'ولا أَتَعَجَّلَ', 'والذَّمُّ'; p120 'يُؤَهِّلُني', 'عليُّ', 'للعِبَادِ', 'الغَفَّارِ', 'العُيُوبَ', 'كَما', 'إِليَّ' (one fatha and one shadda printed together over the ya, read as shadda+fatha on the ya with no fatha on the lam; this is uncertain), and 'يا غَفُورُ' (the second يا in the last line has no fatha, while the others have one). On p118 and p119, the sukun on the lam of الْمُسْتَقِيمِ, الْمُحْسِنِينَ, الْمَعْرُوفِ and الْمُرْسَلِينَ prints as a filled blob merged with the mim's vowel; I read it as a sukun. Reference spacing as printed: '[النساء:٦٥]' and '[آل عمران:١٥٩]' have no space after the colon, while '[المائدة: ٨]', '[الممتحنة: ١٠]', '[الفرقان: ٥٩]', '[البقرة: ١٨٦]', '[هود: ٨٨]' and '[الحجر: ٨٥]' have one. The word Allah is written 'اللهُ' where a case damma is printed and 'الله' where no vowel is printed. Zoom images are in scratch/b30_*. keyA, diff, final and reports were not opened."
+  }
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "batch": "b25",
+ "agreement": 0.9962,
+ "counts": {
+  "punct": 1
+ },
+ "n_items": 1,
+ "n_quran_flags": 0,
+ "n_uncertain_flags": 0,
+ "mode": "spots",
+ "choices": {
+  "A": 0,
+  "B": 1,
+  "T": 0,
+  "custom": 0
+ },
+ "decisions": [
+  {
+   "id": "d001",
+   "page": 99,
+   "type": "punct",
+   "a": "(١٢/٤٨٩)",
+   "b": "(١٢/ ٤٨٩)",
+   "tanzil": null,
+   "choice": "B",
+   "note": "footnote on p.099 clearly prints a space after the slash: (١٢/ ٤٨٩)",
+   "result": "(١٢/ ٤٨٩)"
+  }
+ ],
+ "extra_edits": [],
+ "rules": {
+  "plain_final_ya": {},
+  "name_full_marks": {}
+ },
+ "unresolved_uncertain": [],
+ "quran_residual": [],
+ "keyer_notes": {
+  "keyA": {
+   "uncertain": [],
+   "print_errors": [
+    {
+     "page": 97,
+     "text": "علي كل أيام الأسبوع",
+     "note": "The preposition is printed with a dotted yeh (علي), not على. Checked at 450 dpi. Kept as printed."
+    },
+    {
+     "page": 100,
+     "text": "صَلِّ عَلَى سَيِّدَنا مُحَمَّدٍ",
+     "note": "Item (١): the dal of سيدنا has a FATHA and the nun has no vowel. Item (٢) on the same page prints سَيِّدِنَا, with a kasra under the dal and the fatha over the nun. I compared the two words at 2000 dpi. In (١) the stroke is clearly over the dal body and there is no kasra below it. Kept as printed."
+    },
+    {
+     "page": 100,
+     "text": "مُحَمَّدُِ النِّهَايَةِ ... مَحْمُودُِ السِّيرَةِ",
+     "note": "In both words the final dal has a damma above AND a kasra below. Checked at 1800 dpi. The kasra sits directly under the dal and is not a mark from a neighbouring line. This may deliberately show two allowed case endings. Both marks are written (damma then kasra). The preceding أَحْمَدُ has only a damma."
+    },
+    {
+     "page": 100,
+     "text": "على يمين المنبر فِي شعبان",
+     "note": "The footnote is otherwise unvowelled, but the line-final في has a kasra under the fa, below the yeh dots. Checked at 2400 dpi. A mid-line في on p.099 has no such kasra. Written فِي as printed."
+    }
+   ],
+   "notes": "Markers. p.096 ends inside the last bullet («* وفي اليوم السادس بعد المقدمة يبدأ من صلاة (المقسط)»). p.097 continues it with «إلى صلاة (الصبور).», so it is <<<ص:097+>>>. p.096 has no footnotes. p.098 starts with the ## heading (no '+'). Its hadith list runs on to p.099 («…الظاهر،» / «الباطن،…»), so p.099 is <<<ص:099+>>>. p.100 opens a new section with the ## heading «صلوات اليوم الأول», then the ### titles «الصلاة البرزخية» and «صلاة التجلي». Item (٢) ends mid-sentence («…صَاحِبُ الْخُلُقِ الْعَظِيمِ،») and continues on p.101. The numbers (١) and (٢) at the start of the two prayers are list numbers, written with a space after them. The footnote reference (١) after بِكَمَالِهِ is glued.\n\nRed: nothing on pp.097-100 is red. The red Names begin on p.103.\n\nFont small alif. The automatic small alif over final ى is written as plain ى: الحسنى, عيسى, تعالى, روى, الشورى, على in the footnote, عَلَى, مُصْطَفَى, مَجْلَى (CONVENTIONS §2). Inside Quran spans the dagger alif is kept: إِلَىٰ, أَرْسَلْنَٰكَ, لِّلْعَٰلَمِينَ, صِرَٰطٍ. scripts/quran.py reports no flags for the three spans (21:107, 27:6, 42:52 end). The tanween before idgham in صِرَٰطٍ مُّسْتَقِيمٍ is drawn as two staggered kasras and is written ٍ.\n\nPartial vowelling kept exactly as printed, checked at 1400-2400 dpi. On p.098: الجُوزَجانيّ has a bare shadda on the yeh; المعزّ and المذلّ have a shadda only; إبراهيمُ, بنُ, يعقوبَ, صفوانُ, صالحٍ, الوليدُ, شعيبُ, حمزةَ, الزِّنادِ, الأعرجِ, هريرةَ have their single marks. On p.100 in item (١), الأَعْظَمِ has NO sukun on the lam, unlike الْأَحَدِيَّةِ in the same item and الْأَعْظَمِ in item (٢), which both have it.\n\nOther details. In the footnote on p.099, the gaps on each side of the slash in (١٢/٤٨٩) are equal, so no space is written (as on p.108). الرءوف is printed with the hamza on the line. ١٤٣٢هـ keeps its tatweel. The reference spacing [الأنبياء: ١٠٧] is widened by justification and written with one space."
+  },
+  "keyB": {
+   "uncertain": [],
+   "print_errors": [
+    {
+     "page": 97,
+     "text": "علي كل أيام",
+     "note": "printed with dotted ي (for على); kept as printed."
+    },
+    {
+     "page": 100,
+     "text": "سَيِّدَنا مُحَمَّدٍ",
+     "note": "prayer (١): fatha printed on د and no haraka on ن (prayer (٢) prints سَيِّدِنَا); kept as printed."
+    },
+    {
+     "page": 100,
+     "text": "مُحَمَّدُِ النِّهَايَةِ",
+     "note": "prayer (١): the د carries both a damma above and a kasra below (checked at 2400 dpi); both kept."
+    },
+    {
+     "page": 100,
+     "text": "مَحْمُودُِ السِّيرَةِ",
+     "note": "prayer (١): the د carries both a damma above and a kasra below (checked at 1600 dpi); both kept."
+    }
+   ],
+   "notes": "p097 continues the last bullet paragraph of p096 (097+); p099 continues the hadith list of p098 (099+). p100: prayer (٢) continues on p101; the short rule under the last line of p100 is the footnote rule. In prayer (١) الأَعْظَمِ has no sukun on the lam, while prayer (٢) prints الْأَعْظَمِ with it; both kept as printed. Footnote on p100 prints فِي with a kasra (body-text في on pp.098-099 has none); kept. ﷺ glyphs on pp.098-099 kept as U+FDFA. Quran spans checked against ref Tanzil (quran.py: no flags)."
+  }
+ }
+}

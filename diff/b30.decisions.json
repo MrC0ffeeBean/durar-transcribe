@@ -1,0 +1,23 @@
+{"mode": "spots", "decisions": {
+"d001": {"choice": "A", "note": "Zoom p117 l3: الإيمانِ has hamza under alif but no separate kasra."},
+"d002": {"choice": "A", "note": "p117: يَدْعُوني with no kasra under ن; إلى with hamza below and no kasra."},
+"d003": {"choice": "A", "note": "600dpi zoom: «يا اللهُ» has a printed damma on the Name, so اللَّهُ per CONVENTIONS §2 (example اللَّهُ) and A's batch-wide practice."},
+"d004": {"choice": "A", "note": "p118: الإرْثِ printed with hamza under alif and no kasra."},
+"d005": {"choice": "A", "note": "p118: وَبِرُوحي with no kasra under ح."},
+"d006": {"choice": "A", "note": "Print sets «تجنبًا،خبيرًا» tight after the comma; a normal single space is written per §2 spacing."},
+"d007": {"choice": "A", "note": "900dpi zoom p119 l2: no damma on ر of المعْروف."},
+"d008": {"choice": "A", "note": "p119: تُورِثُني with no kasra under ن."},
+"d009": {"choice": "A", "note": "p119: فَيَسْتَويَ with no kasra under و."},
+"d010": {"choice": "A", "note": "Damma printed on الله in «أراد اللهُ»; written اللَّهُ per §2."},
+"d011": {"choice": "A", "note": "Damma printed on الله in «أراد اللهُ تعجيله»; written اللَّهُ per §2."},
+"d012": {"choice": "A", "note": "1000dpi zoom p120: «يَا اللهُ.» damma printed; اللَّهُ per §2."},
+"d013": {"choice": "A", "note": "p120: الْكُروبَ with no damma on ر."},
+"d014": {"choice": "A", "note": "p120: العُيوبَ with no damma on ي."},
+"d015": {"choice": "A", "note": "450dpi zoom: sukun visible on ن in both أَنْتَ and فَأَنْتَ."},
+"d016": {"choice": "A", "note": "1600dpi zoom: fatha+hamza over first alif and a sukun hook over ي: أَيْأسُ."},
+"d017": {"choice": "A", "note": "1000dpi zoom: fatha on ل, shadda alone on ي (no fatha): إِلَيّ."},
+"d018": {"choice": "A", "note": "900dpi zoom: sukun on ن of أَنْتَصِرُ clearly visible."},
+"d019": {"choice": "A", "note": "1000dpi zoom: «يَا اللهُ يَا» both يا carry fatha; damma on the Name -> اللَّهُ."},
+"q001": {"choice": "A", "note": "900dpi zoom: no waqf sign after لِلتَّقْوَىٰ; the quotation ends there with ﴾ (print omits ۚ)."},
+"q002": {"choice": "A", "note": "Zoom p118: دَعَانِ﴾ with no waqf sign; quotation ends there, print omits ۖ."}
+}, "extra_edits": []}

@@ -1,0 +1,13 @@
+{
+  "uncertain": [
+    {"page": 127, "reading": "بالْكَبيرِ", "why": "In «وَتَحَقَّقَ بالْكَبيرِ» (item ٣٨, line 3) the first ب has no kasra and only ONE kasra is printed below the end of the word, between the ي teeth and the final ر; it most likely belongs to the ر, so neither ب is written with a kasra. Compare «عَبْدِ الْكَبِيرِ» in the line above, which clearly has kasra under both ب and ر."}
+  ],
+  "print_errors": [
+    {"page": 127, "text": "فَكَبَرُ", "note": "Printed with fatha on ك and ب and damma on ر (expected فَكَبُرَ); kept as printed (checked at 1100 dpi)."},
+    {"page": 127, "text": "الصِّعْابُ", "note": "A sukun is printed over the ع before the alif (expected الصِّعَابُ); kept as printed."},
+    {"page": 126, "text": "وَالْآخرَ", "note": "No kasra under the خ (expected وَالْآخِرَ); verified at 1600 dpi, kept as printed."},
+    {"page": 126, "text": "بِالإحاطةِ / الجهاتِ", "note": "Only partly vowelled in print (hamza below alif without kasra, no fatha on ط/ج/ه); kept as printed."},
+    {"page": 127, "text": "كَبيرًا / رُوحَانيًّا / مَلَكُوتيًّا", "note": "No kasra under ب / ن / ت respectively (verified at 1300-1600 dpi); kept as printed."}
+  ],
+  "notes": "p125: day-3 opening page (أعوذ + basmala + Quran), same layout and text as p112; p124 ends with a full stop and complete footnotes, so p125 has no '+' and no (تابع). The bullet is the printed flower-asterisk, written '*' as on p112. p126 ends mid-sentence «بِتَوْفِيقِكَ يَا» so p127 is '+'. p127 ends inside Quran 5:67 «وَٱللَّهُ يَعْصِمُكَ» / p128 continues «مِنَ ٱلنَّاسِ»: the ornate brackets are closed at the end of p127 and reopened on p128 (validator needs balanced ﴿﴾ per line; same practice as earlier batches), p128 marked '+'. Red divine Names: عَلِيُّ (p126), كَبِيْرُ (p127, all red incl. round sukun on ي and damma), حَفِيظُ (p127), مُقِيتُ (p128). The line under «وَعَلَى آلِهِ، الَّذِي حَفِظْتَهُ» at the bottom of p127 is the footnote separator rule touching the last text line, not an underline. In this font the mark over the lam-mim / lam-ha ligature of الْمَكَانِ، الْمَكَانَةِ، الْمَقَامَ، الْمَحْمُودَ، الْحَقِّ، الْحَيْرَةِ، الْمَعْرِفَةِ، الْمَعْصِيَةِ، الْخَلْقِ، الْحَرَقِ is a sukun fused with a fatha (sukun on lam + fatha on the next letter); the filled blob with a damma (والْمُتَخَلِّقِ، الْمُنْتَهَى، الْمُدْلَهِمَّاتُ، بِالْمُخَالَفَةِ، الْمُقِيتِ) is sukun + damma. In الأَكْوانِ (p127) the fatha sits above the hamza of the lam-alif, lam has no sukun and و has no fatha. Commas printed without a following space are normalized to '، '. Quran encoded per Tanzil (13:11 with small high mim مِّنۢ; 12:64 with ۖ printed after حَٰفِظًا)."
+}

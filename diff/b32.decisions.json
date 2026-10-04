@@ -1,0 +1,25 @@
+{"mode": "spots",
+ "decisions": {
+  "d001": {"choice": "A", "note": "centered opening line in display font, not contrasting bold (consistent with earlier day-opening pages); kasra printed under ه of الله so full marks اللَّهِ per CONVENTIONS"},
+  "d002": {"choice": "A", "note": "no bold markup for the whole display line (see d001)"},
+  "d003": {"choice": "A", "note": "damma printed on ه of الله -> اللَّهُ per CONVENTIONS"},
+  "d004": {"choice": "A", "note": "no sukun on ن in فَأَنتَ"},
+  "d005": {"choice": "B", "note": "zoom: no kasra under ب in لِلْأَنبيَاءِ, fatha on ي"},
+  "d006": {"choice": "A", "note": "zoom: no sukun on ي in لِغَيرِكَ"},
+  "d007": {"choice": "A", "note": "zoom: fatha clearly on ي of تَعْصِيَكَ"},
+  "d008": {"choice": "custom", "text": "حَليمُ يَا عَليمُ يَا اللَّهُ.", "note": "zoom: no kasra under ل in حَليمُ / عَليمُ; damma on الله -> اللَّهُ"},
+  "d009": {"choice": "A", "note": "damma printed on الله -> اللَّهُ"},
+  "d010": {"choice": "B", "note": "zoom: kasra under ب of بالْكَبِيرِ visible, reading certain; أَمامَهُ without fatha on first م"},
+  "d011": {"choice": "A", "note": "zoom: print clearly has فَكَبَرُ (fatha on ب, damma on ر — print oddity kept) and عُيونِ without damma on ي"},
+  "d012": {"choice": "B", "note": "zoom: يا in item ٣٩ printed without fatha"},
+  "d013": {"choice": "A", "note": "zoom: kasra under ب of بِكِلَاءَتِكَ visible"},
+  "d014": {"choice": "A", "note": "zoom: الله after عَبْدَ unvowelled (kasra below belongs to مِنَ)"},
+  "d015": {"choice": "A", "note": "zoom: fatha on first ب of الأَبَابِيلِ visible"},
+  "d016": {"choice": "A", "note": "damma printed on الله -> اللَّهُ"},
+  "d017": {"choice": "B", "note": "line-final يا printed without fatha"},
+  "d018": {"choice": "custom", "text": "يا اللَّهُ.", "note": "zoom: يا without fatha; damma on الله -> اللَّهُ"},
+  "q001": {"choice": "A", "note": "quote ends at بِهَا﴾; no waqf mark printed (truncated quotation) — genuine print variant"},
+  "q002": {"choice": "A", "note": "quote ends at ٱللَّهِ﴾; no waqf mark printed (truncated quotation) — genuine print variant"}
+ },
+ "extra_edits": []
+}

@@ -38,7 +38,8 @@ crops overlap, make sure no line is skipped or written twice.
   alif anywhere else (e.g. `هٰذا`, `الرحمٰن`) is written as printed. (apply.py also enforces this on the
   pages without typed ones.)
 - The word **الله**: many fonts draw a small alif/shadda on it automatically. If nothing else is printed on it, write
-  `الله`. If a case vowel or explicit marks are printed (e.g. اللَّهُ, ٱللَّهِ), write them all.
+  `الله`. If a case vowel or explicit marks are printed (e.g. اللَّهُ, ٱللَّهِ), write them all (apply.py enforces
+  this: a bare اللهُ/اللهِ/اللهَ becomes اللَّهُ…).
 - **Drop** tatweel/kashida (ـ, the stretching used to justify lines and in decorative titles), running heads (the
   title in the rounded box at the top of each page), printed page numbers (in the ornament at the bottom), and pure
   ornaments.

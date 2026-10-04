@@ -1,0 +1,248 @@
+{
+ "batch": "b28",
+ "agreement": 0.9636,
+ "counts": {
+  "haraka": 8,
+  "punct": 1
+ },
+ "n_items": 9,
+ "n_quran_flags": 1,
+ "n_uncertain_flags": 1,
+ "mode": "spots",
+ "choices": {
+  "A": 9,
+  "B": 0,
+  "T": 0,
+  "custom": 2
+ },
+ "decisions": [
+  {
+   "id": "d001",
+   "page": 109,
+   "type": "haraka",
+   "a": "الْموْجُودَ",
+   "b": "[؟:الْمْوجُودَ]",
+   "tanzil": null,
+   "choice": "custom",
+   "note": "2400 dpi: two stacked sukun marks over the لمو cluster, no fatha on م; the upper is the lam's, the lower one sits between meem and waw so its owner cannot be fixed. Kept A's letters/marks inside an uncertainty marker (expected الْمَوْجُودَ; print error).",
+   "result": "[؟:الْموْجُودَ]"
+  },
+  {
+   "id": "d002",
+   "page": 109,
+   "type": "haraka",
+   "a": "بِأَنْوَارِ الْإِيمَانِ وَالْإِيقَانِ،",
+   "b": "بِأَنوَارِ الْإِيمانِ وَالْإِيقانِ،",
+   "tanzil": null,
+   "choice": "custom",
+   "note": "1600 dpi: no fatha over م of الإيمان nor over ق of الإيقان (B right); over the alif of بأنوار there are hamza, fatha and a hooked sukun stacked, the sukun belonging to ن (A right).",
+   "result": "بِأَنْوَارِ الْإِيمانِ وَالْإِيقانِ،"
+  },
+  {
+   "id": "d003",
+   "page": 111,
+   "type": "haraka",
+   "a": "اللَّهُ",
+   "b": "اللهُ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Damma printed on the Allah ligature; case vowel printed so the Name is written with all marks (CONVENTIONS §2, precedent b17-b19, b27).",
+   "result": "اللَّهُ"
+  },
+  {
+   "id": "d004",
+   "page": 111,
+   "type": "haraka",
+   "a": "اللَّهُ، يَا اللَّهُ، يَا اللَّهُ(٢).",
+   "b": "اللهُ، يَا اللهُ، يَا اللهُ(٢).",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Damma printed over each of the three Allah ligatures; written اللَّهُ per §2 and precedent.",
+   "result": "اللَّهُ، يَا اللَّهُ، يَا اللَّهُ(٢)."
+  },
+  {
+   "id": "d005",
+   "page": 111,
+   "type": "haraka",
+   "a": "التَّنْعِيم",
+   "b": "التَّنعِيم",
+   "tanzil": null,
+   "choice": "A",
+   "note": "2400 dpi: over تّ there are shadda, fatha and a hooked sukun stacked; the sukun belongs to ن -> التَّنْعِيم.",
+   "result": "التَّنْعِيم"
+  },
+  {
+   "id": "d006",
+   "page": 111,
+   "type": "haraka",
+   "a": "التَّنْعِيم",
+   "b": "التَّنعِيم",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Same glyph cluster as footnote (١): shadda+fatha plus displaced sukun for ن.",
+   "result": "التَّنْعِيم"
+  },
+  {
+   "id": "d007",
+   "page": 112,
+   "type": "haraka",
+   "a": "أعوذُ بِاللَّهِ",
+   "b": "**أعوذُ بِاللهِ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Isti'adha line is in a larger heavier display font as a whole line, not contrasting bold within text; b26 (p.102) precedent wrote it without **. Kasra under ب and under the Allah ligature printed -> بِاللَّهِ per §2.",
+   "result": "أعوذُ بِاللَّهِ"
+  },
+  {
+   "id": "d008",
+   "page": 112,
+   "type": "punct",
+   "a": "الرَّجِيمِ",
+   "b": "الرَّجِيمِ**",
+   "tanzil": null,
+   "choice": "A",
+   "note": "No bold markup for the isti'adha line (see d007).",
+   "result": "الرَّجِيمِ"
+  },
+  {
+   "id": "d009",
+   "page": 112,
+   "type": "haraka",
+   "a": "اللَّهُ",
+   "b": "اللهُ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "Damma printed on the Allah ligature in «هو اللهُ الَّذِي»; written اللَّهُ per §2 and precedent.",
+   "result": "اللَّهُ"
+  },
+  {
+   "id": "q001",
+   "page": 112,
+   "type": "quran_marks",
+   "a": "بِهَا",
+   "b": null,
+   "tanzil": "بِهَا ۖ",
+   "choice": "A",
+   "note": "1200 dpi: the quote ends at بِهَا followed directly by the closing bracket; no waqf sign ۖ is printed. Print variant (fragment cut), kept A.",
+   "result": "بِهَا"
+  },
+  {
+   "id": "u001",
+   "page": 109,
+   "type": "uncertain",
+   "a": "[؟:الصَّالِحينَ]",
+   "b": null,
+   "tanzil": null,
+   "choice": "A",
+   "note": "2400 dpi: a single kasra under the لحـ ligature, between the lam foot and the hah bowl; ownership remains ambiguous, keep marker.",
+   "result": "[؟:الصَّالِحينَ]"
+  }
+ ],
+ "extra_edits": [],
+ "rules": {
+  "plain_final_ya": {},
+  "name_full_marks": {}
+ },
+ "unresolved_uncertain": [
+  {
+   "page": 109,
+   "reading": "الْموْجُودَ",
+   "context": "وَقَهَرْتَ بِهِ [؟:الْموْجُودَ] فَكَانَ طِبْقًا لِمُرَادِكَ، وَقَهَرْتَ"
+  },
+  {
+   "page": 109,
+   "reading": "الصَّالِحينَ",
+   "context": "َابِرَةَ وَالْكُفَّارَ، وَتَنْصُرُ بِيَ [؟:الصَّالِحينَ] عَلَى الْفُجَّارِ، إِنَّكَ عَلَى كُلِّ "
+  }
+ ],
+ "quran_residual": [
+  {
+   "page": 112,
+   "kind": "quran_marks",
+   "keyed": "بِهَا",
+   "tanzil": "بِهَا ۖ",
+   "ref": "7:180"
+  }
+ ],
+ "keyer_notes": {
+  "keyA": {
+   "uncertain": [
+    {
+     "page": 109,
+     "reading": "الصَّالِحينَ",
+     "why": "Only one kasra is printed under the stacked lam-hah ligature of «الصالحين» (line 8). At 2400 dpi it sits under both the lam stem and the hah bowl, so it cannot be told whether it belongs to ل (الصَّالِحينَ) or to ح (الصَّالحِينَ). Letters are certain."
+    }
+   ],
+   "print_errors": [
+    {
+     "page": 109,
+     "text": "الْموْجُودَ",
+     "note": "Printed with sukun on ل and on و and no fatha on م (2400 dpi zoom confirms two sukun glyphs, no fatha). Expected الْمَوْجُودَ."
+    },
+    {
+     "page": 109,
+     "text": "مِنْ الِاعْتِرَاضِ",
+     "note": "Sukun printed on the nun of «مِنْ» before hamzat al-wasl (expected مِنَ). The kasra under the lam-alif ligature is encoded on the lam, as in my earlier batches («بِالِافْتِقَارِ»)."
+    },
+    {
+     "page": 110,
+     "text": "سَيِّدَنا",
+     "note": "In الصلاة البرزخية (4) the dal carries a fatha (expected سَيِّدِنا). The same misprint occurs in day 1 (p.100)."
+    },
+    {
+     "page": 110,
+     "text": "مُحَمَّدُِ / مَحْمُودُِ",
+     "note": "The final dal of both words carries a damma above and a kasra below, kept as printed (the same as p.100)."
+    },
+    {
+     "page": 112,
+     "text": "هُوْ",
+     "note": "In «لَا إِلَهَ إِلَّا هُوْ» a sukun is printed on the waw, kept as printed."
+    }
+   ],
+   "notes": "p109 continues item 16 of p108 (marker 109+). The p108 footnote ends on p108, so p109 has no footnotes and no (تابع). The Quran quote of al-Shura 52 runs across p110 to p111: I closed it with ﴾ at the end of p110 and reopened it with ﴿ on p111 (marker 111+), as in b27, because validate.py needs balanced brackets on each line. For the word Allah with a printed case vowel (يَا اللهُ on p111, بِاللهِ / هو اللهُ on p112), I followed CONVENTIONS §2 and wrote it fully vowelled, اللَّهُ / اللَّهِ. My b26 (pp.101-102) wrote اللهُ / اللهِ for the identical print, so the reconciler should pick one form for both. Final ى with the small alif that the Lotus font draws automatically is written as plain ى (عَلَى، حَتَّى، الْهَوَى، مُصْطَفَى، مَجْلَى، الشورى); in Quran text I kept the dagger alif only where the mushaf font shows it (إِلَىٰ، ٱلْحُسْنَىٰ). On p112 the decorative asterisk bullet is written «* » and the isti'adha line, set in a heavier font as a whole, is not marked bold, both as in b26. Silent-alif marks in Ahzab 56 are small round zeros (۟). The Quran cross-check (scripts/quran.py) gives one flag: Tanzil has the waqf sign ۖ after «بِهَا» in A'raf 180, but the print ends the fragment at «بِهَا» with no waqf sign (checked at 2000 dpi), so it is left out. The last line of p111 «يَا اللهُ، يَا اللهُ، يَا اللهُ(٢)» measured the same stroke weight as the surrounding lines, so it is not bold. validate.py: OK, no warnings."
+  },
+  "keyB": {
+   "uncertain": [
+    {
+     "page": 109,
+     "reading": "الْمْوجُودَ",
+     "why": "Line 1 «وَقَهَرْتَ بِهِ الموجود»: two sukun marks printed over «المو» — the upper one on the lam, the lower one sits at the mark position of the meem in the لمـ ligature (not centred over the waw). No fatha on meem and nothing else over the waw. Intended word is clearly الْمَوْجُودَ; written as the marks appear (sukun on meem) inside [؟:…]. If the lower sukun is judged to belong to the waw, read الْموْجُودَ."
+    },
+    {
+     "page": 109,
+     "reading": "الصَّالِحينَ",
+     "why": "Line 8 «وَتَنْصُرُ بِيَ الصالحين»: only one kasra is printed under the لحـ ligature, positioned under the lam's foot (same spot as the lam's kasra in «الصَّالِحَاتِ» p.107). Taken as the lam's kasra with the hah's kasra missing; it could instead be the hah's kasra (الصَّالحِينَ)."
+    }
+   ],
+   "print_errors": [
+    {
+     "page": 109,
+     "text": "[؟:الْمْوجُودَ]",
+     "note": "Expected الْمَوْجُودَ: fatha on meem missing, a sukun printed on meem (or misplaced from the waw)."
+    },
+    {
+     "page": 109,
+     "text": "[؟:الصَّالِحينَ]",
+     "note": "Expected الصَّالِحِينَ; one of the two kasras under the لحـ ligature is missing."
+    },
+    {
+     "page": 109,
+     "text": "مِنْ الِاعْتِرَاضِ",
+     "note": "Printed sukun on the nun of مِنْ before hamzat al-wasl (expected مِنَ الِاعْتِرَاضِ). Kept as printed."
+    },
+    {
+     "page": 110,
+     "text": "سَيِّدَنا مُحَمَّدٍ",
+     "note": "Fatha printed on the dal of سيدنا (expected سَيِّدِنَا, genitive after عَلَى). Same as in the parallel prayer on p.100. Kept as printed."
+    },
+    {
+     "page": 110,
+     "text": "مُحَمَّدُِ النِّهَايَةِ / مَحْمُودُِ السِّيرَةِ",
+     "note": "Both a damma (above) and a kasra (below) are printed on the final dal of مُحَمَّد and مَحْمُود; encoded as dal + damma + kasra. Same as on p.100."
+    }
+   ],
+   "notes": "p109 continues prayer ١٦ (يا قهار) from p108 mid-sentence, so marker <<<ص:109+>>>; no footnotes on p109 or p112. p111 starts in the middle of the Quran quote 42:52 begun on p110: the quote is closed with ﴾ at the end of p110 and reopened with ﴿ at the start of p111 (one-line balance rule), marker <<<ص:111+>>>. Headings: «صلوات اليوم الثاني» ## (heading map), «الصلاة البرزخية», «صلاة التجلي», «صلاة الأولية والآخرية» ### (no harakat printed). Prayer numbers (٤) (٥) (٦) are list numbers at paragraph start. p112: «أعوذُ بِاللهِ…» is a larger bold centred line, written as a bold paragraph (as I did for p.102); calligraphic basmala written per §3; the flower bullet before each اللهم paragraph written as «* ». The final «يَا اللهُ، يَا اللهُ، يَا اللهُ» on p111 is in the same font as the prayer (the heavy look is the الله ligature), so not marked bold. الله with a printed case vowel written اللهُ / بِاللهِ without the font's automatic shadda/dagger. Final ى with the body font's automatic small alif written plain ى (عَلَى، حَتَّى، مُصْطَفَى، مَجْلَى، الْهَوَى، الشورى) per CONVENTIONS §2 — note that my earlier batch b27 wrote عَلَىٰ with ٰ, which contradicts §2. Quran: 7:180 printed ٱلْحُسْنَىٰ with a visible dagger alif over the ى (my b26 transcription of the same verse on p.102 omitted it — worth re-checking there); the quote ends at بِهَا with no waqf sign (Tanzil has ۖ there; quran.py flags only that). 33:56 has the small jim waqf (ۚ) after ٱلنَّبِىِّ and small round zeros on the silent alifs (ءَامَنُوا۟ صَلُّوا۟ وَسَلِّمُوا۟); مَلَٰٓئِكَتَهُۥ written with ئِ as in Tanzil (the print shows the hamza+kasra under the tooth). Several words are printed with fewer marks than usual and kept so: الْإِيمانِ / وَالْإِيقانِ (line 2 p109, no fatha on meem/qaf; the later وَالْإِيمَانِ has it), بِأَنوَارِ (no sukun on nun), للطاعةِ, للشَّرْعِ, سيوفِكَ, الجَبَابِرَةَ (no sukun on lam), الأَعْظَمِ (p110, no sukun on lam), المُتَخَلِّقِ / المُتَعَلِّقِ / والمُتَحَقِّقِ / الحُسْنَى (no sukun on lam), والْمُتَخَلِّقِ and وعلى on p112 (no fatha on waw), آلِه / بِه / بِها / كُلِّها / ما عَلِمْنا مِنْها (p112). Hijri dates keep the printed heh+tatweel: ١٤٣٢هـ."
+  }
+ }
+}

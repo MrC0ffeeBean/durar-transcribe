@@ -1,0 +1,159 @@
+{
+ "batch": "b26",
+ "agreement": 0.9909,
+ "counts": {
+  "haraka": 3,
+  "punct": 2
+ },
+ "n_items": 5,
+ "n_quran_flags": 1,
+ "n_uncertain_flags": 0,
+ "mode": "spots",
+ "choices": {
+  "A": 5,
+  "B": 1,
+  "T": 0,
+  "custom": 0
+ },
+ "decisions": [
+  {
+   "id": "d001",
+   "page": 101,
+   "type": "haraka",
+   "a": "التَّنْعِيم",
+   "b": "التَّنعِيم",
+   "tanzil": null,
+   "choice": "A",
+   "note": "zoom 1200dpi: sukun head is stacked above the shadda+fatha over تن (font stacks it) and kasra under ع; التَّنْعِيم",
+   "result": "التَّنْعِيم"
+  },
+  {
+   "id": "d002",
+   "page": 101,
+   "type": "haraka",
+   "a": "التَّنْعِيم",
+   "b": "التَّنعِيم",
+   "tanzil": null,
+   "choice": "A",
+   "note": "footnote 2 is identical in print to footnote 1; same stacked sukun on ن",
+   "result": "التَّنْعِيم"
+  },
+  {
+   "id": "d003",
+   "page": 102,
+   "type": "punct",
+   "a": "أعوذُ",
+   "b": "**أعوذُ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "centred isti'adha line is a standalone block in its own display font, not bold contrasting with surrounding text (CONVENTIONS §6)",
+   "result": "أعوذُ"
+  },
+  {
+   "id": "d004",
+   "page": 102,
+   "type": "punct",
+   "a": "الرَّجِيمِ",
+   "b": "الرَّجِيمِ**",
+   "tanzil": null,
+   "choice": "A",
+   "note": "same as d003: no ** for a whole block set in one heavier font",
+   "result": "الرَّجِيمِ"
+  },
+  {
+   "id": "d005",
+   "page": 104,
+   "type": "haraka",
+   "a": "هِدايَتِكَ",
+   "b": "هِدَايَتِكَ",
+   "tanzil": null,
+   "choice": "B",
+   "note": "zoom 1500dpi: clear fatha over د in هِدَايَتِكَ (p104)",
+   "result": "هِدَايَتِكَ"
+  },
+  {
+   "id": "q001",
+   "page": 102,
+   "type": "quran_marks",
+   "a": "بِهَا",
+   "b": null,
+   "tanzil": "بِهَا ۖ",
+   "choice": "A",
+   "note": "genuine print variant: the quotation stops at بِهَا and no waqf ۖ is printed before the closing bracket; dagger alif on ٱلْحُسْنَىٰ is visible in the Quran font",
+   "result": "بِهَا"
+  }
+ ],
+ "extra_edits": [],
+ "rules": {
+  "plain_final_ya": {},
+  "name_full_marks": {
+   "101": 4,
+   "102": 2,
+   "103": 1
+  }
+ },
+ "unresolved_uncertain": [],
+ "quran_residual": [
+  {
+   "page": 102,
+   "kind": "quran_marks",
+   "keyed": "بِهَا",
+   "tanzil": "بِهَا ۖ",
+   "ref": "7:180"
+  }
+ ],
+ "keyer_notes": {
+  "keyA": {
+   "uncertain": [],
+   "print_errors": [
+    {
+     "page": 103,
+     "text": "فَلَا تَكِلَنِي",
+     "note": "Lam printed with a clear fatha (checked at 3000 dpi); grammatically expected تَكِلْنِي. Kept as printed."
+    },
+    {
+     "page": 104,
+     "text": "عَلَى سَيِّدِنا مُحَمَّد،",
+     "note": "In item ٥ the final dal of محمد carries no tanween (other items print مُحَمَّدٍ). Kept as printed."
+    },
+    {
+     "page": 103,
+     "text": "و يا ==رَحِيمُ==",
+     "note": "The conjunction و is printed detached from يا with a visible space. Kept as printed."
+    },
+    {
+     "page": 102,
+     "text": "إِلَّا هُوْ،",
+     "note": "Waw printed with an explicit sukun (pausal form). Not necessarily an error, kept as printed."
+    }
+   ],
+   "notes": "p101 continues prayer (٢) from p100 (marker 101+); its two footnotes are new and identical. p104 continues item ٤ from p103 (marker 104+). Red divine names on p103-104 marked ==...==; p101-102 have no red. p102: the centred isti'adha line is in a heavier display font but is a complete block, so it is a plain paragraph without ** (not a heading); the calligraphic basmala is written per §3. The ❊ bullet glyphs on p102 are written '*'. The word الله printed as the ligature plus a printed case vowel is written اللهُ / بِاللهِ (as in earlier keyA batches); without a vowel it is الله. Stacked marks over the lam-mim ligature: a filled sukun head joined with a damma tail was read as sukun on lam plus damma on mim (الْمُسْتَقِيمِ p101, والْمُتَخَلِّقِ p102, الْمُسْلِمُونَ p104); a sukun head joined with a straight stroke was read as sukun plus fatha (الْمَلِكِ، وَالْمَقامَ، الْمَوْرُودَ p103, الْمَعْصِيَةِ p104); a plain damma alone means no sukun (المُتَخَلِّقِ p101, المُتَعَلِّقِ، والمُتَحَقِّقِ p102). The heavier look of 'يَا اللهُ، يَا اللهُ، يَا اللهُ' on p101 comes only from the Allah ligature, so it is not marked bold. Quran passages match Tanzil word for word (madda written as ا+U+0653, dotless ى in ٱلنَّبِىِّ and وَحْىٌ, as printed)."
+  },
+  "keyB": {
+   "uncertain": [],
+   "print_errors": [
+    {
+     "page": 102,
+     "text": "﴿وَلِلَّهِ ٱلْأَسْمَآءُ ٱلْحُسْنَى فَٱدْعُوهُ بِهَا﴾",
+     "note": "Quran (7:180): the final ى of ٱلْحُسْنَى has no dagger alif in the print (only the fatha on the noon; checked at 2800 dpi), Tanzil has ٱلْحُسْنَىٰ; kept as printed. No waqf ۖ is printed after بِهَا (the quotation stops there); not added."
+    },
+    {
+     "page": 103,
+     "text": "فَلَا تَكِلَنِي لِنَفْسِي",
+     "note": "item ٢/٣: the lam of تكلني carries a fatha (expected sukun, تَكِلْنِي); checked at 2200 dpi; kept as printed."
+    },
+    {
+     "page": 103,
+     "text": "و يا ==رَحِيمُ==",
+     "note": "item ٢/٣: waw printed detached from يا with a visible space; kept as printed."
+    },
+    {
+     "page": 104,
+     "text": "عَلَى سَيِّدِنا مُحَمَّد، عَبْدِ القدوسِ",
+     "note": "item ٥: مُحَمَّد printed without tanween (items ٤ and ٦ have مُحَمَّدٍ); checked at 2000 dpi; kept as printed."
+    }
+   ],
+   "notes": "p101 continues prayer (٢) of p100 (101+); p104 continues item ٤ of p103 (104+). p101 footnotes (١) and (٢) are printed with identical text; both kept. On p101 the list number (٣) is in parentheses at paragraph start (list number, not a footnote). p102: the centred line «أعوذُ بِاللهِ مِنَ الشَّيْطَانِ الرَّجِيمِ» is set in a bold font contrasting with the body, written as a bold paragraph (not a heading); the small calligraphic basmala written as the standard Uthmani basmala; the two Quran quotations and the bracket reference run in one justified paragraph; the flower-asterisk bullets (same glyph as p.049) written as '* '. Red divine Names on p103-104 (اللهُ، رَحْمَنُ، رَحِيمُ، مَلِكُ، قُدُّوسُ، سَلامُ) marked ==…== with the black commas outside. «الله» with a printed case vowel is written اللهُ (the ligature's shadda/small alif is the automatic font glyph; only the damma is an explicit mark), consistent with earlier keyB batches. Stacked marks over the article (e.g. الْمُسْتَقِيمِ, الْمَلِكِ, الْمَعْصِيَةِ, الْمَوْرُودَ, والْمُتَخَلِّقِ on p102) were resolved at 2000-3000 dpi as lam-sukun + vowel of the meem; المُتَخَلِّقِ (p101), المُتَعَلِّقِ، والمُتَحَقِّقِ (p102), المَحْمُودَ (p103) have no sukun on the lam and are written so. Final ى without the Lotus auto small alif per CONVENTIONS §2. Item numbering ٢/٣- written without the printed spaces. Quran spans checked with quran.py: only the ٱلْحُسْنَى / ۖ difference noted above."
+  }
+ }
+}

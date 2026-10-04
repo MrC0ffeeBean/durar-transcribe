@@ -1,0 +1,34 @@
+{
+ "batch": "b25",
+ "pages": [
+  97,
+  98,
+  99,
+  100
+ ],
+ "agreement": 0.9962,
+ "full_reread_required": false,
+ "counts": {
+  "punct": 1
+ },
+ "n_items": 1,
+ "n_quran_flags": 0,
+ "n_uncertain": 0,
+ "items": [
+  {
+   "page": 99,
+   "type": "punct",
+   "a_range": [
+    114,
+    115
+   ],
+   "a_text": "(١٢/٤٨٩)",
+   "b_text": "(١٢/ ٤٨٩)",
+   "ctx_before": ":::حواشي ¶ (١) أخرجه الترمذي",
+   "ctx_after": "برقم (٣٨٩٤). ¶ :::",
+   "id": "d001"
+  }
+ ],
+ "quran_flags": [],
+ "uncertain": []
+}

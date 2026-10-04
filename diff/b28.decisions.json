@@ -1,0 +1,15 @@
+{"mode": "spots",
+ "decisions": {
+  "d001": {"choice": "custom", "text": "[؟:الْموْجُودَ]", "note": "2400 dpi: two stacked sukun marks over the لمو cluster, no fatha on م; the upper is the lam's, the lower one sits between meem and waw so its owner cannot be fixed. Kept A's letters/marks inside an uncertainty marker (expected الْمَوْجُودَ; print error)."},
+  "d002": {"choice": "custom", "text": "بِأَنْوَارِ الْإِيمانِ وَالْإِيقانِ،", "note": "1600 dpi: no fatha over م of الإيمان nor over ق of الإيقان (B right); over the alif of بأنوار there are hamza, fatha and a hooked sukun stacked, the sukun belonging to ن (A right)."},
+  "d003": {"choice": "A", "note": "Damma printed on the Allah ligature; case vowel printed so the Name is written with all marks (CONVENTIONS §2, precedent b17-b19, b27)."},
+  "d004": {"choice": "A", "note": "Damma printed over each of the three Allah ligatures; written اللَّهُ per §2 and precedent."},
+  "d005": {"choice": "A", "note": "2400 dpi: over تّ there are shadda, fatha and a hooked sukun stacked; the sukun belongs to ن -> التَّنْعِيم."},
+  "d006": {"choice": "A", "note": "Same glyph cluster as footnote (١): shadda+fatha plus displaced sukun for ن."},
+  "d007": {"choice": "A", "note": "Isti'adha line is in a larger heavier display font as a whole line, not contrasting bold within text; b26 (p.102) precedent wrote it without **. Kasra under ب and under the Allah ligature printed -> بِاللَّهِ per §2."},
+  "d008": {"choice": "A", "note": "No bold markup for the isti'adha line (see d007)."},
+  "d009": {"choice": "A", "note": "Damma printed on the Allah ligature in «هو اللهُ الَّذِي»; written اللَّهُ per §2 and precedent."},
+  "q001": {"choice": "A", "note": "1200 dpi: the quote ends at بِهَا followed directly by the closing bracket; no waqf sign ۖ is printed. Print variant (fragment cut), kept A."},
+  "u001": {"choice": "A", "note": "2400 dpi: a single kasra under the لحـ ligature, between the lam foot and the hah bowl; ownership remains ambiguous, keep marker."}
+ },
+ "extra_edits": []}

@@ -22,7 +22,8 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from common import (PARA, ROOT, batch_pages, build_doc, canonical, doc_pages, load_json, plain_final_ya, save_json,
+from common import (PARA, ROOT, batch_pages, build_doc, canonical, doc_pages, load_json, name_full_marks, plain_final_ya,
+                    save_json,
                     tokens_to_lines, typed_dagger_pages)
 from quran import check_page_tokens
 
@@ -124,21 +125,25 @@ def build_final(k):
         out_pages[p]["lines"] = [ln for ln in text.split("\n") if ln.strip()]
         extra_log.append(e)
     # rule pass (CONVENTIONS §2): font-drawn small alif over final ى, on pages without typed ones
-    rule_log = {}
+    rule_log, name_log = {}, {}
     for p in batch_pages(k):
-        if p in typed_dagger_pages():
-            continue
-        new_lines, n = [], 0
+        new_lines, n, m = [], 0, 0
         for ln in out_pages[p]["lines"]:
-            ln, c = plain_final_ya(ln)
+            if p not in typed_dagger_pages():
+                ln, c = plain_final_ya(ln)
+                n += c
+            # rule pass (CONVENTIONS §2): the Name with a printed case vowel gets all its marks
+            ln, c = name_full_marks(ln)
+            m += c
             new_lines.append(ln)
-            n += c
         out_pages[p]["lines"] = new_lines
         if n:
             rule_log[str(p)] = n
+        if m:
+            name_log[str(p)] = m
     final = canonical(build_doc(out_pages))
     return final, {"decisions": log, "extra_edits": extra_log, "mode": dec.get("mode", "spots"),
-                   "rules": {"plain_final_ya": rule_log}}, D
+                   "rules": {"plain_final_ya": rule_log, "name_full_marks": name_log}}, D
 
 
 def report(k, final_text, info, D):

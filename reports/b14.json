@@ -59,7 +59,10 @@
   }
  ],
  "rules": {
-  "plain_final_ya": {}
+  "plain_final_ya": {},
+  "name_full_marks": {
+   "53": 2
+  }
  },
  "unresolved_uncertain": [],
  "quran_residual": [],

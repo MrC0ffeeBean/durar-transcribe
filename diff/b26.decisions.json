@@ -1,0 +1,10 @@
+{"mode": "spots",
+ "decisions": {
+  "d001": {"choice": "A", "note": "zoom 1200dpi: sukun head is stacked above the shadda+fatha over تن (font stacks it) and kasra under ع; التَّنْعِيم"},
+  "d002": {"choice": "A", "note": "footnote 2 is identical in print to footnote 1; same stacked sukun on ن"},
+  "d003": {"choice": "A", "note": "centred isti'adha line is a standalone block in its own display font, not bold contrasting with surrounding text (CONVENTIONS §6)"},
+  "d004": {"choice": "A", "note": "same as d003: no ** for a whole block set in one heavier font"},
+  "d005": {"choice": "B", "note": "zoom 1500dpi: clear fatha over د in هِدَايَتِكَ (p104)"},
+  "q001": {"choice": "A", "note": "genuine print variant: the quotation stops at بِهَا and no waqf ۖ is printed before the closing bracket; dagger alif on ٱلْحُسْنَىٰ is visible in the Quran font"}
+ },
+ "extra_edits": []}

@@ -569,7 +569,10 @@
  ],
  "extra_edits": [],
  "rules": {
-  "plain_final_ya": {}
+  "plain_final_ya": {},
+  "name_full_marks": {
+   "63": 1
+  }
  },
  "unresolved_uncertain": [
   {
@@ -624,7 +627,7 @@
   {
    "page": 63,
    "kind": "quran_marks",
-   "keyed": "اللهِ",
+   "keyed": "اللَّهِ",
    "tanzil": "ٱللَّهِ ۚ",
    "ref": "2:115"
   },

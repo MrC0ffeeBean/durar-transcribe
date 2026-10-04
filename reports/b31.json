@@ -1,0 +1,173 @@
+{
+ "batch": "b31",
+ "agreement": 0.9706,
+ "counts": {
+  "haraka": 4,
+  "punct": 4
+ },
+ "n_items": 8,
+ "n_quran_flags": 1,
+ "n_uncertain_flags": 0,
+ "mode": "spots",
+ "choices": {
+  "A": 6,
+  "B": 3,
+  "T": 0,
+  "custom": 0
+ },
+ "decisions": [
+  {
+   "id": "d001",
+   "page": 121,
+   "type": "haraka",
+   "a": "اللَّهُ",
+   "b": "اللهُ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p121 last line «صَلَّى اللهُ عَلَيْهِ»: damma clearly printed over the Allah ligature. A case vowel is printed, so the Name is written with all its marks per CONVENTIONS §2 and the b17-b29 precedent: اللَّهُ.",
+   "result": "اللَّهُ"
+  },
+  {
+   "id": "d002",
+   "page": 121,
+   "type": "punct",
+   "a": "(٤/٣٩٨)",
+   "b": "(٤/ ٣٩٨)",
+   "tanzil": null,
+   "choice": "B",
+   "note": "p121 footnote at 900 dpi: the slash is set tight against ٤ with a clear word gap before ٣٩٨, unlike the tight (٤/٣٣٩) on p122. So the print has a space: (٤/ ٣٩٨).",
+   "result": "(٤/ ٣٩٨)"
+  },
+  {
+   "id": "d003",
+   "page": 121,
+   "type": "punct",
+   "a": "(١٨/١٣٥)",
+   "b": "(١٨/ ١٣٥)",
+   "tanzil": null,
+   "choice": "B",
+   "note": "p121 footnote 2nd line at 700 dpi: there is a clear gap after the slash in (١٨/ ١٣٥), so a space is printed.",
+   "result": "(١٨/ ١٣٥)"
+  },
+  {
+   "id": "d004",
+   "page": 122,
+   "type": "haraka",
+   "a": "اللَّهَ»(١)،",
+   "b": "اللهَ»(١)،",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p122 l1 «لَمْ يَشْكُرِ اللهَ»: fatha printed on the Allah ligature. A case vowel is printed, so it is written اللَّهَ per §2 and precedent.",
+   "result": "اللَّهَ»(١)،"
+  },
+  {
+   "id": "d005",
+   "page": 122,
+   "type": "punct",
+   "a": "(٤/٣٣٩)",
+   "b": "(٤/ ٣٣٩)",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p122 footnote at 450 dpi: (٤/٣٣٩) is set tight with no gap after the slash, unlike (١٧/ ٣٨٠) on the next line.",
+   "result": "(٤/٣٣٩)"
+  },
+  {
+   "id": "d006",
+   "page": 122,
+   "type": "punct",
+   "a": "(١٧/٣٨٠)",
+   "b": "(١٧/ ٣٨٠)",
+   "tanzil": null,
+   "choice": "B",
+   "note": "p122 footnote at 450 dpi: (١٧/ ٣٨٠) shows a clear space after the slash.",
+   "result": "(١٧/ ٣٨٠)"
+  },
+  {
+   "id": "d007",
+   "page": 124,
+   "type": "haraka",
+   "a": "اللَّهُ",
+   "b": "اللهُ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p124 l5 at 700 dpi: «يَا اللهُ يَا مُجِيبُ» has a damma printed over the Allah ligature, so it is written اللَّهُ per §2 and precedent.",
+   "result": "اللَّهُ"
+  },
+  {
+   "id": "d008",
+   "page": 124,
+   "type": "haraka",
+   "a": "اللَّهُ، يَا اللَّهُ، يَا اللَّهُ(٢).",
+   "b": "اللهُ، يَا اللهُ، يَا اللهُ(٢).",
+   "tanzil": null,
+   "choice": "A",
+   "note": "p124 last text line at 600 dpi: a damma is printed over each of the three Allah ligatures, so each is written اللَّهُ per §2 and precedent.",
+   "result": "اللَّهُ، يَا اللَّهُ، يَا اللَّهُ(٢)."
+  },
+  {
+   "id": "q001",
+   "page": 121,
+   "type": "quran_marks",
+   "a": "لَأَزِيدَنَّكُمْ",
+   "b": null,
+   "tanzil": "لَأَزِيدَنَّكُمْ ۖ",
+   "choice": "A",
+   "note": "p121 at 700 dpi: the quotation ends at «لَأَزِيدَنَّكُمْ» right before the closing bracket, and no waqf sign ۖ is printed. This is a genuine print variant: the quote is cut before the pause mark.",
+   "result": "لَأَزِيدَنَّكُمْ"
+  }
+ ],
+ "extra_edits": [],
+ "rules": {
+  "plain_final_ya": {},
+  "name_full_marks": {}
+ },
+ "unresolved_uncertain": [],
+ "quran_residual": [
+  {
+   "page": 121,
+   "kind": "quran_marks",
+   "keyed": "لَأَزِيدَنَّكُمْ",
+   "tanzil": "لَأَزِيدَنَّكُمْ ۖ",
+   "ref": "14:7"
+  }
+ ],
+ "keyer_notes": {
+  "keyA": {
+   "uncertain": [],
+   "print_errors": [
+    {
+     "page": 121,
+     "text": "أَثَبْتَهُمْ",
+     "note": "In «فَإِنْ شَكَرُوا وَأَطَاعُوا أَثَبْتَهُمْ» (line 2) the print has a fatha over ث and a sukun over ب (expected أَثْبَتَهُمْ). At 5000 dpi the أ's fatha, a second separate fatha above the ث dots and a sukun hook above the ب tooth are all distinct, so it is kept as printed."
+    },
+    {
+     "page": 123,
+     "text": "سَيِّدَنا",
+     "note": "In الصلاة البرزخية (٧) the dal has a fatha and no kasra (expected سَيِّدِنا). Days 1 and 2 (pp.100, 110) have the same misprint."
+    },
+    {
+     "page": 123,
+     "text": "مُحَمَّدُِ / مَحْمُودُِ",
+     "note": "The final dal of both words has a damma above and a kasra below, kept as printed (same as pp.100, 110)."
+    }
+   ],
+   "notes": "p121: p120 ends item ٣٥ with a full stop and has no footnotes, so p121 opens a new paragraph (item ٣٦, no '+', no (تابع)). The divine Name شَكُورُ is red (==…==). Only «الشَّاكِرُ» after «فَإِنَّكَ أَنْتَ» is bold, and the hadith «لَا أُحْصِي ثَنَاءً عَلَيْكَ، أَنْتَ كَمَا أَثْنَيْتَ عَلَى نَفْسِكَ» is bold (round-sukun bold font); the « » are left outside the bold markers. «إمامِ» has a hamza under the alif with no kasra, written as printed. p122 continues the sentence «صَلَّى اللَّهُ عَلَيْهِ / وَآلِهِ وَسَلَّمَ» (marker 122+); «قال» is unvowelled and «عَلَيْهِم» has no sukun on the final mim, both as printed. p123 starts day 3 (## heading, then ### الصلاة البرزخية / ### صلاة التجلي). The An-Naml 6 quote closes with ﴾ on p123 and its reference «[النمل: ٦]» opens p124, so p124 has the '+' marker. «الأَعْظَمِ» on p123 has no sukun on the lam and «المُتَخَلِّقِ» on p124 has only a damma over the lam-mim (checked at 2400 dpi), but «الْأَعْظَمِ» on p124 has the sukun; all as printed. In «الْمُسْتَقِيمِ» (p124) the lam sukun and mim damma overlap; read as both. The word Allah with a printed case vowel (اللهُ on p121 and p124, اللهَ on p122) is written fully vowelled اللَّهُ / اللَّهَ per CONVENTIONS §2, as in my b28. Final ى with the automatic small alif is written plain (عَلَى، حَتَّى، صَلَّى، مَجْلَى، مُصْطَفَى، إلى، الشورى); in Quran text إِلَىٰ keeps the dagger as in the mushaf font. I took the last line of p124 «يَا اللهُ، يَا اللهُ، يَا اللهُ(٢)» as not bold, as in b28. Footnote volume/page refs are written without a space after the slash: (٤/٣٩٨)، (١٨/١٣٥)، (٤/٣٣٩)، (١٧/٣٨٠). I measured the gaps at 1600 dpi. The gap on the left of the slash is always about 20-40 px wider than on the right, and the difference is the same in all four, including (٤/٣٣٩), which clearly has no space. That is less than a word space, so I read it as the slash glyph's own spacing. The one with ٠ can look spaced at low zoom only because the ٠ dot is narrow. scripts/quran.py gives one flag: Tanzil has the waqf sign ۖ after «لَأَزِيدَنَّكُمْ» (14:7), but the print closes the quote right after the word with no sign (checked at 1600 dpi), so it is left out. All other Quran spans (Saba 13, Anbiya 107, Naml 6, Shura 52) match Tanzil. validate.py: OK, no warnings."
+  },
+  "keyB": {
+   "uncertain": [],
+   "print_errors": [
+    {
+     "page": 121,
+     "text": "فَإِنَّكَ أَنْتَ **الشَّاكِرُ** الْعَلِيمُ",
+     "note": "Only الشَّاكِرُ is set in the heavier bold weight (clearly visible); the following Names are regular. Marked ** as printed (same pattern as bold black Names on pp.115-116)."
+    },
+    {
+     "page": 121,
+     "text": "يُجِلُّ",
+     "note": "In the stacked يج ligature the damma sits above and the kasra below the stack; written in the grammatical positions (ya damma, jim kasra)."
+    }
+   ],
+   "notes": "p120 ends with a complete paragraph (item 35 closes with حَلِيمُ.) and has no footnote, so p121 has a plain marker. p122 continues the sentence of p121 (صَلَّى اللهُ عَلَيْهِ / وَآلِهِ) -> '+'. p123 starts the third day (## صلوات اليوم الثالث, ### الصلاة البرزخية, ### صلاة التجلي); it ends after the closing ﴾ of Quran 27:6 and p124 begins with the reference [النمل: ٦]، so p124 uses '+'. p121 'أَثَبْتَهُمْ' checked at 3000 dpi: two overlapping fathas over hamza/tha and sukun on ba. p121 'إمامِ' printed without kasra under hamza. p123 'سَيِّدَنا' (fatha on dal) and 'مُحَمَّدُِ', 'مَحْمُودُِ' (damma and kasra both printed) kept as printed; 'الأَعْظَمِ' on p123 has no sukun on lam while p124 'الْأَعْظَمِ' has one. p124 'المُتَخَلِّقِ' has no sukun on lam. p122 'عَلَيْهِم' mim unmarked. Every يا checked at high zoom has a fatha. Quran passages match ref/quran-uthmani.txt (14:7 partial, 34:13 partial, 21:107, 27:6, 42:52 partial); no waqf signs printed. Footnote volume/page references have a space after the slash, e.g. (٤/ ٣٩٨). No keyA/diff/final/reports files were opened; earlier keyB batches (own work) were consulted only for format."
+  }
+ }
+}

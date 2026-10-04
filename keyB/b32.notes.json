@@ -1,0 +1,7 @@
+{"uncertain": [],
+ "print_errors": [
+  {"page": 126, "text": "يُغْوِيَنِي / يُرْدِيَنِي", "note": "Printed with a fatha over the medial ya (expected يُغْوِينِي / يُرْدِينِي); kept as printed."},
+  {"page": 127, "text": "الصِّعْابُ", "note": "Sukun printed over the ain (expected الصِّعَابُ); kept as printed."},
+  {"page": 127, "text": "==كَبِيْرُ==", "note": "Red divine Name printed with sukun on the ya; kept as printed."}
+ ],
+ "notes": "p125 starts a new day-opening page (no continuation). p127 and p128 continue the previous page's prayer (+ markers). Quran verse وَٱللَّهُ يَعْصِمُكَ / مِنَ ٱلنَّاسِ is split across pp.127-128: closed ﴾ at the end of p127 and reopened ﴿ at the start of p128, as in earlier batches. On p127 the short footnote rule overlaps the last text line and looks like an underline under «وَعَلَى آلِهِ، الَّذِي»; treated as the footnote rule, not as an underline. Quran on p127 (الطارق ٤، يوسف ٦٤) is printed without ayah-number ornaments, so no (n) was written. Commas printed without a following space were normalized to «، ». «يا» was written with or without fatha according to each occurrence (e.g. «يا ==حَفِيظُ==» and the last two «يا» of p128 have no fatha). «فَأَنْتَ» (p126): there is a mark stack over the alif that likely includes the noon's sukun."}

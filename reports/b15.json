@@ -240,7 +240,11 @@
  ],
  "extra_edits": [],
  "rules": {
-  "plain_final_ya": {}
+  "plain_final_ya": {},
+  "name_full_marks": {
+   "57": 2,
+   "60": 1
+  }
  },
  "unresolved_uncertain": [],
  "quran_residual": [

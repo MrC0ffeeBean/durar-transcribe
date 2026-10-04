@@ -47,7 +47,11 @@
   }
  ],
  "rules": {
-  "plain_final_ya": {}
+  "plain_final_ya": {},
+  "name_full_marks": {
+   "49": 1,
+   "52": 2
+  }
  },
  "unresolved_uncertain": [],
  "quran_residual": [],

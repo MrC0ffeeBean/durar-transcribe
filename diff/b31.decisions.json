@@ -1,0 +1,13 @@
+{"mode": "spots",
+ "decisions": {
+  "d001": {"choice": "A", "note": "p121 last line «صَلَّى اللهُ عَلَيْهِ»: damma clearly printed over the Allah ligature. A case vowel is printed, so the Name is written with all its marks per CONVENTIONS §2 and the b17-b29 precedent: اللَّهُ."},
+  "d002": {"choice": "B", "note": "p121 footnote at 900 dpi: the slash is set tight against ٤ with a clear word gap before ٣٩٨, unlike the tight (٤/٣٣٩) on p122. So the print has a space: (٤/ ٣٩٨)."},
+  "d003": {"choice": "B", "note": "p121 footnote 2nd line at 700 dpi: there is a clear gap after the slash in (١٨/ ١٣٥), so a space is printed."},
+  "d004": {"choice": "A", "note": "p122 l1 «لَمْ يَشْكُرِ اللهَ»: fatha printed on the Allah ligature. A case vowel is printed, so it is written اللَّهَ per §2 and precedent."},
+  "d005": {"choice": "A", "note": "p122 footnote at 450 dpi: (٤/٣٣٩) is set tight with no gap after the slash, unlike (١٧/ ٣٨٠) on the next line."},
+  "d006": {"choice": "B", "note": "p122 footnote at 450 dpi: (١٧/ ٣٨٠) shows a clear space after the slash."},
+  "d007": {"choice": "A", "note": "p124 l5 at 700 dpi: «يَا اللهُ يَا مُجِيبُ» has a damma printed over the Allah ligature, so it is written اللَّهُ per §2 and precedent."},
+  "d008": {"choice": "A", "note": "p124 last text line at 600 dpi: a damma is printed over each of the three Allah ligatures, so each is written اللَّهُ per §2 and precedent."},
+  "q001": {"choice": "A", "note": "p121 at 700 dpi: the quotation ends at «لَأَزِيدَنَّكُمْ» right before the closing bracket, and no waqf sign ۖ is printed. This is a genuine print variant: the quote is cut before the pause mark."}
+ },
+ "extra_edits": []}

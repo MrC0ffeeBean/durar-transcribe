@@ -1,0 +1,16 @@
+{
+  "uncertain": [],
+  "print_errors": [
+    {"page": 129, "text": "النَّابعِ", "note": "In «مِنَ الْمَاءِ النَّابعِ» only one kasra is printed (under the ع); no kasra under the ب (checked at 2000 dpi). Kept as printed."},
+    {"page": 129, "text": "الأَبدَانَ", "note": "Hamza+fatha on the alif but no sukun on the ب (checked at 1800 dpi). Kept as printed."},
+    {"page": 129, "text": "الأرْواحَ", "note": "Hamza on the alif with no fatha, sukun on ر, no fatha on و. Kept as printed."},
+    {"page": 129, "text": "الطَّعامِ / تَكونُ / واشْتِيَاقًا", "note": "No fatha on ع of الطعام (second occurrence, line 8), no damma on ك of تكون, no fatha on و of واشتياقا. Kept as printed."},
+    {"page": 129, "text": "وَسَلِّم وَبَارِك", "note": "Item ٤١: no sukun printed on م of وسلم or on ك of وبارك (unlike items ٤٢-٤٤). Kept as printed."},
+    {"page": 130, "text": "لأدَاءِ / وَليُعَلِّمَ / وتَوَكَّلَ / إِيمانًا وإِحْسَانًا", "note": "No fatha on the hamza of لأداء; no kasra under the ل of وليعلم; no fatha on the first و of وتوكل and of وإحسانا; no fatha on م of إيمانا. Kept as printed."},
+    {"page": 130, "text": "مِمَّن / الجَنَّةَ", "note": "No sukun on ن of ممن; no sukun on the ل of الجنة (line 13). Kept as printed."},
+    {"page": 131, "text": "بهَا", "note": "In «صَلَاةً أُجِلُّ بهَا قَدْرَ» there is no kasra under the ب; the single fatha sits over the ه (checked at 1600 dpi). Kept as printed."},
+    {"page": 131, "text": "تجلَّيْتَ / إِنسانٌ / احْتَمى / لِجَمالِهِ / تَطَاولِ / منْ قَبْلِ / شَيئًا / وَالْإِكْرَام", "note": "Partial vowelling as printed: no fatha on ت/ج of تجليت; no sukun on ن and no fatha on س of إنسان; no fatha on م of احتمى; no fatha on م of لجماله; no damma on و of تطاول; no kasra under م of منْ (line 12); no sukun on ي of شيئا; no kasra under final م of الإكرام. Kept as printed."},
+    {"page": 132, "text": "خَيرٌ / إنْ لمْ", "note": "No sukun on ي of خير; no kasra under the alif of إن and no fatha on ل of لم. Kept as printed."}
+  ],
+  "notes": "p129 continues p128 mid-sentence («فَكَانَ يَبِيتُ / عِنْدَ رَبِّهِ») -> '+'. p130 continues p129 mid-sentence («الْحَسِيبِ / النَّسِيبِ») -> '+'. p131 starts with item ٤٢ after p130 ended with a full stop -> no '+'. p132 continues p131 mid-sentence («لِلْأَكْوانِ الْيَدُ / الْعُلْيَا») -> '+'. Only p130 has a footnote (no continuation). Red divine Names: حَسِيبُ (p129), جَلِيلُ, كَرِيمُ (p131), رَقِيبُ (p132). The word الله printed with a damma (يَا اللهُ, صَلَّى اللهُ) is written اللَّهُ as in earlier batches; without a case vowel (أَرْقُبَ الله فِي خَلْقِهِ) it is written الله. Mark over lam+letter ligatures read as sukun+fatha (open hook) vs sukun+damma (filled blob) per earlier batches, e.g. الْمَعَاشِ (sukun+fatha) vs الْمُعَاشِ not printed. Quran encoded per Tanzil: 10:5 (لِتَعْلَمُوا۟ with small round zero; no waqf ۚ printed after وَٱلْحِسَابَ, verified, so none written), 8:64 (يَٰٓأَيُّهَا), 93:8. Commas printed without a following space (e.g. «جَمَالًا ،وَفِي», «وَرِفْعَةً،جَمِيلِ») normalized to '، '. Tatweel in «فَأَقُــومَ» (p132) dropped. Lines located with a row-darkness profile and read at 900-2000 dpi zooms."
+}
