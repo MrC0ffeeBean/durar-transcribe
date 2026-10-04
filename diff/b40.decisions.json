@@ -1,0 +1,12 @@
+{"mode":"spots","decisions":{
+"d001":{"choice":"B","note":"zoom: آلِه has kasra under ل only, no kasra under ه"},
+"d002":{"choice":"B","note":"zoom: آلِه printed without kasra on ه"},
+"d003":{"choice":"A","note":"waqf signs written as separate tokens (Tanzil/project style); signs ۖ visible after تشاء and الخير"},
+"d004":{"choice":"B","note":"آلِه printed without kasra on ه, same as other occurrences"},
+"d005":{"choice":"A","note":"high zoom: two kasras, under ت and under ه"},
+"d006":{"choice":"A","note":"sukun on lam, fatha in the lam-mim ligature, shadda+fatha on ق; reads الْمَشَقَّةَ"},
+"d007":{"choice":"A","note":"no sukun on ن in عِندَ"},
+"d008":{"choice":"A","note":"zoom: fatha on ع and و, عَوَالِمِي clear"},
+"d009":{"choice":"A","note":"sukun on lam, fatha in lam-mim ligature, shadda+fatha on ب, fatha on ة: وَالْمَحَبَّةَ"},
+"d010":{"choice":"B","note":"آلِه with kasra under ل only, as elsewhere in batch"}
+},"extra_edits":[]}

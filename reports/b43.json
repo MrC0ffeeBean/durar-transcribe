@@ -1,0 +1,141 @@
+{
+ "batch": "b43",
+ "agreement": 0.9824,
+ "counts": {
+  "haraka": 6
+ },
+ "n_items": 6,
+ "n_quran_flags": 0,
+ "n_uncertain_flags": 0,
+ "mode": "spots",
+ "choices": {
+  "A": 2,
+  "B": 4,
+  "T": 0,
+  "custom": 0
+ },
+ "decisions": [
+  {
+   "id": "d001",
+   "page": 169,
+   "type": "haraka",
+   "a": "وَالْأَمْرِ",
+   "b": "وَالأَمْرِ",
+   "tanzil": null,
+   "choice": "B",
+   "note": "zoom: no sukun on lam of وَالأَمْرِ, only fatha on hamza and sukun on mim",
+   "result": "وَالأَمْرِ"
+  },
+  {
+   "id": "d002",
+   "page": 169,
+   "type": "haraka",
+   "a": "وَأَنْتَ",
+   "b": "وَأَنتَ",
+   "tanzil": null,
+   "choice": "B",
+   "note": "zoom: no sukun over nun of وَأَنتَ",
+   "result": "وَأَنتَ"
+  },
+  {
+   "id": "d003",
+   "page": 169,
+   "type": "haraka",
+   "a": "أَثَرَ إِرْشَادِكَ",
+   "b": "أَثَر إِرْشَادِك",
+   "tanzil": null,
+   "choice": "A",
+   "note": "zoom: fatha on final ر of أَثَرَ and fatha on ك of إِرْشَادِكَ clearly printed",
+   "result": "أَثَرَ إِرْشَادِكَ"
+  },
+  {
+   "id": "d004",
+   "page": 169,
+   "type": "haraka",
+   "a": "تُهْمِلُ الظَّالِمِينَ، إِنَّمَا",
+   "b": "تُهمِلُ الظَّالِمِينَ، إِنَّما",
+   "tanzil": null,
+   "choice": "B",
+   "note": "zoom: تُهمِلُ has no sukun on ه; إِنَّما has no fatha on م",
+   "result": "تُهمِلُ الظَّالِمِينَ، إِنَّما"
+  },
+  {
+   "id": "d005",
+   "page": 169,
+   "type": "haraka",
+   "a": "اللَّهِ،",
+   "b": "الله،",
+   "tanzil": null,
+   "choice": "B",
+   "note": "الله printed bare in لِأَمْرِ الله، (no case vowel)",
+   "result": "الله،"
+  },
+  {
+   "id": "d006",
+   "page": 172,
+   "type": "haraka",
+   "a": "تُقَيْ",
+   "b": "تُقَيِّ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "zoom: تُقَيْ has a sukun on ي, no shadda",
+   "result": "تُقَيْ"
+  }
+ ],
+ "extra_edits": [],
+ "rules": {
+  "plain_final_ya": {},
+  "name_full_marks": {}
+ },
+ "unresolved_uncertain": [],
+ "quran_residual": [],
+ "keyer_notes": {
+  "keyA": {
+   "uncertain": [],
+   "print_errors": [
+    {
+     "page": 172,
+     "text": "إلى، القطب أبي محمد فتح السعود",
+     "note": "A stray comma is printed right after إلى; kept as printed."
+    },
+    {
+     "page": 172,
+     "text": "إلي القطب سيدي عبد الرحمن المدني",
+     "note": "Printed إلي with two dots (yeh) instead of إلى; kept as printed."
+    }
+   ],
+   "notes": "p169 starts a new item (٩٨-) after item ٩٧ ends on p168, so no +; no footnote continues. p170 continues item ٩٩ (+); p172 continues the isnad paragraph from p171 (+). p169: لِيَومٍ is printed without sukun on the waw; تَعْجَلُ has a damma; وَأَنْتَ: the sukun is drawn stacked over the alif's hamza/fatha, encoded on the nun. لِأَمْرِ اللهِ has a printed kasra under the heh, so written اللَّهِ per CONVENTIONS. p171 heading: no kasra under the rā of اليُسْريَّة (kasra only under the ṣād of الصِّديقيَّة); the second paragraph ends «رضي الله عنهم» with no full stop, as printed. p171 honorifics: ﷺ glyphs kept; «رضي الله عنهم» is printed as ordinary words. p172: «-بالتصغير فيهما-» written with ASCII hyphens glued as printed; (ح) at paragraph starts kept as printed. p170 closing Quran (الصافات ١٨٠-١٨٢) checked against the image."
+  },
+  "keyB": {
+   "uncertain": [],
+   "print_errors": [
+    {
+     "page": 169,
+     "text": "أَثَر إِرْشَادِك",
+     "note": "no fatha printed on final ر of أثر nor on ك of إرشادك (zoomed at 900 dpi); kept as printed"
+    },
+    {
+     "page": 169,
+     "text": "فَلَا تَعْجَلُ",
+     "note": "damma printed on ل after لا الناهية (expected sukun); kept as printed"
+    },
+    {
+     "page": 171,
+     "text": "خادمي النبي ﷺ",
+     "note": "printed خادمي (plural construct) though only ربيعة is a servant; kept as printed"
+    },
+    {
+     "page": 172,
+     "text": "إلى، القطب",
+     "note": "stray comma after إلى printed; kept"
+    },
+    {
+     "page": 172,
+     "text": "إلي القطب سيدي عبد الرحمن المدني",
+     "note": "printed إلي with dotted yeh instead of إلى; kept"
+    }
+   ],
+   "notes": "p169 starts new item ٩٨ (no +). p170, p172 continue previous page (+). p171 starts # heading per STRUCTURE. On p169 لِأَمْرِ الله: lam-alif ligature with fatha above and kasra below, read as لِأَمْرِ; الله printed bare. يَا on p169 shows fatha at high zoom. إِنَّما and لِيَومٍ and تُهمِلُ written with only the marks printed. p171/172 body is unvowelled; رضي الله عنهم printed as words (no glyph)."
+  }
+ }
+}

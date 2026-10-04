@@ -1,0 +1,9 @@
+{
+  "uncertain": [],
+  "print_errors": [
+    {"page": 158, "text": "عِندَ كُلِّ صَلَاةِ", "note": "صلاة printed with a single kasra (expected tanween صَلَاةٍ); kept as printed. Also عِندَ printed without sukun on ن."},
+    {"page": 160, "text": "سَيِّدَنا مُحَمَّدٍ", "note": "In prayer (١٦) سيدنا is printed with fatha on د and nothing on ن (expected سَيِّدِنَا); kept as printed, same as the earlier days' البرزخية prayers."},
+    {"page": 160, "text": "مُحَمَّدُِ / مَحْمُودُِ", "note": "Both damma and kasra printed on the final د of محمد and محمود in prayer (١٦); kept both, as on earlier days."}
+  ],
+  "notes": "p156 ends with a complete paragraph (prayer ٨١), so p157 has a plain marker; no footnote continues. Divine Names in red marked ==…== (عَفُوُّ، رَءُوفُ، مَالِكَ الْمُلْكِ، ذَا الْجَلَالِ وَالْإِكْرَامِ). In red الْجَلَالِ (p159) the round sukun on ل touches the fatha on ج; read as sukun+fatha. الْأَكْوانَ on p157 has no fatha on و (fatha present on p158 الْأَكْوَانِ). وَلِوَالِدِيْنَا on p159 has a sukun on ي as printed. A stray small dot below the text on p159 (about 44% page height) was treated as a print speck and omitted. Quran (آل عمران ٢٦، الأنبياء ١٠٧، النمل ٦) encoded per Tanzil Uthmani, checked against print (waqf ۖ after تشاء and الخير printed). p160 ends mid-sentence (continues on p161). Headings on p160: ## صلوات اليوم السادس, ### الصلاة البرزخية, ### صلاة التجلي. All small harakat were verified at 1100-1800 dpi zooms since 480 dpi renders dropped some fathas."
+}

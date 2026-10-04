@@ -1,0 +1,18 @@
+{"mode": "spots", "decisions": {
+"d001": {"choice": "A", "note": "يا before red مجيب printed without fatha"},
+"d002": {"choice": "custom", "text": "الْمَعْدُوم", "note": "zoom: الْمَعْدُوم clearly legible, sukun on lam and ain, damma on dal, no kasra under final mim"},
+"d003": {"choice": "A", "note": "الأَرْضُ: no sukun on the lam, fatha on hamza"},
+"d004": {"choice": "A", "note": "اللهُ with damma; apply normalizes to اللَّهُ either way"},
+"d005": {"choice": "A", "note": "وَتَجَلِّي clearly legible at page start"},
+"d006": {"choice": "A", "note": "اللهُ with damma; normalized form"},
+"d007": {"choice": "A", "note": "line-end وَسَيِّدِنا: no fatha on nun visible"},
+"d008": {"choice": "A", "note": "بِما: kasra under ba, no fatha over the ma ligature"},
+"d009": {"choice": "A", "note": "three يَا اللهُ with damma; normalized form"},
+"d010": {"choice": "A", "note": "title-like line not marked bold, consistent with the other day-opening pages"},
+"d011": {"choice": "A", "note": "no bold markup, same as d010"},
+"d012": {"choice": "A", "note": "يا رَبَّ: يا printed without fatha"},
+"d013": {"choice": "A", "note": "يا مَنْ: يا printed without fatha"},
+"d014": {"choice": "A", "note": "اللهُ with damma; normalized form"},
+"q001": {"choice": "A", "note": "print variant: quotation ends at بِرَبِّكُمْ with no waqf sign before the bracket"},
+"q002": {"choice": "A", "note": "print variant: quotation ends at بِهَا with no waqf sign before the bracket"}
+}, "extra_edits": []}

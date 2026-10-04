@@ -1,0 +1,246 @@
+{
+ "batch": "b41",
+ "agreement": 0.975,
+ "counts": {
+  "punct": 2,
+  "haraka": 11
+ },
+ "n_items": 13,
+ "n_quran_flags": 1,
+ "n_uncertain_flags": 0,
+ "mode": "spots",
+ "choices": {
+  "A": 6,
+  "B": 7,
+  "T": 0,
+  "custom": 1
+ },
+ "decisions": [
+  {
+   "id": "d001",
+   "page": 162,
+   "type": "punct",
+   "a": "أعوذُ",
+   "b": "**أعوذُ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "istiadha line is the day-opening line in a larger font, not contrasting bold; earlier batches write it without ** (consistency)",
+   "result": "أعوذُ"
+  },
+  {
+   "id": "d002",
+   "page": 162,
+   "type": "punct",
+   "a": "الرَّجِيمِ",
+   "b": "الرَّجِيمِ**",
+   "tanzil": null,
+   "choice": "A",
+   "note": "same as d001: no bold markup",
+   "result": "الرَّجِيمِ"
+  },
+  {
+   "id": "d003",
+   "page": 162,
+   "type": "haraka",
+   "a": "وَبَارِكْ بِأَسْمَائِكَ",
+   "b": "وَبارِكْ بِأَسْمائِكَ",
+   "tanzil": null,
+   "choice": "B",
+   "note": "zoom: no fatha on ب of وبارك and no fatha on م of بأسمائك; only و fatha, ر kasra, ك sukun",
+   "result": "وَبارِكْ بِأَسْمائِكَ"
+  },
+  {
+   "id": "d004",
+   "page": 162,
+   "type": "haraka",
+   "a": "مَحبَّةً",
+   "b": "[؟:محَبَّةً]",
+   "tanzil": null,
+   "choice": "custom",
+   "note": "1200dpi zoom: marks over مح ligature ambiguous (one fatha placed between م and ح, shadda over ب); keep uncertain marker with best reading",
+   "result": "[؟:مَحَبَّةً]"
+  },
+  {
+   "id": "d005",
+   "page": 162,
+   "type": "haraka",
+   "a": "يَا",
+   "b": "يا",
+   "tanzil": null,
+   "choice": "B",
+   "note": "يا before مَنْ printed bare, no fatha",
+   "result": "يا"
+  },
+  {
+   "id": "d006",
+   "page": 162,
+   "type": "haraka",
+   "a": "آلِهِ",
+   "b": "آلِه",
+   "tanzil": null,
+   "choice": "B",
+   "note": "آله: kasra under ل only, none under ه",
+   "result": "آلِه"
+  },
+  {
+   "id": "d007",
+   "page": 163,
+   "type": "haraka",
+   "a": "آلِهِ،",
+   "b": "آلِه،",
+   "tanzil": null,
+   "choice": "B",
+   "note": "آله printed with single kasra under ل",
+   "result": "آلِه،"
+  },
+  {
+   "id": "d008",
+   "page": 163,
+   "type": "haraka",
+   "a": "آلِهِ،",
+   "b": "آلِه،",
+   "tanzil": null,
+   "choice": "B",
+   "note": "آله printed with single kasra under ل",
+   "result": "آلِه،"
+  },
+  {
+   "id": "d009",
+   "page": 164,
+   "type": "haraka",
+   "a": "آلِهِ،",
+   "b": "آلِه،",
+   "tanzil": null,
+   "choice": "B",
+   "note": "آله printed with single kasra under ل",
+   "result": "آلِه،"
+  },
+  {
+   "id": "d010",
+   "page": 164,
+   "type": "haraka",
+   "a": "وَبِطَاعَتِك",
+   "b": "وَبِطَاعَتِكَ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "zoom: final ك of وبطاعتك has no fatha",
+   "result": "وَبِطَاعَتِك"
+  },
+  {
+   "id": "d011",
+   "page": 164,
+   "type": "haraka",
+   "a": "آلِهِ،",
+   "b": "آلِه،",
+   "tanzil": null,
+   "choice": "B",
+   "note": "آله printed with single kasra under ل",
+   "result": "آلِه،"
+  },
+  {
+   "id": "d012",
+   "page": 164,
+   "type": "haraka",
+   "a": "وَجَعَلْتَهُ",
+   "b": "وجَعَلْتَهُ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "fatha visible on و of وَجَعَلْتَهُ",
+   "result": "وَجَعَلْتَهُ"
+  },
+  {
+   "id": "d013",
+   "page": 164,
+   "type": "haraka",
+   "a": "شُئونِي،",
+   "b": "شُئُونِي،",
+   "tanzil": null,
+   "choice": "A",
+   "note": "zoom: damma only on ش; no damma on ئ (شُئونِي)",
+   "result": "شُئونِي،"
+  },
+  {
+   "id": "q001",
+   "page": 162,
+   "type": "quran_marks",
+   "a": "بِهَا",
+   "b": null,
+   "tanzil": "بِهَا ۖ",
+   "choice": "A",
+   "note": "print ends the quotation at بِهَا with no ۖ mark before ﴾; genuine print variant",
+   "result": "بِهَا"
+  }
+ ],
+ "extra_edits": [
+  {
+   "page": 162,
+   "find": "بِأَسْمَائِكَ يَا رَبَّ",
+   "replace": "بِأَسْمائِكَ يا رَبَّ",
+   "note": "zoom: no fatha on م of بأسمائك (as in first line) and يا before رَبَّ printed bare; both keyers shared the error"
+  }
+ ],
+ "rules": {
+  "plain_final_ya": {},
+  "name_full_marks": {}
+ },
+ "unresolved_uncertain": [
+  {
+   "page": 162,
+   "reading": "مَحَبَّةً",
+   "context": "حَقِّقِ بِها، وَعَلَى آلِه، وَارْزُقْنا [؟:مَحَبَّةً] فِيهِ وَتَعَلُّقًا بِه، يُورِثُنا مِنْه"
+  }
+ ],
+ "quran_residual": [
+  {
+   "page": 162,
+   "kind": "quran_marks",
+   "keyed": "بِهَا",
+   "tanzil": "بِهَا ۖ",
+   "ref": "7:180"
+  }
+ ],
+ "keyer_notes": {
+  "keyA": {
+   "uncertain": [],
+   "print_errors": [
+    {
+     "page": 161,
+     "text": "المُتَخَلِّقِ",
+     "note": "Prayer (١٨): only a damma on م, no sukun on ل (other words on the line have both); kept as printed."
+    },
+    {
+     "page": 162,
+     "text": "مَحبَّةً",
+     "note": "Only one fatha in the م-ح ligature. Its position matches the م-fatha of the same ligature on p164 (where both fathas are printed), so it is read as fatha on م with ح bare."
+    },
+    {
+     "page": 163,
+     "text": "وَالْموْتِ",
+     "note": "Prayer ٨٧: sukun on ل and sukun on و, no fatha on م; kept as printed."
+    },
+    {
+     "page": 164,
+     "text": "وَبِطَاعَتِك",
+     "note": "Prayer ٨٨: no haraka on the final ك (حَرَامِكَ and بِحَلَالِكَ next to it have fatha); kept as printed."
+    },
+    {
+     "page": 164,
+     "text": "شُئونِي",
+     "note": "Damma on ش only, no damma on the ئ; kept as printed."
+    }
+   ],
+   "notes": "p161 has marker 161+ because p160 ends mid-sentence inside prayer (١٧). Its two footnotes are new (١)/(٢), and no footnote carries over from p160. On p161 the يا الله / يا مجيب are black, not red: the page has no red pixels. p162 is the day-opening page: أعوذ, the basmala and the two Quran quotations (الأعراف ١٨٠ with no ayah number, الأحزاب ٥٦ with one), then two paragraphs with flower-asterisk bullets written as *. p163 starts a new prayer (٨٦), so it has a plain marker. p163 ends mid-sentence, so p164 has the + marker. p164 ends mid-sentence in prayer ٩٠. Red divine Names marked ==…==: مُقْسِطُ، جَامِعَ (first one only; the second جَامِعَ is black), غَنِيُّ، مُغْنِي، مُعْطِي (مَانِعُ is black). The red spots were confirmed by a pixel-colour check. Quran آل عمران ١٨ is printed without an ayah-number ornament, so none was added. It is encoded per Tanzil: قَآئِمًۢا with iqlab mim, waqf ۚ after بِٱلْقِسْطِ. لتهدىٓ (الشورى ٥٢) is written with dotless ى as printed. In several places the print has no space after the comma (e.g. قِيَامٍ،صَلَاةً، الْوُجُودِ،وَبَيْنَ، بِكَ،صَلَاةً). A single space was added after the comma, per the one-space rule. الله with a printed case vowel is written اللَّهُ/اللَّهَ/اللَّهِ. لله, printed without harakat, is kept as لله. التَّنْعِيم in the p161 footnotes has a sukun above the shadda-fatha of ت, read as the sukun of ن. Harakat were checked at 1100-2600 dpi zooms."
+  },
+  "keyB": {
+   "uncertain": [
+    {
+     "page": 162,
+     "reading": "محَبَّةً",
+     "why": "Besides the shadda+fatha on ب and the tanween only one plain fatha is printed over the مح ligature; by its position it seems to sit on ح, not م (compare p.164 where the same word has two fathas)."
+    }
+   ],
+   "print_errors": [],
+   "notes": "p161 continues the sentence of p160 (marker +); no footnote continues. p164 continues the sentence ending p163 ('وَأَنْ تَجْمَعَنِي عَلَى سَيِّدِنَا' / 'مُحَمَّدٍ'), marker +. Red divine names: مُقْسِطُ, جَامِعَ (p163), غَنِيُّ, مُغْنِي, مُعْطِي (p164); وَيَا مَانِعُ and وَيَا جَامِعَ النَّاسِ are printed black. Partial vowelling kept as printed, e.g. p163 'وَالْموْتِ' (no fatha on م, sukun on ل and و), p164 'وجَعَلْتَهُ' (no fatha on و), p161 'المُتَخَلِّقِ' (no sukun on lam), p162 'وَبارِكْ بِأَسْمائِكَ' in the first prayer but 'بِأَسْمَائِكَ' at its end; آلِه vs آلِهِ distinguished per occurrence. Missing spaces after commas in print (e.g. 'قِيَامٍ،صَلَاةً') normalized to one space. اللهُ/اللهِ/اللهَ with printed case vowel written اللَّه…; bare لله kept."
+  }
+ }
+}

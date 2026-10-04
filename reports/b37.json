@@ -1,0 +1,180 @@
+{
+ "batch": "b37",
+ "agreement": 0.9727,
+ "counts": {
+  "haraka": 9
+ },
+ "n_items": 9,
+ "n_quran_flags": 0,
+ "n_uncertain_flags": 0,
+ "mode": "spots",
+ "choices": {
+  "A": 8,
+  "B": 0,
+  "T": 0,
+  "custom": 1
+ },
+ "decisions": [
+  {
+   "id": "d001",
+   "page": 145,
+   "type": "haraka",
+   "a": "اللَّهُ،",
+   "b": "اللهُ،",
+   "tanzil": null,
+   "choice": "A",
+   "note": "damma printed on الله after يا; written اللَّهُ per conventions",
+   "result": "اللَّهُ،"
+  },
+  {
+   "id": "d002",
+   "page": 145,
+   "type": "haraka",
+   "a": "الِاسْمِ",
+   "b": "الاِسْمِ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "kasra under ل and sukun on س clearly visible: الِاسْمِ",
+   "result": "الِاسْمِ"
+  },
+  {
+   "id": "d003",
+   "page": 145,
+   "type": "haraka",
+   "a": "الأَرْضِ",
+   "b": "[؟:الَأَرْضِ]",
+   "tanzil": null,
+   "choice": "custom",
+   "note": "zoom shows fatha on lam AND fatha on hamza, sukun on ر: الَأَرْضِ (print oddity, kept as printed)",
+   "result": "الَأَرْضِ"
+  },
+  {
+   "id": "d004",
+   "page": 146,
+   "type": "haraka",
+   "a": "اللَّهُ",
+   "b": "اللهُ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "damma printed on الله; conventions write اللَّهُ",
+   "result": "اللَّهُ"
+  },
+  {
+   "id": "d005",
+   "page": 148,
+   "type": "haraka",
+   "a": "اللَّهُ",
+   "b": "اللهُ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "damma printed on الله; conventions write اللَّهُ",
+   "result": "اللَّهُ"
+  },
+  {
+   "id": "d006",
+   "page": 148,
+   "type": "haraka",
+   "a": "الْمُتَخَلِّقِ",
+   "b": "المُتَخَلِّقِ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "sukun mark on ل under the damma visible at high zoom: الْمُتَخَلِّقِ",
+   "result": "الْمُتَخَلِّقِ"
+  },
+  {
+   "id": "d007",
+   "page": 148,
+   "type": "haraka",
+   "a": "اللَّهُ، يَا اللَّهُ، يَا اللَّهُ(٢).",
+   "b": "اللهُ، يَا اللهُ، يَا اللهُ(٢).",
+   "tanzil": null,
+   "choice": "A",
+   "note": "damma printed on each الله; conventions write اللَّهُ",
+   "result": "اللَّهُ، يَا اللَّهُ، يَا اللَّهُ(٢)."
+  },
+  {
+   "id": "d008",
+   "page": 148,
+   "type": "haraka",
+   "a": "التَّنعِيم",
+   "b": "التَّنْعِيم",
+   "tanzil": null,
+   "choice": "A",
+   "note": "footnote: shadda+fatha on ت, kasra under ع, no sukun on ن",
+   "result": "التَّنعِيم"
+  },
+  {
+   "id": "d009",
+   "page": 148,
+   "type": "haraka",
+   "a": "التَّنعِيم",
+   "b": "التَّنْعِيم",
+   "tanzil": null,
+   "choice": "A",
+   "note": "footnote 2 identical to footnote 1: no sukun on ن",
+   "result": "التَّنعِيم"
+  }
+ ],
+ "extra_edits": [],
+ "rules": {
+  "plain_final_ya": {},
+  "name_full_marks": {}
+ },
+ "unresolved_uncertain": [],
+ "quran_residual": [],
+ "keyer_notes": {
+  "keyA": {
+   "uncertain": [],
+   "print_errors": [
+    {
+     "page": 147,
+     "text": "سَيِّدَنا",
+     "note": "Printed with fatha on dal (and no fatha on nun) in item (١٣); expected سَيِّدِنَا. Kept as printed (same as day-4 counterpart p.134)."
+    },
+    {
+     "page": 147,
+     "text": "مُحَمَّدُِ / مَحْمُودُِ",
+     "note": "Dal carries both damma and kasra in print; kept both."
+    },
+    {
+     "page": 147,
+     "text": "أَحْمَدُ الْبِدَايَةِ",
+     "note": "Damma on أحمد where genitive expected; kept as printed."
+    },
+    {
+     "page": 145,
+     "text": "==واجِدُ==",
+     "note": "Red divine Name printed without fatha on waw, unlike other names; kept as printed."
+    },
+    {
+     "page": 146,
+     "text": "تُرِيدُ .",
+     "note": "Print shows a space before the final period; written without space per §2."
+    }
+   ],
+   "notes": "p145 continues p144 (+); p146 starts new item ٦٦; p147 opens صلوات اليوم الخامس (## heading) with ### الصلاة البرزخية and ### صلاة التجلي; p148 continues item (١٤) (+). Footnotes 1 and 2 on p148 are printed identically. الأرض on p145 and الخلق printed without sukun on the article lam; الأعظم on p147 without sukun but with sukun on p148."
+  },
+  "keyB": {
+   "uncertain": [
+    {
+     "page": 145,
+     "reading": "الَأَرْضِ",
+     "why": "In «مفاتح خزائن الأرض» a fatha seems printed on the lam of the article as well as the fatha on the hamza (and sukun on ر); the mark positions on the لأ ligature are ambiguous."
+    }
+   ],
+   "print_errors": [
+    {
+     "page": 147,
+     "text": "سَيِّدَنا",
+     "note": "Prayer (١٣): the dal carries a fatha (expected kasra سَيِّدِنَا); kept as printed."
+    },
+    {
+     "page": 147,
+     "text": "مُحَمَّدُِ / مَحْمُودُِ",
+     "note": "Both a damma above and a kasra below the final dal are printed; both kept."
+    }
+   ],
+   "notes": "p145 continues the prayer ٦٣ from p144 (+). p148 continues the صلاة التجلي sentence from p147 (+). Commas printed glued to the next word were written with a following space. A small space printed before the final period on pp.145-146 was not reproduced. Red divine Names: قَيُّومُ, واجِدُ (waw without fatha as printed), مَاجِدُ. Quran spans encoded per the Tanzil table and checked against the image (21:107, 27:6, 42:52)."
+  }
+ }
+}

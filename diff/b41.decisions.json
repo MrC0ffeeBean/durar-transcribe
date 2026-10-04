@@ -1,0 +1,16 @@
+{"mode":"spots","decisions":{
+"d001":{"choice":"A","note":"istiadha line is the day-opening line in a larger font, not contrasting bold; earlier batches write it without ** (consistency)"},
+"d002":{"choice":"A","note":"same as d001: no bold markup"},
+"d003":{"choice":"B","note":"zoom: no fatha on ب of وبارك and no fatha on م of بأسمائك; only و fatha, ر kasra, ك sukun"},
+"d004":{"choice":"custom","text":"[؟:مَحَبَّةً]","note":"1200dpi zoom: marks over مح ligature ambiguous (one fatha placed between م and ح, shadda over ب); keep uncertain marker with best reading"},
+"d005":{"choice":"B","note":"يا before مَنْ printed bare, no fatha"},
+"d006":{"choice":"B","note":"آله: kasra under ل only, none under ه"},
+"d007":{"choice":"B","note":"آله printed with single kasra under ل"},
+"d008":{"choice":"B","note":"آله printed with single kasra under ل"},
+"d009":{"choice":"B","note":"آله printed with single kasra under ل"},
+"d010":{"choice":"A","note":"zoom: final ك of وبطاعتك has no fatha"},
+"d011":{"choice":"B","note":"آله printed with single kasra under ل"},
+"d012":{"choice":"A","note":"fatha visible on و of وَجَعَلْتَهُ"},
+"d013":{"choice":"A","note":"zoom: damma only on ش; no damma on ئ (شُئونِي)"},
+"q001":{"choice":"A","note":"print ends the quotation at بِهَا with no ۖ mark before ﴾; genuine print variant"}},
+"extra_edits":[{"page":162,"find":"بِأَسْمَائِكَ يَا رَبَّ","replace":"بِأَسْمائِكَ يا رَبَّ","note":"zoom: no fatha on م of بأسمائك (as in first line) and يا before رَبَّ printed bare; both keyers shared the error"}]}

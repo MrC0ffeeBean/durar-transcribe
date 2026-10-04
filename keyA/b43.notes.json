@@ -1,0 +1,8 @@
+{
+  "uncertain": [],
+  "print_errors": [
+    {"page": 172, "text": "إلى، القطب أبي محمد فتح السعود", "note": "A stray comma is printed right after إلى; kept as printed."},
+    {"page": 172, "text": "إلي القطب سيدي عبد الرحمن المدني", "note": "Printed إلي with two dots (yeh) instead of إلى; kept as printed."}
+  ],
+  "notes": "p169 starts a new item (٩٨-) after item ٩٧ ends on p168, so no +; no footnote continues. p170 continues item ٩٩ (+); p172 continues the isnad paragraph from p171 (+). p169: لِيَومٍ is printed without sukun on the waw; تَعْجَلُ has a damma; وَأَنْتَ: the sukun is drawn stacked over the alif's hamza/fatha, encoded on the nun. لِأَمْرِ اللهِ has a printed kasra under the heh, so written اللَّهِ per CONVENTIONS. p171 heading: no kasra under the rā of اليُسْريَّة (kasra only under the ṣād of الصِّديقيَّة); the second paragraph ends «رضي الله عنهم» with no full stop, as printed. p171 honorifics: ﷺ glyphs kept; «رضي الله عنهم» is printed as ordinary words. p172: «-بالتصغير فيهما-» written with ASCII hyphens glued as printed; (ح) at paragraph starts kept as printed. p170 closing Quran (الصافات ١٨٠-١٨٢) checked against the image."
+}

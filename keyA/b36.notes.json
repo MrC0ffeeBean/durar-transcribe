@@ -1,0 +1,12 @@
+{
+  "uncertain": [
+    {"page": 141, "reading": "تَبَرَّأَ", "why": "Only one fatha is visible over the ت/ب pair, and it sits between the two letters. It is unclear whether ت or ب carries it or whether both do."},
+    {"page": 141, "reading": "وَأَتَجَنَّبَ", "why": "The marks over the stacked تج ligature are crowded, so the fatha on ت versus ج cannot be confirmed even at 1400 dpi."},
+    {"page": 143, "reading": "لِله", "why": "In «إِنَّ لله تِسْعَةً» a low kasra-like stroke appears under the lams of the لله ligature, well below the other marks on the line. It could be a kasra on ل, or a stray mark."}
+  ],
+  "print_errors": [
+    {"page": 142, "text": "وَعَظَمَةِ سُلْطَانِك", "note": "The only mark under the last letters of سلطانك is one kasra, which sits under ن; ك has no fatha. Transcribed as printed."},
+    {"page": 141, "text": "أَتوَغَّلَ", "note": "At 1400 dpi ت has no fatha; the fatha sits on و. Transcribed as printed."}
+  ],
+  "notes": "Page 141 continues the end of prayer 53 from p.140 («مُفَوِّضًا أَمْرِي إِلَيْكَ»), so it is marked +. Pages 143 and 144 also continue mid-sentence and are marked +. Every يا before a divine Name has a small fatha at high zoom (it is invisible in the crops), so it is written يَا throughout. Lam-mim words such as الْمَتِينِ, الْمَحْمُودُ, الْمَقَامِ and الْمَوْتَ show the ل sukun stacked over a short fatha stroke; I read the stroke as the fatha on م. Words like آلِهِ, بِهِ, حَوْلِهِ, وَقُوَّتِهِ and مُرَاقَبَتِهِ show only one kasra at the لِه/بِه ligature. I took this as the kasra of the letter and the kasra of ه drawn on top of each other at the same anchor, and wrote both (آلِهِ). Please check this against keyB. The divine Name has a printed case vowel in «إِلَّا بِاللَّهِ» (kasra), «صَلَّى اللَّهُ» and «يَا اللَّهُ» (damma), so the full marks are written there; «حَامِدٍ لله» and «إِنَّ لله» have no case vowel. Quran p.144: the waqf ج printed at the opening bracket of «كَمَا بَدَأْنَآ» (it belongs to «لِلْكُتُبِ ۚ» in the full ayah) is written inside the bracket as «﴿ۚ كَمَا». Prayer numbers are written as printed, with the space after the slash: ٥٩/ ٦٠- and ٦١/ ٦٢-. Commas printed without a following space on p.144 are written with one normal space. The word «استجابَ» on p.144 is printed with a fatha on ب only."
+}

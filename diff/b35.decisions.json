@@ -1,0 +1,11 @@
+{"mode":"spots","decisions":{
+"d001":{"choice":"A","note":"damma printed on الله (case vowel) -> CONVENTIONS: write اللَّهُ"},
+"d002":{"choice":"A","note":"damma printed on الله after يا -> اللَّهُ per CONVENTIONS"},
+"d003":{"choice":"A","note":"zoom: fatha clearly visible over final ك of لِخَلْقِكَ"},
+"d004":{"choice":"A","note":"damma printed on الله -> اللَّهُ per CONVENTIONS"},
+"d005":{"choice":"A","note":"zoom: damma (not fatha) printed over م in الْمُجِيدِ; kept as printed"},
+"d006":{"choice":"A","note":"zoom: الحميد المُجيد printed with damma on م; kept as printed"},
+"d007":{"choice":"A","note":"damma printed on والله -> وَاللَّهُ per CONVENTIONS"},
+"d008":{"choice":"A","note":"zoom: damma clearly over م and sukun on ع in الْمُعْبُودِ (print oddity, kept)"},
+"q001":{"choice":"A","note":"zoom: no waqf sign ۚ printed after ٱللَّهِ before closing bracket; genuine print variant (quotation ends there)"}
+},"extra_edits":[]}

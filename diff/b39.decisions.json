@@ -1,0 +1,20 @@
+{"mode": "spots",
+ "decisions": {
+  "d001": {"choice": "B", "note": "tight zoom: only one kasra, under the ل; no kasra under final ه"},
+  "d002": {"choice": "B", "note": "sukun over ل stacked above damma of م; no separate sukun on ر"},
+  "d003": {"choice": "B", "note": "fatha on م with ل's sukun above it; no sukun on ر"},
+  "d004": {"choice": "A", "note": "fatha on ف only, ل bare: فَلا"},
+  "d005": {"choice": "A", "note": "visible gap between the slash and ٧٦, same as the footnote (١٧/ ٣٥٢) on p.154"},
+  "d006": {"choice": "B", "note": "same آلِه glyph: kasra under ل only"},
+  "d007": {"choice": "B", "note": "no sukun over ر, only ل-sukun stacked over damma"},
+  "d008": {"choice": "A", "note": "two dammas visible: on hamza and on ل"},
+  "d009": {"choice": "B", "note": "small sukun curl over ل beside the hamza/fatha"},
+  "d010": {"choice": "B", "note": "zoom: kasra under ل only"},
+  "d011": {"choice": "custom", "text": "آلِه، أَعْلَمِ", "note": "آلِه has kasra under ل only; kasra clearly under م of أَعْلَمِ"},
+  "d012": {"choice": "B", "note": "only one kasra printed under بِه"},
+  "d013": {"choice": "B", "note": "zoom: kasra under ل only"},
+  "d014": {"choice": "B", "note": "zoom: kasra under ل only"},
+  "d015": {"choice": "B", "note": "zoom: kasra under ل only"},
+  "d016": {"choice": "B", "note": "zoom: وَآلِه with kasra under ل only"}
+ },
+ "extra_edits": []}

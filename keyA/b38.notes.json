@@ -1,0 +1,11 @@
+{
+  "uncertain": [
+    {"page": 149, "reading": "محَبَّةً", "why": "Only one fatha printed over the مح ligature; cannot tell whether it belongs to م or ح."},
+    {"page": 150, "reading": "الْأَكْوَان", "why": "In «فَيَسَعُ الْأَكْوانَ…» a single fatha sits over the و/ا area, not clearly over the final ن; read as fatha on و, nothing on ن."},
+    {"page": 151, "reading": "بِلسَانٍ", "why": "One kasra between ب and ل in «بلسان عربي»; unclear which letter carries it."}
+  ],
+  "print_errors": [
+    {"page": 152, "text": "فَلَا يَشْغَلَنِي", "note": "Printed with fatha on ل (يَشْغَلَنِي); kept as printed."}
+  ],
+  "notes": "p149 opens day-5 page (أعوذ بالله + basmala + Quran); p148 ends with a complete paragraph, so plain marker. p150–151 start new numbered prayers (plain markers). p152 continues the sentence from p151 (<<<ص:152+>>>). Divine Names in red marked with ==…==; repeated Names at the end of prayers are black. Item numbers «٦٩/ ٧٠-», «٧١/ ٧٢-», «٧٣/ ٧٤-» keep the printed space after the slash. Several commas printed without a following space were written with a normal space. Quran text encoded from ref/quran-uthmani.txt, checked against the print (small low mim on مُّقْتَدِرٍۭ is printed)."
+}

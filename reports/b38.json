@@ -1,0 +1,432 @@
+{
+ "batch": "b38",
+ "agreement": 0.9419,
+ "counts": {
+  "punct": 5,
+  "haraka": 23
+ },
+ "n_items": 28,
+ "n_quran_flags": 2,
+ "n_uncertain_flags": 0,
+ "mode": "full_reread",
+ "choices": {
+  "A": 12,
+  "B": 13,
+  "T": 0,
+  "custom": 5
+ },
+ "decisions": [
+  {
+   "id": "d001",
+   "page": 149,
+   "type": "punct",
+   "a": "أعوذُ",
+   "b": "**أعوذُ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "centered opening line in the same weight as the page; no bold contrast; same as finals of pp.102/112/125/136",
+   "result": "أعوذُ"
+  },
+  {
+   "id": "d002",
+   "page": 149,
+   "type": "punct",
+   "a": "الرَّجِيمِ",
+   "b": "الرَّجِيمِ**",
+   "tanzil": null,
+   "choice": "A",
+   "note": "no bold markup, see d001",
+   "result": "الرَّجِيمِ"
+  },
+  {
+   "id": "d003",
+   "page": 149,
+   "type": "haraka",
+   "a": "وَبارِكْ بِأَسْمائِكَ",
+   "b": "وَبَارِكْ بِأَسْمَائِكَ",
+   "tanzil": null,
+   "choice": "B",
+   "note": "fatha on ب of وَبَارِكْ and on م of بِأَسْمَائِكَ clearly visible at 600-1000dpi",
+   "result": "وَبَارِكْ بِأَسْمَائِكَ"
+  },
+  {
+   "id": "d004",
+   "page": 149,
+   "type": "haraka",
+   "a": "[؟:محَبَّةً]",
+   "b": "[؟:مَحبَّةً]",
+   "tanzil": null,
+   "choice": "custom",
+   "note": "zoom shows fatha on م, fatha+shadda on ب, fathatan on ة: مَحَبَّةً, certain",
+   "result": "مَحَبَّةً"
+  },
+  {
+   "id": "d005",
+   "page": 149,
+   "type": "haraka",
+   "a": "يَدَيْهِ تَعَلُّقًا وَتَخَلُّقًا وَتَحَقُّقًا بأَسْمَائِكَ",
+   "b": "يدَيْهِ تَعلُّقًا وَتَخلُّقًا وَتَحقُّقًا بِأَسْمائِكَ",
+   "tanzil": null,
+   "choice": "custom",
+   "note": "fatha on first ي of يَدَيْهِ and on ت/ع; kasra clearly under ب of بِأَسْمَائِكَ",
+   "result": "يَدَيْهِ تَعَلُّقًا وَتَخَلُّقًا وَتَحَقُّقًا بِأَسْمَائِكَ"
+  },
+  {
+   "id": "d006",
+   "page": 149,
+   "type": "haraka",
+   "a": "يَا",
+   "b": "يا",
+   "tanzil": null,
+   "choice": "A",
+   "note": "1000/1300dpi zoom: fatha over ي of يَا (after fatha of اللَّهُمَّ)",
+   "result": "يَا"
+  },
+  {
+   "id": "d007",
+   "page": 149,
+   "type": "haraka",
+   "a": "آلِهِ",
+   "b": "آلِه",
+   "tanzil": null,
+   "choice": "B",
+   "note": "only one kasra (under ل) in آلِه; none under ه",
+   "result": "آلِه"
+  },
+  {
+   "id": "d008",
+   "page": 150,
+   "type": "haraka",
+   "a": "الْمَظَاهِرِ،",
+   "b": "[؟:الْمظَاهِرِ]،",
+   "tanzil": null,
+   "choice": "custom",
+   "note": "2400dpi: only a sukun over ل, no fatha on م; certain",
+   "result": "الْمظَاهِرِ،"
+  },
+  {
+   "id": "d009",
+   "page": 150,
+   "type": "haraka",
+   "a": "[؟:الْأَكْوَان]",
+   "b": "الْأَكْوانَ",
+   "tanzil": null,
+   "choice": "B",
+   "note": "1200dpi: fatha on أ, sukun on ك, no mark on و, fatha on ن: الْأَكْوانَ",
+   "result": "الْأَكْوانَ"
+  },
+  {
+   "id": "d010",
+   "page": 150,
+   "type": "haraka",
+   "a": "بِالْمَظَاهِرِ",
+   "b": "[؟:بِالْمظَاهِرِ]",
+   "tanzil": null,
+   "choice": "custom",
+   "note": "same as d008: sukun over ل only, no fatha on م",
+   "result": "بِالْمظَاهِرِ"
+  },
+  {
+   "id": "d011",
+   "page": 150,
+   "type": "haraka",
+   "a": "آلِهِ،",
+   "b": "آلِه،",
+   "tanzil": null,
+   "choice": "B",
+   "note": "single kasra in آلِه، (none under ه)",
+   "result": "آلِه،"
+  },
+  {
+   "id": "d012",
+   "page": 150,
+   "type": "haraka",
+   "a": "يا",
+   "b": "يَا",
+   "tanzil": null,
+   "choice": "B",
+   "note": "fatha over every يَا in the closing invocation",
+   "result": "يَا"
+  },
+  {
+   "id": "d013",
+   "page": 151,
+   "type": "haraka",
+   "a": "آلِهِ،",
+   "b": "آلِه،",
+   "tanzil": null,
+   "choice": "B",
+   "note": "single kasra in آلِه، at 1000dpi",
+   "result": "آلِه،"
+  },
+  {
+   "id": "d014",
+   "page": 151,
+   "type": "haraka",
+   "a": "لِلْمُسْتَغِيثينَ،",
+   "b": "لِلْمُسْتَغِيثِينَ،",
+   "tanzil": null,
+   "choice": "B",
+   "note": "1000dpi: kasra under both غ and ث: لِلْمُسْتَغِيثِينَ",
+   "result": "لِلْمُسْتَغِيثِينَ،"
+  },
+  {
+   "id": "d015",
+   "page": 151,
+   "type": "punct",
+   "a": "٦٩/ ٧٠-",
+   "b": "٦٩/٧٠-",
+   "tanzil": null,
+   "choice": "B",
+   "note": "number pair written without space as elsewhere in the book (٥٩/٦٠-, ٦١/٦٢-)",
+   "result": "٦٩/٧٠-"
+  },
+  {
+   "id": "d016",
+   "page": 151,
+   "type": "haraka",
+   "a": "آلِهِ،",
+   "b": "آلِه،",
+   "tanzil": null,
+   "choice": "B",
+   "note": "1200dpi: single kasra in آلِه،",
+   "result": "آلِه،"
+  },
+  {
+   "id": "d017",
+   "page": 151,
+   "type": "haraka",
+   "a": "قَلْبِهِ",
+   "b": "قَلْبِه",
+   "tanzil": null,
+   "choice": "B",
+   "note": "1200dpi: kasra under ب only: قَلْبِه",
+   "result": "قَلْبِه"
+  },
+  {
+   "id": "d018",
+   "page": 151,
+   "type": "haraka",
+   "a": "الْمُنْذِرِينَ،",
+   "b": "الْمُنذِرِينَ،",
+   "tanzil": null,
+   "choice": "A",
+   "note": "cluster above لمن includes sukun on ن: الْمُنْذِرِينَ",
+   "result": "الْمُنْذِرِينَ،"
+  },
+  {
+   "id": "d019",
+   "page": 151,
+   "type": "haraka",
+   "a": "كَلَامَكَ [؟:بِلسَانٍ]",
+   "b": "كَلَامَك بِلِسَانٍ",
+   "tanzil": null,
+   "choice": "custom",
+   "note": "2000dpi: two kasras (under ب and ل) in بِلِسَانٍ; fatha on final ك of كَلَامَكَ visible",
+   "result": "كَلَامَكَ بِلِسَانٍ"
+  },
+  {
+   "id": "d020",
+   "page": 151,
+   "type": "haraka",
+   "a": "بِهِ",
+   "b": "بِه",
+   "tanzil": null,
+   "choice": "A",
+   "note": "1600dpi: kasra under both ب and ه: بِهِ",
+   "result": "بِهِ"
+  },
+  {
+   "id": "d021",
+   "page": 151,
+   "type": "haraka",
+   "a": "أَسْبَابَ",
+   "b": "[؟:أَسْبَاب]",
+   "tanzil": null,
+   "choice": "A",
+   "note": "fatha on final ب of أَسْبَابَ clearly visible",
+   "result": "أَسْبَابَ"
+  },
+  {
+   "id": "d022",
+   "page": 151,
+   "type": "haraka",
+   "a": "الْعُيونُ،",
+   "b": "الْعُيُونُ،",
+   "tanzil": null,
+   "choice": "A",
+   "note": "1400dpi: damma on ع and ن only, none on ي: الْعُيونُ",
+   "result": "الْعُيونُ،"
+  },
+  {
+   "id": "d023",
+   "page": 152,
+   "type": "haraka",
+   "a": "وَالْقِيامِ",
+   "b": "وَالْقِيَامِ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "no fatha on ي of وَالْقِيامِ",
+   "result": "وَالْقِيامِ"
+  },
+  {
+   "id": "d024",
+   "page": 152,
+   "type": "punct",
+   "a": "٧١/ ٧٢-",
+   "b": "٧١/٧٢-",
+   "tanzil": null,
+   "choice": "B",
+   "note": "number pair without space, book convention",
+   "result": "٧١/٧٢-"
+  },
+  {
+   "id": "d025",
+   "page": 152,
+   "type": "haraka",
+   "a": "آلِهِ،",
+   "b": "آلِه،",
+   "tanzil": null,
+   "choice": "B",
+   "note": "1200dpi: single kasra in آلِه،",
+   "result": "آلِه،"
+  },
+  {
+   "id": "d026",
+   "page": 152,
+   "type": "haraka",
+   "a": "مَراتِبَ",
+   "b": "[؟:مرَاتِبَ]",
+   "tanzil": null,
+   "choice": "A",
+   "note": "fatha on م, none on ر: مَراتِبَ",
+   "result": "مَراتِبَ"
+  },
+  {
+   "id": "d027",
+   "page": 152,
+   "type": "punct",
+   "a": "٧٣/ ٧٤-",
+   "b": "٧٣/٧٤-",
+   "tanzil": null,
+   "choice": "B",
+   "note": "number pair without space, book convention",
+   "result": "٧٣/٧٤-"
+  },
+  {
+   "id": "d028",
+   "page": 152,
+   "type": "haraka",
+   "a": "الزَّمانَ",
+   "b": "الزَّمَانَ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "no fatha on م of الزَّمانَ",
+   "result": "الزَّمانَ"
+  },
+  {
+   "id": "q001",
+   "page": 149,
+   "type": "quran_marks",
+   "a": "بِهَا",
+   "b": null,
+   "tanzil": "بِهَا ۖ",
+   "choice": "A",
+   "note": "print variant: quotation ends at بِهَا with the closing bracket, no waqf sign printed (zoomed)",
+   "result": "بِهَا"
+  },
+  {
+   "id": "q002",
+   "page": 150,
+   "type": "quran_marks",
+   "a": "ٱللَّهِ",
+   "b": null,
+   "tanzil": "ٱللَّهِ ۚ",
+   "choice": "A",
+   "note": "print variant: quotation ends at ٱللَّهِ, no waqf sign printed (zoomed)",
+   "result": "ٱللَّهِ"
+  }
+ ],
+ "extra_edits": [],
+ "rules": {
+  "plain_final_ya": {},
+  "name_full_marks": {}
+ },
+ "unresolved_uncertain": [],
+ "quran_residual": [
+  {
+   "page": 149,
+   "kind": "quran_marks",
+   "keyed": "بِهَا",
+   "tanzil": "بِهَا ۖ",
+   "ref": "7:180"
+  },
+  {
+   "page": 150,
+   "kind": "quran_marks",
+   "keyed": "ٱللَّهِ",
+   "tanzil": "ٱللَّهِ ۚ",
+   "ref": "2:115"
+  }
+ ],
+ "keyer_notes": {
+  "keyA": {
+   "uncertain": [
+    {
+     "page": 149,
+     "reading": "محَبَّةً",
+     "why": "Only one fatha printed over the مح ligature; cannot tell whether it belongs to م or ح."
+    },
+    {
+     "page": 150,
+     "reading": "الْأَكْوَان",
+     "why": "In «فَيَسَعُ الْأَكْوانَ…» a single fatha sits over the و/ا area, not clearly over the final ن; read as fatha on و, nothing on ن."
+    },
+    {
+     "page": 151,
+     "reading": "بِلسَانٍ",
+     "why": "One kasra between ب and ل in «بلسان عربي»; unclear which letter carries it."
+    }
+   ],
+   "print_errors": [
+    {
+     "page": 152,
+     "text": "فَلَا يَشْغَلَنِي",
+     "note": "Printed with fatha on ل (يَشْغَلَنِي); kept as printed."
+    }
+   ],
+   "notes": "p149 opens day-5 page (أعوذ بالله + basmala + Quran); p148 ends with a complete paragraph, so plain marker. p150–151 start new numbered prayers (plain markers). p152 continues the sentence from p151 (<<<ص:152+>>>). Divine Names in red marked with ==…==; repeated Names at the end of prayers are black. Item numbers «٦٩/ ٧٠-», «٧١/ ٧٢-», «٧٣/ ٧٤-» keep the printed space after the slash. Several commas printed without a following space were written with a normal space. Quran text encoded from ref/quran-uthmani.txt, checked against the print (small low mim on مُّقْتَدِرٍۭ is printed)."
+  },
+  "keyB": {
+   "uncertain": [
+    {
+     "page": 149,
+     "reading": "مَحبَّةً",
+     "why": "only three marks over محبة (fatha, shadda+fatha, tanween); the first fatha sits over the م/ح ligature, unclear whether it belongs to م or ح"
+    },
+    {
+     "page": 150,
+     "reading": "الْمظَاهِرِ",
+     "why": "in «فِي الْمظَاهِرِ» a sukun-shaped hook over ل and one fatha over ظ; no separate mark visible on م (could be intended الْمَظَاهِرِ)"
+    },
+    {
+     "page": 150,
+     "reading": "بِالْمظَاهِرِ",
+     "why": "same mark pattern as above in «وَلَا أَنْشَغِلَ بِالْمظَاهِرِ»"
+    },
+    {
+     "page": 151,
+     "reading": "أَسْبَاب",
+     "why": "only one fatha visible after the sukun, placed over the first ب before the alif; no mark seen on the final ب"
+    },
+    {
+     "page": 152,
+     "reading": "مرَاتِبَ",
+     "why": "in «وَتُعَرِّفُنِي مرَاتِبَ الْأَحْكَامِ» only one fatha before the alif, placed between م and ر"
+    }
+   ],
+   "print_errors": [],
+   "notes": "p149 starts a new day page (أعوذ + basmala + Quran), not a continuation; أعوذ line written as a bold paragraph, as in my earlier batches for the matching pages. Comma followed directly by the next word without a space (e.g. تَوَلَّيْتُ،فَلَا) is normalized to comma + space. Item numbers printed «٦٩/ ٧٠-», «٧١/ ٧٢-», «٧٣/ ٧٤-» (with a space after the slash) are written without the space: ٦٩/٧٠-. Several آلِه are printed with only one kasra (under the ل); written آلِه. Final ت in ظَهَرَتْ، رُزِقَتْ، هُدِيَتْ (p150) carries a sukun, i.e. feminine verbs. On p151 the closing «يَا قَادِرُ عَلَى» and on p150 the closing names are printed black (not red). p152 continues p151 mid-sentence (marker +)."
+  }
+ }
+}

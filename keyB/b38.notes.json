@@ -1,0 +1,9 @@
+{"uncertain": [
+ {"page": 149, "reading": "مَحبَّةً", "why": "only three marks over محبة (fatha, shadda+fatha, tanween); the first fatha sits over the م/ح ligature, unclear whether it belongs to م or ح"},
+ {"page": 150, "reading": "الْمظَاهِرِ", "why": "in «فِي الْمظَاهِرِ» a sukun-shaped hook over ل and one fatha over ظ; no separate mark visible on م (could be intended الْمَظَاهِرِ)"},
+ {"page": 150, "reading": "بِالْمظَاهِرِ", "why": "same mark pattern as above in «وَلَا أَنْشَغِلَ بِالْمظَاهِرِ»"},
+ {"page": 151, "reading": "أَسْبَاب", "why": "only one fatha visible after the sukun, placed over the first ب before the alif; no mark seen on the final ب"},
+ {"page": 152, "reading": "مرَاتِبَ", "why": "in «وَتُعَرِّفُنِي مرَاتِبَ الْأَحْكَامِ» only one fatha before the alif, placed between م and ر"}
+],
+"print_errors": [],
+"notes": "p149 starts a new day page (أعوذ + basmala + Quran), not a continuation; أعوذ line written as a bold paragraph, as in my earlier batches for the matching pages. Comma followed directly by the next word without a space (e.g. تَوَلَّيْتُ،فَلَا) is normalized to comma + space. Item numbers printed «٦٩/ ٧٠-», «٧١/ ٧٢-», «٧٣/ ٧٤-» (with a space after the slash) are written without the space: ٦٩/٧٠-. Several آلِه are printed with only one kasra (under the ل); written آلِه. Final ت in ظَهَرَتْ، رُزِقَتْ، هُدِيَتْ (p150) carries a sukun, i.e. feminine verbs. On p151 the closing «يَا قَادِرُ عَلَى» and on p150 the closing names are printed black (not red). p152 continues p151 mid-sentence (marker +)."}

@@ -1,0 +1,11 @@
+{"uncertain": [
+ {"page": 158, "reading": "الْمَشَقَّةَ", "why": "Only one fatha is printed over the lam-mim/shin junction; cannot tell whether it belongs to م or ش (the other letter then has no haraka)."},
+ {"page": 158, "reading": "عَوَالِمِي", "why": "Only one kasra is printed under the vertical lam-mim ligature; unclear whether it belongs to ل or م."},
+ {"page": 159, "reading": "وَالْمَحَبَّةَ", "why": "Only one fatha printed between م and ح; cannot tell which letter carries it."}
+],
+"print_errors": [
+ {"page": 158, "text": "عِنْدَ كُلِّ صَلَاةِ", "note": "Printed with a single kasra on ة (expected tanween صَلَاةٍ); kept as printed."},
+ {"page": 160, "text": "مُحَمَّدُِ النِّهَايَةِ، مَحْمُودُِ السِّيرَةِ", "note": "Both damma and kasra are printed on the final dal of each word; kept both as printed."},
+ {"page": 160, "text": "سَيِّدَنا", "note": "Fatha on dal in the first line of (١٦), kept as printed."}
+],
+"notes": "p157 starts a new item (٨٢) so no '+' marker; no footnote continues from p156. آلِه is printed with a single kasra (on lam only) on pp.157-159, but آلِهِ with two kasras on p160. Quran on p158 uses dotless ى in تُؤْتِى and شَىْءٍ and the ۖ sign after تَشَآءُ and ٱلْخَيْرُ. A stray dot in the empty area of p159 was ignored. The whole divine name مَالِكَ الْمُلْكِ (p158) and ذَا الْجَلَالِ وَالْإِكْرَامِ (p159) is red. p160 has no red text."}

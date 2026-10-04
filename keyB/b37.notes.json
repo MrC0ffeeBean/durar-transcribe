@@ -1,0 +1,4 @@
+{"uncertain": [{"page": 145, "reading": "الَأَرْضِ", "why": "In «مفاتح خزائن الأرض» a fatha seems printed on the lam of the article as well as the fatha on the hamza (and sukun on ر); the mark positions on the لأ ligature are ambiguous."}],
+ "print_errors": [{"page": 147, "text": "سَيِّدَنا", "note": "Prayer (١٣): the dal carries a fatha (expected kasra سَيِّدِنَا); kept as printed."},
+  {"page": 147, "text": "مُحَمَّدُِ / مَحْمُودُِ", "note": "Both a damma above and a kasra below the final dal are printed; both kept."}],
+ "notes": "p145 continues the prayer ٦٣ from p144 (+). p148 continues the صلاة التجلي sentence from p147 (+). Commas printed glued to the next word were written with a following space. A small space printed before the final period on pp.145-146 was not reproduced. Red divine Names: قَيُّومُ, واجِدُ (waw without fatha as printed), مَاجِدُ. Quran spans encoded per the Tanzil table and checked against the image (21:107, 27:6, 42:52)."}

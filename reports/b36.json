@@ -1,0 +1,313 @@
+{
+ "batch": "b36",
+ "agreement": 0.9601,
+ "counts": {
+  "haraka": 16,
+  "uncertain": 1,
+  "punct": 2
+ },
+ "n_items": 19,
+ "n_quran_flags": 2,
+ "n_uncertain_flags": 0,
+ "mode": "spots",
+ "choices": {
+  "A": 2,
+  "B": 18,
+  "T": 0,
+  "custom": 1
+ },
+ "decisions": [
+  {
+   "id": "d001",
+   "page": 141,
+   "type": "haraka",
+   "a": "آلِهِ، الَّذِي [؟:تَبَرَّأَ] مِنْ حَوْلِهِ وَقُوَّتِهِ",
+   "b": "آلِه، الَّذِي تبَرَّأَ مِنْ حَوْلِه وَقُوَّتِه",
+   "tanzil": null,
+   "choice": "B",
+   "note": "zoom: آلِه، حَوْلِه، وَقُوَّتِه each with only one kasra under the letter before ه; تبَرَّأَ with no fatha on ت, clearly legible",
+   "result": "آلِه، الَّذِي تبَرَّأَ مِنْ حَوْلِه وَقُوَّتِه"
+  },
+  {
+   "id": "d002",
+   "page": 141,
+   "type": "haraka",
+   "a": "بِاللَّهِ،",
+   "b": "بِالله،",
+   "tanzil": null,
+   "choice": "B",
+   "note": "بالله printed with only the font's automatic shadda/alif, kasra under ب only, no case vowel",
+   "result": "بِالله،"
+  },
+  {
+   "id": "d003",
+   "page": 141,
+   "type": "haraka",
+   "a": "وَمُجاهَدَةِ",
+   "b": "وَمُجَاهَدَةِ",
+   "tanzil": null,
+   "choice": "B",
+   "note": "fatha clearly visible on ج in وَمُجَاهَدَةِ",
+   "result": "وَمُجَاهَدَةِ"
+  },
+  {
+   "id": "d004",
+   "page": 141,
+   "type": "haraka",
+   "a": "آلِهِ،",
+   "b": "آلِه،",
+   "tanzil": null,
+   "choice": "B",
+   "note": "آلِه: kasra under ل only, none under ه",
+   "result": "آلِه،"
+  },
+  {
+   "id": "d005",
+   "page": 141,
+   "type": "haraka",
+   "a": "أَتوَغَّلَ",
+   "b": "أَتَوَغَّلَ",
+   "tanzil": null,
+   "choice": "B",
+   "note": "fatha visible on ت in أَتَوَغَّلَ",
+   "result": "أَتَوَغَّلَ"
+  },
+  {
+   "id": "d006",
+   "page": 141,
+   "type": "uncertain",
+   "a": "[؟:وَأَتَجَنَّبَ]",
+   "b": "وَأَتَجَنَّبَ",
+   "tanzil": null,
+   "choice": "custom",
+   "note": "clearly legible: وَأَتَجَنَّبَ",
+   "result": "وَأَتَجَنَّبَ"
+  },
+  {
+   "id": "d007",
+   "page": 142,
+   "type": "haraka",
+   "a": "آلِهِ،",
+   "b": "آلِه،",
+   "tanzil": null,
+   "choice": "B",
+   "note": "آلِه: no kasra under ه",
+   "result": "آلِه،"
+  },
+  {
+   "id": "d008",
+   "page": 142,
+   "type": "haraka",
+   "a": "آلِهِ،",
+   "b": "آلِه،",
+   "tanzil": null,
+   "choice": "B",
+   "note": "آلِه: no kasra under ه",
+   "result": "آلِه،"
+  },
+  {
+   "id": "d009",
+   "page": 142,
+   "type": "haraka",
+   "a": "آلِهِ،",
+   "b": "آلِه،",
+   "tanzil": null,
+   "choice": "B",
+   "note": "آلِه: no kasra under ه",
+   "result": "آلِه،"
+  },
+  {
+   "id": "d010",
+   "page": 143,
+   "type": "haraka",
+   "a": "مُرَاقَبَتِهِ",
+   "b": "مُرَاقَبَتِه",
+   "tanzil": null,
+   "choice": "B",
+   "note": "مُرَاقَبَتِه: kasra under ت only",
+   "result": "مُرَاقَبَتِه"
+  },
+  {
+   "id": "d011",
+   "page": 143,
+   "type": "haraka",
+   "a": "وَآلِهِ",
+   "b": "وَآلِه",
+   "tanzil": null,
+   "choice": "B",
+   "note": "وَآلِه: no kasra under ه",
+   "result": "وَآلِه"
+  },
+  {
+   "id": "d012",
+   "page": 143,
+   "type": "haraka",
+   "a": "[؟:لِله]",
+   "b": "لله",
+   "tanzil": null,
+   "choice": "B",
+   "note": "zoom: لله printed bare (the kasra seen is under ت of تِسْعَةً)",
+   "result": "لله"
+  },
+  {
+   "id": "d013",
+   "page": 143,
+   "type": "punct",
+   "a": "٥٩/ ٦٠-",
+   "b": "٥٩/٦٠-",
+   "tanzil": null,
+   "choice": "B",
+   "note": "item number; earlier finals write ٢١/٢٢- without space; gap in print is minimal",
+   "result": "٥٩/٦٠-"
+  },
+  {
+   "id": "d014",
+   "page": 143,
+   "type": "haraka",
+   "a": "آلِهِ،",
+   "b": "آلِه،",
+   "tanzil": null,
+   "choice": "B",
+   "note": "آلِه: no kasra under ه",
+   "result": "آلِه،"
+  },
+  {
+   "id": "d015",
+   "page": 144,
+   "type": "punct",
+   "a": "٦١/ ٦٢-",
+   "b": "٦١/٦٢-",
+   "tanzil": null,
+   "choice": "B",
+   "note": "item number, consistent with earlier finals (no space after slash)",
+   "result": "٦١/٦٢-"
+  },
+  {
+   "id": "d016",
+   "page": 144,
+   "type": "haraka",
+   "a": "آلِهِ،",
+   "b": "آلِه،",
+   "tanzil": null,
+   "choice": "B",
+   "note": "آلِه: no kasra under ه",
+   "result": "آلِه،"
+  },
+  {
+   "id": "d017",
+   "page": 144,
+   "type": "haraka",
+   "a": "فِي",
+   "b": "في",
+   "tanzil": null,
+   "choice": "B",
+   "note": "zoom: في printed without kasra",
+   "result": "في"
+  },
+  {
+   "id": "d018",
+   "page": 144,
+   "type": "haraka",
+   "a": "آلِهِ،",
+   "b": "آلِه،",
+   "tanzil": null,
+   "choice": "B",
+   "note": "آلِه: no kasra under ه",
+   "result": "آلِه،"
+  },
+  {
+   "id": "d019",
+   "page": 144,
+   "type": "haraka",
+   "a": "لِلْأَكْوَانِ",
+   "b": "لِلْأَكْوانِ",
+   "tanzil": null,
+   "choice": "B",
+   "note": "zoom: لِلْأَكْوانِ, no fatha on و",
+   "result": "لِلْأَكْوانِ"
+  },
+  {
+   "id": "q001",
+   "page": 141,
+   "type": "quran_marks",
+   "a": "رَمَىٰ",
+   "b": null,
+   "tanzil": "رَمَىٰ ۚ",
+   "choice": "A",
+   "note": "zoom: no waqf mark after رَمَىٰ before the closing bracket; quote ends there (print variant)",
+   "result": "رَمَىٰ"
+  },
+  {
+   "id": "q002",
+   "page": 144,
+   "type": "quran_letters",
+   "a": "ۚ",
+   "b": null,
+   "tanzil": "لِلْكُتُبِ ۚ",
+   "choice": "A",
+   "note": "print shows the ۚ mark at the start of the quote, before كَمَا; preceding word لِلْكُتُبِ not printed",
+   "result": "ۚ"
+  }
+ ],
+ "extra_edits": [],
+ "rules": {
+  "plain_final_ya": {},
+  "name_full_marks": {}
+ },
+ "unresolved_uncertain": [],
+ "quran_residual": [
+  {
+   "page": 141,
+   "kind": "quran_marks",
+   "keyed": "رَمَىٰ",
+   "tanzil": "رَمَىٰ ۚ",
+   "ref": "8:17"
+  },
+  {
+   "page": 144,
+   "kind": "quran_letters",
+   "keyed": "ۚ",
+   "tanzil": "لِلْكُتُبِ ۚ",
+   "ref": "21:104"
+  }
+ ],
+ "keyer_notes": {
+  "keyA": {
+   "uncertain": [
+    {
+     "page": 141,
+     "reading": "تَبَرَّأَ",
+     "why": "Only one fatha is visible over the ت/ب pair, and it sits between the two letters. It is unclear whether ت or ب carries it or whether both do."
+    },
+    {
+     "page": 141,
+     "reading": "وَأَتَجَنَّبَ",
+     "why": "The marks over the stacked تج ligature are crowded, so the fatha on ت versus ج cannot be confirmed even at 1400 dpi."
+    },
+    {
+     "page": 143,
+     "reading": "لِله",
+     "why": "In «إِنَّ لله تِسْعَةً» a low kasra-like stroke appears under the lams of the لله ligature, well below the other marks on the line. It could be a kasra on ل, or a stray mark."
+    }
+   ],
+   "print_errors": [
+    {
+     "page": 142,
+     "text": "وَعَظَمَةِ سُلْطَانِك",
+     "note": "The only mark under the last letters of سلطانك is one kasra, which sits under ن; ك has no fatha. Transcribed as printed."
+    },
+    {
+     "page": 141,
+     "text": "أَتوَغَّلَ",
+     "note": "At 1400 dpi ت has no fatha; the fatha sits on و. Transcribed as printed."
+    }
+   ],
+   "notes": "Page 141 continues the end of prayer 53 from p.140 («مُفَوِّضًا أَمْرِي إِلَيْكَ»), so it is marked +. Pages 143 and 144 also continue mid-sentence and are marked +. Every يا before a divine Name has a small fatha at high zoom (it is invisible in the crops), so it is written يَا throughout. Lam-mim words such as الْمَتِينِ, الْمَحْمُودُ, الْمَقَامِ and الْمَوْتَ show the ل sukun stacked over a short fatha stroke; I read the stroke as the fatha on م. Words like آلِهِ, بِهِ, حَوْلِهِ, وَقُوَّتِهِ and مُرَاقَبَتِهِ show only one kasra at the لِه/بِه ligature. I took this as the kasra of the letter and the kasra of ه drawn on top of each other at the same anchor, and wrote both (آلِهِ). Please check this against keyB. The divine Name has a printed case vowel in «إِلَّا بِاللَّهِ» (kasra), «صَلَّى اللَّهُ» and «يَا اللَّهُ» (damma), so the full marks are written there; «حَامِدٍ لله» and «إِنَّ لله» have no case vowel. Quran p.144: the waqf ج printed at the opening bracket of «كَمَا بَدَأْنَآ» (it belongs to «لِلْكُتُبِ ۚ» in the full ayah) is written inside the bracket as «﴿ۚ كَمَا». Prayer numbers are written as printed, with the space after the slash: ٥٩/ ٦٠- and ٦١/ ٦٢-. Commas printed without a following space on p.144 are written with one normal space. The word «استجابَ» on p.144 is printed with a fatha on ب only."
+  },
+  "keyB": {
+   "uncertain": [],
+   "print_errors": [],
+   "notes": "p141 continues p140 (+); p143 and p144 continue the previous page (+). p144: a waqf sign ۚ (ج) is printed at the opening bracket before «كَمَا بَدَأْنَآ» (Tanzil has it after the preceding word «لِلْكُتُبِ», outside this quotation); kept as ﴿ۚ كَمَا…. p141: no waqf sign printed after «رَمَىٰ» (Tanzil has ۚ). Many words print only one kasra on «آلِه», «حَوْلِه», «وَقُوَّتِه», «مُرَاقَبَتِه», «سُلْطَانِك» (kasra under the letter before final ه/ك only) — transcribed as printed. Stacked mark (sukun over fatha/damma) over lam+next letter read as sukun on lam + vowel on the next letter (e.g. الْمَتِينِ); on p142 first «وَالأَفْعَالِ» the lam has no separate sukun (the stack sits on the hamza: fatha + sukun of ف), unlike the later «وَالْأَفْعَالِ». «وبَارِكْ» printed without fatha on و except in no.63 (وَبَارِكْ). «استجابَ» (p144) printed without harakat except final fatha."
+  }
+ }
+}

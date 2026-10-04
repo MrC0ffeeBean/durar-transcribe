@@ -1,0 +1,198 @@
+{
+ "batch": "b40",
+ "agreement": 0.9723,
+ "counts": {
+  "haraka": 6,
+  "punct": 1,
+  "uncertain": 3
+ },
+ "n_items": 10,
+ "n_quran_flags": 0,
+ "n_uncertain_flags": 0,
+ "mode": "spots",
+ "choices": {
+  "A": 6,
+  "B": 4,
+  "T": 0,
+  "custom": 0
+ },
+ "decisions": [
+  {
+   "id": "d001",
+   "page": 157,
+   "type": "haraka",
+   "a": "آلِهِ،",
+   "b": "آلِه،",
+   "tanzil": null,
+   "choice": "B",
+   "note": "zoom: آلِه has kasra under ل only, no kasra under ه",
+   "result": "آلِه،"
+  },
+  {
+   "id": "d002",
+   "page": 157,
+   "type": "haraka",
+   "a": "آلِهِ،",
+   "b": "آلِه،",
+   "tanzil": null,
+   "choice": "B",
+   "note": "zoom: آلِه printed without kasra on ه",
+   "result": "آلِه،"
+  },
+  {
+   "id": "d003",
+   "page": 158,
+   "type": "punct",
+   "a": "تَشَآءُ ۖ بِيَدِكَ ٱلْخَيْرُ ۖ",
+   "b": "تَشَآءُۖ بِيَدِكَ ٱلْخَيْرُۖ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "waqf signs written as separate tokens (Tanzil/project style); signs ۖ visible after تشاء and الخير",
+   "result": "تَشَآءُ ۖ بِيَدِكَ ٱلْخَيْرُ ۖ"
+  },
+  {
+   "id": "d004",
+   "page": 158,
+   "type": "haraka",
+   "a": "آلِهِ،",
+   "b": "آلِه،",
+   "tanzil": null,
+   "choice": "B",
+   "note": "آلِه printed without kasra on ه, same as other occurrences",
+   "result": "آلِه،"
+  },
+  {
+   "id": "d005",
+   "page": 158,
+   "type": "haraka",
+   "a": "أُمَّتِهِ",
+   "b": "أُمَّتِه",
+   "tanzil": null,
+   "choice": "A",
+   "note": "high zoom: two kasras, under ت and under ه",
+   "result": "أُمَّتِهِ"
+  },
+  {
+   "id": "d006",
+   "page": 158,
+   "type": "uncertain",
+   "a": "الْمَشَقَّةَ",
+   "b": "[؟:الْمَشَقَّةَ]",
+   "tanzil": null,
+   "choice": "A",
+   "note": "sukun on lam, fatha in the lam-mim ligature, shadda+fatha on ق; reads الْمَشَقَّةَ",
+   "result": "الْمَشَقَّةَ"
+  },
+  {
+   "id": "d007",
+   "page": 158,
+   "type": "haraka",
+   "a": "عِندَ",
+   "b": "عِنْدَ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "no sukun on ن in عِندَ",
+   "result": "عِندَ"
+  },
+  {
+   "id": "d008",
+   "page": 158,
+   "type": "uncertain",
+   "a": "عَوَالِمِي",
+   "b": "[؟:عَوَالِمِي]",
+   "tanzil": null,
+   "choice": "A",
+   "note": "zoom: fatha on ع and و, عَوَالِمِي clear",
+   "result": "عَوَالِمِي"
+  },
+  {
+   "id": "d009",
+   "page": 159,
+   "type": "uncertain",
+   "a": "وَالْمَحَبَّةَ،",
+   "b": "[؟:وَالْمَحَبَّةَ]،",
+   "tanzil": null,
+   "choice": "A",
+   "note": "sukun on lam, fatha in lam-mim ligature, shadda+fatha on ب, fatha on ة: وَالْمَحَبَّةَ",
+   "result": "وَالْمَحَبَّةَ،"
+  },
+  {
+   "id": "d010",
+   "page": 159,
+   "type": "haraka",
+   "a": "آلِهِ،",
+   "b": "آلِه،",
+   "tanzil": null,
+   "choice": "B",
+   "note": "آلِه with kasra under ل only, as elsewhere in batch",
+   "result": "آلِه،"
+  }
+ ],
+ "extra_edits": [],
+ "rules": {
+  "plain_final_ya": {},
+  "name_full_marks": {}
+ },
+ "unresolved_uncertain": [],
+ "quran_residual": [],
+ "keyer_notes": {
+  "keyA": {
+   "uncertain": [],
+   "print_errors": [
+    {
+     "page": 158,
+     "text": "عِندَ كُلِّ صَلَاةِ",
+     "note": "صلاة printed with a single kasra (expected tanween صَلَاةٍ); kept as printed. Also عِندَ printed without sukun on ن."
+    },
+    {
+     "page": 160,
+     "text": "سَيِّدَنا مُحَمَّدٍ",
+     "note": "In prayer (١٦) سيدنا is printed with fatha on د and nothing on ن (expected سَيِّدِنَا); kept as printed, same as the earlier days' البرزخية prayers."
+    },
+    {
+     "page": 160,
+     "text": "مُحَمَّدُِ / مَحْمُودُِ",
+     "note": "Both damma and kasra printed on the final د of محمد and محمود in prayer (١٦); kept both, as on earlier days."
+    }
+   ],
+   "notes": "p156 ends with a complete paragraph (prayer ٨١), so p157 has a plain marker; no footnote continues. Divine Names in red marked ==…== (عَفُوُّ، رَءُوفُ، مَالِكَ الْمُلْكِ، ذَا الْجَلَالِ وَالْإِكْرَامِ). In red الْجَلَالِ (p159) the round sukun on ل touches the fatha on ج; read as sukun+fatha. الْأَكْوانَ on p157 has no fatha on و (fatha present on p158 الْأَكْوَانِ). وَلِوَالِدِيْنَا on p159 has a sukun on ي as printed. A stray small dot below the text on p159 (about 44% page height) was treated as a print speck and omitted. Quran (آل عمران ٢٦، الأنبياء ١٠٧، النمل ٦) encoded per Tanzil Uthmani, checked against print (waqf ۖ after تشاء and الخير printed). p160 ends mid-sentence (continues on p161). Headings on p160: ## صلوات اليوم السادس, ### الصلاة البرزخية, ### صلاة التجلي. All small harakat were verified at 1100-1800 dpi zooms since 480 dpi renders dropped some fathas."
+  },
+  "keyB": {
+   "uncertain": [
+    {
+     "page": 158,
+     "reading": "الْمَشَقَّةَ",
+     "why": "Only one fatha is printed over the lam-mim/shin junction; cannot tell whether it belongs to م or ش (the other letter then has no haraka)."
+    },
+    {
+     "page": 158,
+     "reading": "عَوَالِمِي",
+     "why": "Only one kasra is printed under the vertical lam-mim ligature; unclear whether it belongs to ل or م."
+    },
+    {
+     "page": 159,
+     "reading": "وَالْمَحَبَّةَ",
+     "why": "Only one fatha printed between م and ح; cannot tell which letter carries it."
+    }
+   ],
+   "print_errors": [
+    {
+     "page": 158,
+     "text": "عِنْدَ كُلِّ صَلَاةِ",
+     "note": "Printed with a single kasra on ة (expected tanween صَلَاةٍ); kept as printed."
+    },
+    {
+     "page": 160,
+     "text": "مُحَمَّدُِ النِّهَايَةِ، مَحْمُودُِ السِّيرَةِ",
+     "note": "Both damma and kasra are printed on the final dal of each word; kept both as printed."
+    },
+    {
+     "page": 160,
+     "text": "سَيِّدَنا",
+     "note": "Fatha on dal in the first line of (١٦), kept as printed."
+    }
+   ],
+   "notes": "p157 starts a new item (٨٢) so no '+' marker; no footnote continues from p156. آلِه is printed with a single kasra (on lam only) on pp.157-159, but آلِهِ with two kasras on p160. Quran on p158 uses dotless ى in تُؤْتِى and شَىْءٍ and the ۖ sign after تَشَآءُ and ٱلْخَيْرُ. A stray dot in the empty area of p159 was ignored. The whole divine name مَالِكَ الْمُلْكِ (p158) and ذَا الْجَلَالِ وَالْإِكْرَامِ (p159) is red. p160 has no red text."
+  }
+ }
+}

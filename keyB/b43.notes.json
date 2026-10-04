@@ -1,0 +1,9 @@
+{"uncertain": [],
+ "print_errors": [
+  {"page": 169, "text": "أَثَر إِرْشَادِك", "note": "no fatha printed on final ر of أثر nor on ك of إرشادك (zoomed at 900 dpi); kept as printed"},
+  {"page": 169, "text": "فَلَا تَعْجَلُ", "note": "damma printed on ل after لا الناهية (expected sukun); kept as printed"},
+  {"page": 171, "text": "خادمي النبي ﷺ", "note": "printed خادمي (plural construct) though only ربيعة is a servant; kept as printed"},
+  {"page": 172, "text": "إلى، القطب", "note": "stray comma after إلى printed; kept"},
+  {"page": 172, "text": "إلي القطب سيدي عبد الرحمن المدني", "note": "printed إلي with dotted yeh instead of إلى; kept"}
+ ],
+ "notes": "p169 starts new item ٩٨ (no +). p170, p172 continue previous page (+). p171 starts # heading per STRUCTURE. On p169 لِأَمْرِ الله: lam-alif ligature with fatha above and kasra below, read as لِأَمْرِ; الله printed bare. يَا on p169 shows fatha at high zoom. إِنَّما and لِيَومٍ and تُهمِلُ written with only the marks printed. p171/172 body is unvowelled; رضي الله عنهم printed as words (no glyph)."}

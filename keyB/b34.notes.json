@@ -1,0 +1,6 @@
+{"uncertain": [{"page": 135, "reading": "وَتَجَلِّي", "why": "Only one fatha is printed over the stacked ta-jim; it most likely sits on the ta, but it could belong to the jim."}],
+ "print_errors": [
+  {"page": 134, "text": "سَيِّدَنا", "note": "In prayer (١٠) the dal has a fatha where a kasra (سَيِّدِنا) is expected. Kept as printed."},
+  {"page": 134, "text": "مُحَمَّدُِ / مَحْمُودُِ", "note": "Each dal has both a damma above and a kasra below. Both marks are kept as printed."}
+ ],
+ "notes": "p.133 starts a new numbered prayer (٤٥), so it has no '+'. p.135 continues the sentence from p.134 ('+'). On p.136 the bold centered isti'adha line is a bold paragraph and the bullet glyph is written as '*'. The two footnotes on p.135 have identical text."}

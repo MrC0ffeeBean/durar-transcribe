@@ -1,0 +1,7 @@
+{
+  "uncertain": [],
+  "print_errors": [
+    {"page": 167, "text": "وَتَهْدِنِي بِهَا لِمَا اخْتُلِفَ فِيهِ", "note": "Printed without the yeh after dal (expected وَتَهْدِيَنِي/وَتَهْدِينِي); kept as printed."}
+  ],
+  "notes": "p165 starts with + (item 90 continues from p164); p166, p167, p168 also continue the previous item, so all use +. p165: بالله twice and لله are printed with a case kasra under the heh but no kasra under the bā/lām, so I wrote باللَّهِ / للَّهِ (CONVENTIONS rule on الله); عَنِ اللَّهِ also has a kasra. p165: لِيَتَضرَّعُوا has no haraka on the ḍād in print. p167: صِراطِكَ is printed without a fatha on the rā (the earlier صِرَاطَكَ on p166 has one). p168: لِأَبقَى has no sukun on the bā; والاجْتِهَادَ has no fatha on the wāw and no kasra under the lām-alif. p168: the kasra in الِاسْتِئْصَالِ sits under the lām-alif ligature; I encoded it on the lām. Quran passages follow ref/quran-uthmani.txt (without the ۞ sign, which is not printed) and were checked against the image. Footnote on p165: (١١/ ٢١٨) has a space after the slash, as printed."
+}

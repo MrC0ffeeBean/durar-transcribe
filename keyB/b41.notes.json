@@ -1,0 +1,7 @@
+{
+  "uncertain": [
+    {"page": 162, "reading": "محَبَّةً", "why": "Besides the shadda+fatha on ب and the tanween only one plain fatha is printed over the مح ligature; by its position it seems to sit on ح, not م (compare p.164 where the same word has two fathas)."}
+  ],
+  "print_errors": [],
+  "notes": "p161 continues the sentence of p160 (marker +); no footnote continues. p164 continues the sentence ending p163 ('وَأَنْ تَجْمَعَنِي عَلَى سَيِّدِنَا' / 'مُحَمَّدٍ'), marker +. Red divine names: مُقْسِطُ, جَامِعَ (p163), غَنِيُّ, مُغْنِي, مُعْطِي (p164); وَيَا مَانِعُ and وَيَا جَامِعَ النَّاسِ are printed black. Partial vowelling kept as printed, e.g. p163 'وَالْموْتِ' (no fatha on م, sukun on ل and و), p164 'وجَعَلْتَهُ' (no fatha on و), p161 'المُتَخَلِّقِ' (no sukun on lam), p162 'وَبارِكْ بِأَسْمائِكَ' in the first prayer but 'بِأَسْمَائِكَ' at its end; آلِه vs آلِهِ distinguished per occurrence. Missing spaces after commas in print (e.g. 'قِيَامٍ،صَلَاةً') normalized to one space. اللهُ/اللهِ/اللهَ with printed case vowel written اللَّه…; bare لله kept."
+}

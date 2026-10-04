@@ -1,0 +1,9 @@
+{
+  "uncertain": [],
+  "print_errors": [
+    {"page": 137, "text": "صَلَّى اللَّهُ عَلَيْهِ وَآلَهُ وَسَلَّمَ", "note": "«وَآلَهُ» printed with fatha on lam and damma on heh (expected وَآلِهِ); kept as printed."},
+    {"page": 138, "text": "عَبْدِ الْمُجِيدِ / الْحَمِيدِ الْمُجِيدِ", "note": "At 1000 dpi the mark over lam-mim is the sukun+damma stack (same shape as in الْمُتَوَكِّلُ on p.140), i.e. damma on mim, whereas the Name is مَجِيد (red «مَجِيدُ» has fatha). Kept as printed; worth a second look."},
+    {"page": 139, "text": "لِلْمَلِكِ الْمُعْبُودِ", "note": "Same sukun+damma stack over lam-mim (expected الْمَعْبُودِ); kept as printed."}
+  ],
+  "notes": "p.137 starts a new numbered prayer (٤٦), so no '+'; pp.138-140 each continue the previous page's sentence ('+'). The Quran quotation of al-Shura 52 is split by the page turn (p.138 ends «﴿وَإِنَّكَ», p.139 starts «لَتَهْدِىٓ … ﴾»); since validate.py requires balanced ﴿﴾ per line, I closed it at the end of p.138 and reopened it at the start of p.139 (by analogy with poetry fences, CONVENTIONS §8) — the printed page has only the outer brackets. Every «يا» on these pages carries a small fatha visible only at ~600+ dpi; all written يَا. Missing spaces after commas in the print (e.g. «وَعِلْمًا،فَوَسِعَ») normalized to one space. «بِالله» on p.139 has no case vowel printed, so left bare; «وَاللَّهُ», «يَا اللَّهُ» had damma printed. «له:» on p.140 printed without harakat. «وبَارِكْ», «ومِمَّن», «وتَغْفِرَ», «وقُلْتَ» have no fatha on the waw in print (checked at 900 dpi). quran.py flags 2:115 for the missing ۚ after ٱللَّهِ: the quotation ends there and no waqf sign is printed."
+}

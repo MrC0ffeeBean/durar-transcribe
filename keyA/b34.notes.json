@@ -1,0 +1,10 @@
+{
+  "uncertain": [
+    {"page": 133, "reading": "الْمَعْدُومِ", "why": "Marks over «المعدوم» are crowded: jazm on lam and sukun on ain are clear, but whether a fatha also sits on the mim could not be confirmed even at high zoom."}
+  ],
+  "print_errors": [
+    {"page": 134, "text": "سَيِّدَنا", "note": "Printed with fatha on dal (expected سَيِّدِنا), same as the parallel prayer on p.123; kept as printed."},
+    {"page": 134, "text": "مُحَمَّدُِ / مَحْمُودُِ", "note": "Both damma and kasra are printed on the final dal of each word; kept both, as on p.123."}
+  ],
+  "notes": "p.133 starts a new numbered prayer (٤٥), so no '+'. p.135 continues the صلاة التجلي sentence from p.134 (marker '+'). Footnote reference «(١٣/ ٢٢)» on p.133 written in the visual order printed (volume/page format as elsewhere). «أَهْلاً» on p.133 written with the tanween on the alif as printed. Several «يا» on p.133/136 are printed without fatha while others have it; copied per occurrence. Quran in p.136 encoded as Tanzil (ٱلنَّبِىِّ ۚ with small jeem visible in print)."
+}

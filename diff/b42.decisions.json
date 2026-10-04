@@ -1,0 +1,42 @@
+{
+ "mode": "spots",
+ "decisions": {
+  "d001": {
+   "choice": "B",
+   "note": "1400dpi zoom: only one mark (sukun) on the lam-mim ligature of المانع; no fatha on م"
+  },
+  "d002": {
+   "choice": "B",
+   "note": "900dpi zoom: two stacked sukuns (ل and ن) on المنع in both occurrences, no fatha on م"
+  },
+  "d003": {
+   "choice": "B",
+   "note": "900dpi zoom: same as d002, sukuns on ل and ن only, no fatha on م"
+  },
+  "d004": {
+   "choice": "B",
+   "note": "double prayer number; spacing around the slash is typographic; written ٩١/٩٢- like the other paired numbers in the book (٢١/٢٢-, ٥٩/٦٠-)"
+  },
+  "d005": {
+   "choice": "A",
+   "note": "zoom: no fatha on ض in لِيَتَضرَّعُوا, only shadda+fatha on ر"
+  },
+  "d006": {
+   "choice": "B",
+   "note": "900dpi zoom: only sukun on lam-mim of المظاهر, fatha on ظ; no fatha on م"
+  },
+  "d007": {
+   "choice": "B",
+   "note": "900dpi zoom: sukun on ل and on س in المسخ, no fatha on م"
+  },
+  "d008": {
+   "choice": "A",
+   "note": "900dpi zoom: no sukun on ب in لِأَبقَى; only fatha on hamza-alif and on ق"
+  },
+  "q001": {
+   "choice": "A",
+   "note": "print ends the quotation at يَشَآءُ with the closing bracket; the waqf ۚ belongs after it in Tanzil but is not printed since the quote stops there"
+  }
+ },
+ "extra_edits": []
+}

@@ -1,0 +1,215 @@
+{
+ "batch": "b39",
+ "agreement": 0.9728,
+ "counts": {
+  "haraka": 15,
+  "punct": 1
+ },
+ "n_items": 16,
+ "n_quran_flags": 0,
+ "n_uncertain_flags": 0,
+ "mode": "spots",
+ "choices": {
+  "A": 3,
+  "B": 12,
+  "T": 0,
+  "custom": 1
+ },
+ "decisions": [
+  {
+   "id": "d001",
+   "page": 153,
+   "type": "haraka",
+   "a": "آلِهِ،",
+   "b": "آلِه،",
+   "tanzil": null,
+   "choice": "B",
+   "note": "tight zoom: only one kasra, under the ل; no kasra under final ه",
+   "result": "آلِه،"
+  },
+  {
+   "id": "d002",
+   "page": 153,
+   "type": "haraka",
+   "a": "الْمُرْسَلِينَ",
+   "b": "الْمُرسَلِينَ",
+   "tanzil": null,
+   "choice": "B",
+   "note": "sukun over ل stacked above damma of م; no separate sukun on ر",
+   "result": "الْمُرسَلِينَ"
+  },
+  {
+   "id": "d003",
+   "page": 153,
+   "type": "haraka",
+   "a": "الْمَرْجِعُ",
+   "b": "الْمَرجِعُ",
+   "tanzil": null,
+   "choice": "B",
+   "note": "fatha on م with ل's sukun above it; no sukun on ر",
+   "result": "الْمَرجِعُ"
+  },
+  {
+   "id": "d004",
+   "page": 153,
+   "type": "haraka",
+   "a": "فَلا",
+   "b": "فَلَا",
+   "tanzil": null,
+   "choice": "A",
+   "note": "fatha on ف only, ل bare: فَلا",
+   "result": "فَلا"
+  },
+  {
+   "id": "d005",
+   "page": 153,
+   "type": "punct",
+   "a": "٧٥/ ٧٦-",
+   "b": "٧٥/٧٦-",
+   "tanzil": null,
+   "choice": "A",
+   "note": "visible gap between the slash and ٧٦, same as the footnote (١٧/ ٣٥٢) on p.154",
+   "result": "٧٥/ ٧٦-"
+  },
+  {
+   "id": "d006",
+   "page": 153,
+   "type": "haraka",
+   "a": "آلِهِ،",
+   "b": "آلِه،",
+   "tanzil": null,
+   "choice": "B",
+   "note": "same آلِه glyph: kasra under ل only",
+   "result": "آلِه،"
+  },
+  {
+   "id": "d007",
+   "page": 153,
+   "type": "haraka",
+   "a": "الْمُرْسَلِينَ،",
+   "b": "الْمُرسَلِينَ،",
+   "tanzil": null,
+   "choice": "B",
+   "note": "no sukun over ر, only ل-sukun stacked over damma",
+   "result": "الْمُرسَلِينَ،"
+  },
+  {
+   "id": "d008",
+   "page": 153,
+   "type": "haraka",
+   "a": "بِأُلُوهِيَّتِكَ،",
+   "b": "بِأُلوهِيَّتِكَ،",
+   "tanzil": null,
+   "choice": "A",
+   "note": "two dammas visible: on hamza and on ل",
+   "result": "بِأُلُوهِيَّتِكَ،"
+  },
+  {
+   "id": "d009",
+   "page": 153,
+   "type": "haraka",
+   "a": "الأَرْضِ",
+   "b": "الْأَرْضِ",
+   "tanzil": null,
+   "choice": "B",
+   "note": "small sukun curl over ل beside the hamza/fatha",
+   "result": "الْأَرْضِ"
+  },
+  {
+   "id": "d010",
+   "page": 154,
+   "type": "haraka",
+   "a": "آلِهِ،",
+   "b": "آلِه،",
+   "tanzil": null,
+   "choice": "B",
+   "note": "zoom: kasra under ل only",
+   "result": "آلِه،"
+  },
+  {
+   "id": "d011",
+   "page": 155,
+   "type": "haraka",
+   "a": "آلِهِ، أَعْلَمِ",
+   "b": "آلِه، أَعْلَم",
+   "tanzil": null,
+   "choice": "custom",
+   "note": "آلِه has kasra under ل only; kasra clearly under م of أَعْلَمِ",
+   "result": "آلِه، أَعْلَمِ"
+  },
+  {
+   "id": "d012",
+   "page": 155,
+   "type": "haraka",
+   "a": "بِهِ،",
+   "b": "بِه،",
+   "tanzil": null,
+   "choice": "B",
+   "note": "only one kasra printed under بِه",
+   "result": "بِه،"
+  },
+  {
+   "id": "d013",
+   "page": 155,
+   "type": "haraka",
+   "a": "آلِهِ،",
+   "b": "آلِه،",
+   "tanzil": null,
+   "choice": "B",
+   "note": "zoom: kasra under ل only",
+   "result": "آلِه،"
+  },
+  {
+   "id": "d014",
+   "page": 156,
+   "type": "haraka",
+   "a": "آلِهِ،",
+   "b": "آلِه،",
+   "tanzil": null,
+   "choice": "B",
+   "note": "zoom: kasra under ل only",
+   "result": "آلِه،"
+  },
+  {
+   "id": "d015",
+   "page": 156,
+   "type": "haraka",
+   "a": "آلِهِ،",
+   "b": "آلِه،",
+   "tanzil": null,
+   "choice": "B",
+   "note": "zoom: kasra under ل only",
+   "result": "آلِه،"
+  },
+  {
+   "id": "d016",
+   "page": 156,
+   "type": "haraka",
+   "a": "وَآلِهِ",
+   "b": "وَآلِه",
+   "tanzil": null,
+   "choice": "B",
+   "note": "zoom: وَآلِه with kasra under ل only",
+   "result": "وَآلِه"
+  }
+ ],
+ "extra_edits": [],
+ "rules": {
+  "plain_final_ya": {},
+  "name_full_marks": {}
+ },
+ "unresolved_uncertain": [],
+ "quran_residual": [],
+ "keyer_notes": {
+  "keyA": {
+   "uncertain": [],
+   "print_errors": [],
+   "notes": "p153 continues p152 mid-prayer (+); p154 and p155 continue mid-sentence (+); p156 starts new item ٨٠. Red divine names marked ==…== (ظاهر، باطن، والي، متعالي، بر، تواب، منتقم); the non-initial repeats (e.g. «يا والي» at end of ٧٧) are black. Print sometimes glues a comma to the next word without a space (e.g. «بَعْثًا،وَجَعَلْتَهُ», «آلِهِ،الَّذِي», «جَمِيعًا،فَقَامُوا», «وَالأَوَّابُ،صَلَاةً», «اللَّحَظَاتِ،وَأَتَخَلَّقُ», «الْمُنَزَّلَةِ،صَلَاةً», «الْجَنَّةَ،وَآخِرُ», «الْقِيَامَةِ،وَأَوَّلُ», «مُشَفَّعٍ،وَأَوَّلُ», «أُمُورِي،فَإِلَيْكَ», «الْمَآبُ،وَتُؤَخِّرُ», «أَعْصِيَكَ،وَأَكُونَ», «الْخَيْرِ،وَتُؤَخِّرَنِي», «وَمِنْهَاجًا،وَكِتَابُهُ»); normalized to «، » spacing. Lam of the article printed without sukun in some words (الأَرْضِ p153 end, الأَوَّلُ/الآخِرُ/وَالإِنْجِيلِ p154, وَالأَوَّابُ/الأَنْفَاسِ p156) — kept as printed. بِالله / لله printed with no case vowel on the Name, written bare; «صَلَّى اللهُ» on p156 has a printed damma → اللَّهُ per §2. Footnote p154: hadith reference to Muslim."
+  },
+  "keyB": {
+   "uncertain": [],
+   "print_errors": [],
+   "notes": "p153 continues p152 (+); p154 and p155 continue the previous page (+); p156 starts a new item (٨٠-). Red divine names marked with ==…==. On p153 the bayt-style number is printed «٧٥/ ٧٦-» (space after slash); written ٧٥/٧٦- as in earlier batches. Single kasra under the lam/heh junction of آله / به written as آلِه / بِه (only one kasra printed). The words الله/لله without a printed case vowel were left bare (بِالله، لله); those with a printed damma were written اللَّهُ. «الْمُرسَلِينَ» on p153 has no sukun on the ra, and «إِلَيهِ» on p153 has no sukun on the ya, both as printed. «وَالإِنْجِيلِ»، «الأَوَّلُ»، «الآخِرُ»، «وَالأَوَّابُ»، «الأَنْفَاسِ» have no sukun mark on the lam, as printed. Footnote p154: «(١٧/ ٣٥٢)» kept with the printed space."
+  }
+ }
+}

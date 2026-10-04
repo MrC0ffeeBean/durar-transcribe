@@ -1,0 +1,265 @@
+{
+ "batch": "b34",
+ "agreement": 0.9598,
+ "counts": {
+  "haraka": 11,
+  "uncertain": 2,
+  "punct": 1
+ },
+ "n_items": 14,
+ "n_quran_flags": 2,
+ "n_uncertain_flags": 0,
+ "mode": "spots",
+ "choices": {
+  "A": 15,
+  "B": 0,
+  "T": 0,
+  "custom": 1
+ },
+ "decisions": [
+  {
+   "id": "d001",
+   "page": 133,
+   "type": "haraka",
+   "a": "يا",
+   "b": "يَا",
+   "tanzil": null,
+   "choice": "A",
+   "note": "يا before red مجيب printed without fatha",
+   "result": "يا"
+  },
+  {
+   "id": "d002",
+   "page": 133,
+   "type": "uncertain",
+   "a": "[؟:الْمَعْدُومِ]",
+   "b": "الْمَعْدُومِ",
+   "tanzil": null,
+   "choice": "custom",
+   "note": "zoom: الْمَعْدُوم clearly legible, sukun on lam and ain, damma on dal, no kasra under final mim",
+   "result": "الْمَعْدُوم"
+  },
+  {
+   "id": "d003",
+   "page": 133,
+   "type": "haraka",
+   "a": "الأَرْضُ",
+   "b": "الْأَرْضُ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "الأَرْضُ: no sukun on the lam, fatha on hamza",
+   "result": "الأَرْضُ"
+  },
+  {
+   "id": "d004",
+   "page": 133,
+   "type": "haraka",
+   "a": "اللَّهُ.",
+   "b": "اللهُ.",
+   "tanzil": null,
+   "choice": "A",
+   "note": "اللهُ with damma; apply normalizes to اللَّهُ either way",
+   "result": "اللَّهُ."
+  },
+  {
+   "id": "d005",
+   "page": 135,
+   "type": "uncertain",
+   "a": "وَتَجَلِّي",
+   "b": "[؟:وَتَجَلِّي]",
+   "tanzil": null,
+   "choice": "A",
+   "note": "وَتَجَلِّي clearly legible at page start",
+   "result": "وَتَجَلِّي"
+  },
+  {
+   "id": "d006",
+   "page": 135,
+   "type": "haraka",
+   "a": "اللَّهُ",
+   "b": "اللهُ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "اللهُ with damma; normalized form",
+   "result": "اللَّهُ"
+  },
+  {
+   "id": "d007",
+   "page": 135,
+   "type": "haraka",
+   "a": "وَسَيِّدِنا",
+   "b": "وَسَيِّدِنَا",
+   "tanzil": null,
+   "choice": "A",
+   "note": "line-end وَسَيِّدِنا: no fatha on nun visible",
+   "result": "وَسَيِّدِنا"
+  },
+  {
+   "id": "d008",
+   "page": 135,
+   "type": "haraka",
+   "a": "بِما",
+   "b": "بِمَا",
+   "tanzil": null,
+   "choice": "A",
+   "note": "بِما: kasra under ba, no fatha over the ma ligature",
+   "result": "بِما"
+  },
+  {
+   "id": "d009",
+   "page": 135,
+   "type": "haraka",
+   "a": "اللَّهُ، يَا اللَّهُ، يَا اللَّهُ(٢).",
+   "b": "اللهُ، يَا اللهُ، يَا اللهُ(٢).",
+   "tanzil": null,
+   "choice": "A",
+   "note": "three يَا اللهُ with damma; normalized form",
+   "result": "اللَّهُ، يَا اللَّهُ، يَا اللَّهُ(٢)."
+  },
+  {
+   "id": "d010",
+   "page": 136,
+   "type": "haraka",
+   "a": "أعوذُ بِاللَّهِ",
+   "b": "**أعوذُ بِاللهِ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "title-like line not marked bold, consistent with the other day-opening pages",
+   "result": "أعوذُ بِاللَّهِ"
+  },
+  {
+   "id": "d011",
+   "page": 136,
+   "type": "punct",
+   "a": "الرَّجِيمِ",
+   "b": "الرَّجِيمِ**",
+   "tanzil": null,
+   "choice": "A",
+   "note": "no bold markup, same as d010",
+   "result": "الرَّجِيمِ"
+  },
+  {
+   "id": "d012",
+   "page": 136,
+   "type": "haraka",
+   "a": "يا",
+   "b": "يَا",
+   "tanzil": null,
+   "choice": "A",
+   "note": "يا رَبَّ: يا printed without fatha",
+   "result": "يا"
+  },
+  {
+   "id": "d013",
+   "page": 136,
+   "type": "haraka",
+   "a": "يا",
+   "b": "يَا",
+   "tanzil": null,
+   "choice": "A",
+   "note": "يا مَنْ: يا printed without fatha",
+   "result": "يا"
+  },
+  {
+   "id": "d014",
+   "page": 136,
+   "type": "haraka",
+   "a": "اللَّهُ",
+   "b": "اللهُ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "اللهُ with damma; normalized form",
+   "result": "اللَّهُ"
+  },
+  {
+   "id": "q001",
+   "page": 133,
+   "type": "quran_marks",
+   "a": "بِرَبِّكُمْ",
+   "b": null,
+   "tanzil": "بِرَبِّكُمْ ۖ",
+   "choice": "A",
+   "note": "print variant: quotation ends at بِرَبِّكُمْ with no waqf sign before the bracket",
+   "result": "بِرَبِّكُمْ"
+  },
+  {
+   "id": "q002",
+   "page": 136,
+   "type": "quran_marks",
+   "a": "بِهَا",
+   "b": null,
+   "tanzil": "بِهَا ۖ",
+   "choice": "A",
+   "note": "print variant: quotation ends at بِهَا with no waqf sign before the bracket",
+   "result": "بِهَا"
+  }
+ ],
+ "extra_edits": [],
+ "rules": {
+  "plain_final_ya": {},
+  "name_full_marks": {}
+ },
+ "unresolved_uncertain": [],
+ "quran_residual": [
+  {
+   "page": 133,
+   "kind": "quran_marks",
+   "keyed": "بِرَبِّكُمْ",
+   "tanzil": "بِرَبِّكُمْ ۖ",
+   "ref": "7:172"
+  },
+  {
+   "page": 136,
+   "kind": "quran_marks",
+   "keyed": "بِهَا",
+   "tanzil": "بِهَا ۖ",
+   "ref": "7:180"
+  }
+ ],
+ "keyer_notes": {
+  "keyA": {
+   "uncertain": [
+    {
+     "page": 133,
+     "reading": "الْمَعْدُومِ",
+     "why": "Marks over «المعدوم» are crowded: jazm on lam and sukun on ain are clear, but whether a fatha also sits on the mim could not be confirmed even at high zoom."
+    }
+   ],
+   "print_errors": [
+    {
+     "page": 134,
+     "text": "سَيِّدَنا",
+     "note": "Printed with fatha on dal (expected سَيِّدِنا), same as the parallel prayer on p.123; kept as printed."
+    },
+    {
+     "page": 134,
+     "text": "مُحَمَّدُِ / مَحْمُودُِ",
+     "note": "Both damma and kasra are printed on the final dal of each word; kept both, as on p.123."
+    }
+   ],
+   "notes": "p.133 starts a new numbered prayer (٤٥), so no '+'. p.135 continues the صلاة التجلي sentence from p.134 (marker '+'). Footnote reference «(١٣/ ٢٢)» on p.133 written in the visual order printed (volume/page format as elsewhere). «أَهْلاً» on p.133 written with the tanween on the alif as printed. Several «يا» on p.133/136 are printed without fatha while others have it; copied per occurrence. Quran in p.136 encoded as Tanzil (ٱلنَّبِىِّ ۚ with small jeem visible in print)."
+  },
+  "keyB": {
+   "uncertain": [
+    {
+     "page": 135,
+     "reading": "وَتَجَلِّي",
+     "why": "Only one fatha is printed over the stacked ta-jim; it most likely sits on the ta, but it could belong to the jim."
+    }
+   ],
+   "print_errors": [
+    {
+     "page": 134,
+     "text": "سَيِّدَنا",
+     "note": "In prayer (١٠) the dal has a fatha where a kasra (سَيِّدِنا) is expected. Kept as printed."
+    },
+    {
+     "page": 134,
+     "text": "مُحَمَّدُِ / مَحْمُودُِ",
+     "note": "Each dal has both a damma above and a kasra below. Both marks are kept as printed."
+    }
+   ],
+   "notes": "p.133 starts a new numbered prayer (٤٥), so it has no '+'. p.135 continues the sentence from p.134 ('+'). On p.136 the bold centered isti'adha line is a bold paragraph and the bullet glyph is written as '*'. The two footnotes on p.135 have identical text."
+  }
+ }
+}

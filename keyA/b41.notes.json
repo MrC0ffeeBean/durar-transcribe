@@ -1,0 +1,11 @@
+{
+  "uncertain": [],
+  "print_errors": [
+    {"page": 161, "text": "المُتَخَلِّقِ", "note": "Prayer (١٨): only a damma on م, no sukun on ل (other words on the line have both); kept as printed."},
+    {"page": 162, "text": "مَحبَّةً", "note": "Only one fatha in the م-ح ligature. Its position matches the م-fatha of the same ligature on p164 (where both fathas are printed), so it is read as fatha on م with ح bare."},
+    {"page": 163, "text": "وَالْموْتِ", "note": "Prayer ٨٧: sukun on ل and sukun on و, no fatha on م; kept as printed."},
+    {"page": 164, "text": "وَبِطَاعَتِك", "note": "Prayer ٨٨: no haraka on the final ك (حَرَامِكَ and بِحَلَالِكَ next to it have fatha); kept as printed."},
+    {"page": 164, "text": "شُئونِي", "note": "Damma on ش only, no damma on the ئ; kept as printed."}
+  ],
+  "notes": "p161 has marker 161+ because p160 ends mid-sentence inside prayer (١٧). Its two footnotes are new (١)/(٢), and no footnote carries over from p160. On p161 the يا الله / يا مجيب are black, not red: the page has no red pixels. p162 is the day-opening page: أعوذ, the basmala and the two Quran quotations (الأعراف ١٨٠ with no ayah number, الأحزاب ٥٦ with one), then two paragraphs with flower-asterisk bullets written as *. p163 starts a new prayer (٨٦), so it has a plain marker. p163 ends mid-sentence, so p164 has the + marker. p164 ends mid-sentence in prayer ٩٠. Red divine Names marked ==…==: مُقْسِطُ، جَامِعَ (first one only; the second جَامِعَ is black), غَنِيُّ، مُغْنِي، مُعْطِي (مَانِعُ is black). The red spots were confirmed by a pixel-colour check. Quran آل عمران ١٨ is printed without an ayah-number ornament, so none was added. It is encoded per Tanzil: قَآئِمًۢا with iqlab mim, waqf ۚ after بِٱلْقِسْطِ. لتهدىٓ (الشورى ٥٢) is written with dotless ى as printed. In several places the print has no space after the comma (e.g. قِيَامٍ،صَلَاةً، الْوُجُودِ،وَبَيْنَ، بِكَ،صَلَاةً). A single space was added after the comma, per the one-space rule. الله with a printed case vowel is written اللَّهُ/اللَّهَ/اللَّهِ. لله, printed without harakat, is kept as لله. التَّنْعِيم in the p161 footnotes has a sukun above the shadda-fatha of ت, read as the sukun of ن. Harakat were checked at 1100-2600 dpi zooms."
+}

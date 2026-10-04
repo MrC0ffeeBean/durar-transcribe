@@ -1,0 +1,167 @@
+{
+ "batch": "b35",
+ "agreement": 0.9873,
+ "counts": {
+  "haraka": 8
+ },
+ "n_items": 8,
+ "n_quran_flags": 1,
+ "n_uncertain_flags": 0,
+ "mode": "spots",
+ "choices": {
+  "A": 9,
+  "B": 0,
+  "T": 0,
+  "custom": 0
+ },
+ "decisions": [
+  {
+   "id": "d001",
+   "page": 137,
+   "type": "haraka",
+   "a": "اللَّهُ",
+   "b": "اللهُ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "damma printed on الله (case vowel) -> CONVENTIONS: write اللَّهُ",
+   "result": "اللَّهُ"
+  },
+  {
+   "id": "d002",
+   "page": 137,
+   "type": "haraka",
+   "a": "اللَّهُ،",
+   "b": "اللهُ،",
+   "tanzil": null,
+   "choice": "A",
+   "note": "damma printed on الله after يا -> اللَّهُ per CONVENTIONS",
+   "result": "اللَّهُ،"
+  },
+  {
+   "id": "d003",
+   "page": 137,
+   "type": "haraka",
+   "a": "لِخَلْقِكَ،",
+   "b": "لِخَلْقِك،",
+   "tanzil": null,
+   "choice": "A",
+   "note": "zoom: fatha clearly visible over final ك of لِخَلْقِكَ",
+   "result": "لِخَلْقِكَ،"
+  },
+  {
+   "id": "d004",
+   "page": 138,
+   "type": "haraka",
+   "a": "اللَّهُ.",
+   "b": "اللهُ.",
+   "tanzil": null,
+   "choice": "A",
+   "note": "damma printed on الله -> اللَّهُ per CONVENTIONS",
+   "result": "اللَّهُ."
+  },
+  {
+   "id": "d005",
+   "page": 138,
+   "type": "haraka",
+   "a": "الْمُجِيدِ،",
+   "b": "الْمَجِيدِ،",
+   "tanzil": null,
+   "choice": "A",
+   "note": "zoom: damma (not fatha) printed over م in الْمُجِيدِ; kept as printed",
+   "result": "الْمُجِيدِ،"
+  },
+  {
+   "id": "d006",
+   "page": 138,
+   "type": "haraka",
+   "a": "الْمُجِيدِ",
+   "b": "الْمَجِيدِ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "zoom: الحميد المُجيد printed with damma on م; kept as printed",
+   "result": "الْمُجِيدِ"
+  },
+  {
+   "id": "d007",
+   "page": 139,
+   "type": "haraka",
+   "a": "وَاللَّهُ",
+   "b": "وَاللهُ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "damma printed on والله -> وَاللَّهُ per CONVENTIONS",
+   "result": "وَاللَّهُ"
+  },
+  {
+   "id": "d008",
+   "page": 139,
+   "type": "haraka",
+   "a": "الْمُعْبُودِ",
+   "b": "الْمَعْبُودِ",
+   "tanzil": null,
+   "choice": "A",
+   "note": "zoom: damma clearly over م and sukun on ع in الْمُعْبُودِ (print oddity, kept)",
+   "result": "الْمُعْبُودِ"
+  },
+  {
+   "id": "q001",
+   "page": 139,
+   "type": "quran_marks",
+   "a": "ٱللَّهِ",
+   "b": null,
+   "tanzil": "ٱللَّهِ ۚ",
+   "choice": "A",
+   "note": "zoom: no waqf sign ۚ printed after ٱللَّهِ before closing bracket; genuine print variant (quotation ends there)",
+   "result": "ٱللَّهِ"
+  }
+ ],
+ "extra_edits": [],
+ "rules": {
+  "plain_final_ya": {},
+  "name_full_marks": {}
+ },
+ "unresolved_uncertain": [],
+ "quran_residual": [
+  {
+   "page": 139,
+   "kind": "quran_marks",
+   "keyed": "ٱللَّهِ",
+   "tanzil": "ٱللَّهِ ۚ",
+   "ref": "2:115"
+  }
+ ],
+ "keyer_notes": {
+  "keyA": {
+   "uncertain": [],
+   "print_errors": [
+    {
+     "page": 137,
+     "text": "صَلَّى اللَّهُ عَلَيْهِ وَآلَهُ وَسَلَّمَ",
+     "note": "«وَآلَهُ» printed with fatha on lam and damma on heh (expected وَآلِهِ); kept as printed."
+    },
+    {
+     "page": 138,
+     "text": "عَبْدِ الْمُجِيدِ / الْحَمِيدِ الْمُجِيدِ",
+     "note": "At 1000 dpi the mark over lam-mim is the sukun+damma stack (same shape as in الْمُتَوَكِّلُ on p.140), i.e. damma on mim, whereas the Name is مَجِيد (red «مَجِيدُ» has fatha). Kept as printed; worth a second look."
+    },
+    {
+     "page": 139,
+     "text": "لِلْمَلِكِ الْمُعْبُودِ",
+     "note": "Same sukun+damma stack over lam-mim (expected الْمَعْبُودِ); kept as printed."
+    }
+   ],
+   "notes": "p.137 starts a new numbered prayer (٤٦), so no '+'; pp.138-140 each continue the previous page's sentence ('+'). The Quran quotation of al-Shura 52 is split by the page turn (p.138 ends «﴿وَإِنَّكَ», p.139 starts «لَتَهْدِىٓ … ﴾»); since validate.py requires balanced ﴿﴾ per line, I closed it at the end of p.138 and reopened it at the start of p.139 (by analogy with poetry fences, CONVENTIONS §8) — the printed page has only the outer brackets. Every «يا» on these pages carries a small fatha visible only at ~600+ dpi; all written يَا. Missing spaces after commas in the print (e.g. «وَعِلْمًا،فَوَسِعَ») normalized to one space. «بِالله» on p.139 has no case vowel printed, so left bare; «وَاللَّهُ», «يَا اللَّهُ» had damma printed. «له:» on p.140 printed without harakat. «وبَارِكْ», «ومِمَّن», «وتَغْفِرَ», «وقُلْتَ» have no fatha on the waw in print (checked at 900 dpi). quran.py flags 2:115 for the missing ۚ after ٱللَّهِ: the quotation ends there and no waqf sign is printed."
+  },
+  "keyB": {
+   "uncertain": [],
+   "print_errors": [
+    {
+     "page": 137,
+     "text": "صَلَّى اللهُ عَلَيْهِ وَآلَهُ وَسَلَّمَ",
+     "note": "Prayer ٤٦ prints وَآلَهُ (fatha on lam, damma on ha) where وَآلِهِ is expected. Kept as printed."
+    }
+   ],
+   "notes": "p.137 starts a new numbered prayer (٤٦); p.136 ends with a full stop, so there is no '+'. pp.138, 139 and 140 continue the sentence from the previous page ('+'). On p.138→139 the verse ﴿وَإِنَّكَ لَتَهْدِىٓ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ﴾ is split by the page turn. The print has only the opening bracket on p.138 and only the closing bracket on p.139. To pass validate.py's per-line balance check, I closed it after وَإِنَّكَ on p.138 and reopened it before لَتَهْدِىٓ on p.139, the way poetry fences are handled across pages. The verse quotations on these pages have no ayah-number ornaments, so none are written. Many commas are printed with no space before the next word (e.g. «وَعِلْمًا،فَوَسِعَ»); I wrote one space after each comma. In the opening formula, سَيِّدِنا is printed without a fatha on the nun in prayers ٤٦-٤٨ (p.137) and with one (سَيِّدِنَا) in prayers ٤٩-٥٣; each is copied as printed. Silent alifs in Quran (ءَامَنُوا۟، تُوَلُّوا۟) are written with U+06DF to match the Tanzil encoding used in earlier batches."
+  }
+ }
+}

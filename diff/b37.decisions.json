@@ -1,0 +1,11 @@
+{"mode": "spots", "decisions": {
+"d001": {"choice": "A", "note": "damma printed on الله after يا; written اللَّهُ per conventions"},
+"d002": {"choice": "A", "note": "kasra under ل and sukun on س clearly visible: الِاسْمِ"},
+"d003": {"choice": "custom", "text": "الَأَرْضِ", "note": "zoom shows fatha on lam AND fatha on hamza, sukun on ر: الَأَرْضِ (print oddity, kept as printed)"},
+"d004": {"choice": "A", "note": "damma printed on الله; conventions write اللَّهُ"},
+"d005": {"choice": "A", "note": "damma printed on الله; conventions write اللَّهُ"},
+"d006": {"choice": "A", "note": "sukun mark on ل under the damma visible at high zoom: الْمُتَخَلِّقِ"},
+"d007": {"choice": "A", "note": "damma printed on each الله; conventions write اللَّهُ"},
+"d008": {"choice": "A", "note": "footnote: shadda+fatha on ت, kasra under ع, no sukun on ن"},
+"d009": {"choice": "A", "note": "footnote 2 identical to footnote 1: no sukun on ن"}
+}, "extra_edits": []}

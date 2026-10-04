@@ -1,0 +1,158 @@
+{
+ "batch": "b42",
+ "agreement": 0.984,
+ "counts": {
+  "haraka": 7,
+  "punct": 1
+ },
+ "n_items": 8,
+ "n_quran_flags": 1,
+ "n_uncertain_flags": 0,
+ "mode": "spots",
+ "choices": {
+  "A": 3,
+  "B": 6,
+  "T": 0,
+  "custom": 0
+ },
+ "decisions": [
+  {
+   "id": "d001",
+   "page": 165,
+   "type": "haraka",
+   "a": "الْمَانِعِ،",
+   "b": "الْمانِعِ،",
+   "tanzil": null,
+   "choice": "B",
+   "note": "1400dpi zoom: only one mark (sukun) on the lam-mim ligature of المانع; no fatha on م",
+   "result": "الْمانِعِ،"
+  },
+  {
+   "id": "d002",
+   "page": 165,
+   "type": "haraka",
+   "a": "الْمَنْعِ، وَالْمَنْعَ",
+   "b": "الْمنْعِ، وَالْمنْعَ",
+   "tanzil": null,
+   "choice": "B",
+   "note": "900dpi zoom: two stacked sukuns (ل and ن) on المنع in both occurrences, no fatha on م",
+   "result": "الْمنْعِ، وَالْمنْعَ"
+  },
+  {
+   "id": "d003",
+   "page": 165,
+   "type": "haraka",
+   "a": "الْمَنْعِ",
+   "b": "الْمنْعِ",
+   "tanzil": null,
+   "choice": "B",
+   "note": "900dpi zoom: same as d002, sukuns on ل and ن only, no fatha on م",
+   "result": "الْمنْعِ"
+  },
+  {
+   "id": "d004",
+   "page": 165,
+   "type": "punct",
+   "a": "٩١/ ٩٢-",
+   "b": "٩١/٩٢-",
+   "tanzil": null,
+   "choice": "B",
+   "note": "double prayer number; spacing around the slash is typographic; written ٩١/٩٢- like the other paired numbers in the book (٢١/٢٢-, ٥٩/٦٠-)",
+   "result": "٩١/٩٢-"
+  },
+  {
+   "id": "d005",
+   "page": 165,
+   "type": "haraka",
+   "a": "لِيَتَضرَّعُوا",
+   "b": "لِيَتَضَرَّعُوا",
+   "tanzil": null,
+   "choice": "A",
+   "note": "zoom: no fatha on ض in لِيَتَضرَّعُوا, only shadda+fatha on ر",
+   "result": "لِيَتَضرَّعُوا"
+  },
+  {
+   "id": "d006",
+   "page": 166,
+   "type": "haraka",
+   "a": "الْمَظَاهِرَ",
+   "b": "الْمظَاهِرَ",
+   "tanzil": null,
+   "choice": "B",
+   "note": "900dpi zoom: only sukun on lam-mim of المظاهر, fatha on ظ; no fatha on م",
+   "result": "الْمظَاهِرَ"
+  },
+  {
+   "id": "d007",
+   "page": 168,
+   "type": "haraka",
+   "a": "وَالْمَسْخِ",
+   "b": "وَالْمسْخِ",
+   "tanzil": null,
+   "choice": "B",
+   "note": "900dpi zoom: sukun on ل and on س in المسخ, no fatha on م",
+   "result": "وَالْمسْخِ"
+  },
+  {
+   "id": "d008",
+   "page": 168,
+   "type": "haraka",
+   "a": "لِأَبقَى",
+   "b": "لِأَبْقَى",
+   "tanzil": null,
+   "choice": "A",
+   "note": "900dpi zoom: no sukun on ب in لِأَبقَى; only fatha on hamza-alif and on ق",
+   "result": "لِأَبقَى"
+  },
+  {
+   "id": "q001",
+   "page": 166,
+   "type": "quran_marks",
+   "a": "يَشَآءُ",
+   "b": null,
+   "tanzil": "يَشَآءُ ۚ",
+   "choice": "A",
+   "note": "print ends the quotation at يَشَآءُ with the closing bracket; the waqf ۚ belongs after it in Tanzil but is not printed since the quote stops there",
+   "result": "يَشَآءُ"
+  }
+ ],
+ "extra_edits": [],
+ "rules": {
+  "plain_final_ya": {},
+  "name_full_marks": {}
+ },
+ "unresolved_uncertain": [],
+ "quran_residual": [
+  {
+   "page": 166,
+   "kind": "quran_marks",
+   "keyed": "يَشَآءُ",
+   "tanzil": "يَشَآءُ ۚ",
+   "ref": "24:35"
+  }
+ ],
+ "keyer_notes": {
+  "keyA": {
+   "uncertain": [],
+   "print_errors": [
+    {
+     "page": 167,
+     "text": "وَتَهْدِنِي بِهَا لِمَا اخْتُلِفَ فِيهِ",
+     "note": "Printed without the yeh after dal (expected وَتَهْدِيَنِي/وَتَهْدِينِي); kept as printed."
+    }
+   ],
+   "notes": "p165 starts with + (item 90 continues from p164); p166, p167, p168 also continue the previous item, so all use +. p165: بالله twice and لله are printed with a case kasra under the heh but no kasra under the bā/lām, so I wrote باللَّهِ / للَّهِ (CONVENTIONS rule on الله); عَنِ اللَّهِ also has a kasra. p165: لِيَتَضرَّعُوا has no haraka on the ḍād in print. p167: صِراطِكَ is printed without a fatha on the rā (the earlier صِرَاطَكَ on p166 has one). p168: لِأَبقَى has no sukun on the bā; والاجْتِهَادَ has no fatha on the wāw and no kasra under the lām-alif. p168: the kasra in الِاسْتِئْصَالِ sits under the lām-alif ligature; I encoded it on the lām. Quran passages follow ref/quran-uthmani.txt (without the ۞ sign, which is not printed) and were checked against the image. Footnote on p165: (١١/ ٢١٨) has a space after the slash, as printed."
+  },
+  "keyB": {
+   "uncertain": [],
+   "print_errors": [
+    {
+     "page": 167,
+     "text": "وَتَهْدِنِي بِهَا لِمَا اخْتُلِفَ فِيهِ",
+     "note": "Printed without the yeh after dal (expected وَتَهْدِيَنِي/وتهديني); kept as printed."
+    }
+   ],
+   "notes": "p165 continues p164 (prayer 90 broken mid-sentence) -> 165+; 166, 167, 168 also continue mid-prayer -> +. On p165 a horizontal rule is printed under «الَّذِي ضَرَّ مَنْ عَصَاهُ» in the last text line (underline, no markup available; ignored). In الْمنْعِ / الْمظَاهِرِ / الْمسْخِ the mim carries no vowel in print (only the lam sukun and next-letter sukun), transcribed so. اللهِ/لله with printed case kasra written باللَّهِ / للَّهِ / عَنِ اللَّهِ per §2. Quran encoded per Tanzil where it matches the image; no ۞ is printed before المؤمنون 75 or الشورى 27. Prayer number on p165 printed «٩١/ ٩٢-», written ٩١/٩٢-. Footnote kept as «(١١/ ٢١٨)» with the printed space."
+  }
+ }
+}

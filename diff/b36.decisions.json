@@ -1,0 +1,23 @@
+{"mode": "spots", "decisions": {
+"d001": {"choice": "B", "note": "zoom: آلِه، حَوْلِه، وَقُوَّتِه each with only one kasra under the letter before ه; تبَرَّأَ with no fatha on ت, clearly legible"},
+"d002": {"choice": "B", "note": "بالله printed with only the font's automatic shadda/alif, kasra under ب only, no case vowel"},
+"d003": {"choice": "B", "note": "fatha clearly visible on ج in وَمُجَاهَدَةِ"},
+"d004": {"choice": "B", "note": "آلِه: kasra under ل only, none under ه"},
+"d005": {"choice": "B", "note": "fatha visible on ت in أَتَوَغَّلَ"},
+"d006": {"choice": "custom", "text": "وَأَتَجَنَّبَ", "note": "clearly legible: وَأَتَجَنَّبَ"},
+"d007": {"choice": "B", "note": "آلِه: no kasra under ه"},
+"d008": {"choice": "B", "note": "آلِه: no kasra under ه"},
+"d009": {"choice": "B", "note": "آلِه: no kasra under ه"},
+"d010": {"choice": "B", "note": "مُرَاقَبَتِه: kasra under ت only"},
+"d011": {"choice": "B", "note": "وَآلِه: no kasra under ه"},
+"d012": {"choice": "B", "note": "zoom: لله printed bare (the kasra seen is under ت of تِسْعَةً)"},
+"d013": {"choice": "B", "note": "item number; earlier finals write ٢١/٢٢- without space; gap in print is minimal"},
+"d014": {"choice": "B", "note": "آلِه: no kasra under ه"},
+"d015": {"choice": "B", "note": "item number, consistent with earlier finals (no space after slash)"},
+"d016": {"choice": "B", "note": "آلِه: no kasra under ه"},
+"d017": {"choice": "B", "note": "zoom: في printed without kasra"},
+"d018": {"choice": "B", "note": "آلِه: no kasra under ه"},
+"d019": {"choice": "B", "note": "zoom: لِلْأَكْوانِ, no fatha on و"},
+"q001": {"choice": "A", "note": "zoom: no waqf mark after رَمَىٰ before the closing bracket; quote ends there (print variant)"},
+"q002": {"choice": "A", "note": "print shows the ۚ mark at the start of the quote, before كَمَا; preceding word لِلْكُتُبِ not printed"}
+}, "extra_edits": []}

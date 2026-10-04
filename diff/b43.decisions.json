@@ -1,0 +1,10 @@
+{"mode": "spots",
+ "decisions": {
+  "d001": {"choice": "B", "note": "zoom: no sukun on lam of وَالأَمْرِ, only fatha on hamza and sukun on mim"},
+  "d002": {"choice": "B", "note": "zoom: no sukun over nun of وَأَنتَ"},
+  "d003": {"choice": "A", "note": "zoom: fatha on final ر of أَثَرَ and fatha on ك of إِرْشَادِكَ clearly printed"},
+  "d004": {"choice": "B", "note": "zoom: تُهمِلُ has no sukun on ه; إِنَّما has no fatha on م"},
+  "d005": {"choice": "B", "note": "الله printed bare in لِأَمْرِ الله، (no case vowel)"},
+  "d006": {"choice": "A", "note": "zoom: تُقَيْ has a sukun on ي, no shadda"}
+ },
+ "extra_edits": []}
