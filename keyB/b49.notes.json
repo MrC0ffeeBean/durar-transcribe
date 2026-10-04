@@ -1,0 +1,14 @@
+{"uncertain": [
+ {"page": 193, "reading": "وَنُزُولُهمُ", "why": "only one damma printed over the لهـ ligature; unclear whether it belongs to ل or ه (no second damma visible)"}
+],
+"print_errors": [
+ {"page": 193, "text": "فَاعْجَلْ لِّخَزَائِنِهَا وَلُجِ", "note": "shadda+kasra printed on ل of لِّخزائنها and damma on ل of ولُج (expected لِخزائنها / ولِجِ); kept as printed"},
+ {"page": 193, "text": "عَلَى الْحِجَجِ", "note": "kasra under ح (rhyme of حُجَجٌ would suggest الحُجَج); kept as printed"},
+ {"page": 194, "text": "لِذِي الْخُلِقِ السَّمِجِ", "note": "kasra under ل of الخلق (expected الخُلُقِ); kept as printed"},
+ {"page": 194, "text": "وَبمُنْتَهِجِ / بِالحُورِ / المِقْدَامَ", "note": "missing kasra on ب, missing sukun on lam of the article; kept as printed"},
+ {"page": 194, "text": "تَأْتِي الْفِرْدَوْسَ", "note": "printed with ي (metre/jussive would be تأتِ); kept"},
+ {"page": 195, "text": "تَحْتِ السُّرُجِ / سَارِيَةَ الخَلَجِ", "note": "kasra on ت of تحت; الخلج printed with fatha on خ and no sukun on ل; kept as printed"},
+ {"page": 196, "text": "ذِي ظَلْم ... بالرَّاح مَعْلُول", "note": "no case vowels printed on ظلم, الراح, معلول in the bayt (gloss has ظَلْمٍ); kept as printed"}
+],
+"notes": "In the bold poem font the sukun of the article's lam and the vowel of the following letter (in لم/لخ/لح/له ligatures) overlap into one glyph that looks like a damma; each case was checked at 2000-2400 dpi: circle + straight fatha stroke = sukun+fatha (e.g. الْخَيْرِ, الْمَحْيَا, الْمَوْجِ, الْمَشْيِ, الْمَرْضِيَّ, الْمَهْدِي, الْهَادِي, الْحَشْرِ), circle + damma = sukun+damma (الْمُهَجِ, الْمُنْتَسَجِ, الْخُلِقِ). الْهَرَجِ (p195) and الْحُسْنَا (p195) were read at 850 dpi only. اللهِ with printed kasra written اللَّهِ. Glosses on p196 use en-dashes written as '-'. Bayt numbers on pp193-195 printed as N) ; p196 as N-."
+}

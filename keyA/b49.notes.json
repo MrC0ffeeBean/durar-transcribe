@@ -1,0 +1,16 @@
+{
+  "uncertain": [
+    {"page": 193, "reading": "الْأَرَجِ", "why": "bayt 5: only one fatha printed, between the hamza and the ر; assigned to the hamza"},
+    {"page": 193, "reading": "وَنُزُولُهمُ", "why": "bayt 8: a single damma above the لهـ ligature (over the lam stem); unclear whether it belongs to ل or ه"},
+    {"page": 194, "reading": "لَها", "why": "bayt 22: a single fatha above the lam stem of the لهـ ligature, as in the same word on p.189; it may belong to ه"},
+    {"page": 195, "reading": "الْعُلَما", "why": "bayt 43: only one fatha above the لمـ ligature; it may belong to ل or م"},
+    {"page": 196, "reading": "لمِ", "why": "gloss 1: a kasra-like stroke under the لم ligature (لم يفد); could be a stray mark"}
+  ],
+  "print_errors": [
+    {"page": 193, "text": "الخُيْرِ / وَالخُلْقُ / المُوْجِ / المُشْيِ / لِّخَزَائِنِهَا", "note": "damma on the letter after ال where fatha is expected; shadda+kasra printed over the lam of لخزائنها; kept as printed"},
+    {"page": 194, "text": "الْخُلِقِ / المِقْدَامَ / الحُرْبِ / المُرْضِيَّ / إِذ ذَّاكَ", "note": "unexpected vowels (kasra under ل in الخلق, damma in الحرب) and no sukun on إذ; kept as printed"},
+    {"page": 195, "text": "الهُادِي / المُهْدِي / الحُسْنَا / الخُرْقُ / الهُرَجِ / الحُشْرِ / الخَلَجِ", "note": "damma (or fatha) over the lam stem read as the vowel of the next letter, as in the earlier Munfarija pages; kept as printed"},
+    {"page": 196, "text": "ظَلْم", "note": "bayt 4 prints ظَلْم with no tanween, but the gloss prints ظَلْمٍ; both kept as printed"}
+  ],
+  "notes": "Page 193 starts a new poem with its own heading, so it is not a continuation of p.192. The Ibn al-Nahwi Munfarija has its hemistichs side by side and its bayts numbered ١), and it runs to bayt ٤٨ on p.195. Page 196 starts بانت سعاد: the heading, then the attribution paragraph and the reading note, then stacked bayts numbered ١- and a :::مفردات block. In this font a vowel above the lam stem of ال belongs to the next letter. Where a sukun ring is fused onto the damma above the lam stem (a glyph like ۿ), it is written as a sukun on the lam of ال: وَالْمُهَجِ, بِالْمُنْتَسَجِ, الْخُلِقِ, الْمُتَوَلِّ, الْمُعْتَلِجِ, الْمُسْتَهْدِ, الْمُسْتَحْيِ, الْخُلُجِ. A plain damma there is written without a sukun on the lam. In p.193 bayt 13 a kasra is printed under the word الله, so it is written اللَّهِ. Elsewhere the bare الله is kept. On p.196 bayt 4 the marks over كأنه are clustered and are written as كَأَنَّهُ. The gloss numbers printed as «١ -» and «٤ -» are written as ١- and ٤-."
+}
