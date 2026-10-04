@@ -1,0 +1,12 @@
+{"uncertain": [
+ {"page": 201, "reading": "كأنَّمَا", "why": "bayt 24: only one fatha visible above the shadda on nun; unclear whether the hamza carries its own fatha"},
+ {"page": 201, "reading": "الخُدَّيْنِ", "why": "bayt 26: a single damma-shaped mark above lam/kha of الخدين (expected الْخَدَّيْنِ); could be a misplaced sukun on lam"},
+ {"page": 203, "reading": "لَما", "why": "bayt 33: one fatha above the لما ligature, no shadda visible; unclear whether it sits on lam or mim (expected لَمَّا)"}
+],
+ "print_errors": [
+ {"page": 201, "text": "الخُدَّيْنِ", "note": "damma on kha where fatha expected (الخَدَّين)"},
+ {"page": 203, "text": "لما نعنى لها الناعون", "note": "gloss 33: نعنى printed for نعى; kept as printed"},
+ {"page": 201, "text": "مبتدءً", "note": "gloss 24: printed with fathatan on hamza and no alif; kept as printed"}
+ ],
+ "notes": "p201 starts a new bayt (no continuation). p204 gloss 36 printed '٣٦-ألهينك' without space after the hyphen; kept. p204 footnote printed 'في نسخة : حواليها' with a space before the colon; normalized to 'في نسخة: '. p203 bayt 31 قِيلُواْ and p204 bayt 37 خَلُّواْ carry a printed sukun on the final alif. p201 bayt 26 'قَنْواءُ في' and 'مُبينٌ' written as printed (no fatha on waw, no dots-check issue)."
+}

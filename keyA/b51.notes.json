@@ -1,0 +1,14 @@
+{
+  "uncertain": [
+    {"page": 201, "reading": "الخُدَّيْنِ", "why": "Bayt 26: a damma-shaped mark sits over the lam/kha junction of الخدين (expected الْخَدَّيْنِ); could not tell whether it is a damma on kha or a misplaced sukun on lam."},
+    {"page": 202, "reading": "تْحَلِيلُ", "why": "Bayt 27: in the ligature تح the sukun is drawn above ta and the fatha lower (on ha); expected تَحْلِيلُ, probably marks misplaced by the font."},
+    {"page": 203, "reading": "الضَّبْعَيِنْ", "why": "Bayt 33: kasra appears under the yeh and sukun over the final nun; expected الضَّبْعَيْنِ, probably marks misplaced."}
+  ],
+  "print_errors": [
+    {"page": 201, "text": "لَمْ تُخَوَّنْهُ", "note": "Shadda on waw carries a clear fatha (expected تُخَوِّنْهُ); kept as printed."},
+    {"page": 201, "text": "إحيدياب", "note": "Gloss 26: probably a misprint for احديداب; kept as printed."},
+    {"page": 203, "text": "لما نعنى لها الناعون", "note": "Gloss 33: نعنى is probably a misprint for نعى; kept as printed."},
+    {"page": 203, "text": "لَما نَعَى", "note": "Bayt 33: لما is printed with one fatha and no shadda (expected لَمَّا)."}
+  ],
+  "notes": "Page 201 starts with bayt 23, so it is not a continuation of p.200 and has no footnotes. Plain ى is used throughout, since these pages are not typed-dagger pages. Gloss 36 on p.204 is printed '٣٦-ألهينك' without a space after the dash, and it is kept that way. Footnote 1 on p.204 has a space before its colon ('في نسخة : '), which is normalized. قِيلُواْ and خَلُّواْ carry a printed sukun on the final alif."
+}
