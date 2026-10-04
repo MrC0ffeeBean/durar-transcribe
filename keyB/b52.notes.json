@@ -1,0 +1,12 @@
+{
+  "uncertain": [
+    {"page": 206, "reading": "لَحْمٌ", "why": "bayt 48 عجز: over the لح ligature a single mark that looks like a damma (loop + tail); probably a fatha on ل colliding with a sukun on ح, but it could be read لُحمٌ"},
+    {"page": 208, "reading": "الْهَيْجَا", "why": "bayt 55 عجز: over the لهـ ligature a mark that looks like a damma; probably sukun on ل colliding with fatha on ه (sukun over ي is separate)"}
+  ],
+  "print_errors": [
+    {"page": 205, "text": "فِيهَا(٢)", "note": "the only footnote reference on the page is numbered (٢) but the footnote is numbered (١) «في نسخة: فيه.»; both kept as printed"},
+    {"page": 206, "text": "أَنْ يَتْرَكَ الْقِرْنَ", "note": "a fatha is clearly printed on the ر (expected يَتْرُكَ); kept as printed"},
+    {"page": 207, "text": "والدِّرْسَانِ / الدَّرْسان", "note": "the bayt has kasra on the dal and the gloss has fatha; both kept as printed"}
+  ],
+  "notes": "p205 starts with a new bayt (38) after p204 ends with bayt 37, so there is no '+'; it has no continued footnote. Typed small alifs are not used (these pages are not in the typed-dagger list). الله is written bare where nothing is printed on it and اللَّهِ where a kasra is printed under it (39 عجز, 40 sadr and عجز, 44, 52). On p207 bayt 50 the fatha is on the ظ, not the ت (تظَلُّ). In 53 the lam of لمَّا has no fatha. The Quran quotation in gloss 45 (p206, al-Tawba 73) is printed in ordinary spelling (يَا أَيُّهَا … وَمَأْوَاهُمْ) inside ornate brackets, so it is written as printed, not in Tanzil Uthmani spelling. validate.py prints OK with one WARN (the p205 footnote numbering mismatch above)."
+}

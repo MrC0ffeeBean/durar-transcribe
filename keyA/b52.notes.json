@@ -1,0 +1,10 @@
+{
+  "uncertain": [
+    {"page": 206, "reading": "لُحمٌ", "why": "Bayt 48, start of the ajz: in the لح ligature only a damma-like mark over the lam and dammatan over the mim are visible, with no fatha or sukun (expected لَحْمٌ). Could not tell whether the upper mark is a damma or a deformed fatha/sukun."},
+    {"page": 208, "reading": "مَجَازِيعًا", "why": "Bayt 57: only one fatha shows over the stacked مج ligature, so it is unclear whether ج also carries a fatha (written as مَجَازِيعًا)."}
+  ],
+  "print_errors": [
+    {"page": 205, "text": "فِيهَا(٢)", "note": "Bayt 41: the footnote reference is printed (٢), but the only footnote on the page is numbered (١) («في نسخة: فيه.»). Both are kept as printed, which causes validate's footnote warning."}
+  ],
+  "notes": "Page 205 starts with bayt 38 and p.204 ends with complete bayt 37, so it is not a continuation and no footnote carries over. Plain ى is used throughout, since these are not typed-dagger pages. الله in the poem is written as اللَّهِ where a kasra is printed below it and as bare الله where nothing is printed. On p.205 a stray fatha-like mark sits between the lines of bayt 40, above والعُذْرُ; it was treated as a stray mark and not transcribed. Bayt 40 is printed وقَدْ and والعُذْرُ without a fatha on the waw, and bayt 51 has والدِّرْسَانِ without one; all are kept as printed. دَاودَ (bayt 55) has no damma on the waw. Glosses 38 and 54 have no space after the dash («٣٨-آلة», «٥٤-أنكاس»), kept as printed. The Quran quotation in gloss 45 (p.206) is set in the body font with ornate brackets and no Uthmani signs, so it is written with its printed harakat and plain alifs. P.208 has no gloss for bayt 57. البَزِّ in gloss 51 is read as shadda with a small kasra."
+}
