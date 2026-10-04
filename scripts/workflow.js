@@ -137,6 +137,14 @@ authority. Project root: ${ROOT}   Python: ${PY}
    and glosses) and compare with A — but keep mode "spots" unless agreement is below 95%.
    In any mode you may add an extra edit for an error in A that BOTH keyers share, but only when the image is
    unambiguous; every extra edit needs a note. Never "improve" the book's text.
+4b. Online cross-check (another edition, a hint only, like Tanzil): run
+   ${PY} ${R('scripts/online_check.py')} ${name}   then read ${R(`diff/${name}.online.json`)} (if it lists no sources, skip).
+   w-items are word differences between A and the online text; h-items are contradictory harakat (both vowel the same
+   letter differently). Headings, verse numbers, «ثلاثًا»-type notes and whole lines missing from the online text are
+   normal and need no action. For every other item, look at the image (zoom) and decide: if the image clearly shows
+   the online reading and A (after your decisions) is wrong, add an extra edit with note "online cross-check: …".
+   If the image shows A's reading, or is unclear, change nothing — editions really differ (e.g. حَيْطَانُنَا in the
+   print vs حِيطَانُنَا online). Never copy the online text where the print differs.
 5. Write ${R(`diff/${name}.decisions.json`)}:
    {"mode": "spots" | "full_reread", "decisions": {"d001": {"choice": "A", "note": "…"}, …},
     "extra_edits": [{"page": 65, "find": "exact current text on that page", "replace": "…", "note": "…"}]}
